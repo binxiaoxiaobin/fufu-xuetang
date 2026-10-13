@@ -1,0 +1,360 @@
+/* Shared presentation rules for learning content and the admin workspace.
+   Keep game frames and stand-alone 3D scenes outside these scopes. */
+:root {
+  --fufu-font-ui: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --fufu-ink: #293f36;
+  --fufu-muted: #64756b;
+  --fufu-paper: #faf8f2;
+  --fufu-surface: #fffdf8;
+  --fufu-green: #416d54;
+  --fufu-green-dark: #31583f;
+  --fufu-line: #e4e9dd;
+  --fufu-space-1: 8px;
+  --fufu-space-2: 12px;
+  --fufu-space-3: 16px;
+  --fufu-space-4: 24px;
+  --fufu-radius-control: 12px;
+  --fufu-radius-card: 16px;
+  --fufu-type-caption: 12px;
+  --fufu-type-small: 14px;
+  --fufu-type-body: 16px;
+  --fufu-type-title: 19px;
+  --fufu-type-heading: 28px;
+}
+
+/* The home page now reads as three clear stops: learn, read, explore. */
+#page-home .home-study {
+  margin: 0 0 32px;
+  padding: 26px 28px 28px;
+  border: 1px solid var(--fufu-line);
+  border-radius: 22px;
+  background: var(--fufu-surface);
+  box-shadow: 0 8px 24px #293f3608;
+}
+
+#page-home .home-study > .section-heading h2,
+#page-home .story-strip .section-heading h2,
+#page-home .home-discover .section-heading h2 { font-size: 23px; line-height: 1.45; }
+
+#page-home .home-section-note { font-size: 14px; line-height: 1.7; }
+#page-home .home-study .subject-section { margin-top: 22px; padding-top: 20px; border-top: 1px solid var(--fufu-line); }
+#page-home .home-study .subject-section .section-heading h2 { color: var(--fufu-ink); font-size: 18px; font-weight: 700; }
+#page-home .home-study .subject-grid { gap: 14px; }
+#page-home .home-study .subject-card {
+  height: 174px;
+  padding: 19px;
+  border: 1px solid #dce6d7;
+  border-radius: 18px;
+  box-shadow: 0 5px 16px #293f3608;
+}
+#page-home .home-study .subject-card:hover { box-shadow: 0 10px 24px #293f3612; }
+#page-home .home-study .subject-icon { width: 38px; height: 38px; margin-bottom: 9px; }
+#page-home .home-study .subject-icon img { width: 36px; height: 36px; }
+#page-home .home-study .subject-title { font-size: 19px; }
+#page-home .home-study .subject-sub { font-size: 13px; }
+#page-home .home-study .subject-foot { font-size: 12px; }
+
+#page-home .story-strip {
+  margin: 0 0 32px;
+  padding: 25px 28px 28px;
+  border: 1px solid var(--fufu-line);
+  border-radius: 22px;
+  background: var(--fufu-surface);
+  box-shadow: 0 8px 24px #293f3608;
+}
+#page-home .story-heading-actions { display: flex; align-items: center; gap: 10px; }
+#page-home #shuffleStories {
+  min-height: 42px;
+  padding: 8px 14px;
+  border: 1px solid #dce6d7;
+  border-radius: var(--fufu-radius-control);
+  background: #f5f8f1;
+  color: var(--fufu-green-dark);
+  font: 600 13px var(--fufu-font-ui);
+}
+#page-home .story-cards { gap: 16px; }
+#page-home .story-cards { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+#page-home .story-cards .story-card { border-radius: 16px; }
+
+#page-home .home-discover {
+  margin: 0 0 28px;
+  padding: 25px 28px 28px;
+  border: 1px solid #dfe8d7;
+  border-radius: 22px;
+  background: #edf3e7;
+}
+#page-home .home-discover-grid { gap: 16px; }
+#page-home .home-discover .discovery-card { border-radius: 16px; box-shadow: 0 5px 16px #293f3608; }
+#page-home .home-discover .discovery-copy { padding: 16px; }
+#page-home .home-discover .discovery-copy b { font-size: 18px; }
+
+#page-home .home-tools {
+  margin: 0 0 12px;
+  border: 1px solid var(--fufu-line);
+  border-radius: 18px;
+  background: var(--fufu-surface);
+  overflow: hidden;
+}
+#page-home .home-tools summary { padding: 18px 22px; }
+#page-home .home-tools-content { padding: 4px 22px 22px; }
+
+/* Learning cards, stories, science, and history share a readable type scale. */
+#page-library .library-head h1,
+#page-cards .cards-head h1,
+.history-hub .history-intro h2,
+.history-detail .history-era-hero h2,
+.wisdom-hub .wisdom-hero h2,
+.wisdom-detail .wisdom-detail-head h2 {
+  font-size: var(--fufu-type-heading);
+  line-height: 1.4;
+}
+
+#page-library .library-head p,
+#page-cards .cards-head p,
+.science-video-intro,
+.science-video-description,
+.history-detail .history-era-hero p,
+.history-events p,
+.history-person p,
+.wisdom-reading p {
+  font-size: var(--fufu-type-body);
+  line-height: 1.8;
+}
+
+#page-home .story-card,
+#page-library .story-card,
+.reading-card,
+.history-tile,
+.wisdom-tile {
+  border-radius: var(--fufu-radius-card);
+}
+
+#page-home .story-meta,
+#page-library .story-meta,
+.reading-card-text,
+.history-tile-copy {
+  padding: var(--fufu-space-3);
+}
+
+#page-home .story-meta b,
+#page-library .story-meta b,
+.reading-card-text h3,
+.history-tile-copy h3,
+.wisdom-tile h3 {
+  font-size: var(--fufu-type-title);
+  line-height: 1.5;
+}
+
+#page-home .story-meta > span,
+#page-library .story-meta > span,
+.reading-card-text p,
+.history-tile-copy p,
+.wisdom-tile p {
+  font-size: var(--fufu-type-small);
+  line-height: 1.75;
+}
+
+.science-video {
+  border-color: var(--fufu-line);
+  border-radius: var(--fufu-radius-card);
+  background: var(--fufu-surface);
+  box-shadow: 0 8px 22px #293f360c;
+}
+
+.science-video-heading { color: var(--fufu-green-dark); font-size: var(--fufu-type-small); }
+.science-video-description { color: var(--fufu-muted); }
+.science-video-controls button,
+.reading-toolbar button,
+.reading-more,
+.reading-audio button,
+.history-search button,
+.history-breadcrumb button,
+.history-next button,
+.wisdom-search button,
+.wisdom-return,
+.wisdom-era-links button,
+.wisdom-persons button,
+.wisdom-associated button {
+  min-height: 44px;
+  border-radius: var(--fufu-radius-control);
+  font-family: var(--fufu-font-ui);
+  font-size: var(--fufu-type-small);
+}
+
+.science-video-controls button,
+.reading-toolbar button,
+.reading-more,
+.reading-audio button,
+.history-search button,
+.wisdom-search button {
+  background: var(--fufu-green);
+  color: #fff;
+}
+
+.science-video-controls button:hover,
+.reading-toolbar button:hover,
+.reading-more:hover,
+.reading-audio button:hover,
+.history-search button:hover,
+.wisdom-search button:hover {
+  background: var(--fufu-green-dark);
+}
+
+.reading-toolbar input,
+.reading-toolbar select,
+.history-search input,
+.wisdom-search input {
+  min-height: 44px;
+  border-radius: var(--fufu-radius-control);
+  font-family: var(--fufu-font-ui);
+  font-size: var(--fufu-type-small);
+}
+
+.reading-card { border-color: var(--fufu-line); background: var(--fufu-surface); }
+.reading-card-text { padding-bottom: var(--fufu-space-2); }
+.reading-card-text small,
+.reading-count,
+.reading-footnote,
+.reading-empty,
+.reading-controls>[data-reader-status] { font-size: var(--fufu-type-caption); line-height: 1.7; }
+.reading-listen { min-height: 44px; border-radius: var(--fufu-radius-control); font-size: var(--fufu-type-small); }
+.reading-dialog { border-color: var(--fufu-line); border-radius: 20px; background: var(--fufu-surface); }
+
+.history-hub,
+.history-detail,
+.wisdom-hub,
+.wisdom-detail { font-family: var(--fufu-font-ui); }
+
+.history-search,
+.wisdom-search { gap: var(--fufu-space-2); margin-block: var(--fufu-space-4); }
+.history-search input,
+.wisdom-search input { padding: 10px 14px; }
+.history-search button,
+.history-breadcrumb button,
+.history-next button,
+.wisdom-search button,
+.wisdom-return,
+.wisdom-era-links button,
+.wisdom-persons button,
+.wisdom-associated button { padding: 10px 16px; }
+
+.history-tile-copy { padding: var(--fufu-space-3); }
+.history-tile-copy h3,
+.wisdom-tile h3,
+.history-section-title h3,
+.wisdom-reading h3 { font-size: var(--fufu-type-title); line-height: 1.5; }
+.history-tile-copy p,
+.wisdom-tile p { color: var(--fufu-muted); }
+.history-filters { gap: var(--fufu-space-1); }
+.history-filters button { min-height: 40px; padding: 8px 14px; font-size: var(--fufu-type-caption); }
+.history-guide,
+.history-events article,
+.history-person,
+.wisdom-context,
+.wisdom-persons article,
+.wisdom-classical,
+.wisdom-caution { border-radius: var(--fufu-radius-card); }
+.history-guide,
+.history-events article,
+.history-person,
+.wisdom-persons article { padding: var(--fufu-space-3); }
+.history-caption,
+.history-results,
+.history-era-sources,
+.wisdom-art-note,
+.wisdom-context { line-height: 1.8; }
+.history-evidence,
+.history-tile-art>span { font-size: var(--fufu-type-caption); }
+
+/* Admin workspace: a calm 12/14/16px scale and common control rhythm.
+   Table density stays compact and labels retain their purpose. */
+.admin-app {
+  --admin-control-height: 40px;
+  --admin-control-radius: 9px;
+  font-family: var(--fufu-font-ui);
+  font-size: var(--fufu-type-small);
+}
+
+.admin-app .page-heading h1 { font-size: 26px; line-height: 1.4; }
+.admin-app .page-heading p,
+.admin-app .editor-top p,
+.admin-app .list-heading small,
+.admin-app .connection-status,
+.admin-app .save-state,
+.admin-app .question-status-filter,
+.admin-app .cg-tabs button,
+.admin-app .cg-btn { font-size: var(--fufu-type-caption); line-height: 1.6; }
+
+.admin-app .primary,
+.admin-app .soft-button,
+.admin-app .quiet-button,
+.admin-app .danger-button,
+.admin-app .cg-tabs button,
+.admin-app .cg-btn,
+.admin-app .question-status-filter,
+.admin-app .filter {
+  min-height: var(--admin-control-height);
+  border-radius: var(--admin-control-radius);
+  font-family: var(--fufu-font-ui);
+  font-size: var(--fufu-type-caption);
+}
+
+.admin-app .form-grid input,
+.admin-app .form-grid select,
+.admin-app .form-grid textarea,
+.admin-app .list-tools input,
+.admin-app #view-community input,
+.admin-app #view-community select,
+.admin-app #view-community textarea {
+  border-radius: var(--admin-control-radius);
+  font-family: var(--fufu-font-ui);
+  font-size: var(--fufu-type-caption);
+}
+
+.admin-app .connection-status,
+.admin-app .save-state { min-height: 38px; }
+.admin-app .connection-status.connected { color: #426e50; }
+.admin-app .connection-status.error { color: #a34f45; }
+.admin-app .status-pill { font-size: var(--fufu-type-caption); }
+.admin-app :focus-visible { outline: 3px solid #819e68; outline-offset: 2px; }
+
+@media (max-width: 650px) {
+  #page-home .home-study,
+  #page-home .story-strip,
+  #page-home .home-discover { padding: 18px 16px 20px; border-radius: 18px; }
+  #page-home .home-study > .section-heading h2,
+  #page-home .story-strip .section-heading h2,
+  #page-home .home-discover .section-heading h2 { font-size: 20px; }
+  #page-home .home-study .subject-section { margin-top: 16px; padding-top: 15px; }
+  #page-home .home-study .subject-card { height: 156px; padding: 15px; border-radius: 15px; }
+  #page-home .home-study .subject-title { font-size: 17px; }
+  #page-home .story-heading-actions { gap: 4px; }
+  #page-home #shuffleStories { min-height: 40px; padding: 7px 9px; font-size: 12px; }
+  #page-home .story-cards { gap: 10px; }
+  #page-home .story-cards { grid-template-columns: 1fr; }
+  #page-home .home-discover-grid { grid-template-columns: 1fr; gap: 12px; }
+  #page-home .home-tools .quick-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  #page-home .home-tools summary { padding: 16px; }
+  #page-home .home-tools-content { padding: 4px 14px 16px; }
+  #page-library .library-head h1,
+  #page-cards .cards-head h1,
+  .history-hub .history-intro h2,
+  .history-detail .history-era-hero h2,
+  .wisdom-hub .wisdom-hero h2,
+  .wisdom-detail .wisdom-detail-head h2 { font-size: 24px; }
+  #page-library .story-meta,
+  .reading-card-text,
+  .history-tile-copy { padding: 12px; }
+  .science-video { border-radius: 14px; }
+  .admin-app .page-heading h1 { font-size: 22px; }
+}
+
+@media (min-width: 651px) and (max-width: 900px) {
+  #page-home .story-cards,
+  #page-home .home-discover-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .history-tile,
+  .reading-card { scroll-behavior: auto; }
+}

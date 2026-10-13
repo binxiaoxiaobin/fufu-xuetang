@@ -1,0 +1,37 @@
+{
+  "id": "iron-bastion-adapt",
+  "title": "IRON BASTION · 钢铁防线",
+  "description": "原版三维坦克守卫战，六个战区、五类敌军、可破坏地形与关间强化。用冲刺和电磁脉冲守住信标。",
+  "duration": "约 15–30 分钟，可分战区游玩",
+  "category": "action",
+  "players": "1 人",
+  "tags": [
+    "原版 WebGL2 场景",
+    "六大战区",
+    "触屏摇杆"
+  ],
+  "rules": [
+    "保护基地信标，击退每一波敌军，保留原版坦克、地形、补给与首领。",
+    "可选择六个战区练习，也可依次闯关，每关结束选择强化。",
+    "已完成战区纪录、下一战区和声音设置随当前学习账号保存。"
+  ],
+  "controls": [
+    "WASD / 方向键移动；鼠标瞄准；左键 / 空格 / J 开火；Shift 冲刺；Q 电磁脉冲。",
+    "P / Esc 暂停；V 切换视角；触屏用原版摇杆和开火按钮。"
+  ],
+  "cover": "/assets/games/astra-originals/iron-bastion/cover.jpg",
+  "entry": "/assets/games/astra-originals/iron-bastion/index.html",
+  "resume": true,
+  "fullscreenRequired": false,
+  "fullscreenAvailable": true,
+  "reward_points": 0,
+  "storage_keys": [
+    "iron-bastion-v1",
+    "iron-bastion-adapt.save.v1"
+  ],
+  "source": "https://iron-bastion.zecoba.workers.dev/",
+  "author": "原作发布者 bandaot / chat01.ai",
+  "license": "原版公开 HTML 本地移植；原作者未单独声明再分发许可，保留来源与署名。",
+  "collection": "action-arcade",
+  "saveLabel": "战区纪录随账号保存"
+}

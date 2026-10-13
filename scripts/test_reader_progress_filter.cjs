@@ -1,0 +1,11 @@
+const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm');
+const source=fs.readFileSync('frontend/reader-lessons.js','utf8');
+const items=[1,2,3].map(id=>({question_id:id,word:'word'+id}));
+const context={progress:new Map([[1,'mastered'],[2,'review']]),memoryFilter:'active',cache:new Map([['英语',{items,learning_groups:[{id:'g',category:'动物',level:1,kind:'word',question_ids:[1,2,3]}]}]]),subject:'英语',category:'全部',level:1,settings:{unit:'word',count:5},selectedGroup:{question_ids:[1,2,3]},seen:new Set()};
+vm.createContext(context);vm.runInContext(source.slice(source.indexOf('  function eligible('),source.indexOf('  function render(')),context);
+assert.deepEqual(Array.from(context.makeGroup(),i=>i.question_id),[2,3]);
+context.memoryFilter='review';assert.deepEqual(Array.from(context.makeGroup(),i=>i.question_id),[2]);
+context.memoryFilter='new';assert.deepEqual(Array.from(context.makeGroup(),i=>i.question_id),[3]);
+context.memoryFilter='mastered';assert.deepEqual(Array.from(context.makeGroup(),i=>i.question_id),[1]);
+context.memoryFilter='active';context.progress=new Map([[1,'mastered'],[2,'mastered'],[3,'mastered']]);assert.equal(context.availableGroups().length,0);
+console.log('Mastered words excluded by default; review/new/mastered filters and exhausted group passed');

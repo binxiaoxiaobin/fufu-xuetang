@@ -1,0 +1,23 @@
+{
+  "id": "palace-for-fools",
+  "title": "愚者宫殿",
+  "description": "探索空中宫殿，收集装备、击败敌人，穿梭过去、现在与未来。",
+  "duration": "约 30–60 分钟，可分次探索",
+  "category": "pixel-adventure",
+  "players": "1 人",
+  "tags": ["探索冒险", "中文剧情", "原版玩法"],
+  "rules": ["寻找手炮、潜水服、火箭背包等装备，逐步打开新的路线。", "找到时间传送门后，可以探索不同年代的宫殿。", "进度按账号保存，继续时从最近存档点出发。"],
+  "controls": ["方向键移动和攀爬，上或下方向键互动；Z 跳跃、确认，X 射击。", "Enter 打开菜单，Shift 查看已取得的地图；支持触屏按键。"],
+  "cover": "/assets/games/palace-for-fools/cover.webp",
+  "entry": "/assets/games/palace-for-fools/index.html",
+  "resume": true,
+  "saveMode": "learner-server",
+  "fullscreenRequired": false,
+  "fullscreenAvailable": true,
+  "reward_points": 0,
+  "storage_keys": ["palace-for-fools.save.v1", "palace-for-fools.settings.v1"],
+  "source": "https://github.com/jani-nykanen/a-palace-for-fools",
+  "author": "Jani Nykänen",
+  "license": "原作者保留权利；仓库未声明授权许可，当前仅作本地适配",
+  "collection": "platformer-2d"
+}

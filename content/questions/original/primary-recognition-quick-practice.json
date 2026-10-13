@@ -1,0 +1,4433 @@
+{
+  "name": "福福学堂原创·小学识字与英语单词快练",
+  "questions": [
+    {
+      "source_record_id": "recognition-一年级-语文-001",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·一年级",
+      "prompt": "拼音“shuǐ”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "火"
+        },
+        {
+          "key": "B",
+          "text": "山"
+        },
+        {
+          "key": "C",
+          "text": "月"
+        },
+        {
+          "key": "D",
+          "text": "水"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“水”读作 shuǐ。"
+    },
+    {
+      "source_record_id": "recognition-一年级-语文-007",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·一年级",
+      "prompt": "口渴了，请喝一杯____。",
+      "options": [
+        {
+          "key": "A",
+          "text": "火"
+        },
+        {
+          "key": "B",
+          "text": "山"
+        },
+        {
+          "key": "C",
+          "text": "月"
+        },
+        {
+          "key": "D",
+          "text": "水"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“水”。"
+    },
+    {
+      "source_record_id": "recognition-一年级-语文-002",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·一年级",
+      "prompt": "拼音“huǒ”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "水"
+        },
+        {
+          "key": "B",
+          "text": "火"
+        },
+        {
+          "key": "C",
+          "text": "山"
+        },
+        {
+          "key": "D",
+          "text": "月"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“火”读作 huǒ。"
+    },
+    {
+      "source_record_id": "recognition-一年级-语文-008",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·一年级",
+      "prompt": "冬天烤____取暖。",
+      "options": [
+        {
+          "key": "A",
+          "text": "水"
+        },
+        {
+          "key": "B",
+          "text": "火"
+        },
+        {
+          "key": "C",
+          "text": "山"
+        },
+        {
+          "key": "D",
+          "text": "月"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“火”。"
+    },
+    {
+      "source_record_id": "recognition-一年级-语文-003",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·一年级",
+      "prompt": "拼音“shān”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "月"
+        },
+        {
+          "key": "B",
+          "text": "火"
+        },
+        {
+          "key": "C",
+          "text": "山"
+        },
+        {
+          "key": "D",
+          "text": "水"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“山”读作 shān。"
+    },
+    {
+      "source_record_id": "recognition-一年级-语文-009",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·一年级",
+      "prompt": "远处有一座高____。",
+      "options": [
+        {
+          "key": "A",
+          "text": "月"
+        },
+        {
+          "key": "B",
+          "text": "火"
+        },
+        {
+          "key": "C",
+          "text": "山"
+        },
+        {
+          "key": "D",
+          "text": "水"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“山”。"
+    },
+    {
+      "source_record_id": "recognition-一年级-语文-004",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·一年级",
+      "prompt": "拼音“yuè”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "山"
+        },
+        {
+          "key": "B",
+          "text": "月"
+        },
+        {
+          "key": "C",
+          "text": "火"
+        },
+        {
+          "key": "D",
+          "text": "水"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“月”读作 yuè。"
+    },
+    {
+      "source_record_id": "recognition-一年级-语文-010",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·一年级",
+      "prompt": "夜空中的____亮亮的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "山"
+        },
+        {
+          "key": "B",
+          "text": "月"
+        },
+        {
+          "key": "C",
+          "text": "火"
+        },
+        {
+          "key": "D",
+          "text": "水"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“月”。"
+    },
+    {
+      "source_record_id": "recognition-一年级-语文-005",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·一年级",
+      "prompt": "拼音“rì”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "水"
+        },
+        {
+          "key": "B",
+          "text": "山"
+        },
+        {
+          "key": "C",
+          "text": "日"
+        },
+        {
+          "key": "D",
+          "text": "火"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“日”读作 rì。"
+    },
+    {
+      "source_record_id": "recognition-一年级-语文-011",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·一年级",
+      "prompt": "____出以后，天渐渐亮了。",
+      "options": [
+        {
+          "key": "A",
+          "text": "水"
+        },
+        {
+          "key": "B",
+          "text": "山"
+        },
+        {
+          "key": "C",
+          "text": "日"
+        },
+        {
+          "key": "D",
+          "text": "火"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“日”。"
+    },
+    {
+      "source_record_id": "recognition-一年级-语文-006",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·一年级",
+      "prompt": "拼音“mù”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "水"
+        },
+        {
+          "key": "B",
+          "text": "火"
+        },
+        {
+          "key": "C",
+          "text": "木"
+        },
+        {
+          "key": "D",
+          "text": "山"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“木”读作 mù。"
+    },
+    {
+      "source_record_id": "recognition-一年级-语文-012",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·一年级",
+      "prompt": "这张桌子是____头做的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "水"
+        },
+        {
+          "key": "B",
+          "text": "火"
+        },
+        {
+          "key": "C",
+          "text": "木"
+        },
+        {
+          "key": "D",
+          "text": "山"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“木”。"
+    },
+    {
+      "source_record_id": "recognition-一年级-英语-001",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·一年级",
+      "prompt": "“sun”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "太阳"
+        },
+        {
+          "key": "B",
+          "text": "红色"
+        },
+        {
+          "key": "C",
+          "text": "钢笔"
+        },
+        {
+          "key": "D",
+          "text": "猫"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "sun 的意思是“太阳”。"
+    },
+    {
+      "source_record_id": "recognition-一年级-英语-007",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·一年级",
+      "prompt": "补上缺少的字母：s_n",
+      "options": [],
+      "answer": "u",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 sun，意思是“太阳”。"
+    },
+    {
+      "source_record_id": "recognition-一年级-英语-002",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·一年级",
+      "prompt": "“red”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "猫"
+        },
+        {
+          "key": "B",
+          "text": "钢笔"
+        },
+        {
+          "key": "C",
+          "text": "红色"
+        },
+        {
+          "key": "D",
+          "text": "太阳"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "red 的意思是“红色”。"
+    },
+    {
+      "source_record_id": "recognition-一年级-英语-008",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·一年级",
+      "prompt": "补上缺少的字母：r_d",
+      "options": [],
+      "answer": "e",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 red，意思是“红色”。"
+    },
+    {
+      "source_record_id": "recognition-一年级-英语-003",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·一年级",
+      "prompt": "“pen”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "红色"
+        },
+        {
+          "key": "B",
+          "text": "钢笔"
+        },
+        {
+          "key": "C",
+          "text": "太阳"
+        },
+        {
+          "key": "D",
+          "text": "猫"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "pen 的意思是“钢笔”。"
+    },
+    {
+      "source_record_id": "recognition-一年级-英语-009",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·一年级",
+      "prompt": "补上缺少的字母：p_n",
+      "options": [],
+      "answer": "e",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 pen，意思是“钢笔”。"
+    },
+    {
+      "source_record_id": "recognition-一年级-英语-004",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·一年级",
+      "prompt": "“cat”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "太阳"
+        },
+        {
+          "key": "B",
+          "text": "猫"
+        },
+        {
+          "key": "C",
+          "text": "钢笔"
+        },
+        {
+          "key": "D",
+          "text": "红色"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "cat 的意思是“猫”。"
+    },
+    {
+      "source_record_id": "recognition-一年级-英语-010",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·一年级",
+      "prompt": "补上缺少的字母：c_t",
+      "options": [],
+      "answer": "a",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 cat，意思是“猫”。"
+    },
+    {
+      "source_record_id": "recognition-一年级-英语-005",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·一年级",
+      "prompt": "“bag”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "书包"
+        },
+        {
+          "key": "B",
+          "text": "太阳"
+        },
+        {
+          "key": "C",
+          "text": "钢笔"
+        },
+        {
+          "key": "D",
+          "text": "红色"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "bag 的意思是“书包”。"
+    },
+    {
+      "source_record_id": "recognition-一年级-英语-011",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·一年级",
+      "prompt": "补上缺少的字母：b_g",
+      "options": [],
+      "answer": "a",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 bag，意思是“书包”。"
+    },
+    {
+      "source_record_id": "recognition-一年级-英语-006",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·一年级",
+      "prompt": "“run”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "红色"
+        },
+        {
+          "key": "B",
+          "text": "太阳"
+        },
+        {
+          "key": "C",
+          "text": "钢笔"
+        },
+        {
+          "key": "D",
+          "text": "跑"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "run 的意思是“跑”。"
+    },
+    {
+      "source_record_id": "recognition-一年级-英语-012",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "一年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·一年级",
+      "prompt": "补上缺少的字母：r_n",
+      "options": [],
+      "answer": "u",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 run，意思是“跑”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-语文-001",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·二年级",
+      "prompt": "拼音“chūn”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "春"
+        },
+        {
+          "key": "B",
+          "text": "风"
+        },
+        {
+          "key": "C",
+          "text": "雨"
+        },
+        {
+          "key": "D",
+          "text": "雪"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“春”读作 chūn。"
+    },
+    {
+      "source_record_id": "recognition-二年级-语文-007",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·二年级",
+      "prompt": "____天到了，小草发芽了。",
+      "options": [
+        {
+          "key": "A",
+          "text": "春"
+        },
+        {
+          "key": "B",
+          "text": "风"
+        },
+        {
+          "key": "C",
+          "text": "雨"
+        },
+        {
+          "key": "D",
+          "text": "雪"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“春”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-语文-002",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·二年级",
+      "prompt": "拼音“fēng”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "雪"
+        },
+        {
+          "key": "B",
+          "text": "雨"
+        },
+        {
+          "key": "C",
+          "text": "春"
+        },
+        {
+          "key": "D",
+          "text": "风"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“风”读作 fēng。"
+    },
+    {
+      "source_record_id": "recognition-二年级-语文-008",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·二年级",
+      "prompt": "今天有____，风车转起来了。",
+      "options": [
+        {
+          "key": "A",
+          "text": "雪"
+        },
+        {
+          "key": "B",
+          "text": "雨"
+        },
+        {
+          "key": "C",
+          "text": "春"
+        },
+        {
+          "key": "D",
+          "text": "风"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“风”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-语文-003",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·二年级",
+      "prompt": "拼音“yǔ”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "雪"
+        },
+        {
+          "key": "B",
+          "text": "春"
+        },
+        {
+          "key": "C",
+          "text": "雨"
+        },
+        {
+          "key": "D",
+          "text": "风"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“雨”读作 yǔ。"
+    },
+    {
+      "source_record_id": "recognition-二年级-语文-009",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·二年级",
+      "prompt": "下____了，记得带伞。",
+      "options": [
+        {
+          "key": "A",
+          "text": "雪"
+        },
+        {
+          "key": "B",
+          "text": "春"
+        },
+        {
+          "key": "C",
+          "text": "雨"
+        },
+        {
+          "key": "D",
+          "text": "风"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“雨”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-语文-004",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·二年级",
+      "prompt": "拼音“xuě”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "雨"
+        },
+        {
+          "key": "B",
+          "text": "雪"
+        },
+        {
+          "key": "C",
+          "text": "风"
+        },
+        {
+          "key": "D",
+          "text": "春"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“雪”读作 xuě。"
+    },
+    {
+      "source_record_id": "recognition-二年级-语文-010",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·二年级",
+      "prompt": "冬天飘下白白的____花。",
+      "options": [
+        {
+          "key": "A",
+          "text": "雨"
+        },
+        {
+          "key": "B",
+          "text": "雪"
+        },
+        {
+          "key": "C",
+          "text": "风"
+        },
+        {
+          "key": "D",
+          "text": "春"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“雪”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-语文-005",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·二年级",
+      "prompt": "拼音“huā”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "风"
+        },
+        {
+          "key": "B",
+          "text": "春"
+        },
+        {
+          "key": "C",
+          "text": "花"
+        },
+        {
+          "key": "D",
+          "text": "雨"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“花”读作 huā。"
+    },
+    {
+      "source_record_id": "recognition-二年级-语文-011",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·二年级",
+      "prompt": "公园里的____开得真漂亮。",
+      "options": [
+        {
+          "key": "A",
+          "text": "风"
+        },
+        {
+          "key": "B",
+          "text": "春"
+        },
+        {
+          "key": "C",
+          "text": "花"
+        },
+        {
+          "key": "D",
+          "text": "雨"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“花”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-语文-006",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·二年级",
+      "prompt": "拼音“cǎo”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "雨"
+        },
+        {
+          "key": "B",
+          "text": "风"
+        },
+        {
+          "key": "C",
+          "text": "草"
+        },
+        {
+          "key": "D",
+          "text": "春"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“草”读作 cǎo。"
+    },
+    {
+      "source_record_id": "recognition-二年级-语文-012",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·二年级",
+      "prompt": "小兔在____地上吃菜。",
+      "options": [
+        {
+          "key": "A",
+          "text": "雨"
+        },
+        {
+          "key": "B",
+          "text": "风"
+        },
+        {
+          "key": "C",
+          "text": "草"
+        },
+        {
+          "key": "D",
+          "text": "春"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“草”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-英语-001",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·二年级",
+      "prompt": "“book”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "学校"
+        },
+        {
+          "key": "B",
+          "text": "开心的"
+        },
+        {
+          "key": "C",
+          "text": "水"
+        },
+        {
+          "key": "D",
+          "text": "书"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "book 的意思是“书”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-英语-007",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·二年级",
+      "prompt": "补上缺少的字母：bo_k",
+      "options": [],
+      "answer": "o",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 book，意思是“书”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-英语-002",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·二年级",
+      "prompt": "“school”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "水"
+        },
+        {
+          "key": "B",
+          "text": "开心的"
+        },
+        {
+          "key": "C",
+          "text": "学校"
+        },
+        {
+          "key": "D",
+          "text": "书"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "school 的意思是“学校”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-英语-008",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·二年级",
+      "prompt": "补上缺少的字母：sch_ol",
+      "options": [],
+      "answer": "o",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 school，意思是“学校”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-英语-003",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·二年级",
+      "prompt": "“water”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "水"
+        },
+        {
+          "key": "B",
+          "text": "书"
+        },
+        {
+          "key": "C",
+          "text": "学校"
+        },
+        {
+          "key": "D",
+          "text": "开心的"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "water 的意思是“水”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-英语-009",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·二年级",
+      "prompt": "补上缺少的字母：wa_er",
+      "options": [],
+      "answer": "t",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 water，意思是“水”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-英语-004",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·二年级",
+      "prompt": "“happy”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "书"
+        },
+        {
+          "key": "B",
+          "text": "学校"
+        },
+        {
+          "key": "C",
+          "text": "开心的"
+        },
+        {
+          "key": "D",
+          "text": "水"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "happy 的意思是“开心的”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-英语-010",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·二年级",
+      "prompt": "补上缺少的字母：ha_py",
+      "options": [],
+      "answer": "p",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 happy，意思是“开心的”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-英语-005",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·二年级",
+      "prompt": "“table”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "学校"
+        },
+        {
+          "key": "B",
+          "text": "水"
+        },
+        {
+          "key": "C",
+          "text": "书"
+        },
+        {
+          "key": "D",
+          "text": "桌子"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "table 的意思是“桌子”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-英语-011",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·二年级",
+      "prompt": "补上缺少的字母：ta_le",
+      "options": [],
+      "answer": "b",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 table，意思是“桌子”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-英语-006",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·二年级",
+      "prompt": "“friend”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "书"
+        },
+        {
+          "key": "B",
+          "text": "学校"
+        },
+        {
+          "key": "C",
+          "text": "朋友"
+        },
+        {
+          "key": "D",
+          "text": "水"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "friend 的意思是“朋友”。"
+    },
+    {
+      "source_record_id": "recognition-二年级-英语-012",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·二年级",
+      "prompt": "补上缺少的字母：fri_nd",
+      "options": [],
+      "answer": "e",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 friend，意思是“朋友”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-语文-001",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·三年级",
+      "prompt": "拼音“dú”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "写"
+        },
+        {
+          "key": "B",
+          "text": "跳"
+        },
+        {
+          "key": "C",
+          "text": "读"
+        },
+        {
+          "key": "D",
+          "text": "跑"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“读”读作 dú。"
+    },
+    {
+      "source_record_id": "recognition-三年级-语文-007",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·三年级",
+      "prompt": "每天认真____书，能学到新知识。",
+      "options": [
+        {
+          "key": "A",
+          "text": "写"
+        },
+        {
+          "key": "B",
+          "text": "跳"
+        },
+        {
+          "key": "C",
+          "text": "读"
+        },
+        {
+          "key": "D",
+          "text": "跑"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“读”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-语文-002",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·三年级",
+      "prompt": "拼音“xiě”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "跳"
+        },
+        {
+          "key": "B",
+          "text": "读"
+        },
+        {
+          "key": "C",
+          "text": "写"
+        },
+        {
+          "key": "D",
+          "text": "跑"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“写”读作 xiě。"
+    },
+    {
+      "source_record_id": "recognition-三年级-语文-008",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·三年级",
+      "prompt": "请把自己的名字____在纸上。",
+      "options": [
+        {
+          "key": "A",
+          "text": "跳"
+        },
+        {
+          "key": "B",
+          "text": "读"
+        },
+        {
+          "key": "C",
+          "text": "写"
+        },
+        {
+          "key": "D",
+          "text": "跑"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“写”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-语文-003",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·三年级",
+      "prompt": "拼音“pǎo”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "读"
+        },
+        {
+          "key": "B",
+          "text": "跳"
+        },
+        {
+          "key": "C",
+          "text": "写"
+        },
+        {
+          "key": "D",
+          "text": "跑"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“跑”读作 pǎo。"
+    },
+    {
+      "source_record_id": "recognition-三年级-语文-009",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·三年级",
+      "prompt": "听到哨声，大家一起向前____。",
+      "options": [
+        {
+          "key": "A",
+          "text": "读"
+        },
+        {
+          "key": "B",
+          "text": "跳"
+        },
+        {
+          "key": "C",
+          "text": "写"
+        },
+        {
+          "key": "D",
+          "text": "跑"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“跑”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-语文-004",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·三年级",
+      "prompt": "拼音“tiào”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "跑"
+        },
+        {
+          "key": "B",
+          "text": "跳"
+        },
+        {
+          "key": "C",
+          "text": "写"
+        },
+        {
+          "key": "D",
+          "text": "读"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“跳”读作 tiào。"
+    },
+    {
+      "source_record_id": "recognition-三年级-语文-010",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·三年级",
+      "prompt": "小青蛙用力一____，跳进池塘。",
+      "options": [
+        {
+          "key": "A",
+          "text": "跑"
+        },
+        {
+          "key": "B",
+          "text": "跳"
+        },
+        {
+          "key": "C",
+          "text": "写"
+        },
+        {
+          "key": "D",
+          "text": "读"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“跳”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-语文-005",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·三年级",
+      "prompt": "拼音“huà”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "写"
+        },
+        {
+          "key": "B",
+          "text": "画"
+        },
+        {
+          "key": "C",
+          "text": "跑"
+        },
+        {
+          "key": "D",
+          "text": "读"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“画”读作 huà。"
+    },
+    {
+      "source_record_id": "recognition-三年级-语文-011",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·三年级",
+      "prompt": "我用彩笔____了一只小鸟。",
+      "options": [
+        {
+          "key": "A",
+          "text": "写"
+        },
+        {
+          "key": "B",
+          "text": "画"
+        },
+        {
+          "key": "C",
+          "text": "跑"
+        },
+        {
+          "key": "D",
+          "text": "读"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“画”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-语文-006",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·三年级",
+      "prompt": "拼音“chàng”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "读"
+        },
+        {
+          "key": "B",
+          "text": "唱"
+        },
+        {
+          "key": "C",
+          "text": "跑"
+        },
+        {
+          "key": "D",
+          "text": "写"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“唱”读作 chàng。"
+    },
+    {
+      "source_record_id": "recognition-三年级-语文-012",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·三年级",
+      "prompt": "大家一起大声____歌。",
+      "options": [
+        {
+          "key": "A",
+          "text": "读"
+        },
+        {
+          "key": "B",
+          "text": "唱"
+        },
+        {
+          "key": "C",
+          "text": "跑"
+        },
+        {
+          "key": "D",
+          "text": "写"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“唱”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-英语-001",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·三年级",
+      "prompt": "“animal”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "花园"
+        },
+        {
+          "key": "B",
+          "text": "小的"
+        },
+        {
+          "key": "C",
+          "text": "花"
+        },
+        {
+          "key": "D",
+          "text": "动物"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "animal 的意思是“动物”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-英语-007",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·三年级",
+      "prompt": "补上缺少的字母：ani_al",
+      "options": [],
+      "answer": "m",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 animal，意思是“动物”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-英语-002",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·三年级",
+      "prompt": "“flower”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "小的"
+        },
+        {
+          "key": "B",
+          "text": "动物"
+        },
+        {
+          "key": "C",
+          "text": "花"
+        },
+        {
+          "key": "D",
+          "text": "花园"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "flower 的意思是“花”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-英语-008",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·三年级",
+      "prompt": "补上缺少的字母：flo_er",
+      "options": [],
+      "answer": "w",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 flower，意思是“花”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-英语-003",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·三年级",
+      "prompt": "“garden”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "小的"
+        },
+        {
+          "key": "B",
+          "text": "花园"
+        },
+        {
+          "key": "C",
+          "text": "花"
+        },
+        {
+          "key": "D",
+          "text": "动物"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "garden 的意思是“花园”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-英语-009",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·三年级",
+      "prompt": "补上缺少的字母：gar_en",
+      "options": [],
+      "answer": "d",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 garden，意思是“花园”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-英语-004",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·三年级",
+      "prompt": "“little”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "动物"
+        },
+        {
+          "key": "B",
+          "text": "花"
+        },
+        {
+          "key": "C",
+          "text": "花园"
+        },
+        {
+          "key": "D",
+          "text": "小的"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "little 的意思是“小的”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-英语-010",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·三年级",
+      "prompt": "补上缺少的字母：lit_le",
+      "options": [],
+      "answer": "t",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 little，意思是“小的”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-英语-005",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·三年级",
+      "prompt": "“morning”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "花"
+        },
+        {
+          "key": "B",
+          "text": "动物"
+        },
+        {
+          "key": "C",
+          "text": "早晨"
+        },
+        {
+          "key": "D",
+          "text": "花园"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "morning 的意思是“早晨”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-英语-011",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·三年级",
+      "prompt": "补上缺少的字母：mor_ing",
+      "options": [],
+      "answer": "n",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 morning，意思是“早晨”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-英语-006",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·三年级",
+      "prompt": "“teacher”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "花园"
+        },
+        {
+          "key": "B",
+          "text": "动物"
+        },
+        {
+          "key": "C",
+          "text": "老师"
+        },
+        {
+          "key": "D",
+          "text": "花"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "teacher 的意思是“老师”。"
+    },
+    {
+      "source_record_id": "recognition-三年级-英语-012",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "三年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·三年级",
+      "prompt": "补上缺少的字母：tea_her",
+      "options": [],
+      "answer": "c",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 teacher，意思是“老师”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-语文-001",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·四年级",
+      "prompt": "拼音“yǒng”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "勇"
+        },
+        {
+          "key": "B",
+          "text": "察"
+        },
+        {
+          "key": "C",
+          "text": "观"
+        },
+        {
+          "key": "D",
+          "text": "静"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“勇”读作 yǒng。"
+    },
+    {
+      "source_record_id": "recognition-四年级-语文-007",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·四年级",
+      "prompt": "遇到困难不害怕，做一个____敢的孩子。",
+      "options": [
+        {
+          "key": "A",
+          "text": "勇"
+        },
+        {
+          "key": "B",
+          "text": "察"
+        },
+        {
+          "key": "C",
+          "text": "观"
+        },
+        {
+          "key": "D",
+          "text": "静"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“勇”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-语文-002",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·四年级",
+      "prompt": "拼音“jìng”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "静"
+        },
+        {
+          "key": "B",
+          "text": "察"
+        },
+        {
+          "key": "C",
+          "text": "观"
+        },
+        {
+          "key": "D",
+          "text": "勇"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“静”读作 jìng。"
+    },
+    {
+      "source_record_id": "recognition-四年级-语文-008",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·四年级",
+      "prompt": "图书馆里要保持安____。",
+      "options": [
+        {
+          "key": "A",
+          "text": "静"
+        },
+        {
+          "key": "B",
+          "text": "察"
+        },
+        {
+          "key": "C",
+          "text": "观"
+        },
+        {
+          "key": "D",
+          "text": "勇"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“静”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-语文-003",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·四年级",
+      "prompt": "拼音“guān”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "观"
+        },
+        {
+          "key": "B",
+          "text": "勇"
+        },
+        {
+          "key": "C",
+          "text": "察"
+        },
+        {
+          "key": "D",
+          "text": "静"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“观”读作 guān。"
+    },
+    {
+      "source_record_id": "recognition-四年级-语文-009",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·四年级",
+      "prompt": "我们仔细____察蚂蚁怎样搬家。",
+      "options": [
+        {
+          "key": "A",
+          "text": "观"
+        },
+        {
+          "key": "B",
+          "text": "勇"
+        },
+        {
+          "key": "C",
+          "text": "察"
+        },
+        {
+          "key": "D",
+          "text": "静"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“观”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-语文-004",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·四年级",
+      "prompt": "拼音“chá”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "静"
+        },
+        {
+          "key": "B",
+          "text": "察"
+        },
+        {
+          "key": "C",
+          "text": "观"
+        },
+        {
+          "key": "D",
+          "text": "勇"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“察”读作 chá。"
+    },
+    {
+      "source_record_id": "recognition-四年级-语文-010",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·四年级",
+      "prompt": "警察叔叔认真____看路口的交通。",
+      "options": [
+        {
+          "key": "A",
+          "text": "静"
+        },
+        {
+          "key": "B",
+          "text": "察"
+        },
+        {
+          "key": "C",
+          "text": "观"
+        },
+        {
+          "key": "D",
+          "text": "勇"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“察”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-语文-005",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·四年级",
+      "prompt": "拼音“zhěng”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "观"
+        },
+        {
+          "key": "B",
+          "text": "勇"
+        },
+        {
+          "key": "C",
+          "text": "静"
+        },
+        {
+          "key": "D",
+          "text": "整"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“整”读作 zhěng。"
+    },
+    {
+      "source_record_id": "recognition-四年级-语文-011",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·四年级",
+      "prompt": "请把书本摆放____齐。",
+      "options": [
+        {
+          "key": "A",
+          "text": "观"
+        },
+        {
+          "key": "B",
+          "text": "勇"
+        },
+        {
+          "key": "C",
+          "text": "静"
+        },
+        {
+          "key": "D",
+          "text": "整"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“整”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-语文-006",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·四年级",
+      "prompt": "拼音“hù”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "勇"
+        },
+        {
+          "key": "B",
+          "text": "护"
+        },
+        {
+          "key": "C",
+          "text": "观"
+        },
+        {
+          "key": "D",
+          "text": "静"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“护”读作 hù。"
+    },
+    {
+      "source_record_id": "recognition-四年级-语文-012",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·四年级",
+      "prompt": "我们要爱____花草树木。",
+      "options": [
+        {
+          "key": "A",
+          "text": "勇"
+        },
+        {
+          "key": "B",
+          "text": "护"
+        },
+        {
+          "key": "C",
+          "text": "观"
+        },
+        {
+          "key": "D",
+          "text": "静"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“护”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-英语-001",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·四年级",
+      "prompt": "“library”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "图画"
+        },
+        {
+          "key": "B",
+          "text": "因为"
+        },
+        {
+          "key": "C",
+          "text": "图书馆"
+        },
+        {
+          "key": "D",
+          "text": "在两者之间"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "library 的意思是“图书馆”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-英语-007",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·四年级",
+      "prompt": "补上缺少的字母：lib_ary",
+      "options": [],
+      "answer": "r",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 library，意思是“图书馆”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-英语-002",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·四年级",
+      "prompt": "“between”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "因为"
+        },
+        {
+          "key": "B",
+          "text": "在两者之间"
+        },
+        {
+          "key": "C",
+          "text": "图书馆"
+        },
+        {
+          "key": "D",
+          "text": "图画"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "between 的意思是“在两者之间”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-英语-008",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·四年级",
+      "prompt": "补上缺少的字母：bet_een",
+      "options": [],
+      "answer": "w",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 between，意思是“在两者之间”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-英语-003",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·四年级",
+      "prompt": "“picture”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "图书馆"
+        },
+        {
+          "key": "B",
+          "text": "在两者之间"
+        },
+        {
+          "key": "C",
+          "text": "图画"
+        },
+        {
+          "key": "D",
+          "text": "因为"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "picture 的意思是“图画”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-英语-009",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·四年级",
+      "prompt": "补上缺少的字母：pic_ure",
+      "options": [],
+      "answer": "t",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 picture，意思是“图画”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-英语-004",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·四年级",
+      "prompt": "“because”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "图画"
+        },
+        {
+          "key": "B",
+          "text": "图书馆"
+        },
+        {
+          "key": "C",
+          "text": "在两者之间"
+        },
+        {
+          "key": "D",
+          "text": "因为"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "because 的意思是“因为”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-英语-010",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·四年级",
+      "prompt": "补上缺少的字母：bec_use",
+      "options": [],
+      "answer": "a",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 because，意思是“因为”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-英语-005",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·四年级",
+      "prompt": "“subject”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "学科"
+        },
+        {
+          "key": "B",
+          "text": "图画"
+        },
+        {
+          "key": "C",
+          "text": "图书馆"
+        },
+        {
+          "key": "D",
+          "text": "在两者之间"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "subject 的意思是“学科”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-英语-011",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·四年级",
+      "prompt": "补上缺少的字母：sub_ect",
+      "options": [],
+      "answer": "j",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 subject，意思是“学科”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-英语-006",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·四年级",
+      "prompt": "“beautiful”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在两者之间"
+        },
+        {
+          "key": "B",
+          "text": "美丽的"
+        },
+        {
+          "key": "C",
+          "text": "图书馆"
+        },
+        {
+          "key": "D",
+          "text": "图画"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "beautiful 的意思是“美丽的”。"
+    },
+    {
+      "source_record_id": "recognition-四年级-英语-012",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "四年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·四年级",
+      "prompt": "补上缺少的字母：beau_iful",
+      "options": [],
+      "answer": "t",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 beautiful，意思是“美丽的”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-语文-001",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·五年级",
+      "prompt": "拼音“huán”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "环"
+        },
+        {
+          "key": "B",
+          "text": "植"
+        },
+        {
+          "key": "C",
+          "text": "境"
+        },
+        {
+          "key": "D",
+          "text": "物"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“环”读作 huán。"
+    },
+    {
+      "source_record_id": "recognition-五年级-语文-007",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·五年级",
+      "prompt": "大家一起保护____境，让城市更干净。",
+      "options": [
+        {
+          "key": "A",
+          "text": "环"
+        },
+        {
+          "key": "B",
+          "text": "植"
+        },
+        {
+          "key": "C",
+          "text": "境"
+        },
+        {
+          "key": "D",
+          "text": "物"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“环”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-语文-002",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·五年级",
+      "prompt": "拼音“jìng”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "境"
+        },
+        {
+          "key": "B",
+          "text": "物"
+        },
+        {
+          "key": "C",
+          "text": "植"
+        },
+        {
+          "key": "D",
+          "text": "环"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“境”读作 jìng。"
+    },
+    {
+      "source_record_id": "recognition-五年级-语文-008",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·五年级",
+      "prompt": "安静的学习环____让人更专心。",
+      "options": [
+        {
+          "key": "A",
+          "text": "境"
+        },
+        {
+          "key": "B",
+          "text": "物"
+        },
+        {
+          "key": "C",
+          "text": "植"
+        },
+        {
+          "key": "D",
+          "text": "环"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“境”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-语文-003",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·五年级",
+      "prompt": "拼音“zhí”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "物"
+        },
+        {
+          "key": "B",
+          "text": "境"
+        },
+        {
+          "key": "C",
+          "text": "环"
+        },
+        {
+          "key": "D",
+          "text": "植"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“植”读作 zhí。"
+    },
+    {
+      "source_record_id": "recognition-五年级-语文-009",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·五年级",
+      "prompt": "春天到了，同学们去____树。",
+      "options": [
+        {
+          "key": "A",
+          "text": "物"
+        },
+        {
+          "key": "B",
+          "text": "境"
+        },
+        {
+          "key": "C",
+          "text": "环"
+        },
+        {
+          "key": "D",
+          "text": "植"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“植”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-语文-004",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·五年级",
+      "prompt": "拼音“wù”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "植"
+        },
+        {
+          "key": "B",
+          "text": "环"
+        },
+        {
+          "key": "C",
+          "text": "物"
+        },
+        {
+          "key": "D",
+          "text": "境"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“物”读作 wù。"
+    },
+    {
+      "source_record_id": "recognition-五年级-语文-010",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·五年级",
+      "prompt": "熊猫是珍贵的野生动____。",
+      "options": [
+        {
+          "key": "A",
+          "text": "植"
+        },
+        {
+          "key": "B",
+          "text": "环"
+        },
+        {
+          "key": "C",
+          "text": "物"
+        },
+        {
+          "key": "D",
+          "text": "境"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“物”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-语文-005",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·五年级",
+      "prompt": "拼音“xū”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "环"
+        },
+        {
+          "key": "B",
+          "text": "境"
+        },
+        {
+          "key": "C",
+          "text": "植"
+        },
+        {
+          "key": "D",
+          "text": "需"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“需”读作 xū。"
+    },
+    {
+      "source_record_id": "recognition-五年级-语文-011",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·五年级",
+      "prompt": "完成这项任务____要大家合作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "环"
+        },
+        {
+          "key": "B",
+          "text": "境"
+        },
+        {
+          "key": "C",
+          "text": "植"
+        },
+        {
+          "key": "D",
+          "text": "需"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“需”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-语文-006",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·五年级",
+      "prompt": "拼音“bǎo”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "环"
+        },
+        {
+          "key": "B",
+          "text": "境"
+        },
+        {
+          "key": "C",
+          "text": "保"
+        },
+        {
+          "key": "D",
+          "text": "植"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“保”读作 bǎo。"
+    },
+    {
+      "source_record_id": "recognition-五年级-语文-012",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·五年级",
+      "prompt": "我们要____护眼睛，注意用眼时间。",
+      "options": [
+        {
+          "key": "A",
+          "text": "环"
+        },
+        {
+          "key": "B",
+          "text": "境"
+        },
+        {
+          "key": "C",
+          "text": "保"
+        },
+        {
+          "key": "D",
+          "text": "植"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“保”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-英语-001",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·五年级",
+      "prompt": "“environment”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不同的"
+        },
+        {
+          "key": "B",
+          "text": "冒险"
+        },
+        {
+          "key": "C",
+          "text": "记得"
+        },
+        {
+          "key": "D",
+          "text": "环境"
+        }
+      ],
+      "answer": "D",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "environment 的意思是“环境”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-英语-007",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·五年级",
+      "prompt": "补上缺少的字母：envir_nment",
+      "options": [],
+      "answer": "o",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 environment，意思是“环境”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-英语-002",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·五年级",
+      "prompt": "“adventure”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不同的"
+        },
+        {
+          "key": "B",
+          "text": "记得"
+        },
+        {
+          "key": "C",
+          "text": "冒险"
+        },
+        {
+          "key": "D",
+          "text": "环境"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "adventure 的意思是“冒险”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-英语-008",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·五年级",
+      "prompt": "补上缺少的字母：adve_ture",
+      "options": [],
+      "answer": "n",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 adventure，意思是“冒险”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-英语-003",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·五年级",
+      "prompt": "“remember”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不同的"
+        },
+        {
+          "key": "B",
+          "text": "环境"
+        },
+        {
+          "key": "C",
+          "text": "记得"
+        },
+        {
+          "key": "D",
+          "text": "冒险"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "remember 的意思是“记得”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-英语-009",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·五年级",
+      "prompt": "补上缺少的字母：reme_ber",
+      "options": [],
+      "answer": "m",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 remember，意思是“记得”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-英语-004",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·五年级",
+      "prompt": "“different”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "记得"
+        },
+        {
+          "key": "B",
+          "text": "环境"
+        },
+        {
+          "key": "C",
+          "text": "不同的"
+        },
+        {
+          "key": "D",
+          "text": "冒险"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "different 的意思是“不同的”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-英语-010",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·五年级",
+      "prompt": "补上缺少的字母：diff_rent",
+      "options": [],
+      "answer": "e",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 different，意思是“不同的”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-英语-005",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·五年级",
+      "prompt": "“interesting”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "冒险"
+        },
+        {
+          "key": "B",
+          "text": "有趣的"
+        },
+        {
+          "key": "C",
+          "text": "环境"
+        },
+        {
+          "key": "D",
+          "text": "记得"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "interesting 的意思是“有趣的”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-英语-011",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·五年级",
+      "prompt": "补上缺少的字母：inter_sting",
+      "options": [],
+      "answer": "e",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 interesting，意思是“有趣的”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-英语-006",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·五年级",
+      "prompt": "“important”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "记得"
+        },
+        {
+          "key": "B",
+          "text": "环境"
+        },
+        {
+          "key": "C",
+          "text": "重要的"
+        },
+        {
+          "key": "D",
+          "text": "冒险"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "important 的意思是“重要的”。"
+    },
+    {
+      "source_record_id": "recognition-五年级-英语-012",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "五年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·五年级",
+      "prompt": "补上缺少的字母：impo_tant",
+      "options": [],
+      "answer": "r",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 important，意思是“重要的”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-语文-001",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·六年级",
+      "prompt": "拼音“chéng”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "诚"
+        },
+        {
+          "key": "B",
+          "text": "宽"
+        },
+        {
+          "key": "C",
+          "text": "容"
+        },
+        {
+          "key": "D",
+          "text": "敬"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“诚”读作 chéng。"
+    },
+    {
+      "source_record_id": "recognition-六年级-语文-007",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·六年级",
+      "prompt": "____实守信的孩子会得到大家的信任。",
+      "options": [
+        {
+          "key": "A",
+          "text": "诚"
+        },
+        {
+          "key": "B",
+          "text": "宽"
+        },
+        {
+          "key": "C",
+          "text": "容"
+        },
+        {
+          "key": "D",
+          "text": "敬"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“诚”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-语文-002",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·六年级",
+      "prompt": "拼音“jìng”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "敬"
+        },
+        {
+          "key": "B",
+          "text": "宽"
+        },
+        {
+          "key": "C",
+          "text": "容"
+        },
+        {
+          "key": "D",
+          "text": "诚"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“敬”读作 jìng。"
+    },
+    {
+      "source_record_id": "recognition-六年级-语文-008",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·六年级",
+      "prompt": "我们要尊____老师，也要关心同学。",
+      "options": [
+        {
+          "key": "A",
+          "text": "敬"
+        },
+        {
+          "key": "B",
+          "text": "宽"
+        },
+        {
+          "key": "C",
+          "text": "容"
+        },
+        {
+          "key": "D",
+          "text": "诚"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“敬”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-语文-003",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·六年级",
+      "prompt": "拼音“kuān”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "诚"
+        },
+        {
+          "key": "B",
+          "text": "宽"
+        },
+        {
+          "key": "C",
+          "text": "敬"
+        },
+        {
+          "key": "D",
+          "text": "容"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“宽”读作 kuān。"
+    },
+    {
+      "source_record_id": "recognition-六年级-语文-009",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·六年级",
+      "prompt": "和同学相处要多一些____容。",
+      "options": [
+        {
+          "key": "A",
+          "text": "诚"
+        },
+        {
+          "key": "B",
+          "text": "宽"
+        },
+        {
+          "key": "C",
+          "text": "敬"
+        },
+        {
+          "key": "D",
+          "text": "容"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“宽”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-语文-004",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·六年级",
+      "prompt": "拼音“róng”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "敬"
+        },
+        {
+          "key": "B",
+          "text": "容"
+        },
+        {
+          "key": "C",
+          "text": "宽"
+        },
+        {
+          "key": "D",
+          "text": "诚"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“容”读作 róng。"
+    },
+    {
+      "source_record_id": "recognition-六年级-语文-010",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·六年级",
+      "prompt": "遇到不同意见，我们可以互相包____。",
+      "options": [
+        {
+          "key": "A",
+          "text": "敬"
+        },
+        {
+          "key": "B",
+          "text": "容"
+        },
+        {
+          "key": "C",
+          "text": "宽"
+        },
+        {
+          "key": "D",
+          "text": "诚"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“容”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-语文-005",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·六年级",
+      "prompt": "拼音“zé”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "诚"
+        },
+        {
+          "key": "B",
+          "text": "责"
+        },
+        {
+          "key": "C",
+          "text": "宽"
+        },
+        {
+          "key": "D",
+          "text": "敬"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“责”读作 zé。"
+    },
+    {
+      "source_record_id": "recognition-六年级-语文-011",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·六年级",
+      "prompt": "做错事要勇于承认并承担____任。",
+      "options": [
+        {
+          "key": "A",
+          "text": "诚"
+        },
+        {
+          "key": "B",
+          "text": "责"
+        },
+        {
+          "key": "C",
+          "text": "宽"
+        },
+        {
+          "key": "D",
+          "text": "敬"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“责”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-语文-006",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "看拼音认汉字·六年级",
+      "prompt": "拼音“rèn”对应哪个汉字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "任"
+        },
+        {
+          "key": "B",
+          "text": "敬"
+        },
+        {
+          "key": "C",
+          "text": "宽"
+        },
+        {
+          "key": "D",
+          "text": "诚"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "“任”读作 rèn。"
+    },
+    {
+      "source_record_id": "recognition-六年级-语文-012",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "语文",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "medium",
+      "question_type": "single_choice",
+      "knowledge_point": "识字快练",
+      "title": "按语境补汉字·六年级",
+      "prompt": "每个人都要承担自己的责____。",
+      "options": [
+        {
+          "key": "A",
+          "text": "任"
+        },
+        {
+          "key": "B",
+          "text": "敬"
+        },
+        {
+          "key": "C",
+          "text": "宽"
+        },
+        {
+          "key": "D",
+          "text": "诚"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "这个句子里应填“任”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-英语-001",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·六年级",
+      "prompt": "“knowledge”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "知识"
+        },
+        {
+          "key": "B",
+          "text": "锻炼"
+        },
+        {
+          "key": "C",
+          "text": "发现"
+        },
+        {
+          "key": "D",
+          "text": "保护"
+        }
+      ],
+      "answer": "A",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "knowledge 的意思是“知识”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-英语-007",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·六年级",
+      "prompt": "补上缺少的字母：know_edge",
+      "options": [],
+      "answer": "l",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 knowledge，意思是“知识”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-英语-002",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·六年级",
+      "prompt": "“discover”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "知识"
+        },
+        {
+          "key": "B",
+          "text": "发现"
+        },
+        {
+          "key": "C",
+          "text": "锻炼"
+        },
+        {
+          "key": "D",
+          "text": "保护"
+        }
+      ],
+      "answer": "B",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "discover 的意思是“发现”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-英语-008",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·六年级",
+      "prompt": "补上缺少的字母：disc_ver",
+      "options": [],
+      "answer": "o",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 discover，意思是“发现”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-英语-003",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·六年级",
+      "prompt": "“protect”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "发现"
+        },
+        {
+          "key": "B",
+          "text": "知识"
+        },
+        {
+          "key": "C",
+          "text": "保护"
+        },
+        {
+          "key": "D",
+          "text": "锻炼"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "protect 的意思是“保护”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-英语-009",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·六年级",
+      "prompt": "补上缺少的字母：pro_ect",
+      "options": [],
+      "answer": "t",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 protect，意思是“保护”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-英语-004",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·六年级",
+      "prompt": "“exercise”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "保护"
+        },
+        {
+          "key": "B",
+          "text": "知识"
+        },
+        {
+          "key": "C",
+          "text": "锻炼"
+        },
+        {
+          "key": "D",
+          "text": "发现"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "exercise 的意思是“锻炼”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-英语-010",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·六年级",
+      "prompt": "补上缺少的字母：exer_ise",
+      "options": [],
+      "answer": "c",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 exercise，意思是“锻炼”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-英语-005",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·六年级",
+      "prompt": "“healthy”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "知识"
+        },
+        {
+          "key": "B",
+          "text": "保护"
+        },
+        {
+          "key": "C",
+          "text": "健康的"
+        },
+        {
+          "key": "D",
+          "text": "发现"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "healthy 的意思是“健康的”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-英语-011",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·六年级",
+      "prompt": "补上缺少的字母：hea_thy",
+      "options": [],
+      "answer": "l",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 healthy，意思是“健康的”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-英语-006",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "单词快练",
+      "title": "看英文认词义·六年级",
+      "prompt": "“country”是什么意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "知识"
+        },
+        {
+          "key": "B",
+          "text": "发现"
+        },
+        {
+          "key": "C",
+          "text": "国家"
+        },
+        {
+          "key": "D",
+          "text": "保护"
+        }
+      ],
+      "answer": "C",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "country 的意思是“国家”。"
+    },
+    {
+      "source_record_id": "recognition-六年级-英语-012",
+      "source_name": "福福学堂原创·小学识字与英语单词快练",
+      "source_license": "福福学堂原创",
+      "source_attribution": "题干、选项、提示与解析由福福学堂原创编写；按年级整理常用识字和英语词汇。",
+      "subject": "英语",
+      "stage": "小学",
+      "grade": "六年级",
+      "difficulty": "medium",
+      "question_type": "short_answer",
+      "knowledge_point": "单词快练",
+      "title": "补全英文单词·六年级",
+      "prompt": "补上缺少的字母：cou_try",
+      "options": [],
+      "answer": "n",
+      "hint": "先读一读题目里的拼音、句子或单词，再看看每个选项。",
+      "explanation": "完整单词是 country，意思是“国家”。"
+    }
+  ]
+}

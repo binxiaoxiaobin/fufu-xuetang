@@ -1,0 +1,38 @@
+{
+  "id": "mosswing-adapt",
+  "title": "Mosswing · 苔翼飞行",
+  "description": "轻点振翅，穿过暖色三维浮空花园。保留原版小鸟、浮岛、叶影、音乐与飞行节奏。",
+  "duration": "每局约 1–5 分钟",
+  "category": "action",
+  "players": "1 人",
+  "tags": [
+    "原版三维场景",
+    "单键飞行",
+    "中文界面"
+  ],
+  "rules": [
+    "点击或按空格振翅，穿过浮岛间的空隙。",
+    "每穿过一道间隙增加一分，碰撞或飞出边界后本局结束。",
+    "最高分和声音设置随当前学习账号保存，每次打开开始新的一局。"
+  ],
+  "controls": [
+    "点击画面、空格、↑ 或 W：振翅。",
+    "P / Esc：暂停；M：切换声音。"
+  ],
+  "cover": "/assets/games/astra-originals/mosswing/cover.jpg",
+  "entry": "/assets/games/astra-originals/mosswing/index.html",
+  "resume": false,
+  "fullscreenRequired": false,
+  "fullscreenAvailable": true,
+  "reward_points": 0,
+  "storage_keys": [
+    "mosswing.best",
+    "mosswing.muted",
+    "mosswing-adapt.save.v1"
+  ],
+  "source": "https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing",
+  "author": "Ayi1337",
+  "license": "原版源码本地移植；原作未单独声明许可。Three.js 保留 MIT 许可。",
+  "collection": "action-arcade",
+  "saveLabel": "最高分随账号保存"
+}

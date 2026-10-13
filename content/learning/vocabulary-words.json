@@ -1,0 +1,1202 @@
+[
+  {
+    "slug": "cup",
+    "word": "cup",
+    "meaning": "杯子",
+    "sentence": "This is my cup.",
+    "translation": "这是我的杯子。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "餐桌上的用品"
+  },
+  {
+    "slug": "bowl",
+    "word": "bowl",
+    "meaning": "碗",
+    "sentence": "Put the rice in the bowl.",
+    "translation": "把米饭放进碗里。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "餐桌上的用品"
+  },
+  {
+    "slug": "plate",
+    "word": "plate",
+    "meaning": "盘子",
+    "sentence": "Put the bread on the plate.",
+    "translation": "把面包放在盘子上。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "餐桌上的用品"
+  },
+  {
+    "slug": "spoon",
+    "word": "spoon",
+    "meaning": "勺子",
+    "sentence": "I eat soup with a spoon.",
+    "translation": "我用勺子喝汤。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "餐桌上的用品"
+  },
+  {
+    "slug": "toothbrush",
+    "word": "toothbrush",
+    "meaning": "牙刷",
+    "sentence": "This is my toothbrush.",
+    "translation": "这是我的牙刷。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "生活里的用品"
+  },
+  {
+    "slug": "towel",
+    "word": "towel",
+    "meaning": "毛巾",
+    "sentence": "Dry your hands with a towel.",
+    "translation": "用毛巾擦干双手。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "生活里的用品"
+  },
+  {
+    "slug": "umbrella",
+    "word": "umbrella",
+    "meaning": "雨伞",
+    "sentence": "Take your umbrella on a rainy day.",
+    "translation": "下雨天带上你的雨伞。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "生活里的用品"
+  },
+  {
+    "slug": "backpack",
+    "word": "backpack",
+    "meaning": "双肩背包",
+    "sentence": "My books are in my backpack.",
+    "translation": "我的书在双肩背包里。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "生活里的用品"
+  },
+  {
+    "slug": "apple",
+    "word": "apple",
+    "meaning": "苹果",
+    "sentence": "I like red apples.",
+    "translation": "我喜欢红苹果。",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "banana",
+    "word": "banana",
+    "meaning": "香蕉",
+    "sentence": "The banana is yellow.",
+    "translation": "这根香蕉是黄色的。",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "orange",
+    "word": "orange",
+    "meaning": "橙子",
+    "sentence": "This orange is sweet.",
+    "translation": "这个橙子很甜。",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "pear",
+    "word": "pear",
+    "meaning": "梨",
+    "sentence": "Would you like a pear?",
+    "translation": "你想要一个梨吗？",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "grape",
+    "word": "grape",
+    "meaning": "葡萄",
+    "sentence": "These grapes are purple.",
+    "translation": "这些葡萄是紫色的。",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "strawberry",
+    "word": "strawberry",
+    "meaning": "草莓",
+    "sentence": "I have a red strawberry.",
+    "translation": "我有一颗红草莓。",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "watermelon",
+    "word": "watermelon",
+    "meaning": "西瓜",
+    "sentence": "Let's share this watermelon.",
+    "translation": "我们一起分享这个西瓜吧。",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "pineapple",
+    "word": "pineapple",
+    "meaning": "菠萝",
+    "sentence": "This pineapple is big.",
+    "translation": "这个菠萝很大。",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "carrot",
+    "word": "carrot",
+    "meaning": "胡萝卜",
+    "sentence": "The carrot is orange.",
+    "translation": "这根胡萝卜是橙色的。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "tomato",
+    "word": "tomato",
+    "meaning": "番茄",
+    "sentence": "Wash the tomato before eating it.",
+    "translation": "吃番茄前先把它洗干净。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "potato",
+    "word": "potato",
+    "meaning": "土豆",
+    "sentence": "We can cook this potato.",
+    "translation": "我们可以把这个土豆煮熟。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "cucumber",
+    "word": "cucumber",
+    "meaning": "黄瓜",
+    "sentence": "The cucumber is long and green.",
+    "translation": "这根黄瓜又长又绿。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "broccoli",
+    "word": "broccoli",
+    "meaning": "西兰花",
+    "sentence": "Broccoli looks like a little tree.",
+    "translation": "西兰花看起来像一棵小树。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "cabbage",
+    "word": "cabbage",
+    "meaning": "卷心菜",
+    "sentence": "The cabbage has many leaves.",
+    "translation": "这棵卷心菜有许多叶子。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "corn",
+    "word": "corn",
+    "meaning": "玉米",
+    "sentence": "I like sweet corn.",
+    "translation": "我喜欢甜玉米。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "pumpkin",
+    "word": "pumpkin",
+    "meaning": "南瓜",
+    "sentence": "Let's make pumpkin soup.",
+    "translation": "我们来做南瓜汤吧。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "bottle",
+    "word": "bottle",
+    "meaning": "水瓶",
+    "sentence": "Fill the bottle with water.",
+    "translation": "把水瓶装满水。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "餐桌上的用品"
+  },
+  {
+    "slug": "fork",
+    "word": "fork",
+    "meaning": "叉子",
+    "sentence": "I eat with a fork.",
+    "translation": "我用叉子吃东西。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "餐桌上的用品"
+  },
+  {
+    "slug": "soap",
+    "word": "soap",
+    "meaning": "肥皂",
+    "sentence": "Wash your hands with soap.",
+    "translation": "用肥皂洗手。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "生活里的用品"
+  },
+  {
+    "slug": "comb",
+    "word": "comb",
+    "meaning": "梳子",
+    "sentence": "Use a comb to tidy your hair.",
+    "translation": "用梳子把头发梳整齐。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "生活里的用品"
+  },
+  {
+    "slug": "pillow",
+    "word": "pillow",
+    "meaning": "枕头",
+    "sentence": "My pillow is soft.",
+    "translation": "我的枕头很柔软。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "生活里的用品"
+  },
+  {
+    "slug": "clock",
+    "word": "clock",
+    "meaning": "时钟",
+    "sentence": "Look at the clock.",
+    "translation": "看一看时钟。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "生活里的用品"
+  },
+  {
+    "slug": "peach",
+    "word": "peach",
+    "meaning": "桃子",
+    "sentence": "This peach is juicy.",
+    "translation": "这个桃子汁水很多。",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "mango",
+    "word": "mango",
+    "meaning": "芒果",
+    "sentence": "I like sweet mangoes.",
+    "translation": "我喜欢甜芒果。",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "lemon",
+    "word": "lemon",
+    "meaning": "柠檬",
+    "sentence": "The lemon tastes sour.",
+    "translation": "这个柠檬尝起来很酸。",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "cherry",
+    "word": "cherry",
+    "meaning": "樱桃",
+    "sentence": "These cherries are red.",
+    "translation": "这些樱桃是红色的。",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "kiwi",
+    "word": "kiwi",
+    "meaning": "猕猴桃",
+    "sentence": "The kiwi is green inside.",
+    "translation": "这个猕猴桃里面是绿色的。",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "blueberry",
+    "word": "blueberry",
+    "meaning": "蓝莓",
+    "sentence": "These blueberries are blue.",
+    "translation": "这些蓝莓是蓝色的。",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "onion",
+    "word": "onion",
+    "meaning": "洋葱",
+    "sentence": "This onion has many layers.",
+    "translation": "这个洋葱有很多层。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "garlic",
+    "word": "garlic",
+    "meaning": "大蒜",
+    "sentence": "Add a little garlic to the soup.",
+    "translation": "往汤里加一点大蒜。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "eggplant",
+    "word": "eggplant",
+    "meaning": "茄子",
+    "sentence": "The eggplant is purple.",
+    "translation": "这根茄子是紫色的。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "pepper",
+    "word": "bell pepper",
+    "meaning": "甜椒",
+    "sentence": "This bell pepper is red.",
+    "translation": "这个甜椒是红色的。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "lettuce",
+    "word": "lettuce",
+    "meaning": "生菜",
+    "sentence": "We put lettuce in a salad.",
+    "translation": "我们把生菜放进沙拉里。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "mushroom",
+    "word": "mushroom",
+    "meaning": "蘑菇",
+    "sentence": "I like mushroom soup.",
+    "translation": "我喜欢蘑菇汤。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "papaya",
+    "word": "papaya",
+    "meaning": "木瓜",
+    "sentence": "I eat sweet papaya.",
+    "translation": "我吃香甜的木瓜。",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "plum",
+    "word": "plum",
+    "meaning": "李子",
+    "sentence": "The plum is purple.",
+    "translation": "李子是紫色的。",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "pomegranate",
+    "word": "pomegranate",
+    "meaning": "石榴",
+    "sentence": "A pomegranate has many seeds.",
+    "translation": "石榴有很多籽。",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "coconut",
+    "word": "coconut",
+    "meaning": "椰子",
+    "sentence": "We drink coconut water.",
+    "translation": "我们喝椰子水。",
+    "category": "fruit",
+    "category_name": "水果",
+    "group": "多彩的水果"
+  },
+  {
+    "slug": "celery",
+    "word": "celery",
+    "meaning": "芹菜",
+    "sentence": "Celery is crunchy.",
+    "translation": "芹菜吃起来很脆。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "radish",
+    "word": "radish",
+    "meaning": "小萝卜",
+    "sentence": "The radish is red.",
+    "translation": "小萝卜是红色的。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "peas",
+    "word": "peas",
+    "meaning": "豌豆",
+    "sentence": "Peas are small and green.",
+    "translation": "豌豆小小的，绿绿的。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "sweetpotato",
+    "word": "sweet potato",
+    "meaning": "红薯",
+    "sentence": "I bake a sweet potato.",
+    "translation": "我烤一个红薯。",
+    "category": "vegetable",
+    "category_name": "蔬菜",
+    "group": "菜篮子里的蔬菜"
+  },
+  {
+    "slug": "mirror",
+    "word": "mirror",
+    "meaning": "镜子",
+    "sentence": "I look in the mirror.",
+    "translation": "我照镜子。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "生活里的用品"
+  },
+  {
+    "slug": "scissors",
+    "word": "scissors",
+    "meaning": "剪刀",
+    "sentence": "Use scissors to cut paper.",
+    "translation": "用剪刀剪纸。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "学习与居家用品"
+  },
+  {
+    "slug": "key",
+    "word": "key",
+    "meaning": "钥匙",
+    "sentence": "This key opens the door.",
+    "translation": "这把钥匙能打开门。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "学习与居家用品"
+  },
+  {
+    "slug": "lamp",
+    "word": "lamp",
+    "meaning": "台灯",
+    "sentence": "Turn on the lamp.",
+    "translation": "把台灯打开。",
+    "category": "daily",
+    "category_name": "日常用品",
+    "group": "学习与居家用品"
+  },
+  {
+    "slug": "soccerball",
+    "word": "soccer ball",
+    "meaning": "足球",
+    "sentence": "This is a soccer ball. It has black and white panels.",
+    "translation": "这是一个足球，它有黑白相间的块面。",
+    "category": "sports",
+    "category_name": "球类运动",
+    "group": "认识不同的球"
+  },
+  {
+    "slug": "basketball",
+    "word": "basketball",
+    "meaning": "篮球",
+    "sentence": "A basketball is orange and bouncy.",
+    "translation": "篮球是橙色的，弹性很好。",
+    "category": "sports",
+    "category_name": "球类运动",
+    "group": "认识不同的球"
+  },
+  {
+    "slug": "volleyball",
+    "word": "volleyball",
+    "meaning": "排球",
+    "sentence": "A volleyball is light and round.",
+    "translation": "排球轻轻的、圆圆的。",
+    "category": "sports",
+    "category_name": "球类运动",
+    "group": "认识不同的球"
+  },
+  {
+    "slug": "tennisball",
+    "word": "tennis ball",
+    "meaning": "网球",
+    "sentence": "A tennis ball is small and fuzzy.",
+    "translation": "网球小小的，表面有绒毛。",
+    "category": "sports",
+    "category_name": "球类运动",
+    "group": "认识不同的球"
+  },
+  {
+    "slug": "baseball",
+    "word": "baseball",
+    "meaning": "棒球",
+    "sentence": "A baseball is white with red stitches.",
+    "translation": "棒球是白色的，上面有红色缝线。",
+    "category": "sports",
+    "category_name": "球类运动",
+    "group": "认识不同的球"
+  },
+  {
+    "slug": "pingpongball",
+    "word": "ping-pong ball",
+    "meaning": "乒乓球",
+    "sentence": "A ping-pong ball is tiny and light.",
+    "translation": "乒乓球又小又轻。",
+    "category": "sports",
+    "category_name": "球类运动",
+    "group": "认识不同的球"
+  },
+  {
+    "slug": "dog",
+    "word": "dog",
+    "meaning": "小狗",
+    "sentence": "The dog is wagging its tail.",
+    "translation": "小狗正在摇尾巴。",
+    "category": "animals",
+    "category_name": "动物朋友",
+    "group": "认识动物"
+  },
+  {
+    "slug": "cat",
+    "word": "cat",
+    "meaning": "猫",
+    "sentence": "The cat is soft and quiet.",
+    "translation": "猫咪的毛软软的，很安静。",
+    "category": "animals",
+    "category_name": "动物朋友",
+    "group": "认识动物"
+  },
+  {
+    "slug": "rabbit",
+    "word": "rabbit",
+    "meaning": "兔子",
+    "sentence": "A rabbit has long ears.",
+    "translation": "兔子有长长的耳朵。",
+    "category": "animals",
+    "category_name": "动物朋友",
+    "group": "认识动物"
+  },
+  {
+    "slug": "bird",
+    "word": "bird",
+    "meaning": "小鸟",
+    "sentence": "The bird sings in the morning.",
+    "translation": "小鸟在早晨唱歌。",
+    "category": "animals",
+    "category_name": "动物朋友",
+    "group": "认识动物"
+  },
+  {
+    "slug": "fish",
+    "word": "fish",
+    "meaning": "鱼",
+    "sentence": "The fish swims in the water.",
+    "translation": "小鱼在水里游。",
+    "category": "animals",
+    "category_name": "动物朋友",
+    "group": "认识动物"
+  },
+  {
+    "slug": "turtle",
+    "word": "turtle",
+    "meaning": "乌龟",
+    "sentence": "The turtle has a hard shell.",
+    "translation": "乌龟有坚硬的龟壳。",
+    "category": "animals",
+    "category_name": "动物朋友",
+    "group": "认识动物"
+  },
+  {
+    "slug": "tshirt",
+    "word": "T-shirt",
+    "meaning": "T恤",
+    "sentence": "This yellow T-shirt is soft.",
+    "translation": "这件黄色T恤软软的。",
+    "category": "clothes",
+    "category_name": "衣物与穿搭",
+    "group": "日常穿着"
+  },
+  {
+    "slug": "pants",
+    "word": "pants",
+    "meaning": "裤子",
+    "sentence": "These blue pants are long.",
+    "translation": "这条蓝裤子长长的。",
+    "category": "clothes",
+    "category_name": "衣物与穿搭",
+    "group": "日常穿着"
+  },
+  {
+    "slug": "dress",
+    "word": "dress",
+    "meaning": "连衣裙",
+    "sentence": "The pink dress is pretty.",
+    "translation": "这条粉色连衣裙真漂亮。",
+    "category": "clothes",
+    "category_name": "衣物与穿搭",
+    "group": "日常穿着"
+  },
+  {
+    "slug": "socks",
+    "word": "socks",
+    "meaning": "袜子",
+    "sentence": "These socks keep my feet warm.",
+    "translation": "这双袜子让我的脚暖暖的。",
+    "category": "clothes",
+    "category_name": "衣物与穿搭",
+    "group": "日常穿着"
+  },
+  {
+    "slug": "shoes",
+    "word": "shoes",
+    "meaning": "鞋子",
+    "sentence": "I put on my shoes.",
+    "translation": "我穿上鞋子。",
+    "category": "clothes",
+    "category_name": "衣物与穿搭",
+    "group": "日常穿着"
+  },
+  {
+    "slug": "hat",
+    "word": "hat",
+    "meaning": "帽子",
+    "sentence": "Put on your hat in the sun.",
+    "translation": "太阳下要戴好帽子。",
+    "category": "clothes",
+    "category_name": "衣物与穿搭",
+    "group": "日常穿着"
+  },
+  {
+    "slug": "bread",
+    "word": "bread",
+    "meaning": "面包",
+    "sentence": "I eat bread for breakfast.",
+    "translation": "我早餐吃面包。",
+    "category": "food",
+    "category_name": "食物与饮品",
+    "group": "餐桌上的食物"
+  },
+  {
+    "slug": "egg",
+    "word": "egg",
+    "meaning": "鸡蛋",
+    "sentence": "This egg is brown.",
+    "translation": "这是一枚棕色的鸡蛋。",
+    "category": "food",
+    "category_name": "食物与饮品",
+    "group": "餐桌上的食物"
+  },
+  {
+    "slug": "cheese",
+    "word": "cheese",
+    "meaning": "奶酪",
+    "sentence": "I like cheese on my bread.",
+    "translation": "我喜欢在面包上放奶酪。",
+    "category": "food",
+    "category_name": "食物与饮品",
+    "group": "餐桌上的食物"
+  },
+  {
+    "slug": "milk",
+    "word": "milk",
+    "meaning": "牛奶",
+    "sentence": "I drink a glass of milk.",
+    "translation": "我喝一杯牛奶。",
+    "category": "food",
+    "category_name": "食物与饮品",
+    "group": "餐桌上的食物"
+  },
+  {
+    "slug": "rice",
+    "word": "rice",
+    "meaning": "米饭",
+    "sentence": "We eat rice with dinner.",
+    "translation": "晚餐时我们吃米饭。",
+    "category": "food",
+    "category_name": "食物与饮品",
+    "group": "餐桌上的食物"
+  },
+  {
+    "slug": "juice",
+    "word": "juice",
+    "meaning": "果汁",
+    "sentence": "This orange juice is sweet.",
+    "translation": "这杯橙汁甜甜的。",
+    "category": "food",
+    "category_name": "食物与饮品",
+    "group": "餐桌上的食物"
+  },
+  {
+    "slug": "bus",
+    "word": "bus",
+    "meaning": "公交车",
+    "sentence": "The red bus takes us to school.",
+    "translation": "红色公交车载我们去学校。",
+    "category": "transport",
+    "category_name": "交通工具",
+    "group": "常见交通工具"
+  },
+  {
+    "slug": "train",
+    "word": "train",
+    "meaning": "火车",
+    "sentence": "The train travels on the tracks.",
+    "translation": "火车沿着铁轨行驶。",
+    "category": "transport",
+    "category_name": "交通工具",
+    "group": "常见交通工具"
+  },
+  {
+    "slug": "bicycle",
+    "word": "bicycle",
+    "meaning": "自行车",
+    "sentence": "I ride my bicycle in the park.",
+    "translation": "我在公园里骑自行车。",
+    "category": "transport",
+    "category_name": "交通工具",
+    "group": "常见交通工具"
+  },
+  {
+    "slug": "car",
+    "word": "car",
+    "meaning": "汽车",
+    "sentence": "The green car has four wheels.",
+    "translation": "绿色汽车有四个轮子。",
+    "category": "transport",
+    "category_name": "交通工具",
+    "group": "常见交通工具"
+  },
+  {
+    "slug": "airplane",
+    "word": "airplane",
+    "meaning": "飞机",
+    "sentence": "The airplane flies above the clouds.",
+    "translation": "飞机在云朵上方飞行。",
+    "category": "transport",
+    "category_name": "交通工具",
+    "group": "常见交通工具"
+  },
+  {
+    "slug": "boat",
+    "word": "boat",
+    "meaning": "帆船",
+    "sentence": "The little boat sails on the water.",
+    "translation": "小帆船在水面上行驶。",
+    "category": "transport",
+    "category_name": "交通工具",
+    "group": "常见交通工具"
+  },
+  {
+    "slug": "horse",
+    "word": "horse",
+    "meaning": "马",
+    "sentence": "The horse runs across the field.",
+    "translation": "马儿在田野里跑。",
+    "category": "animals",
+    "category_name": "动物朋友",
+    "group": "农场和身边的动物"
+  },
+  {
+    "slug": "cow",
+    "word": "cow",
+    "meaning": "奶牛",
+    "sentence": "A cow gives us milk.",
+    "translation": "奶牛为我们产奶。",
+    "category": "animals",
+    "category_name": "动物朋友",
+    "group": "农场和身边的动物"
+  },
+  {
+    "slug": "pig",
+    "word": "pig",
+    "meaning": "小猪",
+    "sentence": "The pink pig has a curly tail.",
+    "translation": "粉色小猪有一条卷卷的尾巴。",
+    "category": "animals",
+    "category_name": "动物朋友",
+    "group": "农场和身边的动物"
+  },
+  {
+    "slug": "sheep",
+    "word": "sheep",
+    "meaning": "绵羊",
+    "sentence": "A sheep has soft wool.",
+    "translation": "绵羊有柔软的羊毛。",
+    "category": "animals",
+    "category_name": "动物朋友",
+    "group": "农场和身边的动物"
+  },
+  {
+    "slug": "duck",
+    "word": "duck",
+    "meaning": "鸭子",
+    "sentence": "The yellow duck swims on the pond.",
+    "translation": "黄色小鸭在池塘里游。",
+    "category": "animals",
+    "category_name": "动物朋友",
+    "group": "农场和身边的动物"
+  },
+  {
+    "slug": "monkey",
+    "word": "monkey",
+    "meaning": "猴子",
+    "sentence": "The monkey can climb a tree.",
+    "translation": "猴子会爬树。",
+    "category": "animals",
+    "category_name": "动物朋友",
+    "group": "农场和身边的动物"
+  },
+  {
+    "slug": "coat",
+    "word": "coat",
+    "meaning": "外套",
+    "sentence": "Wear your coat on a cold day.",
+    "translation": "天冷时穿上外套。",
+    "category": "clothes",
+    "category_name": "衣物与穿搭",
+    "group": "天气变化时穿什么"
+  },
+  {
+    "slug": "sweater",
+    "word": "sweater",
+    "meaning": "毛衣",
+    "sentence": "This sweater keeps me warm.",
+    "translation": "这件毛衣让我很暖和。",
+    "category": "clothes",
+    "category_name": "衣物与穿搭",
+    "group": "天气变化时穿什么"
+  },
+  {
+    "slug": "shorts",
+    "word": "shorts",
+    "meaning": "短裤",
+    "sentence": "I wear shorts in summer.",
+    "translation": "夏天我穿短裤。",
+    "category": "clothes",
+    "category_name": "衣物与穿搭",
+    "group": "天气变化时穿什么"
+  },
+  {
+    "slug": "skirt",
+    "word": "skirt",
+    "meaning": "裙子",
+    "sentence": "The purple skirt is light and pretty.",
+    "translation": "紫色裙子轻轻的，很漂亮。",
+    "category": "clothes",
+    "category_name": "衣物与穿搭",
+    "group": "天气变化时穿什么"
+  },
+  {
+    "slug": "gloves",
+    "word": "gloves",
+    "meaning": "手套",
+    "sentence": "Put on your gloves in winter.",
+    "translation": "冬天戴上手套。",
+    "category": "clothes",
+    "category_name": "衣物与穿搭",
+    "group": "天气变化时穿什么"
+  },
+  {
+    "slug": "scarf",
+    "word": "scarf",
+    "meaning": "围巾",
+    "sentence": "Wrap a scarf around your neck.",
+    "translation": "把围巾围在脖子上。",
+    "category": "clothes",
+    "category_name": "衣物与穿搭",
+    "group": "天气变化时穿什么"
+  },
+  {
+    "slug": "drinking-water",
+    "word": "water",
+    "meaning": "水",
+    "sentence": "Drink water when you are thirsty.",
+    "translation": "口渴时要喝水。",
+    "category": "food",
+    "category_name": "食物与饮品",
+    "group": "餐桌上的味道"
+  },
+  {
+    "slug": "tea",
+    "word": "tea",
+    "meaning": "茶",
+    "sentence": "The tea is warm.",
+    "translation": "这杯茶暖暖的。",
+    "category": "food",
+    "category_name": "食物与饮品",
+    "group": "餐桌上的味道"
+  },
+  {
+    "slug": "soup",
+    "word": "soup",
+    "meaning": "汤",
+    "sentence": "Blow gently before you sip the soup.",
+    "translation": "喝汤前轻轻吹一吹。",
+    "category": "food",
+    "category_name": "食物与饮品",
+    "group": "餐桌上的味道"
+  },
+  {
+    "slug": "noodles",
+    "word": "noodles",
+    "meaning": "面条",
+    "sentence": "I eat noodles with chopsticks.",
+    "translation": "我用筷子吃面条。",
+    "category": "food",
+    "category_name": "食物与饮品",
+    "group": "餐桌上的味道"
+  },
+  {
+    "slug": "yogurt",
+    "word": "yogurt",
+    "meaning": "酸奶",
+    "sentence": "This strawberry yogurt is cool.",
+    "translation": "这杯草莓酸奶冰冰凉凉的。",
+    "category": "food",
+    "category_name": "食物与饮品",
+    "group": "餐桌上的味道"
+  },
+  {
+    "slug": "cookie",
+    "word": "cookie",
+    "meaning": "饼干",
+    "sentence": "I have one cookie for a snack.",
+    "translation": "我吃一块饼干当点心。",
+    "category": "food",
+    "category_name": "食物与饮品",
+    "group": "餐桌上的味道"
+  },
+  {
+    "slug": "truck",
+    "word": "truck",
+    "meaning": "卡车",
+    "sentence": "The blue truck carries boxes.",
+    "translation": "蓝色卡车运送箱子。",
+    "category": "transport",
+    "category_name": "交通工具",
+    "group": "城市与远行"
+  },
+  {
+    "slug": "taxi",
+    "word": "taxi",
+    "meaning": "出租车",
+    "sentence": "We take a taxi to the station.",
+    "translation": "我们坐出租车去车站。",
+    "category": "transport",
+    "category_name": "交通工具",
+    "group": "城市与远行"
+  },
+  {
+    "slug": "subway",
+    "word": "subway",
+    "meaning": "地铁",
+    "sentence": "The subway runs under the city.",
+    "translation": "地铁在城市地下行驶。",
+    "category": "transport",
+    "category_name": "交通工具",
+    "group": "城市与远行"
+  },
+  {
+    "slug": "helicopter",
+    "word": "helicopter",
+    "meaning": "直升机",
+    "sentence": "A helicopter has spinning blades.",
+    "translation": "直升机有旋转的螺旋桨。",
+    "category": "transport",
+    "category_name": "交通工具",
+    "group": "城市与远行"
+  },
+  {
+    "slug": "ship",
+    "word": "ship",
+    "meaning": "轮船",
+    "sentence": "The ship sails across the sea.",
+    "translation": "轮船驶过大海。",
+    "category": "transport",
+    "category_name": "交通工具",
+    "group": "城市与远行"
+  },
+  {
+    "slug": "scooter",
+    "word": "scooter",
+    "meaning": "滑板车",
+    "sentence": "I ride my scooter on the path.",
+    "translation": "我在人行道上骑滑板车。",
+    "category": "transport",
+    "category_name": "交通工具",
+    "group": "城市与远行"
+  },
+  {
+    "slug": "piano",
+    "word": "piano",
+    "meaning": "钢琴",
+    "sentence": "I play a happy song on the piano.",
+    "translation": "我在钢琴上弹一首快乐的歌。",
+    "category": "music",
+    "category_name": "音乐与乐器",
+    "group": "键盘与弦乐"
+  },
+  {
+    "slug": "guitar",
+    "word": "guitar",
+    "meaning": "吉他",
+    "sentence": "My brother plays the guitar.",
+    "translation": "我哥哥会弹吉他。",
+    "category": "music",
+    "category_name": "音乐与乐器",
+    "group": "键盘与弦乐"
+  },
+  {
+    "slug": "violin",
+    "word": "violin",
+    "meaning": "小提琴",
+    "sentence": "The violin sounds soft and sweet.",
+    "translation": "小提琴的声音柔和又动听。",
+    "category": "music",
+    "category_name": "音乐与乐器",
+    "group": "键盘与弦乐"
+  },
+  {
+    "slug": "drums",
+    "word": "drums",
+    "meaning": "架子鼓",
+    "sentence": "We tap the drums to keep the beat.",
+    "translation": "我们敲架子鼓来打节拍。",
+    "category": "music",
+    "category_name": "音乐与乐器",
+    "group": "打击乐器"
+  },
+  {
+    "slug": "flute",
+    "word": "flute",
+    "meaning": "长笛",
+    "sentence": "She plays the flute in the music room.",
+    "translation": "她在音乐教室吹长笛。",
+    "category": "music",
+    "category_name": "音乐与乐器",
+    "group": "吹奏乐器"
+  },
+  {
+    "slug": "trumpet",
+    "word": "trumpet",
+    "meaning": "小号",
+    "sentence": "The trumpet sounds loud and bright.",
+    "translation": "小号的声音响亮又明快。",
+    "category": "music",
+    "category_name": "音乐与乐器",
+    "group": "吹奏乐器"
+  },
+  {
+    "slug": "saxophone",
+    "word": "saxophone",
+    "meaning": "萨克斯管",
+    "sentence": "The saxophone makes a smooth sound.",
+    "translation": "萨克斯管能吹出柔和的声音。",
+    "category": "music",
+    "category_name": "音乐与乐器",
+    "group": "吹奏乐器"
+  },
+  {
+    "slug": "clarinet",
+    "word": "clarinet",
+    "meaning": "单簧管",
+    "sentence": "I hear the clarinet in the band.",
+    "translation": "我听见乐队里有单簧管的声音。",
+    "category": "music",
+    "category_name": "音乐与乐器",
+    "group": "吹奏乐器"
+  },
+  {
+    "slug": "xylophone",
+    "word": "xylophone",
+    "meaning": "木琴",
+    "sentence": "Tap the xylophone to hear different notes.",
+    "translation": "敲一敲木琴，听听不同的音。",
+    "category": "music",
+    "category_name": "音乐与乐器",
+    "group": "打击乐器"
+  },
+  {
+    "slug": "tambourine",
+    "word": "tambourine",
+    "meaning": "铃鼓",
+    "sentence": "Shake the tambourine with the music.",
+    "translation": "跟着音乐摇一摇铃鼓。",
+    "category": "music",
+    "category_name": "音乐与乐器",
+    "group": "打击乐器"
+  },
+  {
+    "slug": "maracas",
+    "word": "maracas",
+    "meaning": "沙锤",
+    "sentence": "The maracas shake along with the beat.",
+    "translation": "沙锤跟着节拍沙沙响。",
+    "category": "music",
+    "category_name": "音乐与乐器",
+    "group": "打击乐器"
+  },
+  {
+    "slug": "harmonica",
+    "word": "harmonica",
+    "meaning": "口琴",
+    "sentence": "He plays a little tune on his harmonica.",
+    "translation": "他用口琴吹了一小段曲子。",
+    "category": "music",
+    "category_name": "音乐与乐器",
+    "group": "吹奏乐器"
+  }
+]

@@ -1,0 +1,28 @@
+Engineering Explore model attributions
+======================================
+
+1) tracked-excavator.glb
+   Title: Tracked excavator with digging bucket
+   Author/source: 3DAssets.dev
+   License: CC0 1.0 (public domain dedication)
+   Source: https://3dassets.dev/assets/demolition-and-site-clearance-demolition-and-site-clea-4c94ddeb
+   Original download: https://cdn.3dassets.dev/assets/35686/v1/model.glb
+
+2) high-reach-demolition-excavator.glb
+   Title: High reach demolition excavator
+   Author/source: 3DAssets.dev
+   License: CC0 1.0 (public domain dedication)
+   Source: https://3dassets.dev/assets/demolition-and-site-clearance-demolition-and-site-clea-2f21f1bf
+   Original download: https://cdn.3dassets.dev/assets/35688/v1/model.glb
+
+3) ik-excavator.glb
+   Title: Excavator with IK arm
+   Author/source: antics.gg
+   License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+   Source: https://antics.gg/m/excavator-ec9351
+   Original download: https://antics.gg/m/excavator-ec9351/model.glb
+   Attribution: “Excavator” by antics.gg, CC BY 4.0. The model is redistributed locally without edits.
+
+The “小小建造场” scene is a local Three.js procedural recreation based on the public project concept
+in construction-sandbox. No model files or source code from that repository are copied.
+Project: https://github.com/noxussj2/construction-sandbox

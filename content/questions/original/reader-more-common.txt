@@ -1,0 +1,157 @@
+# 常用字词扩展：主题|难度|中文|拼音|释义|英语|中文句子|英语句子|主题图标
+水果|1|杏子|xìng zi|成熟后常呈黄色的小水果|apricot|妈妈洗好一颗{}。|I wash an {}.|apple
+水果|1|李子|lǐ zi|有果核的小水果|plum|盘子里有一颗{}。|There is a {} on the plate.|apple
+水果|1|椰子|yē zi|有硬壳的热带水果|coconut|这颗{}有一层硬壳。|This {} has a hard shell.|apple
+水果|1|猕猴桃|mí hóu táo|果肉里有许多小籽的水果|kiwi|爸爸把{}切开。|Dad cuts a {} in half.|apple
+水果|1|荔枝|lì zhī|剥皮后有白色果肉的水果|lychee|我剥开一颗{}。|I peel a {}.|apple
+水果|1|柚子|yòu zi|果实较大的柑橘类水果|pomelo|我们一起分享这个{}。|We share a {}.|orange
+水果|1|石榴|shí liu|有许多小颗粒果肉的水果|pomegranate|妈妈剥开一个{}。|Mom opens a {}.|apple
+水果|1|木瓜|mù guā|成熟后果肉常呈橙色的水果|papaya|碗里有切好的{}。|There is some {} in the bowl.|apple
+水果|1|覆盆子|fù pén zi|由许多小颗粒组成的浆果|raspberry|我把{}洗干净。|I wash a {}.|strawberry
+水果|1|黑莓|hēi méi|成熟后颜色较深的浆果|blackberry|盘子里有一颗{}。|There is a {} on the plate.|strawberry
+蔬菜|1|菠菜|bō cài|一种常见的绿叶蔬菜|spinach|我们把{}洗干净。|We wash the {}.|vegetable
+蔬菜|1|生菜|shēng cài|叶片柔嫩的蔬菜|lettuce|我把{}放进碗里。|I put some {} in the bowl.|vegetable
+蔬菜|1|芹菜|qín cài|叶柄可以食用的蔬菜|celery|爸爸把{}切成小段。|Dad cuts the {}.|vegetable
+蔬菜|1|蒜|suàn|常用来调味的植物鳞茎|garlic|锅里放了一点{}。|There is some {} in the pan.|onion
+蔬菜|1|姜|jiāng|常用于调味的根茎|ginger|妈妈切了一小片{}。|Mom cuts a slice of {}.|potato
+蔬菜|1|红薯|hóng shǔ|有甜味的可食用块根|sweet potato|这块{}已经蒸熟。|This {} is cooked.|potato
+蔬菜|1|白萝卜|bái luó bo|常见的白色根类蔬菜|radish|爸爸把{}洗干净。|Dad washes a {}.|carrot
+蔬菜|1|菜花|cài huā|花球可食用的蔬菜|cauliflower|碗里有煮熟的{}。|There is cooked {} in the bowl.|broccoli
+蔬菜|1|青椒|qīng jiāo|常呈绿色的椒类蔬菜|pepper|我看见一颗绿色的{}。|I see a green {}.|vegetable
+蔬菜|1|豆子|dòu zi|豆类植物的种子|bean|盘子里有煮熟的{}。|There is a cooked {} on the plate.|pea
+蔬菜|1|芦笋|lú sǔn|嫩茎可食用的蔬菜|asparagus|爸爸把{}煮熟。|Dad cooks the {}.|vegetable
+蔬菜|1|甜菜|tián cài|根可以食用的蔬菜|beet|妈妈切开一颗{}。|Mom cuts a {}.|potato
+食物与饮品|1|酸奶|suān nǎi|经过发酵的奶制品|yogurt|我用勺子吃{}。|I eat {} with a spoon.|bowl
+食物与饮品|1|黄油|huáng yóu|常用来烹饪的乳制品|butter|爸爸在面包上抹一点{}。|Dad puts some {} on the bread.|bread
+食物与饮品|1|麦片|mài piàn|谷物制成的片状食品|cereal|碗里装着{}。|There is some {} in the bowl.|bowl
+食物与饮品|1|薄饼|báo bǐng|用面糊烹制的扁平饼|pancake|早餐有一张{}。|There is a {} for breakfast.|plate
+食物与饮品|1|蛋糕|dàn gāo|常用面粉和鸡蛋制作的甜点|cake|我们分享一小块{}。|We share a slice of {}.|bread
+食物与饮品|1|鸡肉|jī ròu|鸡的可食用肉|chicken|这块{}已经煮熟。|This {} is cooked.|plate
+食物与饮品|1|牛肉|niú ròu|牛的可食用肉|beef|锅里有炖好的{}。|There is cooked {} in the pot.|plate
+食物与饮品|1|茶|chá|用茶叶冲泡的饮品|tea|杯子里有温热的{}。|There is warm {} in the cup.|cup
+食物与饮品|1|可可|kě kě|可用来制作饮品的原料|cocoa|爸爸冲了一杯温热的{}。|Dad makes a cup of warm {}.|cup
+食物与饮品|1|盐|yán|一种常见调味品|salt|妈妈在汤里加一点{}。|Mom adds a little {} to the soup.|bowl
+食物与饮品|1|糖|táng|带有甜味的调味品|sugar|我在酸奶里加一点{}。|I add a little {} to the yogurt.|bowl
+食物与饮品|1|面粉|miàn fěn|磨细的谷物粉|flour|我们用{}做面包。|We use {} to make bread.|bread
+食物与饮品|1|果酱|guǒ jiàng|水果制成的甜酱|jam|我在面包上抹{}。|I put {} on the bread.|bread
+食物与饮品|1|吐司|tǔ sī|可烤热的切片面包|toast|盘子里有一片{}。|There is some {} on the plate.|bread
+食物与饮品|1|薄脆饼干|báo cuì bǐng gān|烘烤制成的薄脆食品|cracker|我吃了一小块{}。|I eat a {}.|cookie
+生活用品|1|沙发|shā fā|有软垫的座椅|sofa|我们坐在{}上看书。|We read on the {}.|chair
+生活用品|1|枕头|zhěn tou|睡觉时垫在头下的用品|pillow|我把{}摆好。|I put my {} on the bed.|bed
+生活用品|1|被子|bèi zi|睡觉时盖在身上的用品|blanket|我把{}铺平。|I spread the {} on the bed.|bed
+生活用品|1|镜子|jìng zi|能映出物体影像的用品|mirror|我在{}里看见自己。|I see myself in the {}.|window
+生活用品|1|梳子|shū zi|整理头发的工具|comb|我用{}梳头。|I use a {} for my hair.|brush
+生活用品|1|肥皂|féi zào|用于清洁的用品|soap|我用{}洗手。|I wash my hands with {}.|wash
+生活用品|1|牙膏|yá gāo|刷牙时使用的清洁用品|toothpaste|我在牙刷上挤一点{}。|I put some {} on my toothbrush.|brush
+生活用品|1|纸巾|zhǐ jīn|用于擦拭的纸制用品|tissue|我用{}擦鼻子。|I wipe my nose with a {}.|towel
+生活用品|1|篮子|lán zi|可以装东西的容器|basket|我把苹果放进{}。|I put an apple in the {}.|bowl
+生活用品|1|盒子|hé zi|可以收纳东西的容器|box|我把积木放进{}。|I put blocks in the {}.|bowl
+生活用品|1|袋子|dài zi|可以装东西的袋状用品|bag|我把毛巾放进{}。|I put a towel in the {}.|backpack
+生活用品|1|剪刀|jiǎn dāo|用来剪东西的工具|scissors|在大人帮助下，我用{}剪纸。|I use {} with an adult.|pencil
+生活用品|1|胶水|jiāo shuǐ|用来粘贴东西的液体|glue|我用{}粘好纸片。|I use {} to stick the paper.|bottle
+生活用品|1|蜡笔|là bǐ|带有颜色的绘画工具|crayon|我用{}画太阳。|I draw a sun with a {}.|pencil
+生活用品|1|画笔|huà bǐ|用来绘画的笔|paintbrush|我用{}画一棵树。|I paint a tree with a {}.|pencil
+生活用品|1|纸|zhǐ|可用于写字或折叠的材料|paper|我把{}折成小船。|I fold the {} into a boat.|book
+生活用品|1|地图|dì tú|表示地点位置的图|map|我们在{}上找公园。|We find the park on a {}.|book
+生活用品|1|玩具|wán jù|用来玩耍的物品|toy|我把{}收好。|I put my {} away.|ball
+生活用品|1|积木|jī mù|可以拼搭的玩具块|block|我把一块{}放在上面。|I put a {} on top.|ball
+生活用品|1|拼图|pīn tú|由小块拼成完整图案的游戏|puzzle|我和朋友一起完成{}。|I finish a {} with my friend.|book
+生活用品|1|鼓|gǔ|一种敲击发声的乐器|drum|我轻轻敲了一下{}。|I tap the {} gently.|ball
+生活用品|1|电话|diàn huà|用于远距离通话的工具|phone|爸爸用{}联系奶奶。|Dad calls Grandma on the {}.|clock
+生活用品|1|相机|xiàng jī|用来拍照的工具|camera|妈妈用{}拍树叶。|Mom takes a picture with a {}.|clock
+生活用品|1|冰箱|bīng xiāng|保持食物低温的电器|fridge|爸爸把牛奶放进{}。|Dad puts milk in the {}.|door
+生活用品|1|锅|guō|烹饪食物的容器|pot|爸爸用{}煮汤。|Dad cooks soup in a {}.|bowl
+身体与衣物|1|头|tóu|身体上有脸的部分|head|我戴上帽子保护{}。|I put a hat on my {}.|hat
+身体与衣物|1|头发|tóu fa|长在头上的毛发|hair|我轻轻梳理{}。|I brush my {} gently.|brush
+身体与衣物|1|脸|liǎn|头部的前面部分|face|早上，我洗干净{}。|I wash my {} in the morning.|wash
+身体与衣物|1|牙齿|yá chǐ|用来咀嚼食物的身体部分|teeth|我每天认真刷{}。|I brush my {} every day.|brush
+身体与衣物|1|舌头|shé tou|口腔里帮助品尝和说话的器官|tongue|我用{}尝到甜味。|I taste with my {}.|mouth
+身体与衣物|1|脖子|bó zi|连接头部和躯干的部位|neck|这条围巾围在{}上。|This scarf goes around my {}.|shirt
+身体与衣物|1|肩膀|jiān bǎng|手臂与躯干相连的部位|shoulder|书包带放在我的{}上。|The strap rests on my {}.|backpack
+身体与衣物|1|手臂|shǒu bì|肩膀到手的身体部分|arm|我举起一只{}。|I raise one {}.|hand
+身体与衣物|1|手肘|shǒu zhǒu|手臂中间可弯曲的关节|elbow|我慢慢弯曲{}。|I bend my {} slowly.|hand
+身体与衣物|1|手指|shǒu zhǐ|手上的细长部分|finger|我用{}指向地图。|I point with my {}.|hand
+身体与衣物|1|拇指|mǔ zhǐ|手上较粗的手指|thumb|我举起{}表示赞同。|I hold up my {}.|hand
+身体与衣物|1|膝盖|xī gài|腿部中间可弯曲的关节|knee|坐下时，我弯曲{}。|I bend my {} when I sit.|foot
+身体与衣物|1|腿|tuǐ|支撑身体和帮助行走的部分|leg|我抬起一条{}。|I lift one {}.|foot
+身体与衣物|1|脚趾|jiǎo zhǐ|脚前端的小部分|toe|袜子盖住了我的{}。|My sock covers my {}.|foot
+身体与衣物|1|围巾|wéi jīn|围在脖子上的衣物|scarf|天冷时，我围上{}。|I wear a {} when it is cold.|coat
+身体与衣物|1|手套|shǒu tào|戴在手上的用品|gloves|天冷时，我戴上{}。|I wear {} when it is cold.|hand
+身体与衣物|1|靴子|xuē zi|鞋筒较高的鞋|boots|我穿好{}再出门。|I put on my {}.|shoes
+身体与衣物|1|连衣裙|lián yī qún|上衣和裙子相连的衣服|dress|这件{}很舒服。|This {} is comfortable.|skirt
+身体与衣物|1|毛衣|máo yī|用毛线编织的衣服|sweater|天凉时，我穿上{}。|I wear a {} when it is cool.|coat
+身体与衣物|1|夹克|jiá kè|较短的外套|jacket|我把{}挂好。|I hang up my {}.|coat
+身体与衣物|1|睡衣|shuì yī|睡觉时穿的衣服|pajamas|睡觉前，我换上{}。|I put on my {} before bed.|shirt
+动物朋友|1|山羊|shān yáng|一种有角的草食动物|goat|农场里有一只{}。|There is a {} on the farm.|sheep
+动物朋友|1|小猪|xiǎo zhū|常见的家养动物|pig|这只{}在吃东西。|This {} is eating.|cow
+动物朋友|1|小鸡|xiǎo jī|刚孵出不久的鸡|chick|一只{}跟着妈妈走。|A {} follows its mother.|bird
+动物朋友|1|母鸡|mǔ jī|雌性的鸡|hen|一只{}坐在窝里。|A {} sits in the nest.|bird
+动物朋友|1|鹅|é|一种长颈的水禽|goose|池塘边有一只{}。|There is a {} by the pond.|duck
+动物朋友|1|老鼠|lǎo shǔ|一种体型较小的啮齿动物|mouse|故事里的{}找到了奶酪。|The {} in the story finds cheese.|rabbit
+动物朋友|1|猴子|hóu zi|一种灵活的灵长类动物|monkey|一只{}坐在树上。|A {} sits in a tree.|cat
+动物朋友|1|长颈鹿|cháng jǐng lù|脖子很长的动物|giraffe|这只{}伸着长脖子。|This {} has a long neck.|horse
+动物朋友|1|斑马|bān mǎ|身上有条纹的动物|zebra|我们在图画里看到{}。|We see a {} in the picture.|horse
+动物朋友|1|小熊|xiǎo xióng|一种身体健壮的哺乳动物|bear|故事里的{}在寻找蜂蜜。|The {} in the story looks for honey.|panda
+动物朋友|1|狐狸|hú li|有蓬松尾巴的动物|fox|图画里的{}有一条大尾巴。|The {} in the picture has a big tail.|dog
+动物朋友|1|松鼠|sōng shǔ|常在树上活动的小动物|squirrel|一只{}坐在树枝上。|A {} sits on a branch.|rabbit
+动物朋友|1|鹿|lù|一种常见的草食动物|deer|树林里有一只{}。|There is a {} in the forest.|horse
+动物朋友|1|乌龟|wū guī|背上有甲壳的动物|turtle|一只{}慢慢向前走。|A {} walks slowly.|fish
+动物朋友|1|青蛙|qīng wā|一种两栖动物|frog|池塘边有一只{}。|There is a {} by the pond.|fish
+动物朋友|1|蝴蝶|hú dié|有两对翅膀的昆虫|butterfly|一只{}停在花上。|A {} lands on a flower.|bird
+动物朋友|1|蜜蜂|mì fēng|会采花蜜的昆虫|bee|我远远看着花上的{}。|I watch a {} from a distance.|bird
+动物朋友|1|蚂蚁|mǎ yǐ|一种常成群活动的小昆虫|ant|我看见一只{}爬过石头。|I see an {} on a stone.|bird
+动物朋友|1|蜗牛|wō niú|背着壳的软体动物|snail|这只{}慢慢爬过树叶。|This {} moves across a leaf.|fish
+动物朋友|1|企鹅|qǐ é|擅长游泳的鸟类|penguin|图画里的{}站在岸边。|The {} in the picture stands on the shore.|bird
+动物朋友|1|海豚|hǎi tún|生活在水中的哺乳动物|dolphin|这只{}跃出水面。|This {} jumps out of the water.|fish
+动物朋友|1|鲸|jīng|大型水生哺乳动物|whale|我们在书里看到一头{}。|We see a {} in a book.|fish
+动物朋友|1|螃蟹|páng xiè|有硬壳和钳子的动物|crab|海边有一只{}。|There is a {} on the beach.|fish
+动物朋友|1|章鱼|zhāng yú|有八条腕的海洋动物|octopus|书里的{}有八条腕。|The {} in the book has eight arms.|fish
+出门与交通|1|卡车|kǎ chē|用来运送货物的汽车|truck|一辆{}在运货。|A {} carries boxes.|car
+出门与交通|1|出租车|chū zū chē|可以付费乘坐的汽车|taxi|我们坐{}去车站。|We take a {} to the station.|car
+出门与交通|1|救护车|jiù hù chē|用于运送病人的车辆|ambulance|我们给{}让路。|We make room for an {}.|car
+出门与交通|1|消防车|xiāo fáng chē|消防人员使用的车辆|fire engine|一辆{}开过路口。|A {} drives past.|car
+出门与交通|1|直升机|zhí shēng jī|能垂直起降的飞行器|helicopter|我们看见一架{}。|We see a {}.|plane
+出门与交通|1|火箭|huǒ jiàn|利用喷射推进的飞行器|rocket|模型{}立在展台上。|A model {} stands on the table.|plane
+出门与交通|1|地铁|dì tiě|常在城市地下运行的铁路交通|subway|我们坐{}去图书馆。|We take the {} to the library.|train
+出门与交通|1|船舶|chuán bó|水上运载工具|ship|一艘{}驶过港口。|A {} sails past the port.|boat
+出门与交通|1|滑板车|huá bǎn chē|可以用脚蹬地前进的工具|scooter|我戴好头盔再骑{}。|I wear a helmet on my {}.|bike
+出门与交通|1|头盔|tóu kuī|保护头部的装备|helmet|骑车前，我戴好{}。|I put on a {} before riding.|hat
+出门与交通|1|桥|qiáo|连接两侧供人通过的建筑|bridge|我们走过一座{}。|We walk across a {}.|road
+出门与交通|1|车站|chē zhàn|等候交通工具的地方|station|我们在{}等车。|We wait at the {}.|train
+出门与交通|1|学校|xué xiào|学习和上课的地方|school|我和朋友一起去{}。|I go to {} with my friend.|book
+出门与交通|1|图书馆|tú shū guǎn|收藏和借阅书籍的地方|library|我们在{}安静阅读。|We read quietly in the {}.|book
+出门与交通|1|医院|yī yuàn|看病和治疗的地方|hospital|爸爸陪我去{}看医生。|Dad takes me to the {}.|car
+出门与交通|1|商店|shāng diàn|出售商品的地方|shop|我们在{}买铅笔。|We buy a pencil at the {}.|pencil
+自然与生命|1|河流|hé liú|流动的天然水体|river|一条{}穿过村庄。|A {} flows through the village.|ocean
+自然与生命|1|湖泊|hú pō|陆地上较大的静止水体|lake|我们在{}旁散步。|We walk beside a {}.|ocean
+自然与生命|1|海滩|hǎi tān|海边有沙或石子的地方|beach|我们在{}捡起垃圾。|We pick up litter on the {}.|sand
+自然与生命|1|森林|sēn lín|许多树木生长的地方|forest|我们在{}里观察树叶。|We look at leaves in the {}.|tree
+自然与生命|1|草|cǎo|常见的低矮植物|grass|雨水落在{}上。|Rain falls on the {}.|plant
+自然与生命|1|种子|zhǒng zi|可以长出新植物的结构|seed|我们把一颗{}种进土里。|We plant a {}.|plant
+自然与生命|1|根|gēn|植物吸收水分的部分|root|小苗的{}藏在土里。|The {} is in the soil.|plant
+自然与生命|1|树枝|shù zhī|从树干上长出的部分|branch|一只鸟停在{}上。|A bird sits on a {}.|tree
+自然与生命|1|石头|shí tou|天然形成的坚硬物体|stone|路边有一块{}。|There is a {} beside the path.|mountain
+自然与生命|1|泥土|ní tǔ|植物生长的土壤材料|soil|我们把种子放进{}。|We put a seed in the {}.|plant
+自然与生命|1|天空|tiān kōng|抬头可见的辽阔空间|sky|白云飘在{}里。|Clouds float in the {}.|cloud
+自然与生命|1|彩虹|cǎi hóng|雨后有时出现的彩色圆弧|rainbow|雨后，我们看见一道{}。|We see a {} after the rain.|rainbow
+自然与生命|1|雷声|léi shēng|雷电发生时发出的声音|thunder|下雨时，我们在室内听见{}。|We hear {} from indoors.|rain
+自然与生命|1|影子|yǐng zi|物体挡住光形成的暗区|shadow|阳光下，我看见自己的{}。|I see my {} in the sunlight.|sun
+自然与生命|1|池塘|chí táng|较小的积水水域|pond|一只鸭子游过{}。|A duck swims across the {}.|duck
+动作与生活|2|坐|zuò|让身体由座位支撑|sit|我在椅子上{}好。|I {} on the chair.|chair
+动作与生活|2|站|zhàn|用脚支撑身体保持直立|stand|我在队伍里{}好。|I {} in line.|foot
+动作与生活|2|走|zǒu|用脚交替迈步前进|walk|我和爸爸一起{}到公园。|I {} to the park with Dad.|foot
+动作与生活|2|停|tíng|停止正在进行的移动或活动|stop|看到红灯，我们就{}下来。|We {} at the red light.|car
+动作与生活|2|笑|xiào|表达开心的面部动作|smile|见到朋友，我会{}。|I {} when I see my friend.|friends
+动作与生活|2|拍手|pāi shǒu|两只手相互拍击|clap|大家为表演一起{}。|We {} after the show.|hand
+动作与生活|2|挥手|huī shǒu|摆动手表示问候|wave|我向朋友{}。|I {} to my friend.|hand
+动作与生活|2|画|huà|用线条和颜色表现事物|draw|我用蜡笔{}一朵花。|I {} a flower with a crayon.|pencil
+动作与生活|2|写|xiě|用笔记录文字|write|我认真{}下自己的名字。|I {} my name.|pencil
+动作与生活|2|唱|chàng|用有旋律的声音表达|sing|我们一起{}一首歌。|We {} a song together.|friends
+动作与生活|2|跳舞|tiào wǔ|随着节奏活动身体|dance|我们跟着音乐一起{}。|We {} to the music.|friends
+动作与生活|2|玩|wán|进行有趣的活动|play|我和朋友一起{}积木。|I {} with blocks.|ball
+动作与生活|2|找|zhǎo|寻找想发现的东西|find|我在桌上{}铅笔。|I {} my pencil on the table.|pencil
+动作与生活|2|给|gěi|把东西交给别人|give|我把书{}朋友看。|I {} my friend a book.|book
+动作与生活|2|等|děng|留在原处直到某事发生|wait|我在门口{}爸爸。|I {} for Dad at the door.|door
+动作与生活|2|转|zhuǎn|改变朝向|turn|我慢慢{}过身来。|I {} around slowly.|foot
+动作与生活|2|拿|ná|用手取来或持有东西|take|我{}起一本书。|I {} a book from the shelf.|book
+动作与生活|2|放|fàng|把东西置于某处|put|我把杯子{}在桌上。|I {} the cup on the table.|cup

@@ -1,0 +1,156 @@
+{
+  "items": [
+    {
+      "slug": "xia",
+      "title": "夏",
+      "image_path": "/assets/learning/history/letters/xia-letter-v1.svg",
+      "cover_script": "现代楷书题名",
+      "cover_note": "夏代尚无可据以复原的完整文字体系，封面用现代楷书写名称，不称作夏代字体。",
+      "cover_characters": "夏"
+    },
+    {
+      "slug": "shang",
+      "title": "商",
+      "image_path": "/assets/learning/history/letters/shang-letter-v1.svg",
+      "cover_script": "篆书题名",
+      "cover_note": "商代的代表文字是甲骨文。封面暂以现代小篆字体写朝代名称，不作为商代甲骨字形展示。",
+      "cover_characters": "商"
+    },
+    {
+      "slug": "western-zhou",
+      "title": "西周",
+      "image_path": "/assets/learning/history/letters/western-zhou-letter-v1.svg",
+      "cover_script": "篆书题名",
+      "cover_note": "西周以青铜铭文为重要文字资料。封面用现代小篆字体题写周字，不作为西周金文原迹。",
+      "cover_characters": "周"
+    },
+    {
+      "slug": "eastern-zhou",
+      "title": "东周 · 春秋战国",
+      "image_path": "/assets/learning/history/letters/eastern-zhou-letter-v1.svg",
+      "cover_script": "篆书风格参考",
+      "cover_note": "东周各国文字并不完全相同；封面选取篆书风格题名，不把一种字形当作所有诸侯共同标准。",
+      "cover_characters": "周"
+    },
+    {
+      "slug": "qin",
+      "title": "秦",
+      "image_path": "/assets/learning/history/letters/qin-letter-v1.svg",
+      "cover_script": "小篆风格",
+      "cover_note": "以《说文》小篆为依归的现代字体演绎，用于认识小篆风格，不称为秦代某件原刻的复原。",
+      "cover_characters": "秦"
+    },
+    {
+      "slug": "western-han",
+      "title": "西汉",
+      "image_path": "/assets/learning/history/letters/western-han-letter-v1.svg",
+      "cover_script": "隶书风格",
+      "cover_note": "两汉隶书是重要书写传统，封面使用现代隶书字体演绎，漢对应今天的汉。",
+      "cover_characters": "漢"
+    },
+    {
+      "slug": "xin",
+      "title": "新",
+      "image_path": "/assets/learning/history/letters/xin-letter-v1.svg",
+      "cover_script": "隶书风格",
+      "cover_note": "参考秦汉间的隶书传统，采用现代字体题名，不意味着新朝只有一种书体。",
+      "cover_characters": "新"
+    },
+    {
+      "slug": "eastern-han",
+      "title": "东汉",
+      "image_path": "/assets/learning/history/letters/eastern-han-letter-v1.svg",
+      "cover_script": "隶书风格",
+      "cover_note": "东汉碑刻是汉隶的重要资料；这里用现代隶书字体题名，漢对应今天的汉。",
+      "cover_characters": "漢"
+    },
+    {
+      "slug": "three-kingdoms",
+      "title": "三国",
+      "image_path": "/assets/learning/history/letters/three-kingdoms-letter-v1.svg",
+      "cover_script": "隶书风格 · 并存时期",
+      "cover_note": "魏、蜀、吴并列呈现。书体承接汉末传统，使用现代隶书字体参考，不代表三国书体完全相同。",
+      "cover_characters": "魏蜀吳"
+    },
+    {
+      "slug": "western-jin",
+      "title": "西晋",
+      "image_path": "/assets/learning/history/letters/western-jin-letter-v1.svg",
+      "cover_script": "楷书风格参考",
+      "cover_note": "魏晋之际隶、楷、行、草等书体并存；封面选取较易读的现代楷书，晉对应今天的晋。",
+      "cover_characters": "晉"
+    },
+    {
+      "slug": "eastern-jin-sixteen",
+      "title": "东晋与十六国",
+      "image_path": "/assets/learning/history/letters/eastern-jin-sixteen-letter-v1.svg",
+      "cover_script": "行书风格参考",
+      "cover_note": "东晋有著名行书传统。封面用现代行书字体题名，不是王羲之原笔，也不代替十六国各自的文字面貌。",
+      "cover_characters": "晋"
+    },
+    {
+      "slug": "southern-northern",
+      "title": "南北朝",
+      "image_path": "/assets/learning/history/letters/southern-northern-letter-v1.svg",
+      "cover_script": "楷书风格 · 并存时期",
+      "cover_note": "南北朝有碑刻、写经等不同书写传统，封面以现代楷书写南北，保留完整时期名称。",
+      "cover_characters": "南北"
+    },
+    {
+      "slug": "sui",
+      "title": "隋",
+      "image_path": "/assets/learning/history/letters/sui-letter-v1.svg",
+      "cover_script": "楷书风格参考",
+      "cover_note": "参考隋代楷书传统，使用现代楷体题名，不复原某一件碑刻。",
+      "cover_characters": "隋"
+    },
+    {
+      "slug": "tang",
+      "title": "唐",
+      "image_path": "/assets/learning/history/letters/tang-letter-v1.svg",
+      "cover_script": "楷书风格参考",
+      "cover_note": "唐代楷书成就突出，也存在其他书体。封面用现代楷体呈现唐字，不署为某位书家的原作。",
+      "cover_characters": "唐"
+    },
+    {
+      "slug": "five-ten",
+      "title": "五代十国",
+      "image_path": "/assets/learning/history/letters/five-ten-letter-v1.svg",
+      "cover_script": "行书风格 · 多政权时期",
+      "cover_note": "五代十国书写传统延续隋唐，封面用现代行书题名，保留完整时期名称。",
+      "cover_characters": "五代"
+    },
+    {
+      "slug": "song-liao-xia-jin",
+      "title": "宋、辽、西夏、金",
+      "image_path": "/assets/learning/history/letters/song-liao-xia-jin-letter-v1.svg",
+      "cover_script": "汉字题名 · 并存时期",
+      "cover_note": "使用现代汉字并列题名，夏在这里指西夏。辽、西夏、金还使用不同文字，不把汉字字体说成其唯一文字。",
+      "cover_characters": "宋辽夏金"
+    },
+    {
+      "slug": "yuan",
+      "title": "元",
+      "image_path": "/assets/learning/history/letters/yuan-letter-v1.svg",
+      "cover_script": "行书风格参考",
+      "cover_note": "元代延续多种汉字书法传统，也使用其他文字。封面采用现代行书题名。",
+      "cover_characters": "元"
+    },
+    {
+      "slug": "ming",
+      "title": "明",
+      "image_path": "/assets/learning/history/letters/ming-letter-v1.svg",
+      "cover_script": "刻本风格参考",
+      "cover_note": "明代雕版印刷字形是重要视觉线索，封面参考刻本风格，使用现代宋体；不把现代宋体误作宋代原字体。",
+      "cover_characters": "明"
+    },
+    {
+      "slug": "qing",
+      "title": "清",
+      "image_path": "/assets/learning/history/letters/qing-letter-v1.svg",
+      "cover_script": "楷书风格参考",
+      "cover_note": "清代楷、行、篆、隶等传统均有发展，封面选取易读的现代楷体，不设所谓清代专属字体。",
+      "cover_characters": "清"
+    }
+  ]
+}

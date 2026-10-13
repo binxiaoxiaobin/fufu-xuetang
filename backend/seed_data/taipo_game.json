@@ -1,0 +1,8 @@
+{
+  "id":"taipo","title":"打字守卫","description":"输入单词赚取金币、建造防御塔，在打字练习中守住阵地。",
+  "duration":"约 10–20 分钟一局","category":"typing-defense","players":"1 人","tags":["打字塔防","英语练习","日语罗马音"],
+  "rules":["输入面板或塔位上的单词，按回车执行行动。","首次默认英语，也可选择日语词表；练习词保留原文。","保存词表与音量设置，重新打开开始新的一局。"],
+  "controls":["键盘输入单词，Enter 确认，Esc 清空输入；手机可用下方输入框。","输入 help 显示日语罗马音提示。建议横屏游玩。"],
+  "cover":"/assets/games/taipo/cover.webp","entry":"/assets/games/taipo/index.html","resume":false,"saveMode":"learner-server","fullscreenRequired":false,"fullscreenAvailable":true,"reward_points":0,
+  "storage_keys":["taipo.save.v1","taipo.settings.v1"],"source":"https://github.com/rparrett/taipo","author":"rparrett / Euclidean Whale","license":"MIT；BrowserQuest 素材 CC-BY-SA 3.0","collection":"platformer-2d"
+}

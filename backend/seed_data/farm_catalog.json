@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "paddy": {"seconds":2592000,"rewardPoints":12,"waterBoostSeconds":21600},
+  "woolSeconds": 21600,
+  "tutorialCropSeconds": 60,
+  "breeds": [
+    {"id":"cloud","name":"云朵羊","color":"#f6ecd6","face":"#735943","emoji":"🐑"},
+    {"id":"peach","name":"桃桃羊","color":"#f3c9b8","face":"#8d6555","emoji":"🌸"},
+    {"id":"mint","name":"薄荷羊","color":"#c5dcc6","face":"#69745b","emoji":"🌿"}
+  ],
+  "crops": [
+    {"id":"clover","name":"三叶草","emoji":"☘️","seconds":1800,"color":"#8abd6a"},
+    {"id":"carrot","name":"胡萝卜","emoji":"🥕","seconds":2400,"color":"#ee9e54"}
+  ],
+  "recipes": [
+    {"id":"rug","name":"羊毛小地毯","emoji":"🧶","cost":{"wool":2}},
+    {"id":"garland","name":"草叶花环","emoji":"🌼","cost":{"clover":2,"carrot":1}}
+  ],
+  "products": [
+    {"key":"expansion","name":"小牧场扩建","emoji":"🏡","price":30,"description":"让牧场多出两位朋友的位置，最多住 3 只羊。"},
+    {"key":"peach","name":"迎接桃桃羊","emoji":"🌸","price":20,"description":"一只粉桃色的小羊。先扩建牧场，再邀请它来住。"},
+    {"key":"mint","name":"迎接薄荷羊","emoji":"🌿","price":30,"description":"一只薄荷绿的小羊。先扩建牧场，再邀请它来住。"},
+    {"key":"flowers","name":"牧场小花盆","emoji":"🪴","price":8,"description":"把两盆小花摆在牧场门口，不增加照顾任务。"},
+    {"key":"windvane","name":"小羊风向标","emoji":"🎏","price":12,"description":"会轻轻转动的风向标，给牧场添一点颜色。"}
+  ]
+}

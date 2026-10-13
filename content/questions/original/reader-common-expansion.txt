@@ -1,0 +1,83 @@
+# 分类|难度|词语|拼音|释义|英文|中文例句|英文例句|插画
+水果|1|芒果|máng guǒ|一种热带水果|mango|盘子里有一块{}。|This {} is yellow.|mango
+水果|1|桃子|táo zi|果皮有细绒毛的水果|peach|我把{}洗干净。|I wash the {}.|peach
+水果|1|菠萝|bō luó|外皮有许多小格的热带水果|pineapple|爸爸切好了一块{}。|We share a {}.|pineapple
+水果|1|柠檬|níng méng|味道常常很酸的水果|lemon|这片{}闻起来很清新。|The {} is sour.|lemon
+水果|1|樱桃|yīng táo|有果核的小圆水果|cherry|碗里有一颗红红的{}。|This {} is red.|cherry
+水果|2|蓝莓|lán méi|常呈蓝紫色的小浆果|blueberry|我把一颗{}放进碗里。|I put a {} in the bowl.|blueberry
+蔬菜|1|玉米|yù mǐ|有一排排籽粒的粮食作物|corn|今天我们吃煮熟的{}。|We eat cooked {}.|corn
+蔬菜|1|洋葱|yáng cōng|有一层层鳞茎的蔬菜|onion|爸爸把{}切成小块。|Dad cuts the {}.|onion
+蔬菜|1|豌豆|wān dòu|豆荚里长着圆圆种子的植物|pea|豆荚里躺着一颗{}。|The {} is green.|pea
+蔬菜|2|西兰花|xī lán huā|花球常呈绿色的蔬菜|broccoli|碗里的{}已经煮熟了。|We cook the {}.|broccoli
+蔬菜|2|茄子|qié zi|常见果皮为紫色的蔬菜|eggplant|这根{}穿着紫色的外衣。|This {} is purple.|eggplant
+蔬菜|2|蘑菇|mó gu|一些可食用真菌的常见名称|mushroom|妈妈煮熟了买来的{}。|We cook the {} from the shop.|mushroom
+生活用品|1|碗|wǎn|盛食物的容器|bowl|我把水果放进{}里。|I put fruit in the {}.|bowl
+生活用品|1|盘子|pán zi|用来盛放食物的浅容器|plate|我把面包放在{}上。|The bread is on the {}.|plate
+生活用品|1|叉子|chā zi|带有尖齿的餐具|fork|我用{}吃切好的水果。|I use a {} to eat fruit.|fork
+生活用品|1|瓶子|píng zi|口小肚大的容器|bottle|这个{}里装着水。|There is water in the {}.|bottle
+生活用品|1|床|chuáng|用来睡觉和休息的家具|bed|我把被子铺在{}上。|I sleep in my {}.|bed
+生活用品|1|门|mén|房间或建筑的出入口|door|我轻轻推开{}。|I open the {}.|door
+生活用品|1|窗户|chuāng hu|让光线和空气进入房间的开口|window|我透过{}看见一只小鸟。|I see a bird through the {}.|window
+生活用品|1|灯|dēng|用来照明的用品|lamp|天黑了，我打开{}。|I turn on the {}.|lamp
+生活用品|1|铅笔|qiān bǐ|可以写字和画画的笔|pencil|我用{}画一朵花。|I draw with a {}.|pencil
+生活用品|1|橡皮|xiàng pí|擦去铅笔痕迹的用品|eraser|我用{}轻轻擦掉写错的字。|I use an {} to fix my drawing.|eraser
+生活用品|2|尺子|chǐ zi|测量长度或画直线的工具|ruler|我用{}画一条直线。|I draw a line with a {}.|ruler
+生活用品|2|时钟|shí zhōng|显示时间的工具|clock|我看着{}，准备按时出门。|I look at the {}.|clock
+生活用品|2|钥匙|yào shi|打开锁的小工具|key|爸爸用{}打开门。|Dad opens the door with a {}.|key
+生活用品|2|雨伞|yǔ sǎn|用来挡雨的用品|umbrella|下雨了，我撑起{}。|I open my {} in the rain.|umbrella
+食物与饮品|1|牛奶|niú nǎi|牛产的乳汁，常作饮品|milk|杯子里有一些{}。|There is {} in my cup.|milk
+食物与饮品|1|面包|miàn bāo|用面粉等原料烘焙的食品|bread|我把一片{}分给哥哥。|We share some {}.|bread
+食物与饮品|1|鸡蛋|jī dàn|母鸡产的蛋|egg|爸爸煮熟了一个{}。|Dad cooks an {}.|egg
+食物与饮品|1|米饭|mǐ fàn|用大米煮成的主食|rice|我的碗里有{}。|There is {} in my bowl.|rice
+食物与饮品|1|面条|miàn tiáo|用面粉制成的条状食品|noodles|妈妈煮了一碗{}。|We eat {} for lunch.|noodles
+食物与饮品|1|汤|tāng|食材和水一起煮成的食物|soup|我等{}凉一些再喝。|The {} is warm.|bowl
+食物与饮品|2|奶酪|nǎi lào|用乳制成的食品|cheese|盘子里有一小块{}。|I put {} on my bread.|cheese
+食物与饮品|2|果汁|guǒ zhī|用水果制成的饮品|juice|杯子里有一些橙子{}。|There is {} in my cup.|bottle
+食物与饮品|2|三明治|sān míng zhì|面包夹着食材的食品|sandwich|我们一起做一个{}。|We make a {} together.|sandwich
+食物与饮品|2|饺子|jiǎo zi|面皮包着馅的食品|dumpling|盘子里有一个煮熟的{}。|This {} is warm.|dumpling
+食物与饮品|2|饼干|bǐng gān|烘焙制成的小块食品|cookie|我把一块{}分成两半。|We share a {}.|cookie
+食物与饮品|2|蜂蜜|fēng mì|蜜蜂酿成的甜味食品|honey|面包上抹了一点{}。|There is {} on the bread.|honey
+动物朋友|1|兔子|tù zi|有长耳朵的小动物|rabbit|草地上的{}轻轻跳起来。|The {} can jump.|jump
+动物朋友|1|小鱼|xiǎo yú|生活在水里、有鳍的动物|fish|一条{}在水里游来游去。|The {} swims in the water.|fish
+动物朋友|1|鸭子|yā zi|能游水的鸟类|duck|一只{}游过池塘。|The {} swims in the pond.|duck
+动物朋友|1|奶牛|nǎi niú|能产牛奶的家养牛|cow|牧场里的{}在吃草。|The {} eats grass.|cow
+动物朋友|1|绵羊|mián yáng|身上有卷曲羊毛的动物|sheep|草地上有一只{}。|The {} is on the grass.|sheep
+动物朋友|1|小马|xiǎo mǎ|可以奔跑的马|horse|一匹{}跑过草地。|The {} runs in the field.|horse
+动物朋友|2|大象|dà xiàng|有长鼻子的大型动物|elephant|{}用长鼻子卷起食物。|The {} has a long trunk.|elephant
+动物朋友|2|狮子|shī zi|一种大型猫科动物|lion|我们在书里看见一只{}。|The {} rests under a tree.|lion
+动物朋友|2|老虎|lǎo hǔ|身上有条纹的大型猫科动物|tiger|图片上的{}有许多条纹。|The {} has stripes.|tiger
+动物朋友|2|熊猫|xióng māo|常吃竹子、毛色黑白相间的动物|panda|{}抱着竹子慢慢吃。|The {} eats bamboo.|panda
+身体与衣物|1|手|shǒu|可以拿东西的身体部位|hand|我举起一只{}向朋友问好。|I wave my {}.|hand
+身体与衣物|1|脚|jiǎo|支撑身体并帮助行走的部位|foot|我把一只{}放进鞋子里。|I put my {} in a shoe.|foot
+身体与衣物|1|眼睛|yǎn jing|帮助我们看东西的器官|eyes|我用{}观察小花。|I use my {} to see.|eyes
+身体与衣物|1|耳朵|ěr duo|帮助我们听声音的器官|ears|我用{}听见了鸟叫。|I hear with my {}.|ears
+身体与衣物|1|鼻子|bí zi|帮助闻气味和呼吸的器官|nose|我用{}闻一闻花香。|I smell a flower with my {}.|nose
+身体与衣物|1|嘴巴|zuǐ ba|帮助说话和进食的部位|mouth|我张开{}，轻轻唱歌。|I sing with my {}.|mouth
+身体与衣物|1|帽子|mào zi|戴在头上的用品|hat|出门前，我戴好{}。|I put on my {}.|hat
+身体与衣物|1|袜子|wà zi|穿在脚上的衣物|socks|我把两只{}配成一双。|I put on my {}.|socks
+身体与衣物|2|衬衫|chèn shān|一种有领子和袖子的上衣|shirt|我把干净的{}挂起来。|I put on my {}.|shirt
+身体与衣物|2|裤子|kù zi|穿在下半身、有两条裤腿的衣物|pants|我把{}叠整齐。|I fold my {}.|pants
+身体与衣物|2|裙子|qún zi|穿在下半身的裙装|skirt|这条{}很漂亮。|This {} is blue.|skirt
+身体与衣物|2|外套|wài tào|穿在其他衣服外面的衣物|coat|天冷了，我穿上{}。|I put on my {} when it is cold.|coat
+出门与交通|1|汽车|qì chē|在道路上行驶的车辆|car|我们坐{}去看外婆。|We go in a {}.|car
+出门与交通|1|公交车|gōng jiāo chē|沿固定线路载客的车辆|bus|我们排队上{}。|We wait for the {}.|bus
+出门与交通|1|火车|huǒ chē|在铁轨上行驶的车辆|train|一列{}经过车站。|The {} stops at the station.|train
+出门与交通|1|飞机|fēi jī|能在空中飞行的交通工具|plane|天空中的{}飞向远方。|The {} flies in the sky.|plane
+出门与交通|1|小船|xiǎo chuán|在水上航行的船只|boat|一只{}慢慢驶过河面。|The {} moves on the water.|boat
+出门与交通|2|自行车|zì xíng chē|通过脚踏前进的两轮车|bike|戴好头盔后，我骑上{}。|I ride my {} with a helmet.|bike
+出门与交通|2|道路|dào lù|供人或车辆通行的路|road|我们在安全的地方穿过{}。|We cross the {} safely.|road
+出门与交通|2|公园|gōng yuán|供人休息和游玩的公共场所|park|我们到{}里看花。|We play in the {}.|flowers
+自然与生命|1|云朵|yún duǒ|天空中由小水滴或冰晶组成的云|cloud|一朵{}慢慢飘过天空。|A {} moves across the sky.|cloud
+自然与生命|1|雪花|xuě huā|从空中飘落的冰晶|snow|地上铺了一层白白的{}。|The {} is white.|snow
+自然与生命|1|风|fēng|流动的空气|wind|一阵{}吹动树叶。|The {} moves the leaves.|wind
+自然与生命|2|星星|xīng xing|夜空中看见的发光天体|star|夜空里亮着一颗{}。|I see a {} at night.|star
+自然与生命|2|沙子|shā zi|细小的砂粒|sand|我们用{}堆了一座小城堡。|We build with {}.|sand
+自然与生命|2|海洋|hǎi yáng|地球上广阔的咸水区域|ocean|我们在地图上找到蓝色的{}。|The {} is blue.|ocean
+自然与生命|2|山|shān|高出周围地面的自然地形|mountain|远处有一座{}。|We see a {} far away.|mountain
+自然与生命|2|树叶|shù yè|长在树枝上的叶片|leaf|我捡起一片落下的{}。|A {} falls from the tree.|leaf
+动作与生活|1|吃|chī|把食物送入口中并咽下|eat|洗好手后，我们一起{}饭。|We {} after washing our hands.|apple
+动作与生活|1|喝|hē|让液体进入口中|drink|运动后，我慢慢{}水。|I {} some water.|cup
+动作与生活|2|推|tuī|用力使物体朝前移动|push|我轻轻{}开门。|I {} the door gently.|door
+动作与生活|2|拉|lā|用力使物体朝自己移动|pull|我慢慢{}开抽屉。|I {} the drawer open.|drawer
+动作与生活|2|踢|tī|用脚使物体移动|kick|我轻轻{}了一下球。|I {} the ball gently.|ball
+动作与生活|2|拥抱|yōng bào|张开双臂抱住别人|hug|得到允许后，我给朋友一个{}。|I give my friend a {}.|friends

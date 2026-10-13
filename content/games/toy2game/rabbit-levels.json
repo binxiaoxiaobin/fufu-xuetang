@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "title": "山脚初体验",
+    "start": 27,
+    "shield": true,
+    "weather": false,
+    "holes": 0,
+    "features": [
+      {
+        "index": 30,
+        "kind": "shield"
+      },
+      {
+        "index": 35,
+        "kind": "spring"
+      },
+      {
+        "index": 42,
+        "kind": "shield"
+      },
+      {
+        "index": 48,
+        "kind": "spring"
+      }
+    ],
+    "description": "从山脚出发，28 步登顶。没有地洞和雷雨，先学会抽牌、选兔。",
+    "tip": "有三只小兔可以选择；集中带一只登顶就能过关。"
+  },
+  {
+    "id": 2,
+    "title": "弹簧小径",
+    "start": 23,
+    "shield": true,
+    "weather": false,
+    "holes": 1,
+    "features": [
+      {
+        "index": 29,
+        "kind": "spring"
+      },
+      {
+        "index": 33,
+        "kind": "shield"
+      },
+      {
+        "index": 39,
+        "kind": "spring"
+      },
+      {
+        "index": 46,
+        "kind": "shield"
+      },
+      {
+        "index": 51,
+        "kind": "spring"
+      }
+    ],
+    "description": "32 步登顶。弹簧能多跳三格，山上的地洞开始打开。",
+    "tip": "弹簧会立即生效，落脚前看看前方三格是否安全。"
+  },
+  {
+    "id": 3,
+    "title": "逆风花园",
+    "start": 19,
+    "shield": true,
+    "weather": false,
+    "holes": 1,
+    "features": [
+      {
+        "index": 25,
+        "kind": "shield"
+      },
+      {
+        "index": 30,
+        "kind": "wind"
+      },
+      {
+        "index": 35,
+        "kind": "spring"
+      },
+      {
+        "index": 42,
+        "kind": "wind"
+      },
+      {
+        "index": 46,
+        "kind": "shield"
+      },
+      {
+        "index": 51,
+        "kind": "spring"
+      }
+    ],
+    "description": "36 步登顶。逆风会后退两格，护盾能挡住一次危险。",
+    "tip": "护盾只抵挡一次；选一只带护盾的小兔应对逆风。"
+  },
+  {
+    "id": 4,
+    "title": "滑道挑战",
+    "start": 15,
+    "shield": false,
+    "weather": false,
+    "holes": 2,
+    "features": [
+      {
+        "index": 19,
+        "kind": "spring"
+      },
+      {
+        "index": 25,
+        "kind": "shield"
+      },
+      {
+        "index": 30,
+        "kind": "slide"
+      },
+      {
+        "index": 35,
+        "kind": "spring"
+      },
+      {
+        "index": 42,
+        "kind": "shield"
+      },
+      {
+        "index": 48,
+        "kind": "slide"
+      },
+      {
+        "index": 51,
+        "kind": "spring"
+      }
+    ],
+    "description": "40 步登顶。滑道会退回检查点，同时打开的地洞更多了。",
+    "tip": "留意滑道的位置，换一只小兔走，或先取得护盾。"
+  },
+  {
+    "id": 5,
+    "title": "雷雨登山",
+    "start": 7,
+    "shield": true,
+    "weather": true,
+    "holes": 2,
+    "features": [
+      {
+        "index": 13,
+        "kind": "shield"
+      },
+      {
+        "index": 19,
+        "kind": "spring"
+      },
+      {
+        "index": 25,
+        "kind": "wind"
+      },
+      {
+        "index": 30,
+        "kind": "shield"
+      },
+      {
+        "index": 35,
+        "kind": "spring"
+      },
+      {
+        "index": 42,
+        "kind": "wind"
+      },
+      {
+        "index": 46,
+        "kind": "shield"
+      },
+      {
+        "index": 51,
+        "kind": "spring"
+      }
+    ],
+    "description": "48 步登顶。雷云加入冒险，被击中会眩晕一回合。",
+    "tip": "雷云靠近时分散小兔；护盾也能抵挡雷电。"
+  },
+  {
+    "id": 6,
+    "title": "胡萝卜远征",
+    "start": -1,
+    "shield": false,
+    "weather": true,
+    "holes": 3,
+    "features": [
+      {
+        "index": 3,
+        "kind": "shield"
+      },
+      {
+        "index": 7,
+        "kind": "spring"
+      },
+      {
+        "index": 15,
+        "kind": "slide"
+      },
+      {
+        "index": 24,
+        "kind": "wind"
+      },
+      {
+        "index": 29,
+        "kind": "shield"
+      },
+      {
+        "index": 35,
+        "kind": "spring"
+      },
+      {
+        "index": 44,
+        "kind": "wind"
+      },
+      {
+        "index": 48,
+        "kind": "slide"
+      }
+    ],
+    "description": "56 步完整远征。弹簧、逆风、滑道、地洞与雷雨一起登场。",
+    "tip": "别只盯着最前面的小兔，安全的落点和备用小兔同样重要。"
+  }
+]

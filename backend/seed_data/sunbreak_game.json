@@ -1,0 +1,40 @@
+{
+  "id": "sunbreak-downhill",
+  "title": "晴山飞驰",
+  "description": "骑着山地自行车，从晨光中的山顶一路下坡。与三位电脑骑手竞速，体验跳跃和空中特技。",
+  "duration": "3–8 分钟",
+  "category": "racing",
+  "players": "1 人 + 3 位电脑骑手",
+  "tags": [
+    "全屏专属",
+    "触屏骑行",
+    "山地探索"
+  ],
+  "rules": [
+    "沿约 2.3 公里的山路骑向河谷，通过检查点抵达终点。",
+    "按住蓄力，松开后跳跃；腾空时可做特技，平稳落地会积攒冲刺能量。",
+    "退出全屏会结束本局，比赛动作得分不计入学习积分。"
+  ],
+  "controls": [
+    "左手转向，右手踩踏、刹车、蓄力跳跃和冲刺。",
+    "腾空时点做特技；比赛中可暂停，建议平板横屏。"
+  ],
+  "launchTitle": "迎着晨光，骑向山下",
+  "launchDescription": "与三位电脑骑手一起下坡，沿着山路经过跳台、树林和河谷。平板默认轻量画质。",
+  "launchTips": [
+    "左手转向，右手踩踏或刹车。",
+    "按住蓄力、松开跳跃；在空中点击“做特技”。",
+    "可以暂停或重开；退出全屏会结束本局。"
+  ],
+  "cover": "/assets/games/sunbreak/cover.webp",
+  "entry": "/assets/games/sunbreak/index.html",
+  "resume": false,
+  "saveMode": "local-settings",
+  "fullscreenRequired": true,
+  "reward_points": 0,
+  "storage_keys": [],
+  "source": "https://github.com/Imirushik/sunbreak-downhill-3D-game",
+  "author": "Imirushik / SUNBREAK",
+  "license": "作者未声明授权许可（仅本地适配）",
+  "collection": "adventure-3d"
+}

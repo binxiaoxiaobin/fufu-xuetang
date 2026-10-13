@@ -1,0 +1,39 @@
+{
+  "id": "thunderfall-adapt",
+  "title": "雷霆战机 · 天穹远征",
+  "description": "原版五大空域、三种战机、四色武器和多阶段首领。擦弹充能，选择关间强化，完成十分钟以上的远征。",
+  "duration": "完整战役约 10–20 分钟",
+  "category": "action",
+  "players": "1 人",
+  "tags": [
+    "原版五关战役",
+    "四色武器",
+    "触屏拖动"
+  ],
+  "rules": [
+    "战机自动开火，移动躲开弹幕，拾取四类武器模块。",
+    "每关至少两分钟，击败首领后选择强化；可单独演练五个战区。",
+    "最多三次续战。最高分和设置随学习账号保存，战役本身每次重新开始。"
+  ],
+  "controls": [
+    "WASD / 方向键移动；Shift 精密移动；空格炸弹；E 雷霆爆发；P / Esc 暂停。",
+    "手机或鼠标在战场按住拖动，使用原版屏幕技能按钮。"
+  ],
+  "cover": "/assets/games/astra-originals/thunderfall/cover.jpg",
+  "entry": "/assets/games/astra-originals/thunderfall/index.html",
+  "resume": false,
+  "fullscreenRequired": false,
+  "fullscreenAvailable": true,
+  "reward_points": 0,
+  "storage_keys": [
+    "thunderfall:best",
+    "thunderfall:sound",
+    "thunderfall:reducedMotion",
+    "thunderfall-adapt.save.v1"
+  ],
+  "source": "https://github.com/MartinDelophy/awesome-gpt-6-astra/tree/main/works/thunderfall",
+  "author": "jackroc",
+  "license": "原版源码本地移植；保留 jackroc 署名，来源归档许可见上游仓库。",
+  "collection": "action-arcade",
+  "saveLabel": "最高分随账号保存"
+}

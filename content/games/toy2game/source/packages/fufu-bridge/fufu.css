@@ -1,0 +1,8 @@
+/* Fufu embed: keep every game within its actual available tablet height. */
+#app{min-height:0!important}
+@media(max-height:740px) and (min-width:601px){.header{min-height:64px;padding-top:8px;padding-bottom:8px}}
+.app-shell .game-space{min-height:0!important;height:calc(100dvh - 85px)}
+.app-shell .icon-button,.app-shell .primary-button,.app-shell .token-choices button{min-width:44px;min-height:44px}
+@media(max-height:740px) and (min-width:761px){.app-shell .left-panel{top:20px}.app-shell .world-heading h1{font-size:30px}.app-shell .roster{margin-top:20px}.app-shell .player-row{min-height:56px;padding:7px 0}.app-shell .players{margin-top:6px}}
+@media(max-width:760px){.app-shell .game-space{height:calc(100dvh - 66px)}}
+@media(max-height:740px) and (min-width:761px){.app-shell .discovery-dock{bottom:95px}.app-shell .left-panel{max-height:calc(100% - 210px);overflow-y:auto;overscroll-behavior:contain}}

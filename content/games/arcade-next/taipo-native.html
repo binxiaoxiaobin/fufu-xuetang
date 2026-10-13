@@ -1,0 +1,5 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><style>html,body{margin:0;width:100%;height:100%;background:#20252c;overflow:hidden}body{display:grid;place-items:center}canvas{display:block;outline:none;image-rendering:pixelated;width:min(100vw,150vh)!important;height:auto!important;max-height:100vh!important;aspect-ratio:3/2;object-fit:contain}</style></head><body><canvas id="bevy" tabindex="0" aria-label="打字守卫游戏画面"></canvas><script type="module">
+import './native-bridge.js';
+import init from './build/taipo.js';
+try{await init();window.FufuNativeLoaded=true;window.FufuNativeBooted=true;parent.FufuNative.ready();}catch(error){parent.FufuNative.error(error.message);}
+</script></body></html>

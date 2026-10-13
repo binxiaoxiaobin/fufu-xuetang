@@ -1,0 +1,8 @@
+{
+  "id":"little-spy","title":"小间谍","description":"潜入敌方基地，收集机密文件，借助降落伞闯过六个关卡。",
+  "duration":"约 10–30 分钟，可分关游玩","category":"pixel-action","players":"1 人","tags":["动作闯关","降落伞","六个关卡"],
+  "rules":["收集文件、避开敌人并寻找出口。","死亡会重试当前关卡；重新打开时从已保存关卡的起点继续。"],
+  "controls":["左右方向键移动，上方向键跳跃，下方向键使用降落伞。","空格攻击，Enter 确认，Esc 菜单；支持触屏按钮。"],
+  "cover":"/assets/games/little-spy/cover.webp","entry":"/assets/games/little-spy/index.html","resume":true,"saveMode":"learner-server","fullscreenRequired":false,"fullscreenAvailable":true,"reward_points":0,
+  "storage_keys":["little-spy.save.v1","little-spy.settings.v1"],"source":"https://github.com/wimpysworld/little-spy","author":"Martin Wimpress / Little Spy contributors","license":"MIT；素材作者与许可保留在源码中","collection":"platformer-2d"
+}

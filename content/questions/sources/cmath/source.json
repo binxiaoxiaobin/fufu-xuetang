@@ -1,0 +1,20 @@
+{
+  "name": "CMATH",
+  "dataset": "cmath_dev",
+  "source_url": "https://github.com/XiaoMi/cmath/tree/main/datasets",
+  "raw_url": "https://raw.githubusercontent.com/XiaoMi/cmath/main/datasets/cmath_dev.jsonl",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Tianwen Wei, Jian Luan, Wei Liu, Shuang Dong, and Bin Wang. CMATH: Can Your Language Model Pass Chinese Elementary School Math Test? 2023. https://arxiv.org/abs/2306.16636. Dataset release: cmath_dev, https://github.com/XiaoMi/cmath/tree/main/datasets. Licensed under CC BY 4.0.",
+  "downloaded_file": "cmath_dev.jsonl",
+  "expected_records": 600,
+  "grade_counts": {
+    "1": 100,
+    "2": 100,
+    "3": 100,
+    "4": 100,
+    "5": 100,
+    "6": 100
+  },
+  "adaptation_note": "Imported as short-answer math questions. Original prompts and golden answers are retained; the source has no multiple-choice options or detailed worked explanation. reasoning_step and num_digits are retained as source metadata, and no worked solution or distractor is generated."
+}

@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>团团骨骼版对照预览 · 福福学堂</title>
+  <style>
+    :root{font-family:ui-sans-serif,"Microsoft YaHei",sans-serif;color:#30483e;background:#f4f5ee}
+    *{box-sizing:border-box}body{margin:0}button{font:inherit;cursor:pointer}
+    .shell{max-width:1400px;margin:auto;padding:26px clamp(16px,3vw,44px) 42px}
+    .top{display:flex;justify-content:space-between;gap:20px;align-items:center;margin-bottom:22px}
+    .eyebrow{font-size:12px;font-weight:700;letter-spacing:.12em;color:#668574}
+    h1{font-size:clamp(26px,3vw,40px);letter-spacing:-.04em;line-height:1.15;margin:8px 0}
+    .intro{margin:0;color:#72857a;line-height:1.6;font-size:14px}
+    .back{color:#365f4d;text-decoration:none;border:1px solid #d8e4d9;border-radius:99px;padding:10px 16px;background:#fff;white-space:nowrap}
+    .grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+    .card{min-width:0;border:1px solid #e2e9df;border-radius:26px;background:#fff;overflow:hidden;box-shadow:0 15px 40px #415a4210}
+    .card-head{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:18px 20px 0}
+    .card h2{font-size:17px;margin:0}.badge{font-size:11px;border-radius:99px;padding:5px 10px;background:#e6efe8;color:#4f795d;font-weight:700}
+    .badge.review{background:#fff1db;color:#9b6b27}
+    .stage{height:min(62vw,610px);min-height:410px;position:relative;overflow:hidden;background:radial-gradient(circle at 50% 33%,#fffdf0 0,#edf2e8 58%,#e2eadc 100%)}
+    .stage:after{content:"";position:absolute;width:46%;height:6%;bottom:10%;left:27%;background:#788f7766;border-radius:50%;filter:blur(18px);pointer-events:none}
+    .stage canvas{display:block;position:relative;z-index:1}
+    .loading{position:absolute;inset:0;display:grid;place-items:center;color:#789081;font-size:14px}
+    .caption{padding:13px 20px 18px;color:#72857a;font-size:13px;line-height:1.5;border-top:1px solid #edf0e9}
+    .toolbar{margin:18px 0 0;padding:16px 18px;background:#fff;border:1px solid #e2e9df;border-radius:18px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+    .toolbar strong{font-size:13px;margin-right:5px}.toolbar button{border:1px solid #dce6da;background:#f8faf5;color:#3b5a48;border-radius:12px;padding:9px 15px;font-size:13px;font-weight:700}
+    .toolbar button.active{border-color:#3b795d;background:#3b795d;color:white}
+    .hint{margin-left:auto;color:#88998c;font-size:12px}
+    .note{font-size:12px;color:#977046;margin:14px 2px 0;line-height:1.6}
+    @media(max-width:850px){.grid{grid-template-columns:1fr}.stage{height:58vh;min-height:380px}.top{align-items:flex-start}.hint{margin-left:0}}
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header class="top">
+      <div><div class="eyebrow">福福学堂 · 角色实验室</div><h1>团团乐园版预览</h1><p class="intro">左边是原版造型，右边是已放入黏土乐园的轻量版。两边同步旋转，可以检查衣服、手臂和脚。</p></div>
+      <a class="back" href="/clay-safari/">进入黏土乐园 ↗</a>
+    </header>
+    <div class="grid">
+      <section class="card"><div class="card-head"><h2>原版模型</h2><span class="badge">造型基准</span></div><div class="stage" id="originalStage"><div class="loading">正在加载原版模型…</div></div><div class="caption">完整的初版黏土造型，暂时没有骨骼。</div></section>
+      <section class="card"><div class="card-head"><h2>乐园轻量版</h2><span class="badge review">已用于黏土乐园</span></div><div class="stage" id="riggedStage"><div class="loading">正在加载骨骼模型…</div></div><div class="caption">保留造型、贴图与走跑动作，减少面数并修复手部碎面。可以观察肩部、红领巾、背包与腿部。</div></section>
+    </div>
+    <div class="toolbar"><strong>动作</strong><button data-action="idle" class="active">站立</button><button data-action="Walking">走路</button><button data-action="Running">跑步</button><span class="hint">在任意模型上拖动可同步旋转 · 滚轮可缩放</span></div>
+    <p class="note">右侧使用的就是黏土乐园当前的人物文件。这里可放大检查，乐园中可直接试玩。</p>
+  </main>
+  <script type="module" src="/character-meshy-review.js?v=20260930-tuantuan-3"></script>
+</body>
+</html>

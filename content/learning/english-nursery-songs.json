@@ -1,0 +1,71 @@
+[
+  {
+    "slug": "twinkle-twinkle-little-star",
+    "title": "Twinkle, Twinkle, Little Star",
+    "title_zh": "一闪一闪小星星",
+    "summary": "跟着歌声仰望夜空，认识星星、世界和好奇发问的表达。",
+    "emoji": "⭐",
+    "source_name": "传统儿歌；儿童演唱：aliteralmind（ccMixter）",
+    "source_url": "https://ccmixter.org/files/aliteralmind/41744",
+    "lines": [
+      {"lyric":"Twinkle, twinkle, little star,","translation":"一闪一闪，小小的星星，","start_ms":0,"end_ms":8000},
+      {"lyric":"How I wonder what you are!","translation":"我真想知道你是什么！","start_ms":8000,"end_ms":15000},
+      {"lyric":"Up above the world so high,","translation":"高高地挂在世界上方，","start_ms":15000,"end_ms":22000},
+      {"lyric":"Like a diamond in the sky.","translation":"像天空中的一颗钻石。","start_ms":22000,"end_ms":28000},
+      {"lyric":"Twinkle, twinkle, little star,","translation":"一闪一闪，小小的星星，","start_ms":28000,"end_ms":35000},
+      {"lyric":"How I wonder what you are!","translation":"我真想知道你是什么！","start_ms":35000,"end_ms":43000}
+    ],
+    "audio_filename": "twinkle-twinkle-little-star-child-vocal.mp3",
+    "audio_source_name": "aliteralmind · 6yr-old Super-Herbie（ccMixter）",
+    "audio_source_url": "https://ccmixter.org/files/aliteralmind/41744",
+    "audio_license": "CC BY-NC 3.0",
+    "audio_mime_type": "audio/mpeg"
+  },
+  {
+    "slug": "mary-had-a-little-lamb",
+    "title": "Mary Had a Little Lamb",
+    "title_zh": "玛丽有只小羊羔",
+    "summary": "玛丽的小羊总跟着她，跟着歌声练习描写外表和重复句式。",
+    "emoji": "🐑",
+    "source_name": "Sarah Josepha Hale《Poems for Our Children》（1830）；演唱：Celestianpower",
+    "source_url": "https://www.gutenberg.org/ebooks/10137",
+    "lines": [
+      {"lyric":"Mary had a little lamb,","translation":"玛丽有一只小羊羔，","start_ms":0,"end_ms":2700},
+      {"lyric":"Little lamb, little lamb,","translation":"一只小羊羔，一只小羊羔，","start_ms":2700,"end_ms":5100},
+      {"lyric":"Mary had a little lamb,","translation":"玛丽有一只小羊羔，","start_ms":5100,"end_ms":7800},
+      {"lyric":"Its fleece was white as snow.","translation":"它的羊毛像雪一样白。","start_ms":7800,"end_ms":10600},
+      {"lyric":"And everywhere that Mary went,","translation":"玛丽走到哪里，","start_ms":10600,"end_ms":13500},
+      {"lyric":"Mary went, Mary went,","translation":"玛丽走到哪里，玛丽走到哪里，","start_ms":13500,"end_ms":15800},
+      {"lyric":"And everywhere that Mary went,","translation":"玛丽走到哪里，","start_ms":15800,"end_ms":18700},
+      {"lyric":"The lamb was sure to go.","translation":"小羊都一定跟着去。","start_ms":18700,"end_ms":23000}
+    ],
+    "audio_filename": "mary-had-a-little-lamb.ogg",
+    "audio_source_name": "Celestianpower（Wikimedia Commons）",
+    "audio_source_url": "https://commons.wikimedia.org/wiki/File:Mary_Had_a_Little_Lamb.ogg",
+    "audio_license": "Public Domain dedication",
+    "audio_mime_type": "audio/ogg"
+  },
+  {
+    "slug": "itsy-bitsy-spider",
+    "title": "The Itsy Bitsy Spider",
+    "title_zh": "小小蜘蛛",
+    "summary": "看着讲述者唱小蜘蛛爬水管、遇见雨水又重新出发。",
+    "emoji": "🕷️",
+    "source_name": "传统儿歌；演唱：Angel Sauceda Garcia；Anaheim Libraries",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Itsy_Bitsy_Spiter_-_English.webm",
+    "lines": [
+      {"lyric":"Ready? Ready?","translation":"准备好了吗？准备好了吗？","start_ms":0,"end_ms":3000},
+      {"lyric":"The itsy bitsy spider went up the waterspout.","translation":"小小蜘蛛爬上了排水管。","start_ms":3000,"end_ms":7000},
+      {"lyric":"Down came the rain and washed the spider out.","translation":"雨水落下来，把蜘蛛冲了下来。","start_ms":7000,"end_ms":12000},
+      {"lyric":"Out came the sun and dried up all the rain.","translation":"太阳出来，把雨水都晒干。","start_ms":12000,"end_ms":16000},
+      {"lyric":"And the itsy bitsy spider went up the spout again.","translation":"小小蜘蛛又爬上了排水管。","start_ms":16000,"end_ms":21000}
+    ],
+    "audio_filename": "itsy-bitsy-spider-song.webm",
+    "audio_media_kind": "video",
+    "audio_media_path": "assets/video/english-nursery-songs/itsy-bitsy-spider-song.webm",
+    "audio_source_name": "Anaheim Libraries（Wikimedia Commons）",
+    "audio_source_url": "https://commons.wikimedia.org/wiki/File:Itsy_Bitsy_Spiter_-_English.webm",
+    "audio_license": "CC BY 3.0",
+    "audio_mime_type": "video/webm"
+  }
+]

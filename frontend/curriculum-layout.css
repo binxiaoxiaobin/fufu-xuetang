@@ -1,0 +1,30 @@
+/* Compact textbook browsing, with comfortable tablet touch targets. */
+.curriculum-heading { margin: 22px 0; }
+.curriculum-heading h1 { font-size: clamp(22px, 3vw, 28px); margin: 10px 0; line-height: 1.45; }
+.curriculum-heading p { font-size: 13px; margin: 8px 0; }
+.curriculum-heading > .eyebrow { font-size: 11px; }
+.curriculum-toolbar { gap: 14px; font-size: 13px; }
+.curriculum-toolbar button, .curriculum-books button { font-size: 13px; padding: 10px 18px; border-radius: 12px; }
+.curriculum-toolbar select { font-size: 13px; min-height: 44px; }
+.curriculum-books { margin-top: 18px; }
+.curriculum-edition, #curriculumStatus { font-size: 12px; line-height: 1.75; }
+.curriculum-layout { gap: 22px; margin-top: 20px; grid-template-columns: minmax(210px,260px) minmax(0,1fr); }
+.curriculum-layout > * { min-width: 0; }
+.curriculum-layout h2 { font-size: 17px; line-height: 1.5; }
+.curriculum-layout aside { padding: 16px; border-radius: 16px; }
+.curriculum-layout aside button { padding: 12px 10px; min-height: 56px; margin-bottom: 6px; }
+.curriculum-layout aside b { font-size: 13px; }
+.curriculum-layout aside small { font-size: 11px; margin-top: 4px; }
+.curriculum-topic-heading { gap: 12px; }
+.curriculum-topic-heading small { font-size: 12px; }
+.curriculum-topic-heading button { font-size: 12px; min-height: 44px; }
+.curriculum-topics { gap: 12px; }
+.curriculum-topic { padding: 18px; gap: 10px; min-height: 155px; border-radius: 15px; }
+.curriculum-topic-icon { font-size: 23px; }
+.curriculum-topic b { font-size: 14px; line-height: 1.6; }
+.curriculum-topic small, .curriculum-topic > span:last-child { font-size: 12px; }
+@media (max-width: 700px) {
+  .curriculum-layout { grid-template-columns: 1fr; gap: 18px; }
+  .curriculum-topic { min-height: 140px; }
+  .curriculum-toolbar { align-items: flex-start; }
+}

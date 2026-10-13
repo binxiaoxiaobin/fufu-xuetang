@@ -1,0 +1,425 @@
+[
+  {
+    "symbol": "b",
+    "slug": "b",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/b.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "p",
+    "slug": "p",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/p.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "m",
+    "slug": "m",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/m.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "f",
+    "slug": "f",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/f.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "d",
+    "slug": "d",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/d.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "t",
+    "slug": "t",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/t.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "n",
+    "slug": "n",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/n.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "l",
+    "slug": "l",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/l.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "g",
+    "slug": "g",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/g.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "k",
+    "slug": "k",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/k.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "h",
+    "slug": "h",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/h.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "j",
+    "slug": "j",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/j.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "q",
+    "slug": "q",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/q.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "x",
+    "slug": "x",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/x.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "zh",
+    "slug": "zh",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/zh.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "ch",
+    "slug": "ch",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/ch.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "sh",
+    "slug": "sh",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/sh.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "r",
+    "slug": "r",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/r.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "z",
+    "slug": "z",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/z.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "c",
+    "slug": "c",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/c.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "s",
+    "slug": "s",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/s.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "y",
+    "slug": "y",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/y.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "w",
+    "slug": "w",
+    "group_key": "initials",
+    "group_name": "声母",
+    "audio_path": "/assets/audio/learning-pinyin/w.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "a",
+    "slug": "a",
+    "group_key": "simple",
+    "group_name": "单韵母",
+    "audio_path": "/assets/audio/learning-pinyin/a.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "o",
+    "slug": "o",
+    "group_key": "simple",
+    "group_name": "单韵母",
+    "audio_path": "/assets/audio/learning-pinyin/o.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "e",
+    "slug": "e",
+    "group_key": "simple",
+    "group_name": "单韵母",
+    "audio_path": "/assets/audio/learning-pinyin/e.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "i",
+    "slug": "i",
+    "group_key": "simple",
+    "group_name": "单韵母",
+    "audio_path": "/assets/audio/learning-pinyin/i.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "u",
+    "slug": "u",
+    "group_key": "simple",
+    "group_name": "单韵母",
+    "audio_path": "/assets/audio/learning-pinyin/u.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "ü",
+    "slug": "v",
+    "group_key": "simple",
+    "group_name": "单韵母",
+    "audio_path": "/assets/audio/learning-pinyin/v.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "ai",
+    "slug": "ai",
+    "group_key": "compound",
+    "group_name": "复韵母",
+    "audio_path": "/assets/audio/learning-pinyin/ai.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "ei",
+    "slug": "ei",
+    "group_key": "compound",
+    "group_name": "复韵母",
+    "audio_path": "/assets/audio/learning-pinyin/ei.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "ui",
+    "slug": "ui",
+    "group_key": "compound",
+    "group_name": "复韵母",
+    "audio_path": "/assets/audio/learning-pinyin/ui.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "ao",
+    "slug": "ao",
+    "group_key": "compound",
+    "group_name": "复韵母",
+    "audio_path": "/assets/audio/learning-pinyin/ao.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "ou",
+    "slug": "ou",
+    "group_key": "compound",
+    "group_name": "复韵母",
+    "audio_path": "/assets/audio/learning-pinyin/ou.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "iu",
+    "slug": "iu",
+    "group_key": "compound",
+    "group_name": "复韵母",
+    "audio_path": "/assets/audio/learning-pinyin/iu.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "ie",
+    "slug": "ie",
+    "group_key": "compound",
+    "group_name": "复韵母",
+    "audio_path": "/assets/audio/learning-pinyin/ie.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "üe",
+    "slug": "ve",
+    "group_key": "compound",
+    "group_name": "复韵母",
+    "audio_path": "/assets/audio/learning-pinyin/ve.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "er",
+    "slug": "er",
+    "group_key": "special",
+    "group_name": "特殊韵母",
+    "audio_path": "/assets/audio/learning-pinyin/er.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "an",
+    "slug": "an",
+    "group_key": "nasal",
+    "group_name": "鼻韵母",
+    "audio_path": "/assets/audio/learning-pinyin/an.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "en",
+    "slug": "en",
+    "group_key": "nasal",
+    "group_name": "鼻韵母",
+    "audio_path": "/assets/audio/learning-pinyin/en.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "in",
+    "slug": "in",
+    "group_key": "nasal",
+    "group_name": "鼻韵母",
+    "audio_path": "/assets/audio/learning-pinyin/in.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "un",
+    "slug": "un",
+    "group_key": "nasal",
+    "group_name": "鼻韵母",
+    "audio_path": "/assets/audio/learning-pinyin/un.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "ün",
+    "slug": "vn",
+    "group_key": "nasal",
+    "group_name": "鼻韵母",
+    "audio_path": "/assets/audio/learning-pinyin/vn.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "ang",
+    "slug": "ang",
+    "group_key": "nasal",
+    "group_name": "鼻韵母",
+    "audio_path": "/assets/audio/learning-pinyin/ang.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "eng",
+    "slug": "eng",
+    "group_key": "nasal",
+    "group_name": "鼻韵母",
+    "audio_path": "/assets/audio/learning-pinyin/eng.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "ing",
+    "slug": "ing",
+    "group_key": "nasal",
+    "group_name": "鼻韵母",
+    "audio_path": "/assets/audio/learning-pinyin/ing.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  },
+  {
+    "symbol": "ong",
+    "slug": "ong",
+    "group_key": "nasal",
+    "group_name": "鼻韵母",
+    "audio_path": "/assets/audio/learning-pinyin/ong.mp3",
+    "source_name": "SReading 拼音捷径 · 真人示范录音",
+    "source_url": "https://www.sreading.org/zh-hans/pinyin-pathway"
+  }
+]

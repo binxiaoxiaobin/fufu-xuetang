@@ -1,0 +1,8 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><style>html,body{margin:0;width:100%;height:100%;background:#15252f;overflow:hidden}body{display:grid;place-items:center}canvas{display:block;outline:none;image-rendering:pixelated;width:min(100vw,177.777vh)!important;height:auto!important;max-height:100vh!important;aspect-ratio:16/9;object-fit:contain}</style></head><body><canvas id="canvas" tabindex="0" aria-label="推箱子世界游戏画面"></canvas><script type="module">
+import './native-bridge.js';
+const canvas=document.querySelector('canvas');
+window.Module={canvas,noInitialRun:true,onRuntimeInitialized:async()=>{
+ try{const response=await fetch('game.usagi');if(!response.ok)throw new Error('游戏包读取失败');Module.FS.writeFile('/game.usagi',new Uint8Array(await response.arrayBuffer()));Module.callMain([]);parent.FufuNative.ready();}catch(error){parent.FufuNative.error(error.message);}
+}};
+const script=document.createElement('script');script.src='usagi.js';script.onerror=()=>parent.FufuNative.error('无法加载游戏引擎');document.body.append(script);
+</script></body></html>

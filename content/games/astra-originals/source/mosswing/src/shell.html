@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f5d6b2">
+<meta name="description" content="Small wings. Endless wonder. A tiny one-tap flight through a floating garden. Plays offline.">
+<title>Mosswing — Small wings. Endless wonder.</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%232c493c'/%3E%3Cpath d='M33 10C9 30 16 45 29 47C48 47 53 31 33 10Z M22 55L40 26' fill='none' stroke='%23f8e5ba' stroke-width='3'/%3E%3C/svg%3E">
+<style>
+:root{color-scheme:light;--ink:#203f34;--cream:#fff4d9;--muted:#526354;--ease:cubic-bezier(.2,.7,.2,1)}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{width:100%;height:100%;margin:0;overflow:hidden;overscroll-behavior:none}
+body{font-family:Arial,Helvetica,sans-serif;color:var(--ink);background:#f4d7b5;user-select:none;-webkit-user-select:none;touch-action:none}
+button{font:inherit;color:inherit;cursor:pointer;touch-action:manipulation}button:focus-visible{outline:2px solid var(--ink);outline-offset:6px}button:disabled{cursor:default}
+#world{position:fixed;inset:0;background:radial-gradient(ellipse at 84% 20%,#fff2cb 0,transparent 39%),linear-gradient(180deg,#f8cca9 0%,#f7dfb8 56%,#cfceb5 79%,#8da89b 100%)}
+canvas{display:block;width:100%;height:100%;outline:none}
+.haze{position:fixed;inset:0;pointer-events:none;background:linear-gradient(0deg,rgba(204,217,194,.36),transparent 22%)}
+header{position:fixed;z-index:4;top:max(26px,env(safe-area-inset-top));left:max(34px,env(safe-area-inset-left));right:max(30px,env(safe-area-inset-right));display:flex;align-items:center;justify-content:space-between;pointer-events:none}
+.brand{display:flex;gap:15px;align-items:center;font-size:14px;letter-spacing:.27em;font-weight:600}.brand svg{width:27px;height:39px;stroke-width:1.7;fill:none;stroke:currentColor}
+.utilities{display:flex;gap:21px;align-items:center}.best{font-size:12px;font-weight:600;letter-spacing:.2em;white-space:nowrap}.best span{margin-left:10px;font-variant-numeric:tabular-nums}
+.icon-button{pointer-events:auto;display:grid;place-items:center;border:1px solid transparent;background:transparent;width:44px;height:44px;border-radius:50%;transition:background .2s}.icon-button:hover{background:#fff4d933}.icon-button svg{width:23px;height:23px;fill:none;stroke:currentColor;stroke-width:1.65;stroke-linecap:round;stroke-linejoin:round}
+#pause{display:none}.playing #pause,.paused #pause{display:grid}.mute-slash{display:none}.muted .sound-wave{display:none}.muted .mute-slash{display:block}
+#intro{position:fixed;inset:0;z-index:2;pointer-events:none;transition:opacity .35s,visibility .35s}
+.title-block{position:absolute;top:16%;width:100%;text-align:center}h1{font:normal clamp(70px,10.5vw,160px)/1.1 Georgia,'Times New Roman',serif;letter-spacing:-.065em;margin:0 0 15px;padding-right:.045em}.tagline{font-size:clamp(14px,1.65vw,21px);letter-spacing:.065em;margin:0}
+.launch{position:absolute;bottom:max(8.7%,62px);width:100%;text-align:center}.primary{border:1px solid #f3e6bf99;background:var(--ink);color:var(--cream);border-radius:60px;min-height:68px;min-width:236px;padding:14px 32px;display:inline-flex;align-items:center;justify-content:center;gap:25px;font:normal 29px/1.2 Georgia,serif;box-shadow:0 8px 24px #3654420c;transition:transform .18s,background .18s;pointer-events:auto}.primary:hover{background:#2d5142;transform:translateY(-2px)}.primary:active{transform:scale(.96)}.primary svg{width:26px;height:26px;stroke:currentColor;fill:none;stroke-width:1.6}
+.hint{margin:16px 0 0;font-size:13px;letter-spacing:.05em}.footer{position:absolute;bottom:max(24px,env(safe-area-inset-bottom));left:0;right:0;text-align:center;font-size:10px;letter-spacing:.3em;font-weight:500}
+#score{position:fixed;top:max(76px,calc(env(safe-area-inset-top) + 52px));left:0;right:0;text-align:center;font:normal 66px/1 Georgia,serif;pointer-events:none;opacity:0;transform:translateY(-10px);transition:opacity .3s,transform .3s;color:#244a3b;text-shadow:0 2px 20px #ffebc88c;font-variant-numeric:tabular-nums}.playing #score,.paused #score{opacity:1;transform:none}.playing #intro,.dying #intro,.over #intro,.paused #intro{opacity:0;visibility:hidden}
+#tap-hint{position:fixed;bottom:max(38px,env(safe-area-inset-bottom));width:100%;text-align:center;pointer-events:none;font-size:12px;letter-spacing:.13em;opacity:0;transition:opacity .5s}.playing #tap-hint.visible{opacity:.8}
+.veil{position:fixed;inset:0;z-index:3;background:#f6dfbd65;backdrop-filter:blur(7px);display:flex;align-items:center;justify-content:center;opacity:0;visibility:hidden;transition:opacity .35s,visibility .35s;pointer-events:none}.veil.visible{opacity:1;visibility:visible;pointer-events:auto}.result{text-align:center;padding:28px;width:min(100%,440px)}.result .sprig{width:32px;height:46px;stroke:currentColor;fill:none;stroke-width:1.4;margin-bottom:12px}.result h2{font:normal 52px/1.1 Georgia,serif;letter-spacing:-.05em;margin:0 0 13px}.result p{font-size:14px;line-height:1.6;margin:0}.stats{display:flex;justify-content:center;gap:54px;margin:29px 0 30px}.stats div{min-width:73px}.stats dt{font-size:10px;letter-spacing:.2em;margin-bottom:8px}.stats dd{font:normal 53px/1 Georgia,serif;margin:0;font-variant-numeric:tabular-nums}.result .primary{min-height:59px;font-size:25px;min-width:219px}.result .hint{margin-top:17px;font-size:12px}.new-best{font-size:11px!important;letter-spacing:.15em;text-transform:uppercase;color:#466d43;height:18px;margin-top:9px!important}
+#flash{position:fixed;inset:0;background:#fff9e8;opacity:0;pointer-events:none;z-index:5}#error{display:none;position:fixed;inset:0;z-index:10;place-content:center;text-align:center;padding:32px;background:#f7dfb8}#error h2{font:36px Georgia,serif}#error p{max-width:380px;line-height:1.6}#error button{margin:auto}
+@media(max-width:600px){header{top:max(17px,env(safe-area-inset-top));left:max(19px,env(safe-area-inset-left));right:max(12px,env(safe-area-inset-right))}.brand{gap:9px;font-size:10px;letter-spacing:.22em}.brand svg{width:22px;height:31px}.utilities{gap:4px}.best{font-size:10px;letter-spacing:.12em}.best span{margin-left:5px}.icon-button{width:42px;height:42px}.title-block{top:19%}h1{font-size:clamp(64px,17.5vw,102px);margin-bottom:14px;letter-spacing:-.065em}.tagline{font-size:13px;letter-spacing:.045em}.primary{font-size:27px;min-height:63px;min-width:223px}.launch{bottom:13%}.hint{font-size:11px}.footer{font-size:9px;bottom:max(27px,env(safe-area-inset-bottom));letter-spacing:.22em}#score{top:82px;font-size:57px}.result h2{font-size:47px}.result{padding-top:8px}.stats{margin:25px 0}.veil{backdrop-filter:blur(5px)}}
+@media(max-height:500px) and (min-width:601px){header{top:10px}.title-block{top:13%}h1{font-size:70px;margin-bottom:4px}.tagline{font-size:13px}.launch{bottom:9%}.primary{min-height:49px;padding:8px 26px;font-size:23px}.hint{margin-top:9px;font-size:11px}.footer{display:none}#score{top:49px;font-size:45px}.result h2{font-size:35px}.result .sprig{display:none}.stats{margin:15px 0}.stats dd{font-size:39px}.result .hint{display:none}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<main id="world"><canvas id="game" tabindex="0" aria-label="Mosswing. Tap, click, or press Space to flap through the gaps. One collision ends your flight."></canvas></main>
+<div class="haze"></div>
+<header><div class="brand"><svg viewBox="0 0 28 42" aria-hidden="true"><path d="M16 2C-1 16 1 30 11 33C25 34 31 20 16 2Z M4 40L22 15"/></svg><span>MOSSWING</span></div><div class="utilities"><div class="best">BEST<span id="best">00</span></div><button id="pause" class="icon-button" aria-label="Pause game"><svg viewBox="0 0 24 24"><path d="M8 5v14M16 5v14"/></svg></button><button id="sound" class="icon-button" aria-label="Mute sound" aria-pressed="false"><svg viewBox="0 0 24 24"><path d="M11 4 5 9H2v6h3l6 5Z"/><path class="sound-wave" d="M15 8c3 2 3 6 0 8m3-11c5 4 5 10 0 14"/><path class="mute-slash" d="m15 9 6 6m0-6-6 6"/></svg></button></div></header>
+<section id="intro"><div class="title-block"><h1>Mosswing</h1><p class="tagline">Small wings. Endless wonder.</p></div><div class="launch"><button id="start" class="primary">Take flight<svg viewBox="0 0 28 24" aria-hidden="true"><path d="M2 12h23M16 3l9 9-9 9"/></svg></button><p class="hint">Tap anywhere or press space</p></div><div class="footer">ONE TAP. ONE MORE TRY.</div></section>
+<output id="score" aria-label="Gaps passed">0</output><div id="tap-hint">TAP TO KEEP YOUR WINGS UP</div>
+<section id="gameover" class="veil" aria-hidden="true"><div class="result"><svg class="sprig" viewBox="0 0 28 42" aria-hidden="true"><path d="M16 2C-1 16 1 30 11 33C25 34 31 20 16 2Z M4 40L22 15"/></svg><h2>A little further?</h2><p id="result-message">Every flight starts with a little lift.</p><dl class="stats"><div><dt>THIS FLIGHT</dt><dd id="final-score">0</dd></div><div><dt>PERSONAL BEST</dt><dd id="final-best">0</dd></div></dl><button id="retry" class="primary">Fly again<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 8a8 8 0 1 0 1 7M19 3v6h-6"/></svg></button><p class="new-best" id="record"></p><p class="hint">Tap anywhere or press space</p></div></section>
+<section id="paused" class="veil" aria-hidden="true"><div class="result"><h2>A quiet moment.</h2><p>Your garden will wait.</p><button id="resume" class="primary" style="margin-top:28px">Keep flying<svg viewBox="0 0 28 24" aria-hidden="true"><path d="M2 12h23M16 3l9 9-9 9"/></svg></button></div></section>
+<div id="flash"></div><div id="error" role="alert"><h2>A moment on the ground.</h2><p>This garden needs WebGL. Try opening it in a current version of Safari or Chrome.</p><button class="primary" id="reload">Try again</button></div>
+<noscript><div style="position:fixed;inset:0;background:#f7dfb8;display:grid;place-content:center;padding:24px">Enable JavaScript to take flight.</div></noscript>
+<!-- THREE_LIBRARY -->
+<script>
+/* GAME_CODE */
+</script>
+</body>
+</html>

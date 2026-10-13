@@ -1,0 +1,132 @@
+/* Static local WebP environments: no extra renderer, geometry or animation. */
+#page-home .home-journey { background:#edf1df; isolation:isolate; }
+#page-home .home-journey::before {
+  inset:0; width:auto; height:auto; border-radius:inherit;
+  background:linear-gradient(90deg,#edf1df 0%,#edf1dff5 30%,#edf1dfb3 49%,#edf1df26 72%,#edf1df0a 100%),
+    url('/assets/environments/garden.webp') center 56% / cover;
+}
+#page-home .pet-scene { background:transparent; border:0; border-radius:0; }
+#page-home .pet-scene::before,#page-home .pet-scene::after { content:none; }
+#page-home .pet-scene-glow { background:none; }
+#page-home .pet-scene.is-reacting { box-shadow:none; }
+#page-home .companion-caption,#page-home .pet-last-action { color:#3f5b40; text-shadow:0 1px 3px #fff7; }
+@media(max-width:650px) {
+  #page-home .home-journey::before {
+    background:linear-gradient(180deg,#edf1df 0%,#edf1dff5 30%,#edf1df9c 50%,#edf1df14 74%,#edf1df26 100%),
+      url('/assets/environments/garden.webp') center bottom / auto 74% no-repeat;
+  }
+}
+.eng-main .eng-hero,.eng-main .eng-hero[data-scene] {
+  background:linear-gradient(#fff4,#fff1),url('/assets/environments/worksite.webp') center / cover;
+}
+.dino-hero,.dino-hero[data-habitat="land"],.dino-hero[data-habitat="sky"] {
+  background:linear-gradient(#fff3,#fff1),url('/assets/environments/prehistoric.webp') center / cover;
+}
+.dino-hero[data-habitat="sea"] {
+  background:linear-gradient(#fff2,#fff1),url('/assets/environments/underwater.webp') center / cover;
+}
+.transport-stage { background:linear-gradient(#fff3,#fff1),url('/assets/environments/journey.webp') center / cover; }
+.transport-stage[data-environment="water"] { background-image:linear-gradient(#fff3,#fff1),url('/assets/environments/ocean.webp'); }
+.transport-stage[data-environment="sky"] { background-position:center 25%; }
+.transport-stage[data-environment="space"] { background:radial-gradient(ellipse at 48% 70%,#8b9fa8 0%,#516575 55%,#293e51 100%); }
+#solarCanvasHost,#moonCanvasHost,#lunarCanvasHost,.globe-stage {
+  background:#081426 url('/assets/environments/space.webp') center / cover;
+}
+.dino-era-chip { background:#36594ddb; border:0; font-size:12px; }
+.dino-hero-caption { color:#294a3b; bottom:58px; pointer-events:none; max-width:64%; }
+.dino-hero-caption small,.dino-hero-caption span { color:#486452; font-size:12px; }
+.dino-model-reset,.dino-model-hint,.dino-tuantuan-btn {
+  background:#fffdf4eb!important; color:#36594d!important; border:1px solid #c8d8c8!important;
+}
+.eng-reset,.eng-refbtn,.dino-model-reset,.dino-tuantuan-btn { min-height:44px; padding:8px 12px!important; font-size:12px!important; }
+.eng-reset,.dino-model-reset { top:52px; }
+.eng-refbtn,.dino-tuantuan-btn { top:103px!important; }
+.eng-hint,.dino-model-hint { font-size:11px; padding:7px 10px; }
+.eng-caption,.dino-hero-caption { text-shadow:0 1px 3px #fff9; }
+
+/* The model and its compact control panel form one observation workspace. */
+.eng-main { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(260px,1fr); gap:16px; align-items:start; margin-top:0; }
+.eng-stage-col { min-width:0; position:sticky; top:12px; }
+.eng-stage-col { display:block; }
+.eng-main .eng-hero { height:clamp(320px,55vh,440px); }
+.eng-tools { min-width:0; padding:16px; margin:0; border-radius:20px; }
+.eng-main>.eng-tools { order:0; }
+.eng-block h3 { font-size:15px; line-height:1.5; margin:14px 0 10px; }
+.eng-block p { font-size:13px; line-height:1.7; }
+.eng-chips,.eng-demo-actions { display:flex; flex-wrap:wrap; gap:8px; }
+.eng-chips button,.eng-demo-actions button { min-height:44px; font-size:13px; padding:8px 11px; border-radius:10px; }
+.eng-roster { margin-top:20px; }
+.eng-profile { margin-top:20px; }
+.model-control-tabs { display:flex; gap:4px; padding:4px; border-radius:12px; background:#eef2e7; }
+.model-control-tabs button { flex:1; min-height:44px; border:0; border-radius:9px; background:transparent; font-size:14px; font-weight:600; font-family:inherit; color:#536b5b; cursor:pointer; }
+.model-control-tabs button[aria-selected="true"] { background:#fffdf7; color:#315940; box-shadow:0 2px 6px #304e3c12; }
+.model-control-tabs button:focus-visible { outline:3px solid #dca548; outline-offset:2px; }
+[role="tabpanel"][hidden] { display:none!important; }
+.eng-demo-actions { margin:12px 0; }
+
+.transport-layout { grid-template-columns:minmax(0,1.7fr) minmax(260px,1fr); align-items:start; gap:16px; }
+.transport-stage { position:sticky; top:12px; }
+#transportCanvasHost { height:clamp(260px,42vh,360px); }
+.transport-observe { display:block; margin:0; min-width:0; padding:16px; border:1px solid #e5e1d6; border-radius:20px; background:#fffdf6; }
+.transport-observe>div:not(.model-control-tabs) { padding:0; border:0; border-radius:0; background:transparent; }
+.transport-observe>.model-control-tabs { padding:4px; border:0; border-radius:12px; background:#eef2e7; }
+.transport-observe h2 { font-size:15px; margin:14px 0 10px; }
+.transport-observe .eyebrow { display:none; }
+.transport-observe p { font-size:13px; min-height:0; }
+.transport-chips button,.transport-motion-tools button { min-height:44px; font-size:13px; padding:8px 11px; }
+.transport-profile { margin-top:20px; }
+
+.dino-workbench { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(260px,1fr); gap:16px; align-items:start; }
+.dino-workbench .dino-hero { position:sticky; top:12px; height:clamp(330px,57vh,480px); }
+.dino-workbench .dino-roster { padding:16px; max-height:min(620px,75vh); overflow-y:auto; overscroll-behavior:contain; }
+.dino-workbench .dino-habitats { position:static; display:flex; gap:6px; margin-bottom:12px; }
+.dino-workbench .dino-habitats button { flex:1; min-height:44px; padding:8px; font-size:13px; background:#edf2e7; color:#42664d; border-color:#d6e1d2; }
+.dino-workbench .dino-habitats button.active { background:#416d54; color:#fff; }
+.dino-workbench .dino-roster-head h2 { font-size:16px; }
+.dino-workbench .dino-roster-head>span { font-size:12px; white-space:nowrap; }
+.dino-workbench .dino-habitat-intro { font-size:12px; }
+.dino-workbench .dino-picks { grid-template-columns:repeat(2,minmax(0,1fr)); }
+.dino-workbench .dino-pick { min-height:92px; padding:9px; }
+.dino-workbench .dino-pick b { font-size:13px; }
+.dino-workbench .dino-pick small { font-size:11px; }
+.dino-workbench .dino-pick small:nth-of-type(1),.dino-workbench .dino-3d-badge { display:none; }
+.dino-details { display:block; margin-top:20px; }
+.dino-details .dino-profile { min-height:0; }
+.solar-stage,.moon-workbench,.lunar-stage { position:sticky; top:12px; align-self:start; }
+.solar-layout,.moon-layout,.lunar-layout { grid-template-columns:minmax(0,1.7fr) minmax(240px,1fr); }
+.solar-sidebar { display:grid; grid-template-columns:1fr; gap:16px; }
+.planet-list button { min-height:44px; font-size:13px; }
+.solar-stage,.lunar-stage { height:clamp(360px,68vh,580px); }
+.moon-stage { height:clamp(300px,48vh,420px); }
+.moon-timeline { padding:14px; }
+.solar-controls button,.moon-camera-actions button,.moon-play-controls button,.lunar-stage-controls button { min-height:44px; font-size:12px; }
+@media(max-width:650px) {
+  .eng-main,.transport-layout,.dino-workbench { grid-template-columns:1fr; gap:12px; }
+  .solar-layout,.moon-layout,.lunar-layout { grid-template-columns:1fr; }
+  .eng-stage-col,.transport-stage,.dino-workbench .dino-hero { top:8px; z-index:3; }
+  .eng-main .eng-hero,.dino-workbench .dino-hero { height:clamp(230px,36vh,300px); }
+  #transportCanvasHost { height:clamp(180px,29vh,260px); }
+  .transport-stage-top { padding:10px 14px; }
+  .transport-stage-top small { font-size:11px; }
+  .transport-legend { padding-bottom:10px; margin:8px 0 0; font-size:11px; }
+  .eng-tools,.transport-observe { padding:12px; }
+  .eng-stage-col>.model-control-tabs { margin-top:8px; border:1px solid #dce5d7; background:#edf2e7; }
+  .transport-stage>.model-control-tabs { margin:8px 12px 12px; }
+  .dino-workbench .dino-roster { max-height:360px; }
+  .dino-workbench .dino-picks { grid-template-columns:repeat(3,minmax(0,1fr)); }
+  .dino-workbench .dino-pick { min-height:82px; }
+  .dino-hero-caption b { font-size:17px; }
+  .dino-hero-caption span,.dino-hero-caption small { font-size:11px; }
+  .eng-caption span,.dino-hero-caption span { display:none; }
+  .solar-stage,.moon-workbench,.lunar-stage { top:8px; z-index:3; }
+  .solar-stage,.lunar-stage { height:clamp(250px,38vh,330px); }
+  .moon-stage { height:clamp(240px,32vh,300px); }
+  .moon-timeline { padding:10px 12px; }
+  .moon-time-head,.moon-time-label,.moon-time-ends { font-size:12px; }
+}
+
+.dino-hero[data-environment="tundra"] { background:linear-gradient(#fff4,#fff2),url("/assets/environments/tundra.webp") center / cover; }
+.dino-animation-tools{position:absolute;right:12px;bottom:12px;display:flex;gap:6px;z-index:4}
+.dino-animation-tools button{font-family:inherit;font-size:12px;line-height:1.4;padding:7px 10px;min-height:44px;background:#fffdf3e8;border:1px solid #d6dfce;border-radius:9px;color:#53654d;cursor:pointer}
+.dino-animation-tools button:disabled{opacity:.45;cursor:default}
+@media(max-width:650px){.dino-animation-tools{right:10px;bottom:8px}.dino-animation-tools button{padding:7px;font-size:12px}.dino-hero-caption{max-width:48%}}

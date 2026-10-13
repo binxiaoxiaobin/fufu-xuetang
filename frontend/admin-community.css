@@ -1,0 +1,22 @@
+#view-community .community-panel{padding:22px;min-width:0}
+#view-community .cg-tabs{display:flex;gap:8px;flex-wrap:wrap;border-bottom:1px solid #e3e9df;padding-bottom:15px}
+#view-community .cg-tabs button,#view-community .cg-btn{border:1px solid #dbe5d7;border-radius:9px;background:white;color:#53765d;padding:9px 15px;cursor:pointer;font:inherit}
+#view-community .cg-tabs button.active,#view-community .cg-btn:not(.cg-btn-light){background:#537d62;color:white;border-color:#537d62}
+#view-community .community-refresh{margin-left:auto}
+#view-community .cg-small{font-size:12px;color:#7b877e;line-height:1.8;overflow-wrap:anywhere}
+#view-community .cg-message{min-height:20px;color:#607766;font-size:12px}
+#view-community .cg-admin-item{padding:20px;margin:14px 0;border:1px solid #e2e9df;border-radius:13px;background:#fcfdf9;overflow-wrap:anywhere}
+#view-community .cg-admin-item b{font-size:14px;color:#3e5746}
+#view-community h2{font-size:17px;margin-top:25px}
+#view-community pre{font-family:inherit;white-space:pre-wrap;overflow-wrap:anywhere;line-height:1.8;padding:12px;background:#f1f5ed;border-radius:8px}
+#view-community .cg-form{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px;margin-top:16px}
+#view-community .cg-form label{display:grid;gap:7px;font-size:12px;color:#677b6c}
+#view-community input,#view-community select,#view-community textarea{width:100%;min-width:0;padding:10px;border:1px solid #dce5d8;border-radius:8px;background:white;color:#3f5545;font:inherit}
+#view-community textarea{min-height:95px;resize:vertical}
+#view-community .cg-wide{grid-column:1/-1}
+#view-community .cg-form .cg-check{display:flex;align-items:flex-start;gap:8px;line-height:1.7}
+#view-community .cg-check input{width:16px;flex:none;margin-top:3px}
+#view-community .cg-actions{display:flex;gap:12px;margin-top:18px}
+#view-community button:disabled{opacity:.55;cursor:default}
+#view-community [hidden]{display:none!important}
+@media(max-width:700px){#view-community .community-panel,#view-community .cg-admin-item{padding:14px}#view-community .cg-form{grid-template-columns:1fr}#view-community .cg-wide{grid-column:auto}}

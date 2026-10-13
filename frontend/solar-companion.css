@@ -1,0 +1,106 @@
+/* Planet observation and Tuantuan interactions follow DESIGN.md. */
+.solar-stage { height:clamp(390px,60vh,560px); }
+.solar-heading { padding:28px 0 20px; }
+#solarCanvasHost { background:#060e1c; }
+.solar-stage-head { left:18px;right:18px;top:16px;letter-spacing:.04em; }
+.solar-stage-head small { font-size:12px; }
+.solar-view-badge { position:absolute;top:52px;left:18px;color:#c1d3e9;font-size:13px;pointer-events:none; }
+.solar-controls { bottom:40px;left:12px;right:12px;display:flex;flex-wrap:wrap;gap:6px; }
+.solar-controls button { min-height:44px;min-width:44px;padding:8px 11px;border-radius:12px;font-size:12px;background:#152239ed;backdrop-filter:none; }
+.solar-controls button[aria-pressed="true"] { background:#2a4564;border-color:#7aa5ce; }
+.solar-scale-note { left:18px;bottom:13px;font-size:12px;right:12px; }
+.solar-labels { position:absolute;inset:0;pointer-events:none;overflow:hidden; }
+.solar-labels button { position:absolute;left:0;top:0;min-height:44px;min-width:54px;padding:6px 10px;border-radius:12px;background:#112039c9;border:1px solid #809ac23d;color:#d3e3f8;font-size:12px;pointer-events:auto;cursor:pointer; }
+.solar-labels button[aria-pressed="true"] { color:#fff;border-color:#9ec7ed;background:#28435dd9; }
+.solar-labels button[hidden],.solar-labels[hidden] { display:none; }
+.solar-load-status { position:absolute;top:90px;left:18px;font-size:12px;color:#e1bf79;pointer-events:none; }
+.solar-fallback { display:flex;flex-direction:column;justify-content:center;align-items:center;gap:12px; }
+.solar-fallback button { min-height:44px;padding:10px 16px;border:1px solid #7893b4;border-radius:12px;background:#1f3a56;color:#eef5ff; }
+.solar-picker,.planet-card { background:#fffdf8;border-color:#e4e9dd; }
+.planet-card { min-height:0; }
+.planet-card h2 { font-size:26px; }
+.planet-card p { font-size:14px;color:#53675d;line-height:1.75; }
+.planet-card .eyebrow { color:#647b69; }
+.planet-list .planet-option { padding:8px 4px;gap:3px;white-space:nowrap;min-width:0; }
+.planet-option span { width:8px;height:8px;flex:none; }
+.planet-meta { background:#eef2e8;font-size:13px;color:#64756b; }
+.planet-meta strong { color:#365640; }
+.planet-read,.planet-to-globe,.planet-to-lunar { min-height:44px;border:0;border-radius:12px;padding:10px 14px;font-size:14px;cursor:pointer; }
+.planet-read { background:#e7efe1;color:#365640; }
+.planet-to-lunar { display:block;width:100%;margin-top:10px;background:#416d54;color:white; }
+.solar-credits { margin:0;padding:0 6px;font-size:12px;line-height:1.8;color:#748279; }
+.solar-credits a { color:#5f7967;text-underline-offset:3px; }
+.pet-3d-host:focus-visible,.solar-controls button:focus-visible,.solar-labels button:focus-visible,#solarMaximize:focus-visible,.moon-sidebar button:focus-visible { outline:3px solid #dfb75a;outline-offset:2px; }
+.game-info .game-pet.tuantuan-portrait { position:relative;width:104px;height:104px;overflow:hidden;border-radius:50%;margin:0 auto 12px;background:#e9e6db;border:3px solid #fffdf5;box-shadow:0 3px 14px #35544418; }
+.game-info .tuantuan-portrait img { display:block;position:absolute;width:170%;max-width:none;height:auto;left:50%;top:-10%;transform:translateX(-50%); }
+.pet-panel .pet-scene-tip { font-size:12px; }
+#page-home .pet-last-action { display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;min-height:39px;font-size:13px;line-height:1.5; }
+@media(max-width:650px){
+  .solar-stage { height:440px; }
+  .solar-stage-head small { max-width:160px;text-align:right;line-height:1.5; }
+  .solar-view-badge { top:62px;font-size:12px; }
+  .solar-controls { bottom:52px;gap:4px; }
+  .solar-controls button { font-size:12px;padding:8px; }
+  .solar-controls #solarToGlobe { font-size:12px; }
+  .solar-scale-note { font-size:11px;bottom:13px; }
+}
+
+/* Expand the existing workspace, preserving its camera and renderer on iPad. */
+.solar-stage-head { align-items:center;top:12px; }
+.solar-stage-tools { display:flex;align-items:center;gap:12px;pointer-events:auto; }
+#solarMaximize { flex:none;min-height:44px;padding:8px 12px;border:1px solid #809ac25c;border-radius:12px;background:#152239ed;color:#e4f1ff;font:inherit;font-size:13px;letter-spacing:0;cursor:pointer; }
+.solar-view-badge { top:70px; }
+.solar-layout.is-maximized { position:fixed;inset:12px;z-index:1000;display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:16px;padding:16px;border-radius:24px;background:#faf8f2;box-shadow:0 0 0 20px #152239b3;align-items:stretch; }
+.solar-layout.is-maximized .solar-stage { position:relative;top:auto;height:100%;min-height:0;align-self:stretch; }
+.solar-layout.is-maximized .solar-sidebar { display:flex;flex-direction:column;gap:14px;min-height:0;overflow:auto;overscroll-behavior:contain; }
+.solar-layout.is-maximized .solar-sidebar>* { flex:none; }
+.solar-layout.is-maximized .solar-picker,.solar-layout.is-maximized .planet-card { padding:16px; }
+@media(max-width:1000px) {
+  .solar-stage-tools small { display:none; }
+  .solar-layout.is-maximized { inset:8px;padding:12px;gap:12px;grid-template-columns:minmax(0,1fr) 240px; }
+}
+@media(max-width:650px) {
+  .solar-layout.is-maximized { inset:0;border-radius:0;padding:8px;grid-template-columns:1fr;grid-template-rows:minmax(0,1fr) auto;gap:8px; }
+  .solar-layout.is-maximized .solar-sidebar { overflow:hidden; }
+  .solar-layout.is-maximized .planet-card,.solar-layout.is-maximized .solar-credits,.solar-layout.is-maximized .solar-picker>.eyebrow,.solar-layout.is-maximized .solar-picker h2 { display:none; }
+  .solar-layout.is-maximized .solar-picker { padding:8px; }
+  .solar-layout.is-maximized .planet-list { display:flex;overflow-x:auto;gap:6px;padding-bottom:4px; }
+  .solar-layout.is-maximized .planet-option { min-width:70px;flex:none; }
+}
+
+/* One coherent observation sheet instead of four competing sidebar cards. */
+.moon-layout { grid-template-columns:minmax(0,1.65fr) minmax(260px,.95fr);gap:20px; }
+.moon-heading { padding:28px 0 20px; }
+.moon-sidebar { display:block; }
+.moon-observation-panel { padding:18px;border:1px solid #e4e9dd;border-radius:20px;background:#fffdf8;box-shadow:0 8px 24px #41533f08; }
+.moon-modes { gap:4px;padding:4px;background:#eef2e8;border-radius:14px; }
+.moon-mode { min-height:44px;padding:8px;border:0;background:transparent;color:#64756b;font:inherit;font-size:14px;font-weight:600;border-radius:10px; }
+.moon-mode.active { background:#416d54;color:white;box-shadow:0 2px 6px #31583f18; }
+.moon-observer,.moon-observer.tide-view { display:grid;grid-template-columns:96px minmax(0,1fr);gap:14px;align-items:center;text-align:left;background:none;color:#293f36;border:0;border-radius:0;box-shadow:none;padding:20px 0 12px;overflow:visible; }
+.moon-observer canvas { width:96px;height:96px;margin:0;border-radius:50%;background:#0b1e34;box-shadow:0 0 0 6px #edf1ea; }
+.moon-observer .eyebrow { font-size:12px;line-height:1.5;letter-spacing:0;color:#64756b; }
+.moon-observer h2 { font-size:23px;line-height:1.3;margin:7px 0;color:#293f36; }
+.moon-observer strong { display:block;font-size:12px;line-height:1.6;font-weight:500;color:#64756b; }
+.moon-explain { padding:0;background:none;border:0;border-radius:0;box-shadow:none; }
+.moon-context { display:none; }
+.moon-explain p { font-size:14px;line-height:1.75;color:#53675d;margin:12px 0; }
+.moon-explain p:nth-of-type(2) { padding:0 0 0 12px;border-left:3px solid #dce7cf;border-radius:0;background:none;color:#748279;font-size:13px;line-height:1.7; }
+.moon-explain button { min-height:44px;margin:0 0 4px;padding:10px 14px;background:#e7efe1;color:#365640;font:inherit;font-size:14px;border-radius:12px; }
+.moon-steps-wrap { margin-top:16px;padding:16px 0 0;border:0;border-top:1px solid #e4e9dd;border-radius:0;background:none;box-shadow:none; }
+.moon-steps-wrap h3 { margin:0 0 12px;font-size:14px;color:#53675d;font-weight:600; }
+.moon-steps { grid-template-columns:repeat(4,minmax(0,1fr));gap:6px; }
+.moon-steps button { min-height:60px;padding:8px 2px;font:inherit;font-size:12px;color:#64756b;background:#fafbf7;border-color:#e4e9dd;border-radius:10px; }
+.moon-steps button span { font-size:19px;margin-bottom:3px; }
+.moon-steps button.active { color:#31583f;border-color:#8daa7c;background:#eaf1df; }
+.moon-time-head strong { font-size:14px; }
+.moon-time-head span,.moon-time-label,.moon-time-ends { font-size:12px; }
+.moon-timeline input[type=range] { min-height:32px; }
+.moon-play-controls button { font-size:13px;min-height:44px; }
+@media(max-width:650px) {
+  .moon-layout { grid-template-columns:1fr;gap:16px; }
+  .moon-workbench { position:relative;top:auto; }
+  .moon-observation-panel { padding:16px; }
+  .moon-observer { grid-template-columns:96px minmax(0,1fr); }
+  .moon-observer canvas { width:96px;height:96px; }
+  .moon-time-head { align-items:start;flex-direction:column;gap:4px; }
+}

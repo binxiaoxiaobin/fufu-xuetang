@@ -1,0 +1,8 @@
+{
+  "id":"sokoworld","title":"推箱子世界","description":"三个原版关卡包、73 道推箱子谜题，支持撤销和继续当前棋盘。",
+  "duration":"每关约 1–10 分钟","category":"sokoban","players":"1 人","tags":["推箱子","73 个关卡","可撤销"],
+  "rules":["把所有箱子推到目标点即可过关，箱子只能推不能拉。","当前棋盘、撤销记录与通关记录按账号保存。","可在原作菜单返回选关，选择不同关卡包。"],
+  "controls":["方向键或 WASD 移动；Z 确认，X 撤销或返回，C 重置。","Esc 打开原作菜单；支持触屏按钮。"],
+  "cover":"/assets/games/sokoworld/cover.webp","entry":"/assets/games/sokoworld/index.html","resume":true,"saveMode":"learner-server","fullscreenRequired":false,"fullscreenAvailable":true,"reward_points":0,
+  "storage_keys":["sokoworld.save.v1","sokoworld.settings.v1"],"source":"https://github.com/brettchalupa/sokoworld","author":"Brett Chalupa","license":"Unlicense 代码；美术 CC-BY 4.0，音效限非商业使用，各关卡包署名保留","collection":"puzzle-2d"
+}

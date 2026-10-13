@@ -1,0 +1,36 @@
+{
+  "id": "starcatcher",
+  "title": "追星小旅人",
+  "description": "只用一个按键穿过星夜，踩准起跳时机，寻找每一关的星星。",
+  "duration": "5–20 分钟",
+  "category": "pixel-adventure",
+  "players": "1 人",
+  "tags": [
+    "像素原作",
+    "中文界面",
+    "原版玩法"
+  ],
+  "rules": [
+    "碰到星星进入下一关。",
+    "24 个原版挑战关卡与结尾场景，进度自动保存。"
+  ],
+  "controls": [
+    "按住 X、空格或屏幕行走，松开起跳。",
+    "获得能力后，在空中再次按下可以向下冲击和改变方向。"
+  ],
+  "cover": "/assets/games/starcatcher/cover.webp",
+  "entry": "/assets/games/starcatcher/index.html",
+  "resume": true,
+  "saveMode": "learner-server",
+  "fullscreenRequired": false,
+  "fullscreenAvailable": true,
+  "reward_points": 0,
+  "storage_keys": [
+    "starcatcher.save.v1",
+    "starcatcher.settings.v1"
+  ],
+  "source": "https://github.com/Escada-Games/starcatcher-jam",
+  "author": "Escada Games",
+  "license": "GPL-2.0；作者发布版素材保留原署名",
+  "collection": "platformer-2d"
+}

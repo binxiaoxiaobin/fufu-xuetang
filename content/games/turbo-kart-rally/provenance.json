@@ -1,0 +1,14 @@
+{
+  "source": "https://github.com/bridge-mind/turbo-kart-rally",
+  "license": "MIT",
+  "downloaded_on": "2026-10-08",
+  "archive_sha256": "1f4842a0f0c8dc54fa30623f318aa7f8a36b340ef9e64a1ddb631dd3d3af95c3",
+  "three": "0.170.0",
+  "modifications": [
+    "native fullscreen gate",
+    "Chinese UI",
+    "multitouch controls",
+    "tablet rendering budget",
+    "hidden tab suspension"
+  ]
+}

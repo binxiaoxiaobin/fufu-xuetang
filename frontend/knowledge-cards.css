@@ -1,0 +1,41 @@
+/* Center the deck as one composition, keeping the multiplication triangle intact. */
+.cards-page .deck-tabs{justify-content:center;gap:10px;margin:24px auto 32px}
+.cards-page .card-subjects+.math-card-tabs{margin:12px auto 28px}
+.math-card-module{max-width:900px;margin:0 auto 28px}
+.math-card-module .deck-group-title{margin-top:18px}
+.math-card-module-oral{max-width:700px;padding:17px 20px 20px;border:1px solid #e8ece2;border-radius:20px;background:linear-gradient(145deg,#fbfcf7,#f3f7ee)}
+.math-module-heading{display:flex;align-items:center;justify-content:center;gap:11px;margin:0 0 12px;text-align:left}
+.math-module-heading>span{display:grid;place-items:center;width:40px;height:40px;border-radius:13px;background:#e6efdf;font-size:21px}
+.math-module-heading h3{margin:0;color:#405d48;font-size:17px}
+.math-module-heading p{margin:4px 0 0;color:#89958a;font-size:11px}
+.math-card-module-oral .oral-challenge{max-width:none;margin:0;padding:17px 16px 12px;border:0;border-radius:14px;background:#fff;box-shadow:none}
+.math-card-module-oral .oral-challenge-kicker{display:none}
+.math-card-module-oral .oral-challenge h2{display:none}
+.math-card-module-oral .oral-challenge>p{display:none}
+.math-card-module-oral .oral-controls{margin:8px 0 14px}
+.math-card-module-oral .oral-problem{margin:7px 0 16px}
+.math-card-module-oral .oral-feedback{margin-top:9px}
+.cards-page:not(.action-deck) .deck-group-title{text-align:center;font-size:18px;margin:30px auto 18px}
+.cards-page .times-table{max-width:800px;width:100%;margin:0 auto 24px;padding:16px;background:#f1f4e9;border-radius:24px}
+.cards-page .times-row{min-width:720px;gap:7px;margin-bottom:7px}
+.cards-page .times-placeholder{min-width:0;pointer-events:none}
+.cards-page .times-row .deck-item{min-height:72px;padding:10px 4px;font-size:14px;border-radius:14px}
+.cards-page .times-row .deck-item small{font-size:12px;line-height:1.5}
+.cards-page .oral-challenge{max-width:900px;margin-left:auto;margin-right:auto}
+#pinyinCardsContent{max-width:840px;margin:0 auto 50px}
+.pinyin-guide{text-align:center;color:#64756b;font-size:15px;line-height:1.8;margin-bottom:30px}
+.pinyin-guide span{display:block;font-size:13px}
+.pinyin-group{margin-bottom:32px}
+.pinyin-group h3{display:flex;align-items:center;justify-content:center;gap:10px;font-size:18px;color:#416d54;margin:0 0 16px}
+.pinyin-group h3 span{font-size:12px;font-weight:400;color:#748279}
+.pinyin-grid{display:flex;flex-wrap:wrap;justify-content:center;gap:12px}
+.pinyin-card{flex:0 0 92px;min-height:108px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;border:1px solid #e4e9dd;border-radius:16px;background:#fffdf8;color:#293f36;cursor:pointer;transition:background .15s,border-color .15s}
+.pinyin-card b{font-family:'Trebuchet MS',Arial,sans-serif;font-size:32px;font-weight:600;line-height:1.1}
+.pinyin-card small{font-size:12px;color:#748279}
+.pinyin-card:hover,.pinyin-card.is-playing{background:#eaf1df;border-color:#416d54}
+.pinyin-card.is-playing small{color:#31583f;font-weight:600}
+.pinyin-card:focus-visible{outline:3px solid #416d54;outline-offset:3px}
+.pinyin-source,.pinyin-status{text-align:center;font-size:13px;color:#748279}
+.pinyin-source a{color:#416d54;text-underline-offset:3px}
+@media(max-width:800px){.cards-page .times-row{min-width:648px;gap:5px}.cards-page .times-row .deck-item{font-size:13px;padding:8px 2px}.cards-page .times-row .deck-item small{font-size:12px}.pinyin-grid{gap:10px}.pinyin-card{flex-basis:84px}}
+@media(max-width:480px){.cards-page .deck-tabs{gap:8px;margin:18px auto 24px}.cards-page .deck-tabs button{padding:10px 12px;font-size:13px}.cards-page .card-subjects+.math-card-tabs{margin:12px auto 24px}.math-card-module-oral{margin:0 8px 22px;padding:13px 11px}.math-module-heading{justify-content:flex-start}.math-module-heading>span{width:35px;height:35px;font-size:18px}.math-module-heading h3{font-size:15px}.math-card-module-oral .oral-challenge{padding:13px 9px 8px}.pinyin-card{flex-basis:72px;min-height:96px}.pinyin-card b{font-size:29px}.pinyin-grid{gap:8px}.pinyin-guide{font-size:14px}}

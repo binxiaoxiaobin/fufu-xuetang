@@ -1,0 +1,333 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <meta name="theme-color" content="#8fd3f4" />
+  <title>黏土世界 · 和伙伴一起探险</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌿</text></svg>" />
+  <link rel="stylesheet" crossorigin href="/clay-safari/assets/index-J0lB1Z5o.css">
+  <style>
+    /* ------------------------------------------------------------------
+       1) 卡片小窗（compact）里也要有右下角那排按钮：🤖 导览 / 🗺️ 俯瞰 /
+          🏷️ 标签 / 🔊 声音 / ❓ 帮助。
+       打包好的 CSS 会把它整排藏起来，这里用 !important 把它放回来。
+       ------------------------------------------------------------------ */
+    body.compact .bottom-right {
+      display: flex !important;
+      visibility: visible !important;
+      opacity: 1 !important;
+      transform: none !important;
+      pointer-events: auto !important;
+    }
+    .puffy span,.puffy-small span {
+      -webkit-text-stroke: .65px #9a7055;
+      text-shadow: 0 1px 0 #fffaf0, 0 3px 0 #b18a68, 0 6px 12px #76543d38;
+      filter: saturate(.8);
+    }
+
+    /* 压缩模式原本隐藏整个 HUD，导致上面的按钮规则无法生效。 */
+    body.compact #hud {
+      display: block !important;
+    }
+    body.compact #hud > :not(.bottom-right):not(.order-game):not(.find-demo-note) {
+      display: none !important;
+    }
+    body.compact .bottom-right {
+      right: 8px;
+      bottom: 8px;
+      gap: 6px;
+    }
+    body.compact .bottom-right .round-btn {
+      width: 40px;
+      height: 40px;
+      border-width: 3px;
+      font-size: 20px;
+    }
+    .top-left, .top-right { display: none !important; }
+
+    .order-game {
+      position: absolute;
+      top: max(12px, env(safe-area-inset-top));
+      left: 50%;
+      width: min(340px, calc(100vw - 100px));
+      padding: 11px 15px;
+      transform: translateX(-50%);
+      border: 3px solid #fff;
+      border-radius: 18px;
+      background: #fff6e9ed;
+      color: #5b3a29;
+      text-align: center;
+      box-shadow: 0 7px 20px #3c281433, inset 0 -3px #8c6b4b1c;
+      pointer-events: auto !important;
+      z-index: 12;
+    }
+    .order-game[hidden] { display: none !important; }
+    .order-game-label { display: block; color: #8c6b4b; font-size: 11px; font-weight: 900; }
+    .order-game-target { display: block; margin-top: 2px; font-size: 18px; font-weight: 900; }
+    .order-game-help { display: block; margin-top: 3px; font-size: 11px; }
+    .order-game-actions { display: flex; justify-content: center; gap: 8px; margin-top: 8px; }
+    .order-game-actions button {
+      border: 2px solid #fff;
+      border-radius: 999px;
+      padding: 5px 12px;
+      background: #ffbd61;
+      color: #5b3a29;
+      font: 800 12px var(--font);
+      box-shadow: 0 3px #d58b39;
+      pointer-events: auto;
+    }
+    .order-game-actions button.secondary { background: #e8dfc9; box-shadow: 0 3px #b8a88b; }
+    .order-game-actions button:disabled { opacity: .5; cursor: not-allowed; }
+    .find-demo-note {
+      position: absolute;
+      left: 12px;
+      bottom: max(12px, env(safe-area-inset-bottom));
+      padding: 7px 10px;
+      border: 2px solid #fff;
+      border-radius: 12px;
+      background: #fff6e9e8;
+      color: #795c3f;
+      font-size: 10px;
+      font-weight: 800;
+      box-shadow: 0 4px 12px #3c281422;
+      pointer-events: none !important;
+    }
+    .guide-backdrop {
+      z-index: 40;
+      display: grid;
+      place-items: center;
+      position: fixed;
+      inset: 0;
+      padding: 16px;
+      background: #3c281459;
+      backdrop-filter: blur(3px);
+    }
+    .guide-backdrop[hidden] { display: none !important; }
+    .guide-box {
+      width: min(620px, 94vw);
+      max-height: min(82vh, 680px);
+      overflow: auto;
+      padding: 20px;
+      border: 5px solid #fff;
+      border-radius: 26px;
+      background: #fff6e2;
+      box-shadow: 0 18px 48px #3c28144d;
+    }
+    .guide-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
+    .guide-head h2 { margin: 0; color: #5b3a29; font-size: 23px; }
+    .guide-head p { margin: 5px 0 14px; color: #8c6b4b; font-size: 12px; }
+    .guide-close {
+      flex: 0 0 auto; width: 36px; height: 36px; border: 2px solid #fff; border-radius: 50%;
+      background: #f1e3c8; color: #5b3a29; font-size: 22px; font-weight: 900; cursor: pointer;
+    }
+    .guide-items { display: grid; grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); gap: 9px; }
+    .guide-item {
+      display: grid; justify-items: center; gap: 3px; min-height: 94px; padding: 10px 6px;
+      border: 2px solid #fff; border-radius: 17px; background: #fffdf6; color: #5b3a29;
+      box-shadow: 0 3px #8c6b4b1c;
+    }
+    .guide-item-emoji { font-size: 30px; line-height: 1.2; }
+    .guide-item-name { font-size: 13px; font-weight: 900; }
+    .guide-item-kind { color: #8c6b4b; font-size: 10px; }
+    .guide-empty { padding: 24px 12px; border-radius: 16px; background: #fffdf6; color: #8c6b4b; text-align: center; }
+    .guide-footer { display: flex; justify-content: center; gap: 8px; margin-top: 14px; }
+    .guide-footer button { border: 2px solid #fff; border-radius: 999px; padding: 7px 14px; background: #ffbd61; color: #5b3a29; font: 800 12px var(--font); cursor: pointer; }
+    .fireworks-layer { position: fixed; inset: 0; z-index: 60; overflow: hidden; pointer-events: none; }
+    .firework-burst {
+      position: absolute;
+      left: calc(var(--x) * 1%);
+      top: calc(var(--y) * 1%);
+      width: 130px;
+      height: 130px;
+      color: #fff8c9;
+      font-size: 68px;
+      line-height: 130px;
+      text-align: center;
+      opacity: 0;
+      filter: drop-shadow(0 0 7px var(--burst-color));
+      animation: firework-bloom 1.35s ease-out forwards;
+    }
+    .firework-burst::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border-radius: 50%;
+      background: repeating-conic-gradient(from 0deg, var(--burst-color) 0deg 3deg, transparent 3deg 14deg);
+      -webkit-mask: radial-gradient(circle, transparent 0 7px, #000 9px 57px, transparent 60px);
+      mask: radial-gradient(circle, transparent 0 7px, #000 9px 57px, transparent 60px);
+    }
+    .firework-burst::after {
+      content: '✦'; position: absolute; inset: 0; display: grid; place-items: center;
+      color: #fff8c9; font-size: 25px; text-shadow: 0 0 12px var(--burst-color);
+    }
+    @keyframes firework-bloom {
+      0% { opacity: 0; transform: translate(-50%, -50%) scale(.08) rotate(-18deg); }
+      18% { opacity: 1; }
+      72% { opacity: .95; transform: translate(-50%, -50%) scale(1) rotate(12deg); }
+      100% { opacity: 0; transform: translate(-50%, -50%) scale(1.22) rotate(25deg); }
+    }
+
+    /* ------------------------------------------------------------------
+       2) 鼠标样式：默认给一个"准星"，指到动物/场景上时换成大方框圈，
+          拖动时是抓取。比默认箭头更容易瞄准。
+       ------------------------------------------------------------------ */
+    #c {
+      cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='26' height='26'><circle cx='13' cy='13' r='6' fill='none' stroke='white' stroke-width='3.4'/><circle cx='13' cy='13' r='6' fill='none' stroke='black' stroke-width='1.6'/><circle cx='13' cy='13' r='1.7' fill='black'/></svg>") 13 13, crosshair;
+    }
+    #c.can-pick {
+      cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32'><circle cx='16' cy='16' r='12' fill='none' stroke='white' stroke-width='4'/><circle cx='16' cy='16' r='12' fill='none' stroke='orange' stroke-width='2.4'/><circle cx='16' cy='16' r='2.8' fill='orange'/></svg>") 16 16, pointer;
+    }
+    #c.dragging { cursor: grabbing; }
+  </style>
+  <script>
+    // 启动自检：ES 模块图里任何一处出错（语法错误、依赖 404、WebGL 不可用），
+    // 原本只会留一个卡住的加载画面，看不出原因。这里把错误显示出来。
+    (function () {
+      var reported = false;
+      function report(message) {
+        if (reported) return;
+        reported = true;
+        var box = document.getElementById('booterror');
+        if (!box) return;
+        box.textContent = '黏土世界没能启动：' + message;
+        box.hidden = false;
+        var loader = document.getElementById('loader');
+        if (loader) loader.hidden = true;
+      }
+      window.addEventListener('error', function (event) {
+        var target = event.target;
+        if (target && target !== window && target.nodeName && (target.nodeName === 'SCRIPT' || target.nodeName === 'LINK')) {
+          report('资源加载失败 ' + (target.src || target.href || ''));
+          return;
+        }
+        report(event.message || '脚本错误');
+      }, true);
+      window.addEventListener('unhandledrejection', function (event) {
+        var reason = event.reason;
+        report((reason && (reason.message || String(reason))) || '未处理的异步错误');
+      });
+      try {
+        var probe = document.createElement('canvas');
+        if (!probe.getContext('webgl2') && !probe.getContext('webgl')) report('这台设备或浏览器不支持 WebGL');
+      } catch (error) {
+        report('无法创建 WebGL 画布');
+      }
+    })();
+  </script>
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "/vendor/three.module.js",
+        "three/addons/": "/vendor/"
+      }
+    }
+  </script>
+<link rel="stylesheet" href="/assets/clay-farm/farm.css?v=20261006-farm-feedback-1"></head>
+<body>
+  <canvas id="c"></canvas>
+
+  <div id="booterror" hidden style="position:fixed;left:14px;right:14px;bottom:14px;z-index:99;padding:12px 14px;border-radius:12px;background:#fff6f4;border:1px solid #e0a79c;color:#7a2f22;font:13px/1.5 system-ui,sans-serif;box-shadow:0 6px 20px rgba(0,0,0,.12);white-space:pre-wrap"></div>
+
+  <!-- loading / start screen -->
+  <div id="loader">
+    <div class="loader-inner">
+      <h1 class="puffy" id="title"></h1>
+      <p class="subtitle">和团团一起认识动物朋友</p>
+      <div class="bar"><div class="bar-fill" id="barfill"></div></div>
+      <div class="bar-text" id="bartext">正在捏黏土…</div>
+      <button id="start" class="big-btn" disabled>开始探险 ▶</button>
+      <div class="hints">
+        <span>🖱️ 拖动旋转 · 滚轮缩放</span><span>⌨️ WASD / 方向键 行走</span><span>👆 点击地面前往 · 点击动物听声音</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- HUD -->
+  <div id="hud" hidden>
+    <div class="top-left">
+      <div class="chip title-chip puffy-small" id="titlechip"></div>
+    </div>
+    <div class="top-right">
+      <div class="book" id="book">
+        <div class="book-title">探险手册 <span id="bookcount">0/10</span></div>
+        <div class="stickers" id="stickers"></div>
+      </div>
+    </div>
+    <div class="bottom-right">
+      <button class="round-btn" id="btn-tour" title="自动导览">🤖</button>
+      <button class="round-btn" id="btn-view" title="俯瞰全景 (M)">🗺️</button>
+      <button class="round-btn" id="btn-find-order" title="按顺序寻找 5 个元素">🔎</button>
+      <button class="round-btn" id="btn-labels" title="显示/隐藏名字牌 (L)">🏷️</button>
+      <button class="round-btn" id="btn-sound" title="声音">🔊</button>
+      <button class="round-btn" id="btn-help" title="探险图鉴" aria-label="打开探险图鉴">📖</button>
+    </div>
+    <div class="order-game" id="order-game" hidden aria-live="polite">
+      <span class="order-game-label" id="order-game-label">按顺序寻找</span>
+      <strong class="order-game-target" id="order-game-target">准备开始寻宝</strong>
+      <span class="order-game-help" id="order-game-help">点右侧 🔎 开始一轮 5 个目标的挑战</span>
+      <div class="order-game-actions">
+        <button id="order-game-hint" type="button" hidden>给我提示 🧭</button>
+        <button id="order-game-again" type="button" hidden>再玩一次 ✨</button>
+        <button class="secondary" id="order-game-stop" type="button" hidden>结束游戏</button>
+      </div>
+    </div>
+    <div class="find-demo-note" id="find-demo-note" hidden>🧪 本地试玩：临时展示 5 个动物，不会保存库存或扣积分</div>
+    <div class="joystick" id="joy" hidden><div class="joy-base"><div class="joy-knob" id="joyknob"></div></div></div>
+    <div class="card" id="card" hidden>
+      <div class="card-arrow"></div>
+      <div class="card-cn" id="card-cn"></div>
+      <div class="card-py" id="card-py"></div>
+      <div class="card-en" id="card-en"></div>
+      <div class="card-btns">
+        <button id="say-en">🔊 English</button>
+        <button id="say-cn">🔊 中文</button>
+        <button id="say-sound">🐾 叫声</button>
+      </div>
+    </div>
+    <div class="toast" id="toast" hidden></div>
+    <div class="tour-banner" id="tourbanner" hidden>🤖 自动导览中 · 点击任意处停止</div>
+  </div>
+
+  <div id="guide" class="guide-backdrop" hidden>
+    <section class="guide-box" role="dialog" aria-modal="true" aria-labelledby="guide-title">
+      <div class="guide-head">
+        <div><h2 id="guide-title">📖 探险图鉴</h2><p id="guide-count">记录已经解锁的动物、场景和小物件</p></div>
+        <button class="guide-close" id="guide-close" type="button" aria-label="关闭探险图鉴">×</button>
+      </div>
+      <div id="guide-items" class="guide-items"></div>
+      <div class="guide-footer"><button id="guide-help" type="button">游戏说明</button></div>
+    </section>
+  </div>
+
+  <div id="help" hidden>
+    <div class="help-box">
+      <h2>怎么玩</h2>
+      <ul>
+        <li>🚶 <b>W A S D</b> 或方向键行走，<b>Shift</b> 加速</li>
+        <li>👆 点击地面 → 团团自动走过去（会绕开河流，从桥上过河）</li>
+        <li>🖱️ 按住拖动旋转视角，滚轮 / 双指缩放</li>
+        <li>🐾 点击动物或场景 → 听名字和声音，名字牌会亮一会儿</li>
+        <li>🤖 点右下角的机器人按钮 → 自动导览整条探险路线</li>
+        <li>🗺️ 按 <b>M</b> 或按钮 → 俯瞰整个黏土世界</li>
+        <li>🔎 点右侧按钮 → 按提示顺序寻找 5 个已解锁的朋友和物品</li>
+        <li>🏷️ 按 <b>L</b> 或按钮 → 让所有名字牌一直显示（平时要自己去找）</li>
+        <li>🎁 动物和场景都在首页「积分商店」里兑换，兑换后立刻出现在地图上</li>
+      </ul>
+      <button id="help-close" class="big-btn">知道啦</button>
+    </div>
+  </div>
+
+  <div id="celebrate" hidden>
+    <div class="celebrate-box">
+      <div class="puffy" id="celebrate-title"></div>
+      <p>你认识了动物朋友！<br/>You found your animal friends!</p>
+      <button id="celebrate-close" class="big-btn">继续玩 🎉</button>
+    </div>
+  </div>
+
+  <div class="fireworks-layer" id="fireworks-layer" aria-hidden="true"></div>
+
+  <script type="module" src="/clay-safari/src/main.js?v=20261006-companion-2"></script>
+</body>
+</html>

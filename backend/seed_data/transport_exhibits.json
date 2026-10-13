@@ -1,0 +1,773 @@
+[
+  {
+    "slug": "airliner",
+    "name": "A320 客机",
+    "english": "Airbus A320",
+    "category": "sky",
+    "icon": "✈️",
+    "tagline": "长长的机翼，把旅程带向天空",
+    "description": "这是一架双发动机喷气客机的通用模型。两台涡扇发动机提供向前的推力，飞机向前运动时，机翼与气流相互作用产生升力。机身里的客舱用来运送乘客。",
+    "principle": "发动机提供推力，机翼在运动的气流中产生升力；两者分工合作。",
+    "task": "选一个结构区域，转动模型，找出它在A320 客机上的位置。",
+    "size": {
+      "lengthM": 37.57,
+      "heightM": 11.76,
+      "note": "结构观察模型；尺寸为展示参考值，不用于工程测量。"
+    },
+    "parts": [
+      {
+        "label": "机身区域",
+        "pattern": "^observe_body(?:_|$)",
+        "description": "长长的机身容纳驾驶舱和客舱。"
+      },
+      {
+        "label": "机翼区域",
+        "pattern": "^observe_wings(?:_|$)",
+        "description": "两侧机翼帮助飞机产生升力，翼下还安装着发动机。"
+      },
+      {
+        "label": "尾翼上部",
+        "pattern": "^observe_upper(?:_|$)",
+        "description": "尾翼帮助飞机保持方向和姿态。"
+      }
+    ],
+    "actions": [
+      {
+        "label": "观察机身区域",
+        "text": "长长的机身容纳驾驶舱和客舱。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_body(?:_|$)"
+      },
+      {
+        "label": "观察机翼区域",
+        "text": "两侧机翼帮助飞机产生升力，翼下还安装着发动机。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_wings(?:_|$)"
+      },
+      {
+        "label": "观察尾翼上部",
+        "text": "尾翼帮助飞机保持方向和姿态。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_upper(?:_|$)"
+      }
+    ],
+    "model_path": "/assets/transport/models/v3-airliner.glb",
+    "cover_path": "/assets/transport/covers/v3-airliner.webp",
+    "cover_size": [
+      640,
+      400
+    ],
+    "credit": {
+      "author": "amvlab",
+      "source": "https://github.com/amvlab/aircraft-models",
+      "title": "A320_nologo.glb",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "本地版本已做网格合并、贴图压缩、展示比例校准与结构区域划分；封面由本地模型渲染。",
+      "sha256": "08cc60caafe3d0937f3e12e72c28bcb96dfdb39763ac124bcd4da8adaea11ab9"
+    },
+    "lengthAxis": "x",
+    "yawFix": 0,
+    "fitLengthM": 37.57
+  },
+  {
+    "slug": "propeller-plane",
+    "name": "S-39 水上飞机",
+    "english": "Sikorsky S-39",
+    "category": "sky",
+    "icon": "🛩️",
+    "tagline": "转动的螺旋桨，拉着飞机向前走",
+    "description": "S-39 是一款早期水陆两用飞机。船形机身、高置机翼和螺旋桨让它的外形与普通客机很不一样。",
+    "principle": "螺旋桨像旋转的机翼，改变气流的运动方向，从而产生推力。",
+    "task": "选一个结构区域，转动模型，找出它在S-39 水上飞机上的位置。",
+    "size": {
+      "lengthM": 9.46,
+      "heightM": 3.75,
+      "note": "按约15.85米翼展校准；用于结构观察。"
+    },
+    "parts": [
+      {
+        "label": "机身与支架",
+        "pattern": "^observe_body(?:_|$)",
+        "description": "支架把机身和上方的机翼连接起来。"
+      },
+      {
+        "label": "机翼与动力区域",
+        "pattern": "^observe_upper(?:_|$)",
+        "description": "螺旋桨推动空气，机翼在前进时产生升力。"
+      },
+      {
+        "label": "下部船形机身",
+        "pattern": "^observe_lower(?:_|$)",
+        "description": "船形机身让这种飞机能在水面停泊。"
+      }
+    ],
+    "actions": [
+      {
+        "label": "观察机身与支架",
+        "text": "支架把机身和上方的机翼连接起来。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_body(?:_|$)"
+      },
+      {
+        "label": "观察机翼与动力区域",
+        "text": "螺旋桨推动空气，机翼在前进时产生升力。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_upper(?:_|$)"
+      },
+      {
+        "label": "观察下部船形机身",
+        "text": "船形机身让这种飞机能在水面停泊。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_lower(?:_|$)"
+      }
+    ],
+    "model_path": "/assets/transport/models/v3-propeller-plane.glb",
+    "cover_path": "/assets/transport/covers/v3-propeller-plane.webp",
+    "cover_size": [
+      640,
+      400
+    ],
+    "credit": {
+      "author": "manilov.ap",
+      "source": "https://sketchfab.com/3d-models/62b7661faf0049449934786fde7e25f4",
+      "title": "S39",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "本地版本已做网格合并、贴图压缩、展示比例校准与结构区域划分；封面由本地模型渲染。",
+      "sha256": "fa8e223b7b43ad605f6036704e9c3cd241979315ed17eaac764962afcaee348a"
+    },
+    "fitLengthM": 15.85,
+    "lengthAxis": "x",
+    "yawFix": 0
+  },
+  {
+    "slug": "helicopter",
+    "name": "Wessex 救援直升机",
+    "english": "Westland Wessex",
+    "category": "sky",
+    "icon": "🚁",
+    "tagline": "头顶的大旋翼，让它能够悬停",
+    "description": "这架 Wessex 模型采用黄色救援涂装。观察上方的主旋翼、机身和尾部，认识直升机的典型结构。",
+    "principle": "主旋翼产生升力；尾桨帮助抵消反扭矩，并控制机头方向。",
+    "task": "选一个结构区域，转动模型，找出它在Wessex 救援直升机上的位置。",
+    "size": {
+      "lengthM": 20.4,
+      "heightM": 4.93,
+      "note": "结构观察模型；尺寸为展示参考值，不用于工程测量。"
+    },
+    "parts": [
+      {
+        "label": "机身与尾部",
+        "pattern": "^observe_body(?:_|$)",
+        "description": "机舱运送人员，细长尾部连接尾旋翼。"
+      },
+      {
+        "label": "主旋翼区域",
+        "pattern": "^observe_upper(?:_|$)",
+        "description": "主旋翼转动时可以提供升力。"
+      },
+      {
+        "label": "起落架区域",
+        "pattern": "^observe_lower(?:_|$)",
+        "description": "起落架在降落时支撑机身。"
+      }
+    ],
+    "actions": [
+      {
+        "label": "观察机身与尾部",
+        "text": "机舱运送人员，细长尾部连接尾旋翼。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_body(?:_|$)"
+      },
+      {
+        "label": "观察主旋翼区域",
+        "text": "主旋翼转动时可以提供升力。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_upper(?:_|$)"
+      },
+      {
+        "label": "观察起落架区域",
+        "text": "起落架在降落时支撑机身。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_lower(?:_|$)"
+      }
+    ],
+    "model_path": "/assets/transport/models/v3-helicopter.glb",
+    "cover_path": "/assets/transport/covers/v3-helicopter.webp",
+    "cover_size": [
+      640,
+      400
+    ],
+    "credit": {
+      "author": "manilov.ap",
+      "source": "https://sketchfab.com/3d-models/0e61fc13a27b457e984276d8f28bd6cf",
+      "title": "Wessex",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "本地版本已做网格合并、贴图压缩、展示比例校准与结构区域划分；封面由本地模型渲染。",
+      "sha256": "0ae56c4cdb01f7b462a98ec1745ace7726728cfff8638051c4e4dbb15012947f"
+    },
+    "lengthAxis": "z",
+    "yawFix": 0,
+    "fitLengthM": 20.4
+  },
+  {
+    "slug": "bullet-train",
+    "name": "TGV 高速列车",
+    "english": "TGV power car",
+    "category": "rail",
+    "icon": "🚆",
+    "tagline": "沿着钢轨，用电力奔向下一站。",
+    "description": "这里展示 TGV 的动力车，流线形车头、车顶受电弓和底部转向架各有自己的作用。",
+    "principle": "轮对承受车辆重量，钢轨引导行驶；不同机车的动力来源有所不同。",
+    "task": "选一个结构区域，转动模型，找出它在TGV 高速列车上的位置。",
+    "size": {
+      "lengthM": 22.15,
+      "heightM": 4.1,
+      "note": "结构观察模型；尺寸为展示参考值，不用于工程测量。"
+    },
+    "parts": [
+      {
+        "label": "车身区域",
+        "pattern": "^observe_body(?:_|$)",
+        "description": "流线形车头能减少高速行驶时的空气阻力。"
+      },
+      {
+        "label": "车顶与受电弓",
+        "pattern": "^observe_upper(?:_|$)",
+        "description": "受电弓从接触网取得电能。"
+      },
+      {
+        "label": "转向架区域",
+        "pattern": "^observe_lower(?:_|$)",
+        "description": "轮对沿钢轨滚动，转向架还承担支撑和导向的任务。"
+      }
+    ],
+    "actions": [
+      {
+        "label": "观察车身区域",
+        "text": "流线形车头能减少高速行驶时的空气阻力。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_body(?:_|$)"
+      },
+      {
+        "label": "观察车顶与受电弓",
+        "text": "受电弓从接触网取得电能。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_upper(?:_|$)"
+      },
+      {
+        "label": "观察转向架区域",
+        "text": "轮对沿钢轨滚动，转向架还承担支撑和导向的任务。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_lower(?:_|$)"
+      }
+    ],
+    "model_path": "/assets/transport/models/v3-bullet-train.glb",
+    "cover_path": "/assets/transport/covers/v3-bullet-train.webp",
+    "cover_size": [
+      640,
+      400
+    ],
+    "credit": {
+      "author": "mleconte",
+      "source": "https://sketchfab.com/3d-models/deccf817a75647b8b5146bc0d50e8ae5",
+      "title": "TGV low",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "本地版本已做网格合并、贴图压缩、展示比例校准与结构区域划分；封面由本地模型渲染。",
+      "sha256": "5e76a39e54d46ffc5c0cb9b31b24094b7a08ba87f324d6d6a73d9e5c9df7980a"
+    },
+    "lengthAxis": "z",
+    "yawFix": 0,
+    "fitLengthM": 22.15
+  },
+  {
+    "slug": "subway",
+    "name": "R33 地铁车厢",
+    "english": "NYCT R33 Redbird",
+    "category": "rail",
+    "icon": "🚆",
+    "tagline": "沿着钢轨，把城市和远方连接起来",
+    "description": "地铁在专用轨道上运行，可以在地下、地面或高架线路上运送乘客。较宽的车门和合理的站台组织，方便乘客快速上下车。",
+    "principle": "轮对承受车辆重量，钢轨引导行驶；不同机车的动力来源有所不同。",
+    "task": "选一个结构区域，转动模型，找出它在R33 地铁车厢上的位置。",
+    "size": {
+      "lengthM": 15.54,
+      "heightM": 3.6,
+      "note": "结构观察模型；尺寸为展示参考值，不用于工程测量。"
+    },
+    "parts": [
+      {
+        "label": "车厢区域",
+        "pattern": "^observe_body(?:_|$)",
+        "description": "多组车门方便乘客上下车。"
+      },
+      {
+        "label": "车顶区域",
+        "pattern": "^observe_upper(?:_|$)",
+        "description": "观察车顶的轮廓，再比较高速列车的车顶设备。"
+      },
+      {
+        "label": "底部结构",
+        "pattern": "^observe_lower(?:_|$)",
+        "description": "车厢下方安装了走行和供电等设备。"
+      }
+    ],
+    "actions": [
+      {
+        "label": "观察车厢区域",
+        "text": "多组车门方便乘客上下车。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_body(?:_|$)"
+      },
+      {
+        "label": "观察车顶区域",
+        "text": "观察车顶的轮廓，再比较高速列车的车顶设备。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_upper(?:_|$)"
+      },
+      {
+        "label": "观察底部结构",
+        "text": "车厢下方安装了走行和供电等设备。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_lower(?:_|$)"
+      }
+    ],
+    "model_path": "/assets/transport/models/v3-subway.glb",
+    "cover_path": "/assets/transport/covers/v3-subway.webp",
+    "cover_size": [
+      640,
+      400
+    ],
+    "credit": {
+      "author": "NanoRay",
+      "source": "https://sketchfab.com/3d-models/6ba95918a2854e7ea4213609bd965dfb",
+      "title": "NYCT R33 Redbird Subway car",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "本地版本已做网格合并、贴图压缩、展示比例校准与结构区域划分；封面由本地模型渲染。",
+      "sha256": "fa0c907d052778bd6066a8596bfcae5697b0601ad752296a2ac6eec212690ced"
+    },
+    "lengthAxis": "z",
+    "yawFix": 0,
+    "fitLengthM": 15.54
+  },
+  {
+    "slug": "steam-train",
+    "name": "611 蒸汽机车",
+    "english": "Norfolk & Western 611",
+    "category": "rail",
+    "icon": "🚆",
+    "tagline": "沿着钢轨，把城市和远方连接起来",
+    "description": "蒸汽机车把水加热成蒸汽，用蒸汽推动活塞，再通过机构把运动传给车轮。长长的锅炉、前部烟囱和较大的驱动轮，是它醒目的外形特点。",
+    "principle": "轮对承受车辆重量，钢轨引导行驶；不同机车的动力来源有所不同。",
+    "task": "选一个结构区域，转动模型，找出它在611 蒸汽机车上的位置。",
+    "size": {
+      "lengthM": 33.16,
+      "heightM": 4.9,
+      "note": "结构观察模型；尺寸为展示参考值，不用于工程测量。"
+    },
+    "parts": [
+      {
+        "label": "锅炉与车体区域",
+        "pattern": "^observe_body(?:_|$)",
+        "description": "锅炉把水加热成蒸汽；后方煤水车携带燃料和水。"
+      },
+      {
+        "label": "上部结构",
+        "pattern": "^observe_upper(?:_|$)",
+        "description": "找找烟囱和驾驶室，想想司机从哪里观察线路。"
+      },
+      {
+        "label": "车轮与连杆区域",
+        "pattern": "^observe_lower(?:_|$)",
+        "description": "蒸汽推动活塞，连杆把运动传给车轮。"
+      }
+    ],
+    "actions": [
+      {
+        "label": "观察锅炉与车体区域",
+        "text": "锅炉把水加热成蒸汽；后方煤水车携带燃料和水。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_body(?:_|$)"
+      },
+      {
+        "label": "观察上部结构",
+        "text": "找找烟囱和驾驶室，想想司机从哪里观察线路。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_upper(?:_|$)"
+      },
+      {
+        "label": "观察车轮与连杆区域",
+        "text": "蒸汽推动活塞，连杆把运动传给车轮。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_lower(?:_|$)"
+      }
+    ],
+    "model_path": "/assets/transport/models/v3-steam-train.glb",
+    "cover_path": "/assets/transport/covers/v3-steam-train.webp",
+    "cover_size": [
+      640,
+      400
+    ],
+    "credit": {
+      "author": "kustaev.roman",
+      "source": "https://sketchfab.com/3d-models/b1c05d8f42e44b24adc48cfda0b71fc7",
+      "title": "Norfolk&Western 611 \"Spirit of Roanoke\"",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "本地版本已做网格合并、贴图压缩、展示比例校准与结构区域划分；封面由本地模型渲染。",
+      "sha256": "1e634ee6395625367ba64eda927607a21ba60fb981ae2f98273e683e24585e66"
+    },
+    "lengthAxis": "z",
+    "yawFix": 0,
+    "fitLengthM": 33.16
+  },
+  {
+    "slug": "taxi",
+    "name": "经典出租车",
+    "english": "Checker-style taxicab",
+    "category": "road",
+    "icon": "🚕",
+    "tagline": "四只轮子，穿行在城市街道",
+    "description": "出租车是一种提供客运服务的汽车。这件模型用明亮的车身和车顶标志表现出租车；车轮负责在道路上滚动，车窗帮助驾驶员观察周围。",
+    "principle": "动力系统让驱动车轮转动，轮胎与地面的作用推动汽车前进。",
+    "task": "选一个结构区域，转动模型，找出它在经典出租车上的位置。",
+    "size": {
+      "lengthM": 5.3,
+      "heightM": 1.8,
+      "note": "结构观察模型；尺寸为展示参考值，不用于工程测量。"
+    },
+    "parts": [
+      {
+        "label": "车身区域",
+        "pattern": "^observe_body(?:_|$)",
+        "description": "车门、车窗和座舱方便乘客乘坐。"
+      },
+      {
+        "label": "车顶区域",
+        "pattern": "^observe_upper(?:_|$)",
+        "description": "车顶的小标识让乘客容易认出出租车。"
+      },
+      {
+        "label": "车轮与底盘",
+        "pattern": "^observe_lower(?:_|$)",
+        "description": "轮胎与地面接触，让汽车前进、转向和制动。"
+      }
+    ],
+    "actions": [
+      {
+        "label": "观察车身区域",
+        "text": "车门、车窗和座舱方便乘客乘坐。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_body(?:_|$)"
+      },
+      {
+        "label": "观察车顶区域",
+        "text": "车顶的小标识让乘客容易认出出租车。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_upper(?:_|$)"
+      },
+      {
+        "label": "观察车轮与底盘",
+        "text": "轮胎与地面接触，让汽车前进、转向和制动。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_lower(?:_|$)"
+      }
+    ],
+    "model_path": "/assets/transport/models/v3-taxi.glb",
+    "cover_path": "/assets/transport/covers/v3-taxi.webp",
+    "cover_size": [
+      640,
+      400
+    ],
+    "credit": {
+      "author": "Daniel Zhabotinsky",
+      "source": "https://sketchfab.com/3d-models/9e8f92a215784f3d8aaaaeab1bef54c4",
+      "title": "Old Taxicab - Low poly model",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "本地版本已做网格合并、贴图压缩、展示比例校准与结构区域划分；封面由本地模型渲染。",
+      "sha256": "3ded27ed0dd75f23ee1906e2eca95b246aa189605d7c5aef433de3947c33b7f7"
+    },
+    "lengthAxis": "x",
+    "yawFix": 3.141592653589793,
+    "fitLengthM": 5.3
+  },
+  {
+    "slug": "fire-engine",
+    "name": "云梯消防车",
+    "english": "Aerial ladder fire engine",
+    "category": "road",
+    "icon": "🚒",
+    "tagline": "带着器材，赶往需要帮助的地方",
+    "description": "消防车把消防人员和器材运送到现场。不同类型的消防车可能装备水罐、水泵、梯子或救援工具。这件通用模型用红色车身、警示灯和车顶梯子表现消防车辆。",
+    "principle": "汽车底盘负责运输，专门装备支持灭火和救援工作。",
+    "task": "选一个结构区域，转动模型，找出它在云梯消防车上的位置。",
+    "size": {
+      "lengthM": 6.5,
+      "heightM": 3.3,
+      "note": "结构观察模型；尺寸为展示参考值，不用于工程测量。"
+    },
+    "parts": [
+      {
+        "label": "车身与器材区域",
+        "pattern": "^observe_body(?:_|$)",
+        "description": "车身存放救援器材，驾驶室位于车头。"
+      },
+      {
+        "label": "云梯区域",
+        "pattern": "^observe_upper(?:_|$)",
+        "description": "云梯可用于高处救援；这里展示它的收拢结构。"
+      },
+      {
+        "label": "车轮与底盘",
+        "pattern": "^observe_lower(?:_|$)",
+        "description": "底盘支撑整辆车，车轮负责行驶。"
+      }
+    ],
+    "actions": [
+      {
+        "label": "观察车身与器材区域",
+        "text": "车身存放救援器材，驾驶室位于车头。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_body(?:_|$)"
+      },
+      {
+        "label": "观察云梯区域",
+        "text": "云梯可用于高处救援；这里展示它的收拢结构。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_upper(?:_|$)"
+      },
+      {
+        "label": "观察车轮与底盘",
+        "text": "底盘支撑整辆车，车轮负责行驶。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_lower(?:_|$)"
+      }
+    ],
+    "model_path": "/assets/transport/models/v3-fire-engine.glb",
+    "cover_path": "/assets/transport/covers/v3-fire-engine.webp",
+    "cover_size": [
+      640,
+      400
+    ],
+    "credit": {
+      "author": "AFCM",
+      "source": "https://sketchfab.com/3d-models/b72d3b0536da4a68ae306bb6e1bc7617",
+      "title": "Fire Engine with Ladder Low Poly",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "本地版本已做网格合并、贴图压缩、展示比例校准与结构区域划分；封面由本地模型渲染。",
+      "sha256": "043392e9e9088f2a213c5ee45f6736803e49fa4590c344b2e4280672551f6950"
+    },
+    "lengthAxis": "z",
+    "yawFix": 0,
+    "fitLengthM": 6.5
+  },
+  {
+    "slug": "sailboat",
+    "name": "古典帆船",
+    "english": "Historical sailing vessel",
+    "category": "water",
+    "icon": "⛵",
+    "tagline": "张开船帆，让风帮助它前行",
+    "description": "这是一艘古典帆船的结构模型。高高的桅杆支撑船帆，船体和甲板供船员航行与生活。",
+    "principle": "船体排开水获得浮力，风与船帆相互作用提供推进的力。",
+    "task": "选一个结构区域，转动模型，找出它在古典帆船上的位置。",
+    "size": {
+      "lengthM": 24,
+      "heightM": 15,
+      "note": "结构观察模型；尺寸为展示参考值，不用于工程测量。"
+    },
+    "parts": [
+      {
+        "label": "船体与甲板",
+        "pattern": "^observe_body(?:_|$)",
+        "description": "船体提供浮力，甲板是船员工作的地方。"
+      },
+      {
+        "label": "桅杆与帆区域",
+        "pattern": "^observe_upper(?:_|$)",
+        "description": "风吹到船帆上，可以为船提供前进的动力。"
+      }
+    ],
+    "actions": [
+      {
+        "label": "观察船体与甲板",
+        "text": "船体提供浮力，甲板是船员工作的地方。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_body(?:_|$)"
+      },
+      {
+        "label": "观察桅杆与帆区域",
+        "text": "风吹到船帆上，可以为船提供前进的动力。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_upper(?:_|$)"
+      }
+    ],
+    "model_path": "/assets/transport/models/v3-sailboat.glb",
+    "cover_path": "/assets/transport/covers/v3-sailboat.webp",
+    "cover_size": [
+      640,
+      400
+    ],
+    "credit": {
+      "author": "igorfernandes307",
+      "source": "https://sketchfab.com/3d-models/b1132a4198f54427a93b887260b6c146",
+      "title": "sail boat",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "本地版本已做网格合并、贴图压缩、展示比例校准与结构区域划分；封面由本地模型渲染。 船体与船帆材质重新着色。",
+      "sha256": "f31a38a5c48ea6888323fdc4339aa7fb04214e8cd8199d1b5fbcc58d53a6dc80"
+    },
+    "lengthAxis": "x",
+    "yawFix": 0,
+    "fitLengthM": 24
+  },
+  {
+    "slug": "cargo-ship",
+    "name": "集装箱货船",
+    "english": "Container cargo ship",
+    "category": "water",
+    "icon": "🚢",
+    "tagline": "把一个个货箱，送过辽阔的海洋",
+    "description": "集装箱船用统一规格的货箱运输货物，方便在港口与公路、铁路运输衔接。甲板上堆放的货箱、后部的上层建筑和长长的船体，是它的典型外形。",
+    "principle": "船体利用浮力承载重量，动力系统通过推进装置推动船舶前进。",
+    "task": "选一个结构区域，转动模型，找出它在集装箱货船上的位置。",
+    "size": {
+      "lengthM": 85,
+      "heightM": 32,
+      "note": "结构观察模型；尺寸为展示参考值，不用于工程测量。"
+    },
+    "parts": [
+      {
+        "label": "甲板与货物区域",
+        "pattern": "^observe_body(?:_|$)",
+        "description": "标准尺寸的集装箱便于在船、火车和卡车之间转运。"
+      },
+      {
+        "label": "上层建筑区域",
+        "pattern": "^observe_upper(?:_|$)",
+        "description": "驾驶台位于较高位置，方便观察周围水域。"
+      },
+      {
+        "label": "船体下部",
+        "pattern": "^observe_lower(?:_|$)",
+        "description": "船体排开水并获得浮力，载货后吃水会加深。"
+      }
+    ],
+    "actions": [
+      {
+        "label": "观察甲板与货物区域",
+        "text": "标准尺寸的集装箱便于在船、火车和卡车之间转运。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_body(?:_|$)"
+      },
+      {
+        "label": "观察上层建筑区域",
+        "text": "驾驶台位于较高位置，方便观察周围水域。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_upper(?:_|$)"
+      },
+      {
+        "label": "观察船体下部",
+        "text": "船体排开水并获得浮力，载货后吃水会加深。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_lower(?:_|$)"
+      }
+    ],
+    "model_path": "/assets/transport/models/v3-cargo-ship.glb",
+    "cover_path": "/assets/transport/covers/v3-cargo-ship.webp",
+    "cover_size": [
+      640,
+      400
+    ],
+    "credit": {
+      "author": "Styx",
+      "source": "https://sketchfab.com/3d-models/6362d3e9b11e4396aaafa854c3aa6f06",
+      "title": "Small Cargo Ship",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "本地版本已做网格合并、贴图压缩、展示比例校准与结构区域划分；封面由本地模型渲染。",
+      "sha256": "ff9c2b913f106f2b1e6b8964e6dfe9fa69bf80d4f50f12def6cf1f4a5ac93f46"
+    },
+    "lengthAxis": "x",
+    "yawFix": 3.141592653589793,
+    "fitLengthM": 85
+  },
+  {
+    "slug": "rocket",
+    "icon": "🚀",
+    "tagline": "把探索带向更远的天空。",
+    "description": "这是一枚早期运载火箭的三维模型。和飞机不同，火箭携带燃料和氧化剂，不依靠外界空气中的氧来工作。",
+    "principle": "火箭向后喷出高速气体，获得向前的推力。",
+    "name": "探索者运载火箭",
+    "english": "Explorer Jupiter-C Rocket",
+    "category": "space",
+    "model_path": "/assets/transport/models/v3-rocket.glb",
+    "cover_path": "/assets/transport/covers/v3-rocket.webp",
+    "cover_size": [
+      640,
+      400
+    ],
+    "lengthAxis": "y",
+    "yawFix": 0,
+    "fitLengthM": 2.4,
+    "size": {
+      "lengthM": 2.4,
+      "heightM": 21.2,
+      "note": "结构观察模型；尺寸为展示参考值，不用于工程测量。"
+    },
+    "fitHeightM": 21.2,
+    "parts": [
+      {
+        "label": "箭体区域",
+        "pattern": "^observe_body(?:_|$)",
+        "description": "箭体内部容纳推进剂和结构部件。"
+      },
+      {
+        "label": "顶部与载荷区域",
+        "pattern": "^observe_upper(?:_|$)",
+        "description": "运载火箭把有效载荷送到高空或轨道。"
+      },
+      {
+        "label": "尾部与稳定翼",
+        "pattern": "^observe_lower(?:_|$)",
+        "description": "稳定翼帮助早期火箭稳定飞行，尾部发动机向后喷出高速气体。"
+      }
+    ],
+    "actions": [
+      {
+        "label": "观察箭体区域",
+        "text": "箭体内部容纳推进剂和结构部件。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_body(?:_|$)"
+      },
+      {
+        "label": "观察顶部与载荷区域",
+        "text": "运载火箭把有效载荷送到高空或轨道。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_upper(?:_|$)"
+      },
+      {
+        "label": "观察尾部与稳定翼",
+        "text": "稳定翼帮助早期火箭稳定飞行，尾部发动机向后喷出高速气体。 高亮的是这一结构所在的区域，可拖动模型继续细看。",
+        "kind": "focus",
+        "pattern": "^observe_lower(?:_|$)"
+      }
+    ],
+    "task": "选一个结构区域，转动模型，找出它在探索者运载火箭上的位置。",
+    "credit": {
+      "author": "NASA / Michael D. Carbajal",
+      "source": "https://science.nasa.gov/3d-resources/explorer-jupiter-c-rocket/",
+      "title": "Explorer Jupiter-C Rocket",
+      "license": "NASA 3D Resources (public domain)",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "note": "本地版本已做网格合并、贴图压缩、展示比例校准与结构区域划分；封面由本地模型渲染。 NASA来源不代表NASA对本应用的认可。",
+      "sha256": "6584639c0cdb982de8bfb24682c3f541789b73a396d11e95e564a78862393460"
+    }
+  }
+]

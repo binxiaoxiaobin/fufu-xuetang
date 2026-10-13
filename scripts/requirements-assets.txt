@@ -1,0 +1,2 @@
+# Optional asset-processing tools; not needed to serve pre-generated images.
+Pillow>=9.5,<13

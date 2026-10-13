@@ -1,0 +1,20 @@
+.level-switch { display:flex; align-items:center; gap:8px; min-height:44px; width:100%; padding:7px 10px; border:1px solid #cddccb; border-radius:12px; background:#f6f8ed; color:#35533e; font-family:inherit; font-size:14px; font-weight:600; cursor:pointer; }
+.level-switch span { flex:1; text-align:left; }
+.level-switch:hover { background:#eaf0dd; }
+.level-switch:focus-visible, .rabbit-level-card:focus-visible, .classic-level:focus-visible { outline:3px solid #578862; outline-offset:3px; }
+.level-dialog { width:min(650px, calc(100vw - 24px)); max-height:calc(100dvh - 24px); overflow:auto; }
+.level-intro, .level-replace-note { font-size:14px; line-height:1.65; color:#61715f; }
+.rabbit-level-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px; margin:16px 0; }
+.rabbit-level-card { display:flex; flex-direction:column; align-items:stretch; gap:8px; padding:16px; border:2px solid #e4e7d9; border-radius:16px; background:#fffdf6; color:#35483a; text-align:left; cursor:pointer; font:inherit; }
+.rabbit-level-card.selected, .classic-level.selected { border-color:#61865c; background:#eef4e5; }
+.level-card-top { display:flex; justify-content:space-between; align-items:center; font-size:12px; color:#63735e; }
+.level-number { font-size:20px; font-weight:700; color:#6a865d; }
+.rabbit-level-card strong { font-size:16px; }
+.level-description { font-size:14px; line-height:1.65; }
+.level-done { display:flex; align-items:center; gap:4px; color:#3d743d; }
+.classic-level { min-height:44px; width:100%; border:2px solid #e4e7d9; border-radius:12px; background:#fffdf6; color:#55694e; font:inherit; cursor:pointer; }
+.level-tip { display:flex; align-items:flex-start; gap:8px; padding:12px; background:#f4f0dd; border-radius:12px; font-size:14px; line-height:1.65; color:#5b674f; }
+.level-tip svg { flex-shrink:0; margin-top:2px; }
+.level-result-message { line-height:1.6; text-align:center; font-size:14px; color:#4b7049; }
+.next-level { width:100%; min-height:44px; margin-bottom:12px; }
+@media(max-width:600px) { .rabbit-level-grid { gap:8px; } .rabbit-level-card { padding:12px; } .level-dialog .result-actions { display:flex; flex-wrap:wrap; } .level-dialog .result-actions button { flex:1; min-height:44px; } }

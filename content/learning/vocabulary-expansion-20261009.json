@@ -1,0 +1,20 @@
+[
+  {"slug":"bottle","word":"bottle","meaning":"水瓶","sentence":"Fill the bottle with water.","translation":"把水瓶装满水。","category":"daily","category_name":"日常用品","group":"餐桌上的用品"},
+  {"slug":"fork","word":"fork","meaning":"叉子","sentence":"I eat with a fork.","translation":"我用叉子吃东西。","category":"daily","category_name":"日常用品","group":"餐桌上的用品"},
+  {"slug":"soap","word":"soap","meaning":"肥皂","sentence":"Wash your hands with soap.","translation":"用肥皂洗手。","category":"daily","category_name":"日常用品","group":"生活里的用品"},
+  {"slug":"comb","word":"comb","meaning":"梳子","sentence":"Use a comb to tidy your hair.","translation":"用梳子把头发梳整齐。","category":"daily","category_name":"日常用品","group":"生活里的用品"},
+  {"slug":"pillow","word":"pillow","meaning":"枕头","sentence":"My pillow is soft.","translation":"我的枕头很柔软。","category":"daily","category_name":"日常用品","group":"生活里的用品"},
+  {"slug":"clock","word":"clock","meaning":"时钟","sentence":"Look at the clock.","translation":"看一看时钟。","category":"daily","category_name":"日常用品","group":"生活里的用品"},
+  {"slug":"peach","word":"peach","meaning":"桃子","sentence":"This peach is juicy.","translation":"这个桃子汁水很多。","category":"fruit","category_name":"水果","group":"多彩的水果"},
+  {"slug":"mango","word":"mango","meaning":"芒果","sentence":"I like sweet mangoes.","translation":"我喜欢甜芒果。","category":"fruit","category_name":"水果","group":"多彩的水果"},
+  {"slug":"lemon","word":"lemon","meaning":"柠檬","sentence":"The lemon tastes sour.","translation":"这个柠檬尝起来很酸。","category":"fruit","category_name":"水果","group":"多彩的水果"},
+  {"slug":"cherry","word":"cherry","meaning":"樱桃","sentence":"These cherries are red.","translation":"这些樱桃是红色的。","category":"fruit","category_name":"水果","group":"多彩的水果"},
+  {"slug":"kiwi","word":"kiwi","meaning":"猕猴桃","sentence":"The kiwi is green inside.","translation":"这个猕猴桃里面是绿色的。","category":"fruit","category_name":"水果","group":"多彩的水果"},
+  {"slug":"blueberry","word":"blueberry","meaning":"蓝莓","sentence":"These blueberries are blue.","translation":"这些蓝莓是蓝色的。","category":"fruit","category_name":"水果","group":"多彩的水果"},
+  {"slug":"onion","word":"onion","meaning":"洋葱","sentence":"This onion has many layers.","translation":"这个洋葱有很多层。","category":"vegetable","category_name":"蔬菜","group":"菜篮子里的蔬菜"},
+  {"slug":"garlic","word":"garlic","meaning":"大蒜","sentence":"Add a little garlic to the soup.","translation":"往汤里加一点大蒜。","category":"vegetable","category_name":"蔬菜","group":"菜篮子里的蔬菜"},
+  {"slug":"eggplant","word":"eggplant","meaning":"茄子","sentence":"The eggplant is purple.","translation":"这根茄子是紫色的。","category":"vegetable","category_name":"蔬菜","group":"菜篮子里的蔬菜"},
+  {"slug":"pepper","word":"bell pepper","meaning":"甜椒","sentence":"This bell pepper is red.","translation":"这个甜椒是红色的。","category":"vegetable","category_name":"蔬菜","group":"菜篮子里的蔬菜"},
+  {"slug":"lettuce","word":"lettuce","meaning":"生菜","sentence":"We put lettuce in a salad.","translation":"我们把生菜放进沙拉里。","category":"vegetable","category_name":"蔬菜","group":"菜篮子里的蔬菜"},
+  {"slug":"mushroom","word":"mushroom","meaning":"蘑菇","sentence":"I like mushroom soup.","translation":"我喜欢蘑菇汤。","category":"vegetable","category_name":"蔬菜","group":"菜篮子里的蔬菜"}
+]

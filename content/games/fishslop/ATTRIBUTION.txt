@@ -1,0 +1,18 @@
+海底小鱼乐园 · 福福学堂本地适配
+
+原作：Fishslop
+作者：vasu-devs
+来源：https://github.com/vasu-devs/FishSlop_Opus5.5
+下载日期：2026-10-09（main 分支，原始压缩包 SHA-256 见 provenance.json）
+
+上游未附带 LICENSE 或明确授权条款。当前为用户要求的本地移植与汉化，
+不代表原作者授予了公开发布、分发或商业使用许可；如需分发或上线，应取得作者许可。
+原始源码、README 和 DESIGN 保存在 content/games/fishslop/source。
+
+本地改动：中文页面、提示、鱼种与装备说明；按学员连接现有 MySQL 存档；
+可选全屏；返回时等待保存；账号切换停止写入；触屏默认低画质；
+修复摇杆加速与指针取消；移除 Google Fonts，改用系统中文字体。
+游戏内金币与学习积分独立，不发放学习积分。
+
+Three.js 0.185.1：MIT License，完整许可见 THREE-LICENSE.txt。
+场景、鱼类、纹理与声音由原作程序生成，无外部模型或音频资源。

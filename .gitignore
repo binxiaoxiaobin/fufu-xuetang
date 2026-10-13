@@ -1,0 +1,53 @@
+# ---- 运行产物 ----
+__pycache__/
+*.py[cod]
+*.log
+logs/
+*.bak
+*.tmp
+
+# ---- 数据库 / 密钥 ----
+*.sqlite
+*.sqlite3
+*.db
+.env
+.env.local
+backend/.env
+backend/.env.*
+!backend/.env.example
+backend/data/
+backups/
+
+# ---- 本地备份、完整打包和生成中间件 ----
+publish/
+artifacts/
+*.sql.gz
+*.zip
+.claude/
+**/node_modules/
+**/.venv/
+**/venv/
+
+# ---- 素材：554 MB，走单独同步，不进 git ----
+# 首次部署用 scripts/sync-assets.ps1 拷过去；之后按需增量同步。
+# 注意 frontend/assets/content/ 是后台上传的运行时数据，本来就不该进版本库。
+frontend/assets/
+!frontend/assets/
+frontend/assets/*
+!frontend/assets/engineering/
+frontend/assets/engineering/*
+!frontend/assets/engineering/tracked-excavator.glb
+!frontend/assets/engineering/high-reach-demolition-excavator.glb
+!frontend/assets/engineering/ik-excavator.glb
+!frontend/assets/engineering/ATTRIBUTION.txt
+
+# ---- 临时 / 会话产物 ----
+.workbuddy/
+__codex_quiz_finish_preview.html
+frontend/__codex_quiz_finish_preview.html
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "source_record_id": "my-original-math-001",
+      "source_name": "福福学堂原创",
+      "source_license": "原创授权",
+      "subject": "数学",
+      "stage": "小学",
+      "grade": "二年级",
+      "difficulty": "easy",
+      "question_type": "single_choice",
+      "knowledge_point": "乘法口诀",
+      "title": "二年级乘法练习示例",
+      "prompt": "三乘四等于几？",
+      "options": [
+        {"key": "A", "text": "7"},
+        {"key": "B", "text": "12"},
+        {"key": "C", "text": "14"}
+      ],
+      "answer": "B",
+      "explanation": "三个四相加等于十二。"
+    }
+  ]
+}

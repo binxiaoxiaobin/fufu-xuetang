@@ -1,0 +1,43 @@
+{
+  "dataset": "fufu-original-grade3-math-2026-09",
+  "name": "福福学堂原创·三年级上册数学练习",
+  "source_url": "https://www.tiku.cn/chapterq?cid=14&cno=1&vid=800016&bid=800104",
+  "basis": "仅参考页面展示的教材章节主题，不复制或改写页面题干、数字、选项或解析。",
+  "questions": [
+    {"id":"fufu-g3-math-001","title":"时间单位换算·秒","prompt":"科学观察持续了4分15秒，一共是多少秒？","question_type":"short_answer","answer":"255","options":[],"difficulty":"easy","knowledge_point":"时、分、秒","hint":"1分等于60秒。","explanation":"4分是240秒，再加15秒，共255秒。"},
+    {"id":"fufu-g3-math-002","title":"经过时间·读书","prompt":"小航从上午9时20分开始读书，读了25分钟。他在什么时刻读完？","question_type":"single_choice","answer":"B","options":[{"key":"A","text":"上午9时35分"},{"key":"B","text":"上午9时45分"},{"key":"C","text":"上午9时55分"}],"difficulty":"easy","knowledge_point":"时、分、秒","hint":"从9时20分继续往后数25分钟。","explanation":"20分加25分是45分，所以读完时间是上午9时45分。"},
+    {"id":"fufu-g3-math-003","title":"时分换算·分钟","prompt":"1时35分合起来是多少分钟？","question_type":"short_answer","answer":"95","options":[],"difficulty":"easy","knowledge_point":"时、分、秒","hint":"先把1时换成分钟。","explanation":"1时等于60分，60加35等于95分。"},
+
+    {"id":"fufu-g3-math-004","title":"三位数加法·文具","prompt":"文具店上午卖出328支铅笔，下午卖出417支。全天一共卖出多少支？","question_type":"short_answer","answer":"745","options":[],"difficulty":"easy","knowledge_point":"万以内的加法和减法","hint":"把上午和下午卖出的数量相加。","explanation":"328加417等于745支。"},
+    {"id":"fufu-g3-math-005","title":"万以内减法·图书","prompt":"学校准备了800本图书，已经放进书架367本，还有多少本没有放上去？","question_type":"short_answer","answer":"433","options":[],"difficulty":"medium","knowledge_point":"万以内的加法和减法","hint":"用准备的总数减去已经放好的数量。","explanation":"800减367等于433本。"},
+    {"id":"fufu-g3-math-006","title":"连续加法·旅行","prompt":"三个小组步行了1250米、1380米和970米。他们合计步行多少米？","question_type":"short_answer","answer":"3600","options":[],"difficulty":"medium","knowledge_point":"万以内的加法和减法","hint":"将三个小组的路程依次相加。","explanation":"1250加1380等于2630，2630再加970等于3600米。"},
+
+    {"id":"fufu-g3-math-007","title":"千米换算·骑行","prompt":"骑行路线长3千米，换算成多少米？","question_type":"short_answer","answer":"3000","options":[],"difficulty":"easy","knowledge_point":"长度单位","hint":"1千米等于1000米。","explanation":"3乘1000等于3000米。"},
+    {"id":"fufu-g3-math-008","title":"质量单位·水果箱","prompt":"一箱水果重2千克350克，合起来是多少克？","question_type":"short_answer","answer":"2350","options":[],"difficulty":"medium","knowledge_point":"质量单位","hint":"先把2千克换成克，再加上350克。","explanation":"2千克等于2000克，2000加350等于2350克。"},
+    {"id":"fufu-g3-math-009","title":"长度相加·彩带","prompt":"一条彩带长4米25厘米，另一条长185厘米。两条合起来多长？","question_type":"single_choice","answer":"C","options":[{"key":"A","text":"5米10厘米"},{"key":"B","text":"5米90厘米"},{"key":"C","text":"6米10厘米"}],"difficulty":"medium","knowledge_point":"长度单位","hint":"先把4米25厘米改写成厘米再相加。","explanation":"4米25厘米是425厘米，425加185等于610厘米，即6米10厘米。"},
+
+    {"id":"fufu-g3-math-010","title":"加法估算·观众人数","prompt":"体育馆看台上午有2986人，下午有1972人。全天人数大约是多少？按整千估算。","question_type":"single_choice","answer":"B","options":[{"key":"A","text":"约4000人"},{"key":"B","text":"约5000人"},{"key":"C","text":"约6000人"}],"difficulty":"medium","knowledge_point":"万以内加减法估算","hint":"把2986和1972分别看作接近的整千数。","explanation":"2986约为3000，1972约为2000，合起来约5000人。"},
+    {"id":"fufu-g3-math-011","title":"加法验算·种树","prompt":"公园东区种了246棵树，西区种了379棵。两个区域共种了多少棵？","question_type":"short_answer","answer":"625","options":[],"difficulty":"medium","knowledge_point":"万以内的加法和减法","hint":"个位、十位、百位分别相加，注意进位。","explanation":"246加379等于625棵。"},
+    {"id":"fufu-g3-math-012","title":"减法应用·剩余路程","prompt":"一段全长1200米的步道，已经修好785米。还剩多少米没有修？","question_type":"short_answer","answer":"415","options":[],"difficulty":"medium","knowledge_point":"万以内的加法和减法","hint":"用步道总长度减去已经修好的长度。","explanation":"1200减785等于415米。"},
+
+    {"id":"fufu-g3-math-013","title":"倍的认识·积木","prompt":"红色积木有7块，蓝色积木的数量是红色的4倍。蓝色积木有多少块？","question_type":"short_answer","answer":"28","options":[],"difficulty":"easy","knowledge_point":"倍的认识","hint":"求一个数的几倍，用乘法。","explanation":"7乘4等于28块。"},
+    {"id":"fufu-g3-math-014","title":"倍数关系·彩球","prompt":"黄色彩球有6个，绿色彩球有24个。绿色彩球的数量是黄色的几倍？","question_type":"short_answer","answer":"4","options":[],"difficulty":"easy","knowledge_point":"倍的认识","hint":"用绿色彩球数除以黄色彩球数。","explanation":"24除以6等于4，绿色彩球是黄色的4倍。"},
+    {"id":"fufu-g3-math-015","title":"倍的比较·运动圈数","prompt":"小雨跑了3圈，小林跑的圈数是小雨的5倍。小林跑了多少圈？","question_type":"short_answer","answer":"15","options":[],"difficulty":"easy","knowledge_point":"倍的认识","hint":"把3圈重复5份。","explanation":"3乘5等于15圈。"},
+
+    {"id":"fufu-g3-math-016","title":"多位数乘一位数·贴纸","prompt":"每本集贴有236张贴纸，4本一共有多少张贴纸？","question_type":"short_answer","answer":"944","options":[],"difficulty":"medium","knowledge_point":"多位数乘一位数","hint":"计算236乘4，注意个位和十位的进位。","explanation":"236乘4等于944张。"},
+    {"id":"fufu-g3-math-017","title":"乘法进位·座位","prompt":"礼堂有6排座位，每排508个座位。礼堂一共有多少个座位？","question_type":"short_answer","answer":"3048","options":[],"difficulty":"hard","knowledge_point":"多位数乘一位数","hint":"把508分成500和8分别乘6。","explanation":"500乘6等于3000，8乘6等于48，合起来是3048个。"},
+    {"id":"fufu-g3-math-018","title":"乘法应用·手工袋","prompt":"每个手工袋里装127颗珠子，做8个这样的袋子需要多少颗珠子？","question_type":"short_answer","answer":"1016","options":[],"difficulty":"hard","knowledge_point":"多位数乘一位数","hint":"列式127乘8。","explanation":"127乘8等于1016颗。"},
+
+    {"id":"fufu-g3-math-019","title":"长方形周长·花圃","prompt":"长方形花圃长12米、宽7米，沿四周围一圈矮篱笆，需要多少米？","question_type":"short_answer","answer":"38","options":[],"difficulty":"medium","knowledge_point":"长方形和正方形","hint":"长方形周长等于长与宽之和乘2。","explanation":"（12加7）乘2等于38米。"},
+    {"id":"fufu-g3-math-020","title":"正方形周长·桌垫","prompt":"正方形桌垫每边长9分米，它的周长是多少分米？","question_type":"short_answer","answer":"36","options":[],"difficulty":"easy","knowledge_point":"长方形和正方形","hint":"正方形有4条相等的边。","explanation":"9乘4等于36分米。"},
+    {"id":"fufu-g3-math-021","title":"长方形边长·围栏","prompt":"一个长方形围栏的周长是30米，长是9米，宽是多少米？","question_type":"short_answer","answer":"6","options":[],"difficulty":"hard","knowledge_point":"长方形和正方形","hint":"先用周长除以2，得到长与宽的和。","explanation":"30除以2等于15，15减9等于6米。"},
+
+    {"id":"fufu-g3-math-022","title":"分数表示·拼图","prompt":"一幅拼图平均分成8块，乐乐完成了其中3块。完成部分占整幅拼图的几分之几？","question_type":"short_answer","answer":"3/8","options":[],"difficulty":"easy","knowledge_point":"分数的初步认识","hint":"分母表示平均分成的总份数，分子表示完成的份数。","explanation":"平均分成8份，完成3份，所以是3/8。"},
+    {"id":"fufu-g3-math-023","title":"同分母分数比较·果汁","prompt":"两杯同样大小的果汁，第一杯喝了2/7，第二杯喝了5/7。哪杯喝得更多？","question_type":"single_choice","answer":"B","options":[{"key":"A","text":"第一杯"},{"key":"B","text":"第二杯"},{"key":"C","text":"两杯一样多"}],"difficulty":"medium","knowledge_point":"分数的初步认识","hint":"分母相同，比较分子大小。","explanation":"5大于2，所以第二杯喝掉的部分更多。"},
+    {"id":"fufu-g3-math-024","title":"剩余分数·纸花","prompt":"一张纸平均剪成6份，做纸花用了2份。剩下的部分占整张纸的几分之几？请写最简分数。","question_type":"short_answer","answer":"2/3","options":[],"difficulty":"medium","knowledge_point":"分数的初步认识","hint":"先算还剩几份，再把分数约成最简形式。","explanation":"还剩4份，是4/6；约分后为2/3。"},
+
+    {"id":"fufu-g3-math-025","title":"集合计数·社团","prompt":"班里有18人参加绘画社，16人参加合唱社，其中7人两个社团都参加。至少参加一个社团的有多少人？","question_type":"short_answer","answer":"27","options":[],"difficulty":"hard","knowledge_point":"数学广角·集合","hint":"两个社团人数相加时，重复的7人被算了两次。","explanation":"18加16再减去重复计算的7人，等于27人。"},
+    {"id":"fufu-g3-math-026","title":"集合去重·读书活动","prompt":"读书活动中，14名同学读了科普书，11名同学读了故事书，有4名同学两类书都读了。读过这两类书的同学共有多少名？","question_type":"short_answer","answer":"21","options":[],"difficulty":"hard","knowledge_point":"数学广角·集合","hint":"把两类人数相加，再减去重复计数的同学。","explanation":"14加11减4等于21名同学。"},
+    {"id":"fufu-g3-math-027","title":"集合交集·数字卡片","prompt":"从1到30的数字卡片中，能被2整除的有15张，能被5整除的有6张，同时能被2和5整除的有几张？","question_type":"short_answer","answer":"3","options":[],"difficulty":"medium","knowledge_point":"数学广角·集合","hint":"同时被2和5整除的数，就是1到30中5的倍数且是偶数的数。","explanation":"符合条件的是10、20、30，共3张。"}
+  ]
+}

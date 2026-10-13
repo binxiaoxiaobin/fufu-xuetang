@@ -1,0 +1,14 @@
+const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm');
+const nodes=new Map(),listeners=new Map(),spoken=[];
+const node=()=>({textContent:'',innerHTML:'',clientWidth:500,offsetWidth:40,offsetLeft:0,style:{setProperty(){}},append(){},setAttribute(){},remove(){},addEventListener(){},classList:{add(){},remove(){},toggle(){}}});
+const root={innerHTML:'',querySelector(selector){if(!nodes.has(selector))nodes.set(selector,node());return nodes.get(selector);},querySelectorAll(selector){return selector==='[data-memory-slot]'?[0,1,2].map(i=>{const n=this.querySelector(`[data-memory-slot="${i}"]`);n.dataset={memorySlot:String(i)};return n;}):[];},addEventListener(type,fn){listeners.set(type,fn);}};
+const context={window:{FufuTTS:{cancel(){},speak:async(text,lang,options)=>{spoken.push({text,lang,options});return{hit:true};}}},document:{createElement:()=>node()},AbortController,console};
+vm.createContext(context);vm.runInContext(fs.readFileSync('frontend/reader-memory.js','utf8'),context);
+const stop=context.window.FufuMemory.mount({root,lesson:{word:'cat',language:'en-US'},memoryUnit:'word'});
+nodes.get('#memoryBurst').onclick();
+listeners.get('click')({detail:0,target:{closest:()=>({dataset:{memoryPiece:'0'}})}});
+assert.equal(spoken.length,1);assert.equal(spoken[0].text,'C');assert.equal(spoken[0].lang,'en-US');assert.equal(spoken[0].options.readerPace,true);
+nodes.get('[data-memory-slot="0"]').onclick();
+listeners.get('click')({detail:0,target:{closest:()=>({dataset:{memoryPiece:'0'}})}});
+assert.equal(spoken.length,2,'Replacing a letter should pronounce it again');stop();
+console.log('Fourth-stage letter names and repeated placement passed');

@@ -1,0 +1,41 @@
+.cards-page .deck-tabs{flex-wrap:wrap;justify-content:center;gap:10px}
+.cards-page .deck-tabs button{min-height:44px;font-size:14px;padding:10px 16px}
+.ac-intro{display:flex;align-items:center;gap:16px;justify-content:space-between;margin:20px 0;padding:18px 20px;border-radius:18px;background:#f2f4eb;color:#293f36}
+.ac-intro b{font-size:17px}.ac-intro p{font-size:14px;line-height:1.6;margin:6px 0 0;color:#64756b}
+.ac-count{white-space:nowrap;font-size:13px;color:#64756b}
+#actionCardsContent{max-width:1100px;margin:0 auto 40px}
+.ac-section h2{font-size:18px;margin:26px 0 18px;color:#416d54;text-align:center}
+.ac-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px;align-items:stretch}
+.action-card{overflow:hidden;border:1px solid #e4e9dd;border-radius:18px;background:#fffdf8;transition:box-shadow .2s,border-color .2s}
+.action-card.is-playing{border-color:#416d54;box-shadow:0 0 0 2px #416d5425}
+.ac-play{display:flex;flex-direction:column;align-items:center;width:100%;padding:0 0 10px;border:0;border-radius:18px 18px 0 0;background:transparent;color:#293f36;cursor:pointer;font-family:inherit;text-align:center}
+.ac-art{display:block;width:100%;aspect-ratio:1;background:#f7f5ef;overflow:hidden}
+.ac-art img{display:block;width:100%;height:100%;object-fit:cover}
+.ac-art img.ac-object{animation:ac-object-float 4s ease-in-out infinite;animation-play-state:paused}
+.ac-art img.ac-object[data-moving="true"]{animation-play-state:running}
+@keyframes ac-object-float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+.ac-categories{display:flex;justify-content:center;flex-wrap:wrap;gap:10px;margin:16px auto 12px;padding:10px 0}
+.ac-categories button{display:flex;align-items:center;gap:8px;min-height:44px;padding:10px 16px;border:1px solid #e4e9dd;border-radius:12px;background:#fffdf8;color:#416d54;font:inherit;font-size:14px;cursor:pointer}
+.ac-categories button span{font-size:12px;color:#64756b;background:#f2f4eb;padding:2px 7px;border-radius:8px}
+.ac-categories button[aria-pressed="true"]{background:#eaf1df;color:#31583f;border-color:#9eb49a;font-weight:600}
+.ac-categories button[aria-pressed="true"] span{background:#dfe8d3;color:#31583f}
+.ac-categories button:focus-visible{outline:3px solid #416d54;outline-offset:3px}
+.ac-word{display:flex;align-items:center;gap:7px;font-size:20px;font-weight:750;line-height:1.2;margin:12px 0 5px;text-transform:capitalize}
+.ac-sound{font-size:15px;color:#416d54}.ac-meaning{font-size:15px;font-weight:600;line-height:1.5}
+.ac-status{min-height:25px;text-align:center;font-size:12px;color:#748279;line-height:1.6;padding:0 8px}
+.is-playing .ac-status{color:#31583f;font-weight:600}
+.ac-example{display:block;width:calc(100% - 24px);min-height:44px;margin:0 12px 12px;padding:8px;border:0;border-radius:10px;background:#f2f4eb;color:#416d54;font-size:13px;font-family:inherit;cursor:pointer}
+.ac-example .ac-sentence{display:block;font-size:15px;font-weight:650;line-height:1.55;color:#293f36;margin:0 0 5px;overflow-wrap:anywhere}
+.ac-example .ac-translation{display:block;font-size:13px;line-height:1.6;color:#64756b;margin:0 0 10px}
+.ac-example .ac-listen{display:block;font-size:12px;color:#416d54;line-height:1.5}
+.action-card{display:flex;flex-direction:column}.ac-example{margin-top:auto;text-align:left;padding:12px}
+.ac-example[aria-pressed="true"]{background:#e3edda;box-shadow:inset 0 0 0 1px #416d54}
+.ac-play:focus-visible,.ac-example:focus-visible{outline:3px solid #416d54;outline-offset:-3px}
+.ac-loading{text-align:center;color:#64756b;padding:32px}.ac-loading button{min-height:44px;padding:10px 24px}
+#page-home .home-cards .quick-grid{grid-template-columns:repeat(4,minmax(0,1fr))}
+@media(max-width:1000px){#page-home .home-cards .quick-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:1000px){.ac-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}}
+@media(max-width:700px){.ac-intro{flex-wrap:wrap;gap:8px}.ac-count{font-size:12px}}
+@media(max-width:480px){.ac-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.ac-intro{padding:14px}.ac-intro b{font-size:16px}.ac-intro p{font-size:13px}.ac-word{font-size:20px}}
+@media(max-width:650px){#page-home .home-cards .quick-grid{grid-template-columns:1fr}}
+@media(prefers-reduced-motion:reduce){.action-card{transition:none}.ac-art img.ac-object{animation:none}}

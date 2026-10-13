@@ -1,0 +1,12 @@
+const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm');
+const source=fs.readFileSync('frontend/reader-memory.js','utf8');
+const actual=source.slice(source.indexOf('  function tokenize('),source.indexOf('  function mount('));
+const context={};vm.createContext(context);vm.runInContext(actual,context);
+const tokens=(text,language,unit)=>Array.from(context.tokenize({word:text,sentence:text,language},unit));
+assert.deepEqual(tokens('apple','en-US','word'),['a','p','p','l','e']);
+assert.deepEqual(tokens('fire engine','en-US','word'),Array.from('fireengine'));
+assert.deepEqual(tokens('I wash my hands.','en-US','sentence'),['I','wash','my','hands']);
+assert.deepEqual(tokens("Don't run.",'en-US','sentence'),["Don't",'run']);
+assert.deepEqual(tokens('苹果','zh-CN','word'),['苹','果']);
+assert.deepEqual(tokens('我把苹果洗干净。','zh-CN','sentence'),Array.from('我把苹果洗干净'));
+console.log('Repeated letters, phrase spacing, Chinese and English sentence tokenization: passed');

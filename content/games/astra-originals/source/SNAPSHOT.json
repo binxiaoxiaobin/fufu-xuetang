@@ -1,0 +1,184 @@
+[
+  {
+    "game": "mosswing",
+    "file": "mosswing.html",
+    "url": "https://raw.githubusercontent.com/Ayi1337/gpt6-astra-one-shot-games/main/mosswing/mosswing.html",
+    "sha256": "3efe39af37efbdbe92c2310a321d410b34787cc329f2837e716a9e0d2975d2e3",
+    "bytes": 701216
+  },
+  {
+    "game": "mosswing",
+    "file": "src/game.js",
+    "url": "https://raw.githubusercontent.com/Ayi1337/gpt6-astra-one-shot-games/main/mosswing/src/game.js",
+    "sha256": "8a3f417c3d0af39022f95a37bdc38255e8ccf28f52c36d30d66ef49197642587",
+    "bytes": 20068
+  },
+  {
+    "game": "mosswing",
+    "file": "src/shell.html",
+    "url": "https://raw.githubusercontent.com/Ayi1337/gpt6-astra-one-shot-games/main/mosswing/src/shell.html",
+    "sha256": "7aa9478e29ed56a82c2d08c37e44af835a7ff8438cb50ae39936e208654d231d",
+    "bytes": 10177
+  },
+  {
+    "game": "mosswing",
+    "file": "src/three.min.js",
+    "url": "https://raw.githubusercontent.com/Ayi1337/gpt6-astra-one-shot-games/main/mosswing/src/three.min.js",
+    "sha256": "170c6789f43217c96b3170f4b42fafe135de7f7cd48497a4218f9757ee1d49fa",
+    "bytes": 669884
+  },
+  {
+    "game": "mosswing",
+    "file": "src/three-license.txt",
+    "url": "https://raw.githubusercontent.com/Ayi1337/gpt6-astra-one-shot-games/main/mosswing/src/three-license.txt",
+    "sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d",
+    "bytes": 1081
+  },
+  {
+    "game": "mosswing",
+    "file": "src/build.py",
+    "url": "https://raw.githubusercontent.com/Ayi1337/gpt6-astra-one-shot-games/main/mosswing/src/build.py",
+    "sha256": "4984d5ff141dfbc9735a5016987a599b2774e8bc4f5bf812a8167f88eefd9032",
+    "bytes": 538
+  },
+  {
+    "game": "mosswing",
+    "file": "src/design/spec.md",
+    "url": "https://raw.githubusercontent.com/Ayi1337/gpt6-astra-one-shot-games/main/mosswing/src/design/spec.md",
+    "sha256": "6c2ed825ddaa01f9e087a211d0d91d7ee29fa82e0d73f2850b5f03909b56491a",
+    "bytes": 3392
+  },
+  {
+    "game": "thunderfall",
+    "file": "index.html",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/works/thunderfall/index.html",
+    "sha256": "7d9cc27ee2cd57687064be26b486562a52fd0796d69fc6569a36120c1fc7f0f5",
+    "bytes": 10754
+  },
+  {
+    "game": "thunderfall",
+    "file": "style.css",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/works/thunderfall/style.css",
+    "sha256": "4337ec74348c8f7a3b96dee721796368ccc2f066aa9e42b06131178012046a7e",
+    "bytes": 23754
+  },
+  {
+    "game": "thunderfall",
+    "file": "app.js",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/works/thunderfall/app.js",
+    "sha256": "e03f3d3ed31ad5c9c4c2b97778315f53f69b0741e4eb2279a03563eb91070027",
+    "bytes": 18821
+  },
+  {
+    "game": "thunderfall",
+    "file": "data.js",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/works/thunderfall/data.js",
+    "sha256": "4dd050f4cda99a6301ceb3a00108aac2f2da26433da129b6b9c5ed6d07b6444f",
+    "bytes": 4752
+  },
+  {
+    "game": "thunderfall",
+    "file": "engine.js",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/works/thunderfall/engine.js",
+    "sha256": "3eb3eee30fe7a1446a58b65ea8403995aed9e814529b63416e320eb47e907fa6",
+    "bytes": 26181
+  },
+  {
+    "game": "thunderfall",
+    "file": "render.js",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/works/thunderfall/render.js",
+    "sha256": "d2c5d67dc210b4b84deabd533b21ef60c309e80351247671c40340c01ff17179",
+    "bytes": 20524
+  },
+  {
+    "game": "thunderfall",
+    "file": "audio.js",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/works/thunderfall/audio.js",
+    "sha256": "623c14af9d3e1be6de5434672cd2d82b3fece08de0e4c3cfade9083b2091f05d",
+    "bytes": 4522
+  },
+  {
+    "game": "thunderfall",
+    "file": "airframes.js",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/works/thunderfall/airframes.js",
+    "sha256": "e4ae3fa12cdc1a19597222f572a943957a9cb1cca7fbd66c162ce9dc35af458d",
+    "bytes": 13350
+  },
+  {
+    "game": "thunderfall",
+    "file": "icon.svg",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/works/thunderfall/icon.svg",
+    "sha256": "7edd4c1bdfeb98926bfd43c9c271e81e79b2968357c85aa27a17504400d42b25",
+    "bytes": 246
+  },
+  {
+    "game": "thunderfall",
+    "file": "README.md",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/works/thunderfall/README.md",
+    "sha256": "7e2126880f7b5dab58f82e937114965c0a7244ccb2da928c6327735517a03b65",
+    "bytes": 8870
+  },
+  {
+    "game": "thunderfall",
+    "file": "DESIGN.md",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/works/thunderfall/DESIGN.md",
+    "sha256": "2cc832266a133e642290b9fe85c3934fd6769b25a5a2d6fdae4307a2158fe8be",
+    "bytes": 7716
+  },
+  {
+    "game": "thunderfall",
+    "file": "metadata.json",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/works/thunderfall/metadata.json",
+    "sha256": "2378f3aa3f9dc85741b01c45c9d03710371016e6faef5e3ff5263ec9031143eb",
+    "bytes": 2189
+  },
+  {
+    "game": "thunderfall",
+    "file": "package.json",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/works/thunderfall/package.json",
+    "sha256": "aad6e6390c803b6ed18694d38a4bee1c01ddc78289de025346bbe78d64e33e97",
+    "bytes": 254
+  },
+  {
+    "game": "thunderfall",
+    "file": "build.mjs",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/works/thunderfall/build.mjs",
+    "sha256": "e0778df246dd23704eb1f144f621a0570d4900f3980652e7758550433874c264",
+    "bytes": 489
+  },
+  {
+    "game": "thunderfall",
+    "file": "tests/engine.test.mjs",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/works/thunderfall/tests/engine.test.mjs",
+    "sha256": "b8fd90c85da49d62852c2afbd4a71894ee55d5fb2b7cc99dbc75c8a7f695fe15",
+    "bytes": 23613
+  },
+  {
+    "game": "iron-bastion",
+    "file": "index.html",
+    "url": "https://iron-bastion.zecoba.workers.dev/",
+    "sha256": "492e7d7775a72f31d0f2707a796af02a9981d4ec81800a327126086f638d3934",
+    "bytes": 142787
+  },
+  {
+    "game": "mosswing",
+    "file": "gameplay.jpg",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/assets/screenshots/mosswing/gameplay.jpg",
+    "sha256": "5de7a263300fe3c556f91ba200a5865ff04b0f5a5b86f6e336b90c6bc3eff042",
+    "bytes": 96924
+  },
+  {
+    "game": "thunderfall",
+    "file": "gameplay.jpg",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/assets/screenshots/thunderfall/gameplay.jpg",
+    "sha256": "0d1cda2750293876526eb8752debb1c6ebc7e2a2c281b93c6a22e2e5870f8e0a",
+    "bytes": 179739
+  },
+  {
+    "game": "iron-bastion",
+    "file": "gameplay.jpg",
+    "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/assets/screenshots/iron-bastion/gameplay.jpg",
+    "sha256": "81efe8591d898eaec329a4d2d9e7d264bbcf9a57326fda3b4f20f9587dad61b7",
+    "bytes": 54315
+  }
+]

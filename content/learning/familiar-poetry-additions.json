@@ -1,0 +1,733 @@
+[
+  {
+    "slug": "familiar-li-bai-jiang-jin-jiu",
+    "title": "将进酒",
+    "author": "李白",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "moon",
+    "paragraphs": [
+      "君不见黄河之水天上来，奔流到海不复回。",
+      "君不见高堂明镜悲白发，朝如青丝暮成雪。",
+      "人生得意须尽欢，莫使金樽空对月。",
+      "天生我材必有用，千金散尽还复来。",
+      "烹羊宰牛且为乐，会须一饮三百杯。",
+      "岑夫子，丹丘生，将进酒，杯莫停。",
+      "与君歌一曲，请君为我倾耳听。",
+      "钟鼓馔玉不足贵，但愿长醉不复醒。",
+      "古来圣贤皆寂寞，惟有饮者留其名。",
+      "陈王昔时宴平乐，斗酒十千恣欢谑。",
+      "主人何为言少钱，径须沽取对君酌。",
+      "五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。"
+    ],
+    "meaning": "诗先用黄河奔流和人生易老的景象，把时间写得浩荡又急迫；随后转为劝酒、歌唱和自我抒怀。“天生我材必有用”写出诗人的自信，“钟鼓馔玉不足贵”又表达他对富贵生活的态度。全诗情绪起伏强烈，既有豪迈，也有失意后的排遣，不能只把它读成一首喝酒诗。",
+    "notes": [
+      {
+        "word": "将进酒",
+        "meaning": "“将”读 qiāng，是请、愿的意思；题目是劝酒歌。"
+      },
+      {
+        "word": "馔玉",
+        "meaning": "精美如玉的饮食，借指富贵生活。"
+      },
+      {
+        "word": "陈王",
+        "meaning": "指曹植。诗中借古人宴饮抒发感慨。"
+      }
+    ],
+    "source": "李白《将进酒》；《全唐诗》通行文本。诗句存在异文，采用常见选本版本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-li-bai-zeng-wang-lun",
+    "title": "赠汪伦",
+    "author": "李白",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "journey",
+    "paragraphs": [
+      "李白乘舟将欲行，忽闻岸上踏歌声。",
+      "桃花潭水深千尺，不及汪伦送我情。"
+    ],
+    "meaning": "小船将要出发，岸上传来踏歌送别的声音。诗人没有直接说“朋友对我多好”，而把友情和深深的潭水放在一起比较：水已经很深，仍比不上朋友送别的情意。前两句写离别场面，后两句把眼前景物变成感情的尺度。",
+    "notes": [
+      {
+        "word": "踏歌",
+        "meaning": "古人边走边唱、以脚踏地打节拍的一种歌唱方式。"
+      },
+      {
+        "word": "桃花潭",
+        "meaning": "地名，在今安徽泾县一带。"
+      }
+    ],
+    "source": "李白《赠汪伦》；《全唐诗》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-li-bai-wang-tianmen-shan",
+    "title": "望天门山",
+    "author": "李白",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "mountain",
+    "paragraphs": [
+      "天门中断楚江开，碧水东流至此回。",
+      "两岸青山相对出，孤帆一片日边来。"
+    ],
+    "meaning": "诗人乘船经过天门山，看到江水穿过两山之间，水势在此转折。船向前行，两岸青山仿佛迎面出现，远处的帆船从日光方向驶来。四句都在移动：江水流、山相对、船前行，因此山水不是静止的画，而像一幅展开的行旅图。",
+    "notes": [
+      {
+        "word": "楚江",
+        "meaning": "长江流经古楚地的一段。"
+      },
+      {
+        "word": "回",
+        "meaning": "回旋、转折。"
+      },
+      {
+        "word": "日边",
+        "meaning": "日光映照的远处。"
+      }
+    ],
+    "source": "李白《望天门山》；《全唐诗》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-li-bai-xing-lu-nan-yi",
+    "title": "行路难·其一",
+    "author": "李白",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "snow",
+    "paragraphs": [
+      "金樽清酒斗十千，玉盘珍羞直万钱。",
+      "停杯投箸不能食，拔剑四顾心茫然。",
+      "欲渡黄河冰塞川，将登太行雪满山。",
+      "闲来垂钓碧溪上，忽复乘舟梦日边。",
+      "行路难，行路难，多歧路，今安在？",
+      "长风破浪会有时，直挂云帆济沧海。"
+    ],
+    "meaning": "宴席上的美酒佳肴摆在面前，诗人却停杯放箸，心里迷茫。冰封的黄河和积雪的太行山，把前路受阻写成具体景象；吕尚垂钓、伊尹乘舟的典故，又带来得到机会的希望。结尾从疑问转向坚定，告诉读者挫折并没有抹掉继续前行的愿望。",
+    "notes": [
+      {
+        "word": "珍羞",
+        "meaning": "珍贵的菜肴；“羞”同“馐”。"
+      },
+      {
+        "word": "箸",
+        "meaning": "筷子。"
+      },
+      {
+        "word": "济沧海",
+        "meaning": "渡过大海。"
+      }
+    ],
+    "source": "李白《行路难三首·其一》；《全唐诗》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-li-bai-xuan-zhou-xie-tiao-lou",
+    "title": "宣州谢朓楼饯别校书叔云",
+    "author": "李白",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "autumn",
+    "paragraphs": [
+      "弃我去者，昨日之日不可留；",
+      "乱我心者，今日之日多烦忧。",
+      "长风万里送秋雁，对此可以酣高楼。",
+      "蓬莱文章建安骨，中间小谢又清发。",
+      "俱怀逸兴壮思飞，欲上青天览明月。",
+      "抽刀断水水更流，举杯销愁愁更愁。",
+      "人生在世不称意，明朝散发弄扁舟。"
+    ],
+    "meaning": "诗从昨日留不住、今日多烦忧写起，转眼又看见长风送秋雁，情绪随景物打开。诗人赞赏友人的文章，也想象登上青天揽月；但抽刀断水、举杯消愁都不能真正解除烦恼。最后说想乘舟远行，是失意时的想象，不宜当作已经发生的行程。",
+    "notes": [
+      {
+        "word": "校书叔云",
+        "meaning": "李云，曾任秘书省校书郎。"
+      },
+      {
+        "word": "建安骨",
+        "meaning": "建安时期诗文刚健有力的风格。"
+      },
+      {
+        "word": "小谢",
+        "meaning": "指南朝诗人谢朓。"
+      }
+    ],
+    "source": "李白《宣州谢朓楼饯别校书叔云》；《全唐诗》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-du-fu-deng-gao",
+    "title": "登高",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "autumn",
+    "paragraphs": [
+      "风急天高猿啸哀，渚清沙白鸟飞回。",
+      "无边落木萧萧下，不尽长江滚滚来。",
+      "万里悲秋常作客，百年多病独登台。",
+      "艰难苦恨繁霜鬓，潦倒新停浊酒杯。"
+    ],
+    "meaning": "风、天、猿声、江渚、飞鸟和落叶，一层层铺开秋日登高所见。无边落叶与滚滚长江相对，既写眼前景象，也让人感到时间和人生的辽阔。后半转入漂泊、多病与年老的个人处境，宏大的山河和孤独的诗人放在一起，情感沉郁而有力量。",
+    "notes": [
+      {
+        "word": "渚",
+        "meaning": "水中的小块陆地。"
+      },
+      {
+        "word": "落木",
+        "meaning": "落下的树叶。"
+      },
+      {
+        "word": "百年",
+        "meaning": "一生、人的一辈子。"
+      }
+    ],
+    "source": "杜甫《登高》；《全唐诗》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-du-fu-jue-ju-two-oriole",
+    "title": "绝句·两个黄鹂鸣翠柳",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "spring",
+    "paragraphs": [
+      "两个黄鹂鸣翠柳，一行白鹭上青天。",
+      "窗含西岭千秋雪，门泊东吴万里船。"
+    ],
+    "meaning": "前两句把颜色、声音和方向放在一起：黄鹂在翠柳间鸣叫，白鹭排成一行飞向青天。后两句由窗内望见远山积雪，又看到门外停泊的船。近景、远景，静景、动景交错，短短四句里出现了开阔的空间，也写出成都草堂周围的春日生活。",
+    "notes": [
+      {
+        "word": "西岭",
+        "meaning": "成都西边的岷山一带。"
+      },
+      {
+        "word": "千秋雪",
+        "meaning": "山上终年不化的积雪。"
+      },
+      {
+        "word": "东吴",
+        "meaning": "泛指长江下游地区。"
+      }
+    ],
+    "source": "杜甫《绝句》；《全唐诗》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-du-fu-jiang-pan-du-bu-xun-hua",
+    "title": "江畔独步寻花·其六",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "spring",
+    "paragraphs": [
+      "黄四娘家花满蹊，千朵万朵压枝低。",
+      "留连戏蝶时时舞，自在娇莺恰恰啼。"
+    ],
+    "meaning": "小路旁花开得密密匝匝，枝条都被花压低了。蝴蝶在花间流连，黄莺自在地啼叫。诗人没有写复杂的典故，只抓住花、蝶、莺几个活泼细节，让春天既看得见也听得见。“独步寻花”是一组诗，这一首把目光落在黄四娘家附近。",
+    "notes": [
+      {
+        "word": "蹊",
+        "meaning": "小路。"
+      },
+      {
+        "word": "留连",
+        "meaning": "舍不得离开。"
+      },
+      {
+        "word": "恰恰",
+        "meaning": "这里形容黄莺啼声和谐悦耳。"
+      }
+    ],
+    "source": "杜甫《江畔独步寻花七绝句·其六》；《全唐诗》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-du-fu-shu-xiang",
+    "title": "蜀相",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "spring",
+    "paragraphs": [
+      "丞相祠堂何处寻，锦官城外柏森森。",
+      "映阶碧草自春色，隔叶黄鹂空好音。",
+      "三顾频烦天下计，两朝开济老臣心。",
+      "出师未捷身先死，长使英雄泪满襟。"
+    ],
+    "meaning": "杜甫到成都武侯祠凭吊诸葛亮。祠堂周围柏树苍苍，碧草和黄鹂仍在春日里生长鸣叫，但“自”“空”让景色带上无人回应的寂寥。后半回顾诸葛亮辅佐刘备、刘禅以及北伐未成的经历，写对其忠诚与遗憾的追念。杜甫借古人，也寄托自己的感慨。",
+    "notes": [
+      {
+        "word": "锦官城",
+        "meaning": "成都的别称。"
+      },
+      {
+        "word": "三顾",
+        "meaning": "刘备三次拜访诸葛亮的故事。"
+      },
+      {
+        "word": "开济",
+        "meaning": "开创并辅佐治理。"
+      }
+    ],
+    "source": "杜甫《蜀相》；《全唐诗》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-du-fu-mao-wu-ge",
+    "title": "茅屋为秋风所破歌",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "autumn",
+    "paragraphs": [
+      "八月秋高风怒号，卷我屋上三重茅。",
+      "茅飞渡江洒江郊，高者挂罥长林梢，下者飘转沉塘坳。",
+      "南村群童欺我老无力，忍能对面为盗贼。",
+      "公然抱茅入竹去，唇焦口燥呼不得，归来倚杖自叹息。",
+      "俄顷风定云墨色，秋天漠漠向昏黑。",
+      "布衾多年冷似铁，娇儿恶卧踏里裂。",
+      "床头屋漏无干处，雨脚如麻未断绝。",
+      "自经丧乱少睡眠，长夜沾湿何由彻！",
+      "安得广厦千万间，大庇天下寒士俱欢颜，风雨不动安如山！",
+      "呜呼！何时眼前突兀见此屋，吾庐独破受冻死亦足！"
+    ],
+    "meaning": "秋风卷走屋顶茅草，诗人追出去却无力追回；天色转暗，屋漏、被冷、孩子睡不安稳，生活困境逐渐加深。最后他从“我家”想到天下受寒的人，希望有宽敞房屋让大家安稳居住。诗歌先写亲身遭遇，再把关心推向更多人，结尾的愿望尤其有力量。",
+    "notes": [
+      {
+        "word": "挂罥",
+        "meaning": "挂住。"
+      },
+      {
+        "word": "布衾",
+        "meaning": "布被子。"
+      },
+      {
+        "word": "寒士",
+        "meaning": "处境贫寒的人。"
+      }
+    ],
+    "source": "杜甫《茅屋为秋风所破歌》；《全唐诗》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-du-fu-shi-hao-li",
+    "title": "石壕吏",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "journey",
+    "paragraphs": [
+      "暮投石壕村，有吏夜捉人。",
+      "老翁逾墙走，老妇出门看。",
+      "吏呼一何怒！妇啼一何苦！",
+      "听妇前致词：三男邺城戍。",
+      "一男附书至，二男新战死。",
+      "存者且偷生，死者长已矣！",
+      "室中更无人，惟有乳下孙。",
+      "有孙母未去，出入无完裙。",
+      "老妪力虽衰，请从吏夜归，急应河阳役，犹得备晨炊。",
+      "夜久语声绝，如闻泣幽咽。",
+      "天明登前途，独与老翁别。"
+    ],
+    "meaning": "诗人夜宿石壕村，遇见官吏夜里征人。老妇向官吏诉说家中三个儿子都被征去守邺城，其中两人已战死；她最后提出自己跟去做饭。诗没有用抽象议论，而通过一家人的对话、夜色和清晨分别，写出战争给普通家庭带来的沉重代价。诗中人物对白属于诗歌叙事，不是录音式的逐字档案。",
+    "notes": [
+      {
+        "word": "投",
+        "meaning": "投宿、停留。"
+      },
+      {
+        "word": "戍",
+        "meaning": "守卫边地或城镇。"
+      },
+      {
+        "word": "幽咽",
+        "meaning": "低声哭泣。"
+      }
+    ],
+    "source": "杜甫《石壕吏》；《全唐诗》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-bai-juyi-mai-tan-weng",
+    "title": "卖炭翁",
+    "author": "白居易",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "field",
+    "paragraphs": [
+      "卖炭翁，伐薪烧炭南山中。",
+      "满面尘灰烟火色，两鬓苍苍十指黑。",
+      "卖炭得钱何所营？身上衣裳口中食。",
+      "可怜身上衣正单，心忧炭贱愿天寒。",
+      "夜来城外一尺雪，晓驾炭车辗冰辙。",
+      "牛困人饥日已高，市南门外泥中歇。",
+      "翩翩两骑来是谁？黄衣使者白衫儿。",
+      "手把文书口称敕，回车叱牛牵向北。",
+      "一车炭，千余斤，宫使驱将惜不得。",
+      "半匹红纱一丈绫，系向牛头充炭直。"
+    ],
+    "meaning": "老人烧炭、运炭，辛苦所得只为衣食；天冷本该让炭更值钱，他却因衣单而盼望天寒，写出生活的矛盾。宫使拿着文书，强行把炭车牵走，只用少量丝织品抵价。诗歌用对照呈现权势与百姓处境的差异，也让读者看到一车炭背后的劳动。",
+    "notes": [
+      {
+        "word": "营",
+        "meaning": "谋求、设法取得。"
+      },
+      {
+        "word": "敕",
+        "meaning": "皇帝的命令。"
+      },
+      {
+        "word": "直",
+        "meaning": "同“值”，价钱。"
+      }
+    ],
+    "source": "白居易《卖炭翁》；《白氏长庆集》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-bai-juyi-qiantang-hu-chun-xing",
+    "title": "钱塘湖春行",
+    "author": "白居易",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "spring",
+    "paragraphs": [
+      "孤山寺北贾亭西，水面初平云脚低。",
+      "几处早莺争暖树，谁家新燕啄春泥。",
+      "乱花渐欲迷人眼，浅草才能没马蹄。",
+      "最爱湖东行不足，绿杨阴里白沙堤。"
+    ],
+    "meaning": "诗人沿西湖边行走，先看到春水初涨、云气低垂，再留意早莺、新燕、渐开的花和刚长出的浅草。观察顺序由远及近、由水面到岸边，最后落到湖东白沙堤。诗题中的“行”很重要：这不是静止的风景清单，而是一段边走边看的春日游程。",
+    "notes": [
+      {
+        "word": "水面初平",
+        "meaning": "春水上涨，水面渐与岸齐。"
+      },
+      {
+        "word": "云脚",
+        "meaning": "低垂的云气。"
+      },
+      {
+        "word": "没马蹄",
+        "meaning": "浅草刚刚长到能遮住马蹄。"
+      }
+    ],
+    "source": "白居易《钱塘湖春行》；《白氏长庆集》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-bai-juyi-yi-jiang-nan",
+    "title": "忆江南·江南好",
+    "author": "白居易",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "spring",
+    "paragraphs": [
+      "江南好，风景旧曾谙。",
+      "日出江花红胜火，春来江水绿如蓝。",
+      "能不忆江南？"
+    ],
+    "meaning": "诗人说江南风景熟悉而美好，接着把日出时红艳的江花与春水的碧绿并置，颜色鲜明。最后用反问收束：这样美的地方，怎能不想念？这首词篇幅很短，却先总说、再描景、后抒情，层次清楚。",
+    "notes": [
+      {
+        "word": "谙",
+        "meaning": "熟悉。"
+      },
+      {
+        "word": "蓝",
+        "meaning": "蓝草，可制蓝色染料；这里形容江水青绿。"
+      }
+    ],
+    "source": "白居易《忆江南·江南好》；《白氏长庆集》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-bai-juyi-dalinsi-taohua",
+    "title": "大林寺桃花",
+    "author": "白居易",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "spring",
+    "paragraphs": [
+      "人间四月芳菲尽，山寺桃花始盛开。",
+      "长恨春归无觅处，不知转入此中来。"
+    ],
+    "meaning": "山下春花已经凋谢，山上的寺院桃花才盛开。诗人原以为春天离开了，没想到它像是转到了山中。海拔和气候不同，让花期出现差异；诗人把这种发现写成春天“转入此中”的俏皮想象。读这首诗，可以同时看见景物变化和人的惊喜。",
+    "notes": [
+      {
+        "word": "芳菲",
+        "meaning": "花草的芳香，也指花草。"
+      },
+      {
+        "word": "始",
+        "meaning": "才、刚刚。"
+      }
+    ],
+    "source": "白居易《大林寺桃花》；《白氏长庆集》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-he-zhizhang-yong-liu",
+    "title": "咏柳",
+    "author": "贺知章",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "spring",
+    "paragraphs": [
+      "碧玉妆成一树高，万条垂下绿丝绦。",
+      "不知细叶谁裁出，二月春风似剪刀。"
+    ],
+    "meaning": "诗人把新绿的柳树想象成打扮好的美人，又把细长柳叶比作丝带。后两句提出问题：叶子是谁剪出来的？答案是二月春风像一把剪刀。比喻把春风写得有形有动作，也让我们注意到柳叶整齐细长的样子。",
+    "notes": [
+      {
+        "word": "碧玉",
+        "meaning": "碧绿色的玉；诗中比喻新绿的柳树。"
+      },
+      {
+        "word": "丝绦",
+        "meaning": "丝织的带子。"
+      },
+      {
+        "word": "裁",
+        "meaning": "裁剪。"
+      }
+    ],
+    "source": "贺知章《咏柳》；《全唐诗》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-luo-bingwang-yong-e",
+    "title": "咏鹅",
+    "author": "骆宾王",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "spring",
+    "paragraphs": [
+      "鹅，鹅，鹅，曲项向天歌。",
+      "白毛浮绿水，红掌拨清波。"
+    ],
+    "meaning": "开头连续呼唤三声“鹅”，像孩子忽然看见鹅群时发出的声音。诗人接着从颈项、白羽、红掌和绿水写起，最后用“拨”写出鹅游动的动作。颜色清楚，节奏轻快，读的时候可以一边找出颜色词，一边想象水面怎样被鹅掌划开。",
+    "notes": [
+      {
+        "word": "曲项",
+        "meaning": "弯曲的脖子。"
+      },
+      {
+        "word": "拨",
+        "meaning": "划动、推动水面。"
+      }
+    ],
+    "source": "骆宾王《咏鹅》；《全唐诗》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-li-shangyin-wu-ti",
+    "title": "无题·相见时难别亦难",
+    "author": "李商隐",
+    "dynasty": "唐",
+    "collection": "唐诗名篇",
+    "theme": "spring",
+    "paragraphs": [
+      "相见时难别亦难，东风无力百花残。",
+      "春蚕到死丝方尽，蜡炬成灰泪始干。",
+      "晓镜但愁云鬓改，夜吟应觉月光寒。",
+      "蓬山此去无多路，青鸟殷勤为探看。"
+    ],
+    "meaning": "相见不易，分别也难，春风渐弱、花朵凋落的景象衬托离别心情。春蚕吐丝、蜡烛流泪成为绵长牵挂的比喻；后面写清晨照镜担心容颜变化、夜里吟诗觉得月色清寒。结尾借青鸟传信的神话表达希望。诗题“无题”也让感情保留了含蓄空间。",
+    "notes": [
+      {
+        "word": "丝方尽",
+        "meaning": "“丝”与“思”谐音，常被理解为思念的双关。"
+      },
+      {
+        "word": "蓬山",
+        "meaning": "传说中的仙山，这里比喻遥远的地方。"
+      },
+      {
+        "word": "青鸟",
+        "meaning": "神话中传递消息的鸟。"
+      }
+    ],
+    "source": "李商隐《无题·相见时难别亦难》；《全唐诗》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-lu-you-shi-er",
+    "title": "示儿",
+    "author": "陆游",
+    "dynasty": "宋",
+    "collection": "宋诗名篇",
+    "theme": "mountain",
+    "paragraphs": [
+      "死去元知万事空，但悲不见九州同。",
+      "王师北定中原日，家祭无忘告乃翁。"
+    ],
+    "meaning": "诗人写给家人的临终嘱托：个人生命结束后，许多事情都将归于空无，他仍牵挂国家尚未统一。后两句盼望收复中原，并请家人在祭告时把消息告诉自己。作品表现诗人的家国情怀，也要放回南宋与金对峙的历史背景中理解。",
+    "notes": [
+      {
+        "word": "元知",
+        "meaning": "本来就知道；“元”同“原”。"
+      },
+      {
+        "word": "九州",
+        "meaning": "古代对中国的代称。"
+      },
+      {
+        "word": "乃翁",
+        "meaning": "你的父亲，诗人自称。"
+      }
+    ],
+    "source": "陆游《示儿》；《剑南诗稿》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-lu-you-you-shan-xi-cun",
+    "title": "游山西村",
+    "author": "陆游",
+    "dynasty": "宋",
+    "collection": "宋诗名篇",
+    "theme": "field",
+    "paragraphs": [
+      "莫笑农家腊酒浑，丰年留客足鸡豚。",
+      "山重水复疑无路，柳暗花明又一村。",
+      "箫鼓追随春社近，衣冠简朴古风存。",
+      "从今若许闲乘月，拄杖无时夜叩门。"
+    ],
+    "meaning": "农家以自酿的酒和家常菜招待客人，诗人先写村中热情，再写行路时山水层叠、似乎无路，转过弯却见柳绿花明和新的村落。这个画面后来常用来比喻困境中出现转机；回到诗里，它首先是一次真实的乡村行走和访友。",
+    "notes": [
+      {
+        "word": "腊酒",
+        "meaning": "腊月酿制、留待来年饮用的酒。"
+      },
+      {
+        "word": "豚",
+        "meaning": "小猪，也泛指猪肉。"
+      },
+      {
+        "word": "春社",
+        "meaning": "春季祭祀土地神的节日活动。"
+      }
+    ],
+    "source": "陆游《游山西村》；《剑南诗稿》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-yang-wanli-xiao-chi",
+    "title": "小池",
+    "author": "杨万里",
+    "dynasty": "宋",
+    "collection": "宋诗名篇",
+    "theme": "lotus",
+    "paragraphs": [
+      "泉眼无声惜细流，树阴照水爱晴柔。",
+      "小荷才露尖尖角，早有蜻蜓立上头。"
+    ],
+    "meaning": "泉水悄悄流出，树荫映在柔和的晴光里。荷叶刚露出尖尖的一角，蜻蜓已经落在上面。诗人把目光放得很低、很近，看到池塘里刚刚发生的小变化；“惜”“爱”让泉眼和树荫仿佛有了感情，读者也因此注意到初夏景物的轻柔。",
+    "notes": [
+      {
+        "word": "泉眼",
+        "meaning": "泉水流出的地方。"
+      },
+      {
+        "word": "惜",
+        "meaning": "怜惜；这里写泉水缓缓流出的样子。"
+      },
+      {
+        "word": "小荷",
+        "meaning": "刚刚长出的荷叶。"
+      }
+    ],
+    "source": "杨万里《小池》；《诚斋集》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-yang-wanli-xiao-chu-jing-ci-si",
+    "title": "晓出净慈寺送林子方",
+    "author": "杨万里",
+    "dynasty": "宋",
+    "collection": "宋诗名篇",
+    "theme": "lotus",
+    "paragraphs": [
+      "毕竟西湖六月中，风光不与四时同。",
+      "接天莲叶无穷碧，映日荷花别样红。"
+    ],
+    "meaning": "诗人在六月清晨送别林子方，先说西湖夏日的景色与其他季节不同，再把眼前大片莲叶和映日荷花推到读者面前。碧绿从水面延伸到远处，红花在阳光下格外鲜亮。“接天”与“无穷”写出视野之广，末句用颜色对照留下鲜明印象。",
+    "notes": [
+      {
+        "word": "毕竟",
+        "meaning": "到底、终归；这里带有赞叹语气。"
+      },
+      {
+        "word": "四时",
+        "meaning": "春夏秋冬四季。"
+      },
+      {
+        "word": "别样",
+        "meaning": "格外、特别。"
+      }
+    ],
+    "source": "杨万里《晓出净慈寺送林子方》；《诚斋集》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-su-shi-ti-xi-lin-bi",
+    "title": "题西林壁",
+    "author": "苏轼",
+    "dynasty": "宋",
+    "collection": "宋诗名篇",
+    "theme": "mountain",
+    "paragraphs": [
+      "横看成岭侧成峰，远近高低各不同。",
+      "不识庐山真面目，只缘身在此山中。"
+    ],
+    "meaning": "从正面看是连绵山岭，从侧面看又像高峰；远看、近看、高处、低处，看到的样子都不同。后两句由看山想到认识事物：自己身处其中时，视角会受到位置限制。它不是说任何事情都无法了解，而是提醒我们换个位置、听听不同观察，判断会更周全。",
+    "notes": [
+      {
+        "word": "西林",
+        "meaning": "西林寺，位于庐山。"
+      },
+      {
+        "word": "缘",
+        "meaning": "因为。"
+      }
+    ],
+    "source": "苏轼《题西林壁》；《东坡集》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  },
+  {
+    "slug": "familiar-su-shi-yin-hu-shang-chu-qing",
+    "title": "饮湖上初晴后雨·其二",
+    "author": "苏轼",
+    "dynasty": "宋",
+    "collection": "宋诗名篇",
+    "theme": "spring",
+    "paragraphs": [
+      "水光潋滟晴方好，山色空蒙雨亦奇。",
+      "欲把西湖比西子，淡妆浓抹总相宜。"
+    ],
+    "meaning": "晴天时湖面波光闪动，雨中远山朦胧，各有各的美。诗人把西湖比作西施：无论淡妆还是浓妆都合适，用人物之美比喻湖景的多样。晴与雨不是谁胜过谁，而是让西湖呈现不同面貌。阅读时可以想想：诗人为什么选一个善于变化的比喻？",
+    "notes": [
+      {
+        "word": "潋滟",
+        "meaning": "水面波光闪动的样子。"
+      },
+      {
+        "word": "空蒙",
+        "meaning": "细雨、雾气中景物朦胧的样子。"
+      },
+      {
+        "word": "西子",
+        "meaning": "西施的别称。"
+      }
+    ],
+    "source": "苏轼《饮湖上初晴后雨二首·其二》；《东坡集》通行文本。",
+    "card_source": "https://github.com/chinese-poetry/chinese-poetry"
+  }
+]

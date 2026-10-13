@@ -1,0 +1,129 @@
+/* One daily journey, then learning, reading and discovery. */
+#page-home { padding-bottom:16px; }
+#page-home .welcome { min-height:0; padding:0; margin:28px 0 24px; background:transparent; border-radius:0; overflow:visible; }
+#page-home .welcome-copy { width:100%; max-width:none; position:relative; }
+#page-home .welcome h1 { margin:0 0 6px; font-size:28px; line-height:1.4; }
+#page-home .welcome h1 span { font-size:inherit; }
+#page-home .welcome p { margin:0; padding-right:110px; max-width:none; color:var(--muted); font-size:14px; line-height:1.65; }
+#page-home .welcome-stage { position:absolute; right:0; top:8px; margin:0; font-size:12px; }
+.home-journey { display:grid; grid-template-columns:minmax(0,1.2fr) minmax(280px,.8fr); align-items:center; gap:32px; padding:28px 36px; border-radius:24px; background:#eaf1df; margin-bottom:40px; position:relative; overflow:hidden; }
+.home-journey::before { content:''; width:310px; height:310px; position:absolute; right:15px; top:-60px; border-radius:50%; background:#f7f8e7; pointer-events:none; }
+.journey-label { display:inline-block; font-size:13px; font-weight:600; color:#5c7955; margin-bottom:14px; letter-spacing:.05em; }
+#page-home .daily-plan { display:block; margin:0; padding:0; border:0; box-shadow:none; border-radius:0; background:transparent; position:relative; z-index:1; }
+#page-home .daily-plan h2 { font-size:clamp(24px,2.6vw,30px); line-height:1.5; margin:0 0 14px; max-width:380px; }
+#page-home .daily-plan p { font-size:15px; line-height:1.8; color:#5a705c; margin:0 0 22px; max-width:370px; min-height:5.4em; }
+#page-home .daily-progress-track { width:min(100%,300px); height:6px; background:#d9e4cb; margin:0 0 12px; }
+#page-home .daily-progress-track span { background:#789e67; }
+#page-home .daily-plan-action { display:flex; flex-direction:column; align-items:flex-start; gap:20px; }
+#page-home .daily-plan-action b { font-size:13px; font-weight:500; color:#5b7058; }
+#page-home .daily-plan-action button { padding:14px 24px; min-height:48px; min-width:176px; font-size:15px; box-shadow:0 5px 14px #416d541a; }
+#page-home .pet-panel { display:block; min-width:0; margin:0; padding:0; border:0; border-radius:0; background:transparent; box-shadow:none; position:relative; z-index:1; }
+#page-home .pet-scene { height:260px; width:100%; margin:0; border-radius:18px; background:transparent; }
+#page-home .pet-3d-host { inset:24px 0 11px; }
+#page-home .pet-scene-glow { background:radial-gradient(ellipse at 50% 48%,#fff9da8a,transparent 70%); }
+#page-home .pet-scene-tip { font-size:12px; bottom:3px; }
+#page-home .pet-name { font-size:15px; bottom:25px; }
+#page-home .pet-name span { font-size:11px; }
+#page-home .pet-rotate-reset { min-height:32px; font-size:12px; padding:4px 10px; }
+.companion-caption { display:flex; justify-content:center; align-items:center; margin-top:10px; }
+.companion-caption button { min-height:44px; min-width:144px; background:#fffdf8e8; padding:10px 24px; border:1px solid #bfcfba; border-radius:14px; color:#31583f; font-size:14px; font-weight:600; box-shadow:0 4px 12px #416d5410; }
+#page-home .pet-last-action { text-align:center; font-size:12px; margin:4px 0 0; color:#64755c; }
+#page-home .section-heading { margin:0 0 20px; align-items:center; gap:16px; }
+#page-home .section-heading h2 { font-size:21px; line-height:1.5; margin:0; }
+.home-section-note { font-size:14px; line-height:1.65; color:var(--muted); margin:5px 0 0; }
+.home-study, #page-home .story-strip, .home-discover { margin:0 0 40px; }
+#page-home .curriculum-entry { margin:0 0 24px; padding:18px 22px; border:1px solid var(--line); border-radius:16px; background:var(--white); gap:16px; min-height:86px; }
+#page-home .curriculum-entry > span:first-child { font-size:30px; }
+#page-home .curriculum-entry b { font-size:17px; font-weight:650; line-height:1.5; }
+#page-home .curriculum-entry small { margin-top:5px; font-size:13px; color:var(--muted); line-height:1.6; }
+#page-home .curriculum-entry > span:last-child { font-size:14px; flex-shrink:0; }
+#page-home .subject-section { margin:0; }
+#page-home .subject-section .section-heading { margin-bottom:12px; }
+#page-home .subject-section h2 { font-size:15px; color:#64756b; font-weight:500; }
+#page-home .subject-grid { grid-template-columns:repeat(4,minmax(0,1fr)); gap:12px; }
+#page-home .subject-card { height:156px; padding:18px; border-radius:16px; box-shadow:none; border:0; }
+#page-home .subject-icon { height:32px; margin:0 0 8px; }
+#page-home .subject-title { font-size:18px; font-weight:650; }
+#page-home .subject-sub { font-size:12px; line-height:1.6; color:#5f7065; }
+#page-home .subject-foot { font-size:12px; padding:10px 0 0; color:#5f7065; border:0; }
+.home-discover-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:20px; }
+.discovery-card { min-width:0; text-align:left; border:1px solid var(--line); padding:0; border-radius:16px; overflow:hidden; background:var(--white); color:var(--ink); }
+.discovery-art { display:block; width:100%; height:auto; aspect-ratio:12/7; object-fit:cover; }
+.discovery-copy { display:block; padding:18px; }
+.discovery-copy b { display:block; font-size:18px; font-weight:650; line-height:1.5; }
+.discovery-copy > span { display:block; font-size:14px; line-height:1.7; color:var(--muted); margin-top:6px; }
+.discovery-copy .discovery-link { color:var(--green); margin-top:14px; font-weight:600; }
+.discovery-card:hover { border-color:#aabc9c; }
+.home-tools { border-top:1px solid var(--line); margin-top:8px; }
+.home-tools summary { display:flex; align-items:center; justify-content:space-between; gap:16px; padding:20px 0; list-style:none; font-size:16px; cursor:pointer; font-weight:600; }
+.home-tools summary::-webkit-details-marker { display:none; }
+.home-tools summary small { display:block; font-size:13px; color:var(--muted); font-weight:400; margin-top:6px; }
+.home-tools-toggle { font-size:24px; color:var(--green); }
+.home-tools[open] .home-tools-toggle { transform:rotate(45deg); }
+.home-tools-content { padding:4px 0 24px; }
+#page-home .subject-actions { display:flex; gap:12px; margin-bottom:24px; }
+#page-home .subject-actions button { padding:10px 16px; min-height:44px; border:1px solid var(--line); border-radius:12px; background:var(--white); font-size:14px; }
+#page-home .home-cards, #page-home .literacy-quick { padding:0; border:0; box-shadow:none; background:transparent; margin:0 0 24px; }
+#page-home .quick-preview, #page-home .literacy-quick .eyebrow { display:none; }
+#page-home .quick-card { min-height:140px; padding:18px; display:flex; flex-direction:column; align-items:flex-start; justify-content:center; gap:8px; }
+#page-home .quick-emoji { position:static; margin:0; font-size:24px; }
+#page-home .quick-card b { font-size:15px; margin:0; }
+#page-home .quick-card small { font-size:13px; margin:0; color:var(--muted); }
+#page-home .literacy-quick-card { min-height:90px; }
+#page-home .literacy-quick-copy b { font-size:16px; }
+#page-home .literacy-quick-copy small, #page-home .literacy-quick-count { font-size:12px; color:var(--muted); }
+.companion-dialog { width:min(440px,calc(100% - 32px)); max-height:calc(100dvh - 48px); overflow:auto; border:1px solid var(--line); border-radius:24px; padding:28px; color:var(--ink); background:var(--white); box-shadow:0 24px 80px #293f3626; }
+.companion-dialog::backdrop { background:#223b3059; }
+.companion-dialog h2 { margin:0 0 10px; font-size:24px; }
+.companion-dialog > p { margin:0 0 24px; font-size:14px; color:var(--muted); line-height:1.7; }
+.companion-close { position:absolute; right:12px; top:12px; border:0; background:transparent; color:var(--muted); width:44px; height:44px; font-size:25px; }
+.companion-dialog .pet-status { padding:0; }
+.companion-dialog .status-row, .companion-dialog .pet-meters { font-size:14px; color:var(--muted); }
+.companion-dialog .pet-actions { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px; margin-top:20px; }
+.companion-dialog .pet-actions button { min-height:48px; padding:10px; font-size:14px; border:1px solid var(--line); border-radius:12px; background:#edf2e8; color:var(--green); }
+@media (max-width:900px) {
+  .home-journey { grid-template-columns:minmax(0,1fr) minmax(240px,.85fr); padding:24px; gap:16px; }
+  #page-home .daily-plan h2 { font-size:25px; }
+  #page-home .subject-card { padding:14px; }
+  .home-discover-grid { gap:16px; }
+}
+@media (max-width:650px) {
+  #page-home .welcome { margin-top:24px; }
+  #page-home .welcome h1 { font-size:26px; }
+  #page-home .welcome p { padding-right:0; font-size:14px; }
+  #page-home .welcome-stage { position:static; margin-top:10px; }
+  .home-journey { grid-template-columns:1fr; gap:16px; padding:24px; margin-bottom:32px; }
+  .home-journey::before { right:-80px; top:auto; bottom:-40px; }
+  #page-home .daily-plan h2 { font-size:24px; margin-bottom:10px; }
+  #page-home .daily-plan p { margin-bottom:16px; }
+  #page-home .daily-plan-action { flex-direction:row; align-items:center; justify-content:space-between; gap:12px; }
+  #page-home .daily-plan-action button { padding:12px 16px; min-width:160px; font-size:14px; }
+  #page-home .pet-scene { height:190px; }
+  #page-home .pet-3d-host { inset:16px 0 15px; }
+  #page-home .pet-last-action { display:none; }
+  .companion-caption { margin-top:0; font-size:12px; gap:10px; }
+  #page-home .section-heading { gap:10px; margin-bottom:16px; }
+  #page-home .section-heading h2 { font-size:20px; }
+  .home-section-note { font-size:13px; }
+  #page-home .curriculum-entry { padding:16px; gap:12px; }
+  #page-home .curriculum-entry b { font-size:16px; }
+  #page-home .curriculum-entry small { font-size:12px; }
+  #page-home .curriculum-entry > span:last-child { font-size:12px; }
+  #page-home .subject-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  #page-home .subject-card { height:150px; padding:16px; }
+  .home-discover-grid { grid-template-columns:1fr; gap:16px; }
+  .discovery-card { display:grid; grid-template-columns:120px minmax(0,1fr); align-items:stretch; }
+  .discovery-art { height:100%; aspect-ratio:auto; object-fit:cover; }
+  .discovery-copy { padding:16px; }
+  .discovery-copy b { font-size:17px; }
+  .discovery-copy > span { font-size:13px; }
+  .home-study, #page-home .story-strip, .home-discover { margin-bottom:32px; }
+  #page-home .quick-grid, #page-home .literacy-quick-grid { grid-template-columns:1fr; }
+  #page-home .quick-card { min-height:100px; }
+}
+
+.daily-plan-choices{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0 4px}
+.daily-plan-choices button{min-height:44px;padding:8px 14px;border:1px solid #dbe5d1;border-radius:12px;background:#fffdf8;color:#64756b;font:inherit;font-size:14px;cursor:pointer}
+.daily-plan-choices button[aria-pressed=true]{background:#416d54;color:#fff;border-color:#416d54}
+.daily-plan-choices button:focus-visible{outline:3px solid #416d54;outline-offset:3px}
+.daily-plan-choices button:disabled{opacity:.65;cursor:wait}

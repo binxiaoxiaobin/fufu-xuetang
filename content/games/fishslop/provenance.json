@@ -1,0 +1,34 @@
+{
+  "source": "https://github.com/vasu-devs/FishSlop_Opus5.5",
+  "commit": "55de15091c789585a5d4ece952f841e6006af138",
+  "downloaded_on": "2026-10-09",
+  "archive_sha256": "b1dbf983cf7e3739ee6eba6cd91b637c9b710d026995b182651c19513e0b1c67",
+  "license": "上游未声明授权许可；本地适配，发布或分发前需取得作者许可",
+  "changes": [
+    "中文界面与鱼种说明",
+    "按学员保存进度",
+    "触屏默认低画质",
+    "输入取消修复",
+    "可选全屏与退出保存",
+    "本地字体，移除字体联网请求"
+  ],
+  "dependency_versions": {
+    "name": "fufu-fishslop",
+    "private": true,
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+      "build": "tsc --noEmit && vite build",
+      "test": "vitest run"
+    },
+    "dependencies": {
+      "three": "0.185.1"
+    },
+    "devDependencies": {
+      "@types/three": "0.185.0",
+      "typescript": "5.9.3",
+      "vite": "7.3.7",
+      "vitest": "3.2.7"
+    }
+  }
+}

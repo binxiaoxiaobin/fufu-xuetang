@@ -1,0 +1,8 @@
+{
+  "id":"open-jigsaw","title":"风景拼图","description":"16 张风景随心选：长城、西湖、黄山、九寨沟，每张都有三档难度。",
+  "duration":"约 2–15 分钟","category":"jigsaw","players":"1 人","tags":["16 张风景","三档难度","拖动图块"],
+  "rules":["拖动图块到正确的位置，靠近时会自动吸附。","点击选择图片查看缩略图，每张图片都有 9、16、25 块三档难度。","换图或换难度会保留原有进度，每张图、每档难度分别按账号保存。"],
+  "controls":["鼠标或手指拖动图块。","使用顶部按钮选择难度、查看原图、暂停或重新打乱。"],
+  "cover":"/assets/games/open-jigsaw/cover.webp","entry":"/assets/games/open-jigsaw/index.html","resume":true,"saveMode":"learner-server","fullscreenRequired":false,"fullscreenAvailable":true,"reward_points":0,
+  "storage_keys":["open-jigsaw.save.v1","open-jigsaw.settings.v1"],"source":"https://github.com/code4fukui/open-jigsaw","author":"code4fukui；照片作者见图片来源","license":"MIT 代码；各照片保留 CC-BY / CC-BY-SA 许可、作者与改动说明","collection":"puzzle-2d"
+}

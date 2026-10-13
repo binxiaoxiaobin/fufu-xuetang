@@ -1,0 +1,236 @@
+[
+  {
+    "id": "parking-escape",
+    "title": "益智移车出库",
+    "description": "挪一挪，给警车让条路。解开拥挤停车场，挑战更少步数出库。",
+    "duration": "2–10 分钟",
+    "category": "strategy",
+    "players": "1 人",
+    "tags": [
+      "移车解谜",
+      "单人闯关",
+      "逻辑思考"
+    ],
+    "rules": [
+      "车辆只能沿车身方向前后滑动，不能转弯、重叠或穿过其他车辆。",
+      "警车从 6 × 6 停车场右侧第三行出口完全驶出即通关，其他车辆不能出库。",
+      "一次连续滑动任意格数计一步，出库计最后一步；达到最少步数获得三星，多五步以内获得二星，其余通关获得一星。",
+      "提供 120 个经求解验证的独立关卡、撤销、重做、下一步提示及本地进度保存。"
+    ],
+    "controls": [
+      "拖动车辆沿车道移动，或在车辆列表中选择后使用方向按钮。",
+      "空白区域拖动旋转视角，双指缩放；工具栏提供俯视、复位、暂停、游戏设置和重开。"
+    ],
+    "cover": "/assets/games/toy2game/covers/parking-escape.webp",
+    "entry": "/assets/games/toy2game/parking-escape/index.html",
+    "resume": true,
+    "reward_points": 5,
+    "storage_keys": [
+      "parking-escape-save-v2",
+      "parking-escape-preferences-v1"
+    ],
+    "source": "https://github.com/asmoyou/toy2game",
+    "license": "Toy2Game Noncommercial License 1.0",
+    "collection": "small-3d"
+  },
+  {
+    "id": "flip-match",
+    "title": "翻棋对对碰",
+    "description": "翻开一枚，再找一枚。把动物与水果配成对，装满你的记忆小口袋。",
+    "duration": "3–10 分钟",
+    "category": "strategy",
+    "players": "2–4 人",
+    "tags": [
+      "记忆配对",
+      "同屏对战",
+      "电脑对手"
+    ],
+    "rules": [
+      "开局棋子全部背面朝上，每回合依次翻开两枚。",
+      "图案相同则收走得 1 分，并继续翻；不同则展示片刻后盖回，换下一位。",
+      "全部配完后得分最高者获胜，并列最高则共同获胜。",
+      "可选择 12 对或 24 对棋子，配置 2 至 4 个真人或机器人席位；机器人只观察公开翻过的棋子，提供轻松、普通、困难、完美记忆四档，默认普通，会漏记、遗忘和失误。"
+    ],
+    "controls": [
+      "点击或轻触棋子翻面，也可打开棋子列表，使用带编号的大按钮。",
+      "拖动旋转，双指或滚轮缩放；工具栏提供俯视、视角复位、暂停、全屏、设置和重开。",
+      "设置先编辑草稿，确认后按新设置开局；新的一局沿用当前配置，进度自动保存到本地浏览器。"
+    ],
+    "cover": "/assets/games/toy2game/covers/flip-match.webp",
+    "entry": "/assets/games/toy2game/flip-match/index.html",
+    "resume": true,
+    "reward_points": 0,
+    "storage_keys": [
+      "flip-match-save-v1",
+      "flip-match-preferences-v1"
+    ],
+    "source": "https://github.com/asmoyou/toy2game",
+    "license": "Toy2Game Noncommercial License 1.0",
+    "collection": "small-3d"
+  },
+  {
+    "id": "penguin-ice",
+    "title": "企鹅敲敲敲",
+    "description": "一人一锤，敲开薄冰。谁会让摇摇晃晃的小企鹅先掉进水里？",
+    "duration": "3–10 分钟",
+    "category": "party",
+    "players": "2–4 人",
+    "tags": [
+      "物理模拟",
+      "同屏对战",
+      "电脑对手"
+    ],
+    "rules": [
+      "每回合选择一块冰敲击，等冰面稳定后轮到下一位玩家。",
+      "让企鹅失去支撑并落水的当前玩家失败，其余玩家获胜。",
+      "可选择 37 块或 61 块冰场，并把玩家 2 至 4 设为电脑对手。"
+    ],
+    "controls": [
+      "点击或轻触冰块进行敲击；拖动旋转视角，双指缩放。",
+      "游戏设置中可调整人数、电脑席位、冰场和音效。"
+    ],
+    "cover": "/assets/games/toy2game/covers/penguin-ice.webp",
+    "entry": "/assets/games/toy2game/penguin-ice/index.html",
+    "resume": false,
+    "reward_points": 0,
+    "storage_keys": [
+      "penguin-preferences"
+    ],
+    "source": "https://github.com/asmoyou/toy2game",
+    "license": "Toy2Game Noncommercial License 1.0",
+    "collection": "small-3d"
+  },
+  {
+    "id": "balance-astronaut",
+    "title": "平衡太空人",
+    "description": "一位一位，稳稳登舱。和小小太空人一起，守住摇摇晃晃的空间站。",
+    "duration": "3–8 分钟",
+    "category": "party",
+    "players": "2–4 人",
+    "tags": [
+      "物理平衡",
+      "同屏对战",
+      "电脑对手"
+    ],
+    "rules": [
+      "从空盘开局，四圈由内向外逐级降低，共有 48 个停靠位。",
+      "轮流放置模式每回合放 1 位；骰子挑战按 1 至 6 点逐一放置。每次放置最多观察 8 秒，提前稳定或超时无人倒下就继续；暂停期间不计时。",
+      "队员倒下或滑落时，最后放置的玩家失败，其余玩家获胜；48 个停靠位全部完成观察且无人倒下则全员共同获胜。",
+      "支持 2 至 4 支队伍，每队可切换真人或机器人，结算后可玩趣味转盘。"
+    ],
+    "controls": [
+      "点击或轻触平台空位即可直接放置太空人；也可在停靠位列表中点选放置。",
+      "骰子挑战先掷骰子，再逐个放置队员。拖动旋转视角，双指缩放，可暂停、重开或在设置中更换阵容。"
+    ],
+    "cover": "/assets/games/toy2game/covers/balance-astronaut.webp",
+    "entry": "/assets/games/toy2game/balance-astronaut/index.html",
+    "resume": false,
+    "reward_points": 0,
+    "storage_keys": [
+      "balance-astronaut-preferences-v1"
+    ],
+    "source": "https://github.com/asmoyou/toy2game",
+    "license": "Toy2Game Noncommercial License 1.0",
+    "collection": "small-3d"
+  },
+  {
+    "id": "rabbit-trap",
+    "title": "小兔闯关",
+    "description": "六个递进关卡，从山脚初体验到胡萝卜远征；抽牌选兔，巧用护盾和弹簧率先登顶。",
+    "duration": "10–20 分钟",
+    "category": "strategy",
+    "players": "2–4 人",
+    "tags": [
+      "策略闯关",
+      "6 个关卡",
+      "自动存档"
+    ],
+    "rules": [
+      "每队三只兔子，轮流翻牌，再选择一只兔子按卡牌步数前进。",
+      "胡萝卜机关会切换地洞和木桥，地图中还有跳台、陷阱和护盾。",
+      "任意一只兔子率先登顶，或成为最后存活的队伍，即可获胜。",
+      "可配置 2 至 4 个真人或电脑席位，支持电脑自动对战及刷新续玩。"
+    ],
+    "controls": [
+      "点击抽牌按钮或卡牌翻牌，再点击编号兔子或棋盘中的兔子前进。",
+      "支持拖动旋转视角、双指缩放和平移，游戏规则和设置可在页面工具栏打开。"
+    ],
+    "cover": "/assets/games/toy2game/covers/rabbit-trap.webp",
+    "entry": "/assets/games/toy2game/rabbit-trap/index.html",
+    "resume": true,
+    "reward_points": 0,
+    "storage_keys": [
+      "little-rabbit-match-v1"
+    ],
+    "source": "https://github.com/asmoyou/toy2game",
+    "license": "Toy2Game Noncommercial License 1.0",
+    "collection": "small-3d"
+  },
+  {
+    "id": "frog-feast",
+    "title": "青蛙吃豆豆",
+    "description": "啊呜，一口快乐！按住小青蛙，和朋友一起抢光圆盘里的彩豆。",
+    "duration": "15–60 秒",
+    "category": "party",
+    "players": "2–4 人",
+    "tags": [
+      "同时抢豆",
+      "同屏对战",
+      "电脑对手"
+    ],
+    "rules": [
+      "2 至 4 个席位同时抢豆，所有青蛙均可选择真人或机器人。",
+      "倒计时结束后按压自己的青蛙伸头吃豆，长按连续动作，每次最多吃 3 颗。",
+      "只有嘴内实际抓到的豆子才得分，每颗 1 分；盘底自动轻摇，让剩余豆子继续滚动。",
+      "60 颗彩豆抢完即结算，分数最高者获胜，并列最高则共同获胜。"
+    ],
+    "controls": [
+      "轻触 3D 青蛙或按压杆吃一次；长按各自的吃豆按钮，或键盘 A / L / Z / M 连续吃豆。",
+      "拖动空白旋转、双指或滚轮缩放，工具栏提供视角复位、暂停、全屏、设置和重开。",
+      "设置编辑阵容草稿，确认后按新设置开局；新的一局沿用当前阵容。"
+    ],
+    "cover": "/assets/games/toy2game/covers/frog-feast.webp",
+    "entry": "/assets/games/toy2game/frog-feast/index.html",
+    "resume": false,
+    "reward_points": 0,
+    "storage_keys": [
+      "frog-feast-preferences-v1"
+    ],
+    "source": "https://github.com/asmoyou/toy2game",
+    "license": "Toy2Game Noncommercial License 1.0",
+    "collection": "small-3d"
+  },
+  {
+    "id": "turbo-kart-rally",
+    "title": "海岛卡丁车",
+    "description": "沿着海岛赛道，与 7 位电脑车手比赛。转弯漂移，拾取道具，冲向终点。",
+    "duration": "3–10 分钟",
+    "category": "racing",
+    "players": "1 人 + 7 位电脑车手",
+    "tags": [
+      "全屏专属",
+      "触屏驾驶",
+      "赛车挑战"
+    ],
+    "rules": [
+      "选择简单、标准或挑战难度，比赛可设为 1、3 或 5 圈。",
+      "沿赛道前进，通过漂移蓄力加速，拾取并使用道具。",
+      "退出全屏会结束本局；当前比赛不奖励积分。"
+    ],
+    "controls": [
+      "左手转向，右手加速、刹车、漂移和道具。",
+      "顶部暂停可休息、重开或返回选车；建议平板横屏。"
+    ],
+    "cover": "/assets/games/turbo-kart-rally/cover.webp",
+    "entry": "/assets/games/turbo-kart-rally/index.html",
+    "resume": false,
+    "saveMode": "local-settings",
+    "fullscreenRequired": true,
+    "reward_points": 0,
+    "storage_keys": [],
+    "source": "https://github.com/bridge-mind/turbo-kart-rally",
+    "author": "BridgeMind",
+    "license": "MIT",
+    "collection": "adventure-3d"
+  }
+]

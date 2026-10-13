@@ -1,0 +1,132 @@
+# 原创启蒙词汇情境。字段：主题|单词|中文词义|英文缺词句|句子中文含义
+校园用品|book|书|This is my ____.|这是我的书。
+校园用品|pen|钢笔|I have a ____.|我有一支钢笔。
+校园用品|pencil|铅笔|This ____ is yellow.|这支铅笔是黄色的。
+校园用品|ruler|尺子|I have a long ____.|我有一把长尺子。
+校园用品|eraser|橡皮|My ____ is small.|我的橡皮很小。
+校园用品|bag|书包|This is my school ____.|这是我的书包。
+校园用品|desk|课桌|My book is on the ____.|我的书在课桌上。
+校园用品|chair|椅子|This ____ is blue.|这把椅子是蓝色的。
+校园用品|school|学校|I go to ____.|我去学校。
+校园用品|teacher|老师|She is my ____.|她是我的老师。
+校园用品|student|学生|I am a ____.|我是一名学生。
+校园用品|classroom|教室|This is our ____.|这是我们的教室。
+颜色认知|red|红色的|The apple is ____.|这个苹果是红色的。
+颜色认知|blue|蓝色的|The bag is ____.|这个书包是蓝色的。
+颜色认知|green|绿色的|The leaf is ____.|这片叶子是绿色的。
+颜色认知|yellow|黄色的|The banana is ____.|这根香蕉是黄色的。
+颜色认知|black|黑色的|The cat is ____.|这只猫是黑色的。
+颜色认知|white|白色的|The rabbit is ____.|这只兔子是白色的。
+颜色认知|pink|粉红色的|The flower is ____.|这朵花是粉红色的。
+颜色认知|brown|棕色的|The bear is ____.|这只熊是棕色的。
+颜色认知|purple|紫色的|The kite is ____.|这个风筝是紫色的。
+动物朋友|cat|猫|The ____ says meow.|这只猫喵喵叫。
+动物朋友|dog|狗|The ____ says woof.|这只狗汪汪叫。
+动物朋友|bird|鸟|A ____ is in the tree.|一只鸟在树上。
+动物朋友|fish|鱼|The ____ is in the water.|这条鱼在水里。
+动物朋友|duck|鸭子|This ____ is yellow.|这只鸭子是黄色的。
+动物朋友|rabbit|兔子|The ____ has long ears.|这只兔子有长耳朵。
+动物朋友|bear|熊|This ____ is big.|这只熊很大。
+动物朋友|panda|熊猫|The ____ is black and white.|这只熊猫是黑白相间的。
+动物朋友|tiger|老虎|I see a ____ at the zoo.|我在动物园看见一只老虎。
+动物朋友|lion|狮子|This ____ has a big head.|这只狮子有一个大脑袋。
+动物朋友|monkey|猴子|The ____ likes bananas.|这只猴子喜欢香蕉。
+动物朋友|elephant|大象|The ____ has a long nose.|这头大象有长鼻子。
+动物朋友|frog|青蛙|The ____ is green.|这只青蛙是绿色的。
+动物朋友|horse|马|The ____ can run.|这匹马能跑。
+动物朋友|cow|奶牛|This ____ is on the farm.|这头奶牛在农场里。
+动物朋友|sheep|绵羊|The ____ is white.|这只绵羊是白色的。
+动物朋友|pig|猪|The ____ has a pink nose.|这只猪有粉红色的鼻子。
+认识身体|head|头|This is my ____.|这是我的头。
+认识身体|face|脸|I wash my ____.|我洗脸。
+认识身体|eye|眼睛|This is my left ____.|这是我的左眼。
+认识身体|ear|耳朵|This is my right ____.|这是我的右耳。
+认识身体|nose|鼻子|This is my ____.|这是我的鼻子。
+认识身体|mouth|嘴|This is my ____.|这是我的嘴。
+认识身体|hand|手|This is my left ____.|这是我的左手。
+认识身体|arm|手臂|This is my right ____.|这是我的右手臂。
+认识身体|leg|腿|My left ____ is strong.|我的左腿很有力。
+认识身体|foot|脚|This is my right ____.|这是我的右脚。
+认识身体|hair|头发|My ____ is black.|我的头发是黑色的。
+认识身体|finger|手指|This ____ is small.|这根手指很小。
+家人伙伴|mother|妈妈|She is my ____.|她是我的妈妈。
+家人伙伴|father|爸爸|He is my ____.|他是我的爸爸。
+家人伙伴|sister|姐姐或妹妹|She is my ____.|她是我的姐姐。
+家人伙伴|brother|哥哥或弟弟|He is my ____.|他是我的弟弟。
+家人伙伴|grandmother|奶奶或外婆|She is my ____.|她是我的奶奶。
+家人伙伴|grandfather|爷爷或外公|He is my ____.|他是我的爷爷。
+家人伙伴|friend|朋友|Tom is my ____.|汤姆是我的朋友。
+家人伙伴|family|家人|I love my ____.|我爱我的家人。
+美食水果|apple|苹果|I like this ____.|我喜欢这个苹果。
+美食水果|banana|香蕉|This ____ is long.|这根香蕉很长。
+美食水果|pear|梨|I have a ____.|我有一个梨。
+美食水果|grape|葡萄|This ____ is purple.|这颗葡萄是紫色的。
+美食水果|peach|桃子|I like this ____.|我喜欢这个桃子。
+美食水果|lemon|柠檬|This ____ is yellow.|这个柠檬是黄色的。
+美食水果|watermelon|西瓜|This ____ is big.|这个西瓜很大。
+美食水果|milk|牛奶|I drink ____ in the morning.|我早晨喝牛奶。
+美食水果|water|水|I drink some ____.|我喝一些水。
+美食水果|juice|果汁|I like apple ____.|我喜欢苹果汁。
+美食水果|bread|面包|I eat some ____.|我吃一些面包。
+美食水果|rice|米饭|I eat ____ for lunch.|我午饭吃米饭。
+美食水果|egg|鸡蛋|I have an ____ for breakfast.|我早餐吃一个鸡蛋。
+美食水果|cake|蛋糕|This birthday ____ is nice.|这个生日蛋糕很好。
+美食水果|noodles|面条|I like these ____.|我喜欢这些面条。
+美食水果|soup|汤|The ____ is hot.|这碗汤很热。
+美食水果|potato|土豆|This ____ is small.|这个土豆很小。
+美食水果|tomato|西红柿|This ____ is red.|这个西红柿是红色的。
+数字入门|one|一|I have ____ pencil.|我有一支铅笔。
+数字入门|two|二|I have ____ books.|我有两本书。
+数字入门|three|三|I see ____ birds.|我看见三只鸟。
+数字入门|four|四|I have ____ pens.|我有四支钢笔。
+数字入门|five|五|I see ____ ducks.|我看见五只鸭子。
+数字入门|six|六|I have ____ apples.|我有六个苹果。
+数字入门|seven|七|I see ____ fish.|我看见七条鱼。
+数字入门|eight|八|I have ____ rulers.|我有八把尺子。
+数字入门|nine|九|I see ____ cats.|我看见九只猫。
+数字入门|ten|十|I have ____ pencils.|我有十支铅笔。
+家居玩具|bed|床|This is my ____.|这是我的床。
+家居玩具|table|桌子|My cup is on the ____.|我的杯子在桌子上。
+家居玩具|door|门|Please open the ____.|请打开门。
+家居玩具|window|窗户|Please close the ____.|请关上窗户。
+家居玩具|cup|杯子|This ____ is white.|这个杯子是白色的。
+家居玩具|clock|钟|The ____ is on the wall.|这个钟在墙上。
+家居玩具|ball|球|I have a red ____.|我有一个红色的球。
+家居玩具|kite|风筝|I have a blue ____.|我有一个蓝色的风筝。
+家居玩具|toy|玩具|This ____ is fun.|这个玩具很好玩。
+家居玩具|car|小汽车|This ____ is yellow.|这辆小汽车是黄色的。
+家居玩具|boat|小船|This ____ is on the water.|这条小船在水上。
+家居玩具|bike|自行车|I ride my ____.|我骑我的自行车。
+日常动作|run|跑|I can ____.|我会跑。
+日常动作|jump|跳|I can ____.|我会跳。
+日常动作|walk|走|I ____ to school.|我走着去学校。
+日常动作|sit|坐|Please ____ down.|请坐下。
+日常动作|stand|站|Please ____ up.|请站起来。
+日常动作|eat|吃|I ____ an apple.|我吃一个苹果。
+日常动作|drink|喝|I ____ some water.|我喝一些水。
+日常动作|read|读|I ____ a book.|我读一本书。
+日常动作|write|写|I ____ my name.|我写我的名字。
+日常动作|draw|画|I can ____ a cat.|我会画一只猫。
+日常动作|sing|唱|I can ____ a song.|我会唱一首歌。
+日常动作|dance|跳舞|I can ____.|我会跳舞。
+自然天气|sun|太阳|The ____ is in the sky.|太阳在天空中。
+自然天气|moon|月亮|I see the ____ at night.|我在夜晚看见月亮。
+自然天气|star|星星|I see a bright ____.|我看见一颗明亮的星星。
+自然天气|sky|天空|The ____ is blue.|天空是蓝色的。
+自然天气|tree|树|This ____ is tall.|这棵树很高。
+自然天气|flower|花|This ____ is pink.|这朵花是粉红色的。
+自然天气|leaf|叶子|This ____ is green.|这片叶子是绿色的。
+自然天气|grass|草|The ____ is green.|草是绿色的。
+自然天气|rain|雨|I see ____ outside.|我看见外面在下雨。
+自然天气|snow|雪|The ____ is white.|雪是白色的。
+自然天气|wind|风|The ____ moves the leaves.|风吹动了叶子。
+描述事物|big|大的|The elephant is ____.|这头大象很大。
+描述事物|small|小的|The mouse is ____.|这只老鼠很小。
+描述事物|long|长的|The ruler is ____.|这把尺子很长。
+描述事物|short|短的|The pencil is ____.|这支铅笔很短。
+描述事物|happy|开心的|I am ____.|我很开心。
+描述事物|sad|难过的|I am ____.|我很难过。
+描述事物|hot|热的|The soup is ____.|这碗汤很热。
+描述事物|cold|冷的|The water is ____.|这杯水很冷。
+描述事物|clean|干净的|My hands are ____.|我的手是干净的。
+描述事物|new|新的|My bag is ____.|我的书包是新的。

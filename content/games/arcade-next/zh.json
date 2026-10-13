@@ -1,0 +1,11 @@
+{
+  "little-spy": {
+    "Little Spy":"小间谍", "Play":"开始任务", "Jump":"跳跃", "Left":"向左", "Right":"向右", "Parachute":"降落伞", "Flying Kick":"飞踢", "Pause":"暂停", "Window Size":"窗口大小", "Full Screen":"全屏", "You":"你", "Them":"敌人", "Collect":"收集情报", "Escape":"前往撤离点", "Stomp x1":"踩踏一次", "Stomp x2":"踩踏两次", "Hit x1":"攻击一次", "Hit x2":"攻击两次", "Mission accomplished!":"任务完成！", "Final Score: %s":"最终得分：%s", "Main Menu":"返回主菜单", "Just Jumping":"跳跃训练", "One Item Required":"收集第一份情报", "Do the Stomp!":"踩踏出击", "Floaty McFloat Face":"降落伞行动", "The Climb":"攀墙任务", "The Sprawl":"深入敌方基地", "Quit":"退出", "Resume":"继续任务", "Retry":"重试本关", "PAUSED":"已暂停", "Paused":"已暂停", "Level: ":"关卡：", "Agent Status: Killed In Action":"任务失败：特工阵亡", "Agent Status: Missing In Action":"任务失败：错过撤离", "Agent Rank: ":"特工评级：", "\nObjective Success: ":"\n情报收集：", "%\nTime Bonus: ":"%\n时间奖励：", "Score: %s":"得分：%s"
+  },
+  "taipo": {
+    "Settings":"设置", "Select Word Lists":"选择练习词", "Start Game":"开始", "Back To Main Menu":"返回菜单", "Volume ":"音量 ", "やってない!":"守卫失败", "やった!":"胜利！", "円 獲得":"币 获得", "Kana":"日语假名", "N5 Kanji":"日语基础汉字", "Yamanote Stops":"山手线站名", "English":"英语单词"
+  },
+  "sokoworld": {
+    "Credits":"制作名单", "Quit":"退出", "Pack A: Starting Out":"入门训练", "Pack B: Heating Up":"进阶挑战", "Pack B: More Challenge":"进阶挑战", "Pack B: More Challenges":"进阶挑战", "Easy":"简单", "Medium":"中等", "Hard":"困难", "Select a Level":"选择关卡", "complete":"已完成", "Steps: ":"步数：", "  Pushes: ":"  推动：", "Rewind:":"撤销：", "  Reset:":"  重置：", "Nice job! Press ":"成功！按 ", " for next level.":" 进入下一关。", "Back to Level Select":"返回选关", "Back to Main Menu":"返回主菜单", ":select":"：确认", ":start  ":"：开始  ", ":back":"：返回", " levels (":" 关（已完成 ", " complete)":" 关）", "by ":"作者：", "Press ":"按 ", " or ":" 或 ", " to return":" 返回", "Art by Chrysalis and Brett Chalupa":"美术：Chrysalis / Brett Chalupa", "Sound effects by Melos Han-Tani":"音效：Melos Han-Tani", "Level design by Brett Chalupa and Yoshio Murase":"关卡：Brett Chalupa / Yoshio Murase", "Programming by Brett Chalupa":"程序：Brett Chalupa", "Simple levels to learn the rules of Sokoban.":"学习推箱子规则的入门关卡。"
+  }
+}

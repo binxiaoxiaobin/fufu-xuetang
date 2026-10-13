@@ -1,0 +1,562 @@
+[
+  {
+    "slug": "point",
+    "word": "point",
+    "meaning": "指",
+    "sentence": "Point to the cup.",
+    "translation": "指一指杯子。",
+    "hint": "用食指指向物品。",
+    "group": "手部小动作",
+    "color": "green"
+  },
+  {
+    "slug": "touch",
+    "word": "touch",
+    "meaning": "触摸",
+    "sentence": "Touch the button.",
+    "translation": "碰一下按钮。",
+    "hint": "手指轻轻碰到按钮。",
+    "group": "手部小动作",
+    "color": "green"
+  },
+  {
+    "slug": "grab",
+    "word": "grab",
+    "meaning": "抓住",
+    "sentence": "Grab the cup.",
+    "translation": "抓住杯子。",
+    "hint": "张开手指，再抓住杯柄。",
+    "group": "手部小动作",
+    "color": "green"
+  },
+  {
+    "slug": "hold",
+    "word": "hold",
+    "meaning": "握住",
+    "sentence": "Hold the stick.",
+    "translation": "握住木棒。",
+    "hint": "握稳木棒，让它保持不动。",
+    "group": "手部小动作",
+    "color": "green"
+  },
+  {
+    "slug": "release",
+    "word": "release",
+    "meaning": "放开",
+    "sentence": "Release the ball.",
+    "translation": "松手放开小球。",
+    "hint": "张开手指，小球落下来。",
+    "group": "手部小动作",
+    "color": "green"
+  },
+  {
+    "slug": "push",
+    "word": "push",
+    "meaning": "推",
+    "sentence": "Push the block.",
+    "translation": "推一推木块。",
+    "hint": "用手掌把木块推远。",
+    "group": "推拉与开关",
+    "color": "blue"
+  },
+  {
+    "slug": "pull",
+    "word": "pull",
+    "meaning": "拉",
+    "sentence": "Pull the rope.",
+    "translation": "拉一拉绳子。",
+    "hint": "抓住绳子，把木块拉近。",
+    "group": "推拉与开关",
+    "color": "blue"
+  },
+  {
+    "slug": "open",
+    "word": "open",
+    "meaning": "打开",
+    "sentence": "Open the door.",
+    "translation": "打开门。",
+    "hint": "握住把手，让门打开。",
+    "group": "推拉与开关",
+    "color": "blue"
+  },
+  {
+    "slug": "close",
+    "word": "close",
+    "meaning": "关上",
+    "sentence": "Close the door.",
+    "translation": "关上门。",
+    "hint": "握住把手，让门合上。",
+    "group": "推拉与开关",
+    "color": "blue"
+  },
+  {
+    "slug": "knock",
+    "word": "knock",
+    "meaning": "敲",
+    "sentence": "Knock on the door.",
+    "translation": "敲一敲门。",
+    "hint": "用指关节轻轻敲门。",
+    "group": "推拉与开关",
+    "color": "blue"
+  },
+  {
+    "slug": "write",
+    "word": "write",
+    "meaning": "写",
+    "sentence": "Write with a pencil.",
+    "translation": "用铅笔写字。",
+    "hint": "握住铅笔，在纸上写下笔画。",
+    "group": "手工与工具",
+    "color": "yellow"
+  },
+  {
+    "slug": "draw",
+    "word": "draw",
+    "meaning": "画",
+    "sentence": "Draw a sun.",
+    "translation": "画一个太阳。",
+    "hint": "用彩笔画出圆圆的太阳。",
+    "group": "手工与工具",
+    "color": "yellow"
+  },
+  {
+    "slug": "cut",
+    "word": "cut",
+    "meaning": "剪",
+    "sentence": "Cut the paper.",
+    "translation": "剪纸。",
+    "hint": "剪刀合拢，纸被剪开。",
+    "group": "手工与工具",
+    "color": "yellow"
+  },
+  {
+    "slug": "glue",
+    "word": "glue",
+    "meaning": "粘贴",
+    "sentence": "Glue the paper.",
+    "translation": "给纸涂胶。",
+    "hint": "把胶棒涂在纸上，就能粘贴。",
+    "group": "手工与工具",
+    "color": "yellow"
+  },
+  {
+    "slug": "fold",
+    "word": "fold",
+    "meaning": "折叠",
+    "sentence": "Fold the paper.",
+    "translation": "把纸折起来。",
+    "hint": "对齐纸边，压一压折痕。",
+    "group": "手工与工具",
+    "color": "yellow"
+  },
+  {
+    "slug": "tie",
+    "word": "tie",
+    "meaning": "系",
+    "sentence": "Tie your shoelaces.",
+    "translation": "系好鞋带。",
+    "hint": "把鞋带系成蝴蝶结。",
+    "group": "穿衣与整理",
+    "color": "peach"
+  },
+  {
+    "slug": "screw",
+    "word": "screw",
+    "meaning": "拧紧",
+    "sentence": "Screw it in.",
+    "translation": "把螺丝拧进去。",
+    "hint": "转动工具，让螺丝进入木块。",
+    "group": "手工与工具",
+    "color": "yellow"
+  },
+  {
+    "slug": "unscrew",
+    "word": "unscrew",
+    "meaning": "拧松",
+    "sentence": "Unscrew it.",
+    "translation": "把螺丝拧松。",
+    "hint": "反向转动，让螺丝升起来。",
+    "group": "手工与工具",
+    "color": "yellow"
+  },
+  {
+    "slug": "squeeze",
+    "word": "squeeze",
+    "meaning": "挤压",
+    "sentence": "Squeeze the ball.",
+    "translation": "捏一捏软球。",
+    "hint": "用整只手握紧，把软球压扁。",
+    "group": "手部小动作",
+    "color": "green"
+  },
+  {
+    "slug": "pinch",
+    "word": "pinch",
+    "meaning": "捏",
+    "sentence": "Pinch the clay.",
+    "translation": "用手指捏黏土。",
+    "hint": "用拇指和食指捏住小黏土球。",
+    "group": "手部小动作",
+    "color": "green"
+  },
+  {
+    "slug": "scrub",
+    "word": "scrub",
+    "meaning": "擦洗",
+    "sentence": "Scrub the table.",
+    "translation": "擦洗桌子。",
+    "hint": "海绵来回擦，把污渍擦掉。",
+    "group": "清洁小帮手",
+    "color": "green"
+  },
+  {
+    "slug": "clap",
+    "word": "clap",
+    "meaning": "拍手",
+    "sentence": "Clap your hands.",
+    "translation": "拍拍手。",
+    "hint": "两只手掌碰在一起，再分开。",
+    "group": "友好互动",
+    "color": "lilac"
+  },
+  {
+    "slug": "wave",
+    "word": "wave",
+    "meaning": "挥手",
+    "sentence": "Wave hello.",
+    "translation": "挥手打个招呼。",
+    "hint": "张开手掌，左右挥一挥。",
+    "group": "友好互动",
+    "color": "lilac"
+  },
+  {
+    "slug": "scratch",
+    "word": "scratch",
+    "meaning": "抓挠",
+    "sentence": "Scratch your arm gently.",
+    "translation": "轻轻挠一挠手臂。",
+    "hint": "弯起手指，轻轻挠一挠。",
+    "group": "友好互动",
+    "color": "lilac"
+  },
+  {
+    "slug": "pet",
+    "word": "pet",
+    "meaning": "抚摸",
+    "sentence": "Pet the puppy gently.",
+    "translation": "轻轻抚摸小狗。",
+    "hint": "用手掌温柔地摸摸小狗的头。",
+    "group": "友好互动",
+    "color": "lilac"
+  },
+  {
+    "slug": "pour",
+    "word": "pour",
+    "meaning": "倒",
+    "sentence": "Pour water into the cup.",
+    "translation": "把水倒进杯子里。",
+    "hint": "倾斜水壶，把水倒进杯子。",
+    "group": "厨房小帮手",
+    "color": "yellow"
+  },
+  {
+    "slug": "stir",
+    "word": "stir",
+    "meaning": "搅拌",
+    "sentence": "Stir the soup with a spoon.",
+    "translation": "用勺子搅拌汤。",
+    "hint": "握住勺子，在碗里搅一搅。",
+    "group": "厨房小帮手",
+    "color": "yellow"
+  },
+  {
+    "slug": "scoop",
+    "word": "scoop",
+    "meaning": "舀",
+    "sentence": "Scoop some rice into the bowl.",
+    "translation": "舀一些米饭到碗里。",
+    "hint": "用勺子舀起米饭，放进小碗。",
+    "group": "厨房小帮手",
+    "color": "yellow"
+  },
+  {
+    "slug": "spread",
+    "word": "spread",
+    "meaning": "涂抹",
+    "sentence": "Spread butter on the bread.",
+    "translation": "在面包上涂黄油。",
+    "hint": "用圆头餐刀把黄油抹开。",
+    "group": "厨房小帮手",
+    "color": "yellow"
+  },
+  {
+    "slug": "peel",
+    "word": "peel",
+    "meaning": "剥皮",
+    "sentence": "Peel the banana.",
+    "translation": "剥开香蕉皮。",
+    "hint": "捏住香蕉皮，向下剥开。",
+    "group": "厨房小帮手",
+    "color": "yellow"
+  },
+  {
+    "slug": "wash",
+    "word": "wash",
+    "meaning": "洗",
+    "sentence": "Wash your hands with soap.",
+    "translation": "用肥皂洗手。",
+    "hint": "手掌和手背都搓一搓。",
+    "group": "清洁小帮手",
+    "color": "green"
+  },
+  {
+    "slug": "wipe",
+    "word": "wipe",
+    "meaning": "擦拭",
+    "sentence": "Wipe the table with a cloth.",
+    "translation": "用布擦一擦桌子。",
+    "hint": "把布压在桌面上，擦掉水渍。",
+    "group": "清洁小帮手",
+    "color": "green"
+  },
+  {
+    "slug": "brush",
+    "word": "brush",
+    "meaning": "刷",
+    "sentence": "Brush your teeth every day.",
+    "translation": "每天刷牙。",
+    "hint": "用牙刷轻轻刷牙。",
+    "group": "清洁小帮手",
+    "color": "green"
+  },
+  {
+    "slug": "zip",
+    "word": "zip",
+    "meaning": "拉拉链",
+    "sentence": "Zip up your jacket.",
+    "translation": "拉好外套的拉链。",
+    "hint": "捏住拉链头，向上拉。",
+    "group": "穿衣与整理",
+    "color": "peach"
+  },
+  {
+    "slug": "stack",
+    "word": "stack",
+    "meaning": "叠放",
+    "sentence": "Stack the blocks carefully.",
+    "translation": "小心地把积木叠起来。",
+    "hint": "把积木轻轻放到另一块上。",
+    "group": "穿衣与整理",
+    "color": "peach"
+  },
+  {
+    "slug": "lift",
+    "word": "lift",
+    "meaning": "抬起；举起",
+    "sentence": "Lift the box carefully.",
+    "translation": "小心地把盒子抬起来。",
+    "hint": "两手托住盒子，慢慢抬高。",
+    "group": "推拉与开关",
+    "color": "blue"
+  },
+  {
+    "slug": "catch",
+    "word": "catch",
+    "meaning": "接住",
+    "sentence": "Catch the ball with both hands.",
+    "translation": "用双手接住球。",
+    "hint": "张开双手，接住飞来的软球。",
+    "group": "球类动作",
+    "color": "blue"
+  },
+  {
+    "slug": "erase",
+    "word": "erase",
+    "meaning": "擦掉",
+    "sentence": "Erase the pencil mark.",
+    "translation": "擦掉铅笔印。",
+    "hint": "用橡皮轻轻擦去纸上的铅笔痕迹。",
+    "group": "手工与工具",
+    "color": "yellow"
+  },
+  {
+    "slug": "turn",
+    "word": "turn",
+    "meaning": "翻；转动",
+    "sentence": "Turn the page.",
+    "translation": "翻一页书。",
+    "hint": "用指尖捏住书页，轻轻翻过去。",
+    "group": "手工与工具",
+    "color": "yellow"
+  },
+  {
+    "slug": "sweep",
+    "word": "sweep",
+    "meaning": "扫",
+    "sentence": "Sweep the crumbs into a pile.",
+    "translation": "把碎屑扫成一堆。",
+    "hint": "用小扫帚把桌上的碎屑扫到一起。",
+    "group": "清洁小帮手",
+    "color": "green"
+  },
+  {
+    "slug": "water",
+    "word": "water",
+    "meaning": "浇水",
+    "sentence": "Water the plant.",
+    "translation": "给植物浇水。",
+    "hint": "把小水壶倾斜，让水落进花盆。",
+    "group": "花园小帮手",
+    "color": "lilac"
+  },
+  {
+    "slug": "button",
+    "word": "button",
+    "meaning": "扣上扣子",
+    "sentence": "Button your overalls.",
+    "translation": "扣好背带裤上的扣子。",
+    "hint": "把背带裤上的木扣对准扣眼，轻轻扣上。",
+    "group": "穿衣与整理",
+    "color": "peach"
+  },
+  {
+    "slug": "unbutton",
+    "word": "unbutton",
+    "meaning": "解开扣子",
+    "sentence": "Unbutton your overalls.",
+    "translation": "解开背带裤上的扣子。",
+    "hint": "把背带裤上的木扣从扣眼里轻轻推出来。",
+    "group": "穿衣与整理",
+    "color": "peach"
+  },
+  {
+    "slug": "hang",
+    "word": "hang",
+    "meaning": "挂起来",
+    "sentence": "Hang your coat on the hook.",
+    "translation": "把外套挂在挂钩上。",
+    "hint": "提起外套，把衣领环挂到木钩上。",
+    "group": "穿衣与整理",
+    "color": "peach"
+  },
+  {
+    "slug": "rinse",
+    "word": "rinse",
+    "meaning": "冲洗",
+    "sentence": "Rinse the apple with water.",
+    "translation": "用水冲洗苹果。",
+    "hint": "让清水从苹果表面流过。",
+    "group": "清洁小帮手",
+    "color": "green"
+  },
+  {
+    "slug": "plant",
+    "word": "plant",
+    "meaning": "种植",
+    "sentence": "Plant a seed in the soil.",
+    "translation": "把一粒种子种进土里。",
+    "hint": "在土里挖个小窝，放进种子，再盖上土。",
+    "group": "花园小帮手",
+    "color": "lilac"
+  },
+  {
+    "slug": "dig",
+    "word": "dig",
+    "meaning": "挖",
+    "sentence": "Dig a small hole.",
+    "translation": "挖一个小坑。",
+    "hint": "用小铲子把松软的泥土铲开。",
+    "group": "花园小帮手",
+    "color": "lilac"
+  },
+  {
+    "slug": "pick",
+    "word": "pick",
+    "meaning": "摘；采",
+    "sentence": "Pick a ripe tomato.",
+    "translation": "摘一个成熟的番茄。",
+    "hint": "用手托住红番茄，轻轻摘下来。",
+    "group": "花园小帮手",
+    "color": "lilac"
+  },
+  {
+    "slug": "taste",
+    "word": "taste",
+    "meaning": "尝一尝",
+    "sentence": "Taste the soup.",
+    "translation": "尝一尝汤。",
+    "hint": "用勺子舀一点汤，先吹凉再尝尝。",
+    "group": "厨房小帮手",
+    "color": "yellow"
+  },
+  {
+    "slug": "kick",
+    "word": "kick",
+    "meaning": "踢",
+    "sentence": "Kick the ball gently.",
+    "translation": "轻轻踢球。",
+    "hint": "用脚轻轻碰球，让球滚出去。",
+    "group": "球类动作",
+    "color": "blue"
+  },
+  {
+    "slug": "throw",
+    "word": "throw",
+    "meaning": "投；扔",
+    "sentence": "Throw the ball to the basket.",
+    "translation": "把球投向篮筐。",
+    "hint": "双手拿球，向前轻轻投出去。",
+    "group": "球类动作",
+    "color": "blue"
+  },
+  {
+    "slug": "bounce",
+    "word": "bounce",
+    "meaning": "拍；使弹起",
+    "sentence": "Bounce the ball on the floor.",
+    "translation": "让球在地上弹起来。",
+    "hint": "用手把球轻轻拍向地面，再接住弹回来的球。",
+    "group": "球类动作",
+    "color": "blue"
+  },
+  {
+    "slug": "dribble",
+    "word": "dribble",
+    "meaning": "运球",
+    "sentence": "Dribble the ball as you walk.",
+    "translation": "一边走一边运球。",
+    "hint": "向前走时，用手轻轻拍球。",
+    "group": "球类动作",
+    "color": "blue"
+  },
+  {
+    "slug": "jump",
+    "word": "jump",
+    "meaning": "跳",
+    "sentence": "Jump over the soft line.",
+    "translation": "跳过软软的标记线。",
+    "hint": "屈膝轻轻跳起，再稳稳落地。",
+    "group": "运动与热身",
+    "color": "peach"
+  },
+  {
+    "slug": "run",
+    "word": "run",
+    "meaning": "跑",
+    "sentence": "Run around the cone.",
+    "translation": "绕着小锥桶跑。",
+    "hint": "身体微微向前，绕过标记再跑回来。",
+    "group": "运动与热身",
+    "color": "peach"
+  },
+  {
+    "slug": "stretch",
+    "word": "stretch",
+    "meaning": "伸展",
+    "sentence": "Stretch your arms up high.",
+    "translation": "把双臂高高伸展开。",
+    "hint": "慢慢举起双臂，轻轻伸展身体。",
+    "group": "运动与热身",
+    "color": "peach"
+  }
+]

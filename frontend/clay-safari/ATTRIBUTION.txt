@@ -1,0 +1,3 @@
+Preview adapted from cclank/clay-safari (MIT License).
+Included animal: lion.glb. The original terrain, river, bridge, props, effects and interaction scene are retained.
+Upstream: https://github.com/cclank/clay-safari

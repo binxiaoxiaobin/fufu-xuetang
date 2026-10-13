@@ -1,0 +1,11 @@
+const fs=require('fs'),assert=require('assert/strict');
+const {chromium}=require('../artifacts/toy2game/node_modules/playwright');
+(async()=>{
+const games=['starcatcher_game.json','palace_for_fools_game.json','little_spy_game.json','taipo_game.json','sokoworld_game.json','open_jigsaw_game.json'].map(f=>JSON.parse(fs.readFileSync('backend/seed_data/'+f,'utf8')));
+const browser=await chromium.launch({executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe',headless:true});const page=await browser.newPage({viewport:{width:1200,height:850}});
+await page.route('**/__itch_launcher',r=>r.fulfill({contentType:'text/html',body:`<style>body{font-family:system-ui;margin:20px}.page:not(.active){display:none}</style><main id="page-arcade" class="page active"><header class="library-head"><span class="eyebrow"></span><h1></h1><p></p></header><div class="game-tabs"></div><div class="game-layout"></div></main><script>window.navigate=page=>document.querySelectorAll('main.page').forEach(el=>el.classList.toggle('active',el.id==='page-'+page));</script><script type="module" src="/toy-arcade.js"></script>`}));
+await page.route('**/api/toy-games',r=>r.fulfill({json:{games}}));await page.route('**/api/toy-games/*/save',r=>r.fulfill({json:{learnerId:881,revision:0,storage:{},stats:{}}}));
+await page.goto('http://localhost:8000/__itch_launcher');
+for(const game of games){await page.locator('[data-toy="'+game.id+'"]').click();await page.locator('#page-toy-game iframe[data-ready="true"]').waitFor();const frame=page.frameLocator('#page-toy-game iframe');await frame.locator('#start').waitFor({state:'visible'});assert(await frame.locator('#start').isVisible());await page.locator('.toy-fullscreen').click();await page.waitForFunction(()=>document.fullscreenElement?.id==='page-toy-game');await page.locator('.toy-fullscreen').click();await page.waitForFunction(()=>!document.fullscreenElement);await page.locator('.toy-back').click();await page.locator('#page-toy-game iframe').waitFor({state:'detached'});}
+await page.locator('#arcade-platformer').screenshot({path:'artifacts/itch-ports/tests/catalogue.png'});console.log('PASS: remaining catalogue launcher, start buttons accessible, fullscreen, return before native startup');await browser.close();
+})().catch(e=>{console.error(e);process.exit(1);});

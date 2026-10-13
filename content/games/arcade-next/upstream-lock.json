@@ -1,0 +1,26 @@
+[
+  {
+    "game": "little-spy",
+    "source": "https://github.com/wimpysworld/little-spy",
+    "branch": "main",
+    "source_archive_sha256": "abb2e25696197f9a05a2506882e1911ec5962da50ff5c3382c030fee7c9c9d65"
+  },
+  {
+    "game": "taipo",
+    "source": "https://github.com/rparrett/taipo",
+    "branch": "main",
+    "source_archive_sha256": "65b246fa5fd8f5ebac42c2ac0cd21b816656d7ecfb93a6a80c64c9bf6499d6b3"
+  },
+  {
+    "game": "sokoworld",
+    "source": "https://github.com/brettchalupa/sokoworld",
+    "branch": "main",
+    "source_archive_sha256": "b85b2c15ab4512ac53ab541b3f03b68d95ae2ac88670b5ef2a9532efeb2cfe32"
+  },
+  {
+    "game": "open-jigsaw",
+    "source": "https://github.com/code4fukui/open-jigsaw",
+    "branch": "opendata_ver",
+    "source_archive_sha256": "a991d308dd4be218bba881d9c37850817224f2790a08b86a7fc57ad596ec8bdc"
+  }
+]

@@ -1,0 +1,2069 @@
+{
+  "date": "2026-10-10",
+  "story_count": 57,
+  "page_count": 352,
+  "stories": [
+    {
+      "id": 4,
+      "slug": "ke-zhou-qiu-jian",
+      "title": "刻舟求剑",
+      "reason": "逐页核对后，主要场景与段落对应，未发现需要改变情节或重画的实质错位。",
+      "text_pages": [],
+      "scenes": {}
+    },
+    {
+      "id": 5,
+      "slug": "shou-zhu-dai-tu",
+      "title": "守株待兔",
+      "reason": "古代农家晚饭场景出现类似现代吊灯的照明。",
+      "paragraphs": [
+        "从前，宋国有个农夫，每天清早就扛着锄头到田里干活。他翻土、播种、除草，太阳晒得满头是汗，也从不偷懒，因为他盼着秋天能收获满满的粮食。",
+        "一天，农夫正在田边休息，一只兔子忽然从草丛里窜出来。它跑得太急，没看见前面的树桩，一头撞上去，昏倒在地。农夫赶紧跑过去，发现兔子已经死了。",
+        "农夫把兔子带回家，做成了一顿香喷喷的晚饭。家人都夸他运气好，他也高兴地说：“我在田边干活，还能白捡一只兔子，真是意外的收获呀！”",
+        "第二天，农夫又来到田里。他看着那个树桩，心里冒出一个主意：“如果每天都有兔子撞上来，我就不用这么辛苦种田了。”于是他把锄头放在一旁，坐到树桩边等。",
+        "太阳升得很高，田里没有兔子，只有鸟儿在树枝间跳来跳去。农夫等了一天，空着手回家。第二天、第三天，他还是守在树桩旁，田里的庄稼却渐渐被杂草盖住。",
+        "秋天到了，邻居们收下了谷子，农夫的田地里却几乎什么也没有。他这才明白，兔子撞树只是偶然发生的一件事。想要有所收获，就要踏实做事，不能把偶然的好运当成每天都会发生的事。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/shou-zhu-dai-tu/1.png",
+        "/assets/stories/shou-zhu-dai-tu/2.png",
+        "/assets/stories/shou-zhu-dai-tu/p3-review-20261010.webp",
+        "/assets/stories/shou-zhu-dai-tu/4.png",
+        "/assets/stories/shou-zhu-dai-tu/5.png",
+        "/assets/stories/shou-zhu-dai-tu/6.png"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "3": "Ancient Chinese farmer in gray-brown robe eats a simple supper with family in humble home. Use ONE small traditional clay OIL LAMP on table with little flame. Absolutely NO dangling lightbulb, electric lamps, cords, sockets or modern items. Same family as reference, cozy period-appropriate scene."
+      },
+      "source_note": "寓言见《韩非子·五蠹》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 6,
+      "slug": "hua-she-tian-zu",
+      "title": "画蛇添足",
+      "reason": "添足中的过程图与已经添足的结果图颠倒。",
+      "paragraphs": [
+        "楚国有户人家祭祀祖先后，准备了一壶酒奖给帮忙的人。大家围着酒壶商量：“酒只有一壶，几个人分不够喝。不如比赛画蛇，谁先画好，谁就得到这壶酒。”",
+        "大家找来树枝，在平整的地面上画起来。有人先画蛇头，有人慢慢添上弯弯的身体。一个人画得特别快，没过多久就画好了一条细长的蛇，旁边的人还在认真描画。",
+        "他抬头看看四周，发现别人都没完成，便得意地拿起酒壶。他想：“我画得这么快，不如再添点东西，让大家看看我的本领。”于是他把酒放在一旁，继续用树枝画。",
+        "“蛇有了脚，看起来更神气！”他一边说，一边在蛇身旁添上几只脚。他画得很仔细，还给每只脚添了爪子，觉得这幅画一定会让大家拍手称赞。",
+        "就在这时，另一个人画完了。他放下树枝，接过酒壶说：“蛇本来没有脚，你给它添上脚，画的就不是蛇了。按照比赛的约定，酒应该归我。”大家点点头，先画好的人只好把酒递过去。",
+        "先画好的人因为多添几笔，反而失去了奖赏。画蛇要画出蛇的样子，做事也要抓住重点、把握分寸。已经完成的事情，有时再加东西不但没有帮助，还会把事情弄糟。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/hua-she-tian-zu/1.png",
+        "/assets/stories/hua-she-tian-zu/2.png",
+        "/assets/stories/hua-she-tian-zu/4.png",
+        "/assets/stories/hua-she-tian-zu/3.png",
+        "/assets/stories/hua-she-tian-zu/5.png",
+        "/assets/stories/hua-she-tian-zu/6.png"
+      ],
+      "text_pages": [],
+      "scenes": {},
+      "source_note": "故事见《战国策·齐策二》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 7,
+      "slug": "si-ma-guang-za-gang",
+      "title": "司马光砸缸",
+      "reason": "砸缸用石头比例过大，不像孩子能握住的工具。",
+      "paragraphs": [
+        "小时候的司马光和伙伴们常在院子里玩耍。院角放着一口大水缸，缸里装着清水，旁边的墙上爬满藤叶。大人们总提醒孩子们不要靠近水缸，玩耍时要留在宽敞的地方。",
+        "有一天，大家在院子里追着皮球跑来跑去。一个伙伴不小心踩滑，掉进了水缸里。水面溅起水花，院子里顿时响起惊呼声，有人急着喊大人，有人吓得站在原地不知怎么办。",
+        "司马光也很着急，但他没有挤到缸边。他一边大声呼救，一边观察水缸和周围的情况。他发现水缸又厚又重，伙伴们的力气根本搬不动它，靠近缸沿还可能让更多人滑倒。",
+        "他想出一个办法，找来一块大石头，敲破水缸靠下的一侧。水很快从破口流到地上，缸里的水位渐渐下降，伙伴终于能够安全出来。司马光一直站在安全处，继续呼喊大人来帮忙。",
+        "大人们赶到后，马上把孩子带到安全的地方照看，也检查了院子里的水缸。伙伴们感谢司马光冷静又勇敢，司马光却说，刚才大家一起呼救也很重要，遇到危险不能只顾着害怕。",
+        "司马光观察情况、想办法解决难题的故事流传了下来。现实里遇到落水险情，孩子要马上大声呼救并找大人或专业救援人员；不要靠近水边，更不要自己下水救人。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/si-ma-guang-za-gang/1.png",
+        "/assets/stories/si-ma-guang-za-gang/2.png",
+        "/assets/stories/si-ma-guang-za-gang/3.png",
+        "/assets/stories/si-ma-guang-za-gang/p4-review-20261010.webp",
+        "/assets/stories/si-ma-guang-za-gang/5.png",
+        "/assets/stories/si-ma-guang-za-gang/6.png"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "4": "Same little Sima Guang uses a manageable stone held in two hands, about the size of two fists, to strike low side of large pottery water vat. Small cracked hole releases water onto ground; trapped child visible safe inside. Friends call adults in background. No giant boulder, no flying child, no injuries."
+      },
+      "source_note": "传统历史故事的儿童改写；不同讲述版本细节可能不同。"
+    },
+    {
+      "id": 8,
+      "slug": "cao-chong-cheng-xiang",
+      "title": "曹冲称象",
+      "reason": "大象上船提前出现；称石头时大象还在船上，无法完成等重替代。",
+      "paragraphs": [
+        "三国时期，有人送给曹操一头大象。大象身子高高的，腿像柱子一样粗，耳朵扇起来像两把大蒲扇。大家围着它看了又看，都想知道这头大象到底有多重。",
+        "曹操问大家：“谁有办法称一称它？”有人说，可以找一杆特别大的秤；有人说，让许多人一起抬起来称。大家想了许多办法，可不是找不到大秤，就是发现大象太重，根本抬不动。",
+        "年纪还小的曹冲认真观察大象和河边的船，想出了一个办法。他请人先把大象牵上船，船身果然往下沉了。曹冲让大家在船身碰到水面的位置做下记号，记住大象在船上时船沉到了哪里。",
+        "接着，大家把大象牵回岸上，再一块块把石头搬上船，直到水面重新到达刚才的记号。船上这一次只有石头，没有大象；船身两次沉到同一位置，就可以用这些石头的总重量来代替大象的重量。",
+        "大家把石头搬下来，分成几堆分别称重，再把每一堆的重量加起来。这样，他们就估出了大象的重量。曹操听完很高兴，夸曹冲会观察，也会把难题变成大家能完成的小步骤。",
+        "曹冲称象的故事告诉我们，遇到难题不妨先观察，再把大问题拆成小问题，想想有没有可以比较的事物。只要方法合适，力气解决不了的问题，也可能靠思考找到答案。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/cao-chong-cheng-xiang/1.png",
+        "/assets/stories/cao-chong-cheng-xiang/2.png",
+        "/assets/stories/cao-chong-cheng-xiang/3.png",
+        "/assets/stories/cao-chong-cheng-xiang/p4-review-20261010.webp",
+        "/assets/stories/cao-chong-cheng-xiang/5.png",
+        "/assets/stories/cao-chong-cheng-xiang/6.png"
+      ],
+      "text_pages": [
+        3,
+        4
+      ],
+      "scenes": {
+        "4": "Ancient China riverbank weighing experiment. Elephant stands COMPLETELY ASHORE in background. Wooden boat contains ONLY rocks, NO elephant. Workers add stones, young Cao Chong points to clear waterline mark on outside hull at water surface. Emphasize substitution, physically plausible."
+      },
+      "source_note": "故事见《三国志·魏书·邓哀王冲传》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 9,
+      "slug": "hou-yi-she-ri",
+      "title": "后羿射日",
+      "reason": "射日阶段只剩一个太阳，却仍对它射箭，与留下最后一个太阳矛盾。",
+      "paragraphs": [
+        "很久很久以前，古人讲过一个关于太阳的神话：有一天，天空里一下子出现了十个太阳。它们一起照耀大地，热得树叶卷起来，河水慢慢变少，田里的禾苗也低下了头。",
+        "人们躲在树荫下，盼望天气凉快一些。小动物们找不到足够的水，庄稼也快要枯萎了。传说中的英雄后羿看见大家生活辛苦，决定想办法帮助人们，让天空重新恢复安宁。",
+        "后羿带上弓箭，登上高高的山顶。他先仔细观察天空，等到太阳移动到合适的位置，再拉开弓。传说里，他一次次射出箭，让过于炽热的太阳化成明亮的光点。",
+        "九个太阳渐渐消失后，大地不再像刚才那样灼热。后羿停下弓箭，留下最后一个太阳继续照亮天地。他知道阳光对庄稼和人们都很重要，太阳太多太热不行，一个也没有也不行。",
+        "河水重新流动，禾苗慢慢挺起身子。人们走出家门，一起修整田地、照料作物，也感谢后羿帮助大家恢复安稳的生活。孩子们听着这个故事，想象阳光怎样照亮山川和村庄。",
+        "后羿射日是中国古代神话，不是真实的历史记载。这个故事表达了古人对自然力量的想象，也寄托着人们希望风调雨顺、珍惜阳光、生活安宁的愿望。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/hou-yi-she-ri/1.png",
+        "/assets/stories/hou-yi-she-ri/2.png",
+        "/assets/stories/hou-yi-she-ri/p3-review-20261010.webp",
+        "/assets/stories/hou-yi-she-ri/4.png",
+        "/assets/stories/hou-yi-she-ri/5.png",
+        "/assets/stories/hou-yi-she-ri/6.png"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "3": "Mythic adult archer Hou Yi aims bow upward during the MIDDLE of shooting extra suns. FOUR separated suns remain in sky, arrow heads toward one extra sun on right, other suns untouched. Heat and dry landscape. Clearly not shooting the very last sun."
+      },
+      "source_note": "中国古代神话的儿童改写；不同典籍与民间版本略有差异。"
+    },
+    {
+      "id": 185,
+      "slug": "hu-jia-hu-wei",
+      "title": "狐假虎威",
+      "reason": "结尾狐狸突然穿上衣服，和前页自然动物形象不连续。",
+      "paragraphs": [
+        "在一片大森林里，一只大老虎饿极了，到处找东西吃。它张开大嘴，一下子抓住了一只胖乎乎的狐狸。狐狸心里很害怕，可它眼珠一转，想出了一个办法。",
+        "狐狸挺直腰板说：\"你不敢吃我！老天爷派我来做百兽的首领，你吃了我，就是违抗老天爷的命令。\"老虎半信半疑，歪着头听它说。",
+        "狐狸又说：\"你要是不信，就跟在我后面走一圈，看看小动物们见了我，是不是都吓得逃跑。\"老虎觉得这个主意不错，就松开爪子，让狐狸走在前面。",
+        "狐狸大摇大摆地走在森林里，老虎跟在后面。树上的小鸟看见了老虎，呼啦一下飞走了；草地上的兔子看见了，撒腿就跑；小鹿和野猪也赶紧躲进了树林。",
+        "老虎看见小动物们都跑了，以为它们真的是害怕狐狸，不知道其实是害怕自己。它点点头，觉得狐狸确实很了不起，就把狐狸放了。",
+        "从那以后，狐狸常常借着老虎的威风在森林里走来走去。小动物们怕的其实是老虎，不是狐狸。借着别人的威风吓唬人，并不是真的厉害。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/hu-jia-hu-wei/1.png",
+        "/assets/stories/hu-jia-hu-wei/2.png",
+        "/assets/stories/hu-jia-hu-wei/3.png",
+        "/assets/stories/hu-jia-hu-wei/4.png",
+        "/assets/stories/hu-jia-hu-wei/5.png",
+        "/assets/stories/hu-jia-hu-wei/p6-review-20261010.webp"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "6": "Same natural red fox and same striped tiger in forest at sunset, fox with clever cautious expression, tiger realizes he was tricked. Both normal un clothed woodland animals, NO green jacket or human clothes, same proportions as reference."
+      },
+      "source_note": "寓言见《战国策·楚策一》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 186,
+      "slug": "jing-di-zhi-wa",
+      "title": "井底之蛙",
+      "reason": "第三页青蛙已出井看海，后面却仍困在井中。",
+      "paragraphs": [
+        "在一口浅浅的老井里，住着一只快乐的小青蛙。它每天在井里跳来跳去，看看井口的天，数数井壁上的小石头，觉得这就是全世界最好的地方。",
+        "有一天，一只从东海来的大鳖路过井口，往下看了看。青蛙骄傲地对它说：\"你看我多快活！我想跳就跳，想休息就休息，井里的水软软地抱着我，这里就是我的王国。\"",
+        "大鳖听了，想把东海的事告诉青蛙。它说：\"你见过大海吗？海又大又深，望不到边，住在里面才叫真的快活。\"青蛙眨眨眼睛，从来没听过这些。",
+        "大鳖接着说：\"大海广阔得很，下雨下很久，海水也不会涨多少；旱年很久不下雨，海水也不会浅多少。住在那样的地方，才是真的快乐。\"",
+        "青蛙听了，张着嘴巴半天说不出话。它这才知道，自己天天待在小小的井底，看到的天只有井口那么大，原来外面还有那么大的世界。",
+        "从那以后，小青蛙不再骄傲了。它常常抬头看着井口的天，想着以后一定要跳出井口，去看看真正的大海和高山。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/jing-di-zhi-wa/1.png",
+        "/assets/stories/jing-di-zhi-wa/2.png",
+        "/assets/stories/jing-di-zhi-wa/p3-review-20261010.webp",
+        "/assets/stories/jing-di-zhi-wa/4.png",
+        "/assets/stories/jing-di-zhi-wa/5.png",
+        "/assets/stories/jing-di-zhi-wa/6.png"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "3": "Frog stays INSIDE stone well on inner ledge. Sea turtle perches on rim describing vast ocean to frog. Small soft-edged imagined ocean vignette above turtle, clearly a thought/description not a real nearby sea. Frog never leaves well in this scene."
+      },
+      "source_note": "寓言见《庄子·秋水》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 187,
+      "slug": "yan-er-dao-ling",
+      "title": "掩耳盗铃",
+      "reason": "两只手捂耳又敲钟，动作需要第三只手。",
+      "paragraphs": [
+        "从前有个人，看见别人家大门上挂着一只漂亮的大铜铃铛。铃铛金光闪闪，风一吹就叮当叮当响，他越看越喜欢，想把它偷偷抱回家。",
+        "可是铃铛太大了，一个人搬不动。他想了想，决定把铃铛敲碎，一块一块地拿回去。他举起锤子，刚一敲，铃铛就\"当\"地响了起来。",
+        "他吓了一跳，心想：这么大的声音，别人听见了就会来抓我。他皱着眉头想了很久，忽然高兴地一拍大腿：\"有办法了！\"",
+        "他一只手紧紧捂住一边耳朵，另一只手举起锤子去敲钟。“当——”钟声响了起来！他顾着骗自己，却忘了别人仍然听得见，也忘了另一只耳朵根本没有被捂住。",
+        "铃铛又响了起来。他听不见，可是附近的邻居都听见了，纷纷跑出来，把这个捂耳朵偷铃铛的人抓了个正着。",
+        "邻居们问他为什么捂自己的耳朵。他低着头说：\"我捂住耳朵，以为别人也听不见了。\"大家都笑了：你自己听不见，别人可听得见呢！"
+      ],
+      "paragraph_images": [
+        "/assets/stories/yan-er-dao-ling/1.png",
+        "/assets/stories/yan-er-dao-ling/2.png",
+        "/assets/stories/yan-er-dao-ling/3.png",
+        "/assets/stories/yan-er-dao-ling/4.png",
+        "/assets/stories/yan-er-dao-ling/5.png",
+        "/assets/stories/yan-er-dao-ling/6.png"
+      ],
+      "text_pages": [
+        4
+      ],
+      "scenes": {},
+      "source_note": "寓言见《吕氏春秋·自知》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 188,
+      "slug": "wang-yang-bu-lao",
+      "title": "亡羊补牢",
+      "reason": "逐页核对后，主要场景与段落对应，未发现需要改变情节或重画的实质错位。",
+      "text_pages": [],
+      "scenes": {}
+    },
+    {
+      "id": 189,
+      "slug": "ye-gong-hao-long",
+      "title": "叶公好龙",
+      "reason": "结尾出现真实小龙和儿童，而主人公其实只喜欢画中的龙。",
+      "paragraphs": [
+        "从前有个叫叶公的人，逢人就说自己最喜欢龙。他家里的墙上画着龙，柱子上刻着龙，衣服被子上也绣着龙，到处都是龙的图案。",
+        "邻居们都知道叶公爱龙，都说：\"叶公真是天下第一喜欢龙的人。\"叶公听了，得意地捋着胡子，觉得自己和龙最亲近。",
+        "天上的真龙听说人间有这么一个粉丝，非常感动。它决定下凡去看看叶公，当面感谢这位老朋友。",
+        "这一天，真龙从天上飞下来，把大大的脑袋伸进叶公家的窗户，长长的尾巴拖在厅堂里。叶公抬头一看，看见真龙张着大嘴，眼睛像灯笼一样，吓得脸都白了。",
+        "叶公转身就跑，浑身发抖，连路都走不稳。他跑出去好远才停下来，大口大口地喘气，再也不提要见龙的事了。",
+        "真龙很失望地飞走了。原来叶公喜欢的只是画在墙上、刻在柱子上的假龙，并不是真正的龙。喜欢一样东西，可不能只喜欢外表哦。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/ye-gong-hao-long/1.png",
+        "/assets/stories/ye-gong-hao-long/2.png",
+        "/assets/stories/ye-gong-hao-long/3.png",
+        "/assets/stories/ye-gong-hao-long/4.png",
+        "/assets/stories/ye-gong-hao-long/5.png",
+        "/assets/stories/ye-gong-hao-long/p6-review-20261010.webp"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "6": "Same adult Lord Ye in gray ancient robe inside his room looks thoughtfully at a FLAT ink dragon painting mounted on wall. The REAL dragon has already left, no living dragon anywhere. Same adult protagonist, NO replacement child."
+      },
+      "source_note": "寓言见《新序·杂事五》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 190,
+      "slug": "zi-xiang-mao-dun",
+      "title": "自相矛盾",
+      "reason": "开头说手持矛盾，画面实际是摊位陈列。",
+      "paragraphs": [
+        "古时候，有个卖兵器的人在集市上摆了一个摊。他把矛和盾陈列好，站在摊前大声招呼过路的人，希望大家来买。",
+        "他先举起盾牌，得意地说：\"我的盾可结实了！不管什么锋利的东西，都别想刺穿它！\"周围围过来几个人看。",
+        "接着他又举起长矛，更得意地说：\"我的矛可锋利了！不管什么坚固的东西，它都能一刺就穿！\"围观的人越来越多。",
+        "这时，人群里有个老爷爷问他：\"那如果用你的矛去刺你的盾，会怎么样呢？\"卖兵器的人一下子愣住了，张着嘴说不出话来。",
+        "他想：如果说盾挡得住矛，那刚才说矛什么都能刺穿就是吹牛；如果说矛能刺穿盾，那刚才说盾什么都挡得住就是假话。",
+        "围观的人都笑了起来。卖兵器的人红着脸，收拾起矛和盾，赶紧走了。说话做事要前后一致，不然就会像他一样被问住。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/zi-xiang-mao-dun/1.png",
+        "/assets/stories/zi-xiang-mao-dun/2.png",
+        "/assets/stories/zi-xiang-mao-dun/3.png",
+        "/assets/stories/zi-xiang-mao-dun/4.png",
+        "/assets/stories/zi-xiang-mao-dun/5.png",
+        "/assets/stories/zi-xiang-mao-dun/6.png"
+      ],
+      "text_pages": [
+        1
+      ],
+      "scenes": {},
+      "source_note": "寓言见《韩非子·难一》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 191,
+      "slug": "hua-long-dian-jing",
+      "title": "画龙点睛",
+      "reason": "画龙却在画人物肖像；四龙变成三龙；结尾画中龙又变成活物。",
+      "paragraphs": [
+        "南北朝时，有个大画家叫张僧繇。他的画画得特别好，传说他在金陵安乐寺的墙壁上，画了四条威风凛凛的金龙。",
+        "那四条龙画得像真的一样，鳞片闪闪发光，爪子好像在动。可是大家仔细一看，龙的眼睛都没有画眼珠，只是两个圆圆的空白。",
+        "有人问他：\"为什么不给龙点上眼睛呢？\"张僧繇摇摇头说：\"不能点啊，点上眼睛，龙就会飞走的。\"大家都不相信，觉得他在说笑。",
+        "大家再三请求他点上眼睛。张僧繇没办法，只好拿起笔，蘸上墨，给其中两条龙轻轻点上了眼睛。",
+        "刚一点完，天上立刻乌云密布，打雷刮风。墙壁\"哗啦\"裂开，那两条点了眼睛的龙真的腾云驾雾，飞上了天空。",
+        "等云散风停，大家再看墙上，只剩下两条没有点眼睛的龙还在。原来在关键的地方加上最传神的一笔，整个作品就活了。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/hua-long-dian-jing/1.png",
+        "/assets/stories/hua-long-dian-jing/2.png",
+        "/assets/stories/hua-long-dian-jing/p3-review-20261010.webp",
+        "/assets/stories/hua-long-dian-jing/p4-review-20261010.webp",
+        "/assets/stories/hua-long-dian-jing/5.png",
+        "/assets/stories/hua-long-dian-jing/p6-review-20261010.webp"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "3": "Ancient painter Zhang Sengyou talking with curious visitors before temple wall bearing EXACTLY FOUR FLAT painted dragons. ALL have blank eyes with no pupils. No human portrait painting. Painter explains why he has not dotted the pupils yet.",
+        "4": "Temple wall has EXACTLY FOUR ink-painted dragons. Painter on stable low ladder carefully dots pupils of TWO dragons with brush. Other TWO dragons have visibly BLANK eyes. Storm clouds begin gathering above. No extra dragon, no portrait.",
+        "6": "After two dragons have flown away, temple wall retains exactly TWO FLAT painted dragons with blank pupil-less eyes. Painter and visitors stand thoughtfully below. No living dragon hovering over people; keep mural flat on wall."
+      },
+      "source_note": "传说见唐代张彦远《历代名画记》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 192,
+      "slug": "nan-yuan-bei-zhe",
+      "title": "南辕北辙",
+      "reason": "逐页核对后，主要场景与段落对应，未发现需要改变情节或重画的实质错位。",
+      "text_pages": [],
+      "scenes": {}
+    },
+    {
+      "id": 193,
+      "slug": "jing-wei-tian-hai",
+      "title": "精卫填海",
+      "reason": "逐页核对后，主要场景与段落对应，未发现需要改变情节或重画的实质错位。",
+      "text_pages": [],
+      "scenes": {}
+    },
+    {
+      "id": 194,
+      "slug": "kua-fu-zhui-ri",
+      "title": "夸父追日",
+      "reason": "手杖变桃林在文字中早了一页。",
+      "paragraphs": [
+        "远古时代，有个巨人叫夸父。他身材高大，力气过人，看到太阳每天从东边升起、西边落下，心想：太阳为什么要落下呢？我要追上它，让它永远照亮大地。",
+        "于是夸父迈开大步，向着太阳拼命追去。他翻过高山，跨过大河，跑啊跑啊，离太阳越来越近，可也越来越渴。",
+        "他跑过黄河、渭河，俯下身把两条大河的水都喝光了，可还是不解渴。他又往北方的大湖跑去，想喝个痛快。",
+        "可是半路上，夸父实在太渴了，再也支撑不住，扑通一声倒在路上。那根陪伴他翻山越岭的手杖，也从手中落到了地上。",
+        "传说，夸父留下的手杖后来化成了一片郁郁葱葱的桃林，为后来的人遮阴、提供果实。人们望着桃林，记住了这个敢于追赶太阳的巨人。",
+        "这个故事告诉我们，人要有远大的志向，哪怕最后没有成功，努力追逐的过程本身就很了不起。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/kua-fu-zhui-ri/1.png",
+        "/assets/stories/kua-fu-zhui-ri/2.png",
+        "/assets/stories/kua-fu-zhui-ri/3.png",
+        "/assets/stories/kua-fu-zhui-ri/4.png",
+        "/assets/stories/kua-fu-zhui-ri/5.png",
+        "/assets/stories/kua-fu-zhui-ri/6.png"
+      ],
+      "text_pages": [
+        4,
+        5
+      ],
+      "scenes": {},
+      "source_note": "神话见《山海经·海外北经》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 195,
+      "slug": "yu-gong-yi-shan",
+      "title": "愚公移山",
+      "reason": "结尾画庙宇，文字的关键结果却是移山后道路畅通。",
+      "paragraphs": [
+        "北山脚下住着一位九十多岁的老人，名叫愚公。他家门口有太行、王屋两座大山，出门要绕很远的路，非常不方便。",
+        "愚公把全家人召集起来说：\"我们一起把这两座大山搬走，开出一条大路，好不好？\"全家人都点头赞成。",
+        "第二天，愚公就带着儿子和孙子开始挖山。他们把挖下来的石头和泥土，一筐一筐运到很远的渤海边。邻居家的小孩子也蹦蹦跳跳来帮忙。",
+        "河湾上有个叫智叟的老人，笑着劝愚公：\"你太傻了！这么大的山，你这辈子怎么搬得完？\"愚公叹口气说：\"我死了有儿子，儿子死了还有孙子，子子孙孙没有穷尽，山却不会长高，怕什么？\"",
+        "智叟听了，再也说不出话来。山神知道了这件事，害怕愚公一直挖下去，就向天帝报告。天帝被愚公的诚心感动，派两个大力神把两座大山背走了。",
+        "从此，愚公家门口是一条平坦的大路。只要有恒心，再难的事情，坚持做下去也能成功。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/yu-gong-yi-shan/1.png",
+        "/assets/stories/yu-gong-yi-shan/2.png",
+        "/assets/stories/yu-gong-yi-shan/3.png",
+        "/assets/stories/yu-gong-yi-shan/4.png",
+        "/assets/stories/yu-gong-yi-shan/5.png",
+        "/assets/stories/yu-gong-yi-shan/p6-review-20261010.webp"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "6": "Elderly Yugong with white beard and family walk through a wide OPEN unobstructed path in ancient green countryside where two mountains used to block passage. Express practical relief and cooperation. No temple, no statues, no worship scene."
+      },
+      "source_note": "寓言见《列子·汤问》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 196,
+      "slug": "kong-rong-rang-li",
+      "title": "孔融让梨",
+      "reason": "让梨时孩子捧着最大的梨，和让出大梨的情节相反。",
+      "paragraphs": [
+        "东汉时，有个孩子叫孔融。他四岁的时候，就很懂礼貌，和哥哥们相处得特别好。",
+        "有一天，家里来了一盘香喷喷的梨。爸爸让孔融先拿。他看了看盘子，挑了一个最小的梨，自己小口小口地吃起来。",
+        "爸爸奇怪地问他：\"你为什么不拿大的呢？\"孔融回答说：\"哥哥们比我大，应该吃大的；我年纪小，吃小的就够了。\"",
+        "爸爸又问：\"那你还有个弟弟呢，不是比你更小吗？\"孔融认真地说：\"弟弟比我小，我是哥哥，应该让着他，大的留给弟弟。\"",
+        "爸爸听了高兴极了，连连点头。这件事传开以后，大家都夸孔融是个懂事的好孩子。",
+        "这个故事告诉我们，好吃的、好玩的要学会和家人分享，懂得谦让的孩子走到哪里都讨人喜欢。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/kong-rong-rang-li/1.png",
+        "/assets/stories/kong-rong-rang-li/p2-review-20261010.webp",
+        "/assets/stories/kong-rong-rang-li/3.png",
+        "/assets/stories/kong-rong-rang-li/4.png",
+        "/assets/stories/kong-rong-rang-li/5.png",
+        "/assets/stories/kong-rong-rang-li/6.png"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "2": "Same little Kong Rong in gray ancient robe chooses the SMALLEST pear in one hand at family table. Several MUCH LARGER pears remain clearly on plate for older siblings. Friendly parents observe. Make size contrast unambiguous; no oversized pear in his hands."
+      },
+      "source_note": "典故见《后汉书·孔融传》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 197,
+      "slug": "mo-cheng-cheng-zhen",
+      "title": "磨杵成针",
+      "reason": "求学时李白已经成人，提问时又突然长出胡须。",
+      "paragraphs": [
+        "唐朝大诗人李白，小时候很贪玩。有一天，他不想上学，偷偷溜出学堂，跑到街上玩去了。",
+        "路过一条小溪边，他看见一位白发老婆婆，蹲在一块大石头旁边，手里拿着一根粗粗的铁棒，在石头上一下一下地磨。",
+        "李白好奇地走过去问：\"老婆婆，您磨这根铁棒做什么呀？\"老婆婆笑着说：\"我要把它磨成一根绣花针。\"",
+        "李白大吃一惊：\"这么粗的铁棒，要磨到什么时候才能变成针呀？\"老婆婆说：\"只要我每天不停地磨，总有一天能磨成的。\"",
+        "李白听了，心里一下子明白了。他想：老婆婆磨铁棒都有这个恒心，我读书怎么能半途而废呢？他赶紧跑回学堂，从此再也不逃学了。",
+        "后来，李白刻苦读书，成了唐朝最伟大的诗人之一。只要功夫深，铁杵磨成针，说的就是这个道理。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/mo-cheng-cheng-zhen/p1-review-20261010.webp",
+        "/assets/stories/mo-cheng-cheng-zhen/2.png",
+        "/assets/stories/mo-cheng-cheng-zhen/3.png",
+        "/assets/stories/mo-cheng-cheng-zhen/p4-review-20261010.webp",
+        "/assets/stories/mo-cheng-cheng-zhen/5.png",
+        "/assets/stories/mo-cheng-cheng-zhen/6.png"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "1": "Same young Li Bai BOY in plain gray ancient robe and black topknot, no beard, slips away from old schoolroom carrying book, playful distracted expression. Clearly a child, not adult.",
+        "4": "Same young gray-robed Li Bai BOY with black topknot and NO beard asks white-haired old woman beside stream why she is rubbing thick iron bar against stone. Old woman explains patiently. Consistent boy identity."
+      },
+      "source_note": "典故见《方舆胜览》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 198,
+      "slug": "wen-ji-qi-wu",
+      "title": "闻鸡起舞",
+      "reason": "两个青年朋友变成三个孩子；后续练剑年龄不连续。",
+      "paragraphs": [
+        "晋代有个叫祖逖的青年，他有个好朋友叫刘琨。两人住在一起，都胸怀大志，希望将来能为国家做一番大事。",
+        "一天半夜，祖逖被外面的鸡叫声吵醒。他推醒刘琨说：\"别人都觉得半夜鸡叫不吉利，我倒觉得这是在催我们起床练功呢。\"",
+        "两人披上衣服，来到院子里。月光下，祖逖拔剑起舞，刘琨也跟着练。刀光剑影，一直练到天蒙蒙亮才停。",
+        "从那以后，不管刮风下雨，只要一听到鸡叫，两人就起床练剑。春去秋来，他们的武艺越来越高强，学问也越来越进步。",
+        "后来，祖逖当了大将军，带兵打了很多胜仗，保卫了家乡。刘琨也成了很有本领的人。",
+        "这个故事告诉我们，想要有本领，就要像祖逖一样，勤快、坚持，不怕吃苦。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/wen-ji-qi-wu/1.png",
+        "/assets/stories/wen-ji-qi-wu/p2-review-20261010.webp",
+        "/assets/stories/wen-ji-qi-wu/3.png",
+        "/assets/stories/wen-ji-qi-wu/p4-review-20261010.webp",
+        "/assets/stories/wen-ji-qi-wu/5.png",
+        "/assets/stories/wen-ji-qi-wu/p6-review-20261010.webp"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "2": "Exactly TWO young ADULT scholar friends in plain gray ancient robes wake at rooster crow before dawn in modest room, looking determined. No third person, no small children. Match two adults in subsequent sword practice.",
+        "4": "Exactly TWO same young adult gray-robed friends practice sword movements safely in ancient sheltered courtyard beside winter snow, disciplined focus. No children, no modern objects.",
+        "6": "Exactly TWO same young ADULT gray-robed friends practice controlled sword forms in dawn courtyard, mutual encouragement, consistent adult identities. No children or extra characters."
+      },
+      "source_note": "典故见《晋书·祖逖传》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 199,
+      "slug": "zao-bi-tou-guang",
+      "title": "凿壁偷光",
+      "reason": "点不起灯的开头却有亮灯；凿壁引光画成白天窗光。",
+      "paragraphs": [
+        "西汉时有个叫匡衡的孩子，家里很穷，白天要帮家里干活，晚上才能读书。可是家里点不起油灯，天黑了就什么也看不见。",
+        "有一天晚上，他躺在床上背白天读过的书，忽然看见墙壁缝里透过来一丝亮光。他凑近一看，原来是隔壁人家的灯光从墙缝里漏了过来。",
+        "匡衡高兴极了。他找来一把小刀，把墙上的缝隙轻轻凿大了一点。这样，一束灯光透了过来，他就借着这束光，捧着书读了起来。",
+        "邻居家每天晚上点灯，他就每天晚上借着这束光读书。时间一天天过去，他读的书越来越多，知识也越来越丰富。",
+        "后来，匡衡成了一个很有学问的人，还当了丞相。人们说起他，都佩服他在那么艰苦的条件下还坚持读书。",
+        "现在我们有明亮的灯光、好看的书本，更应该珍惜机会，好好读书学习。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/zao-bi-tou-guang/p1-review-20261010.webp",
+        "/assets/stories/zao-bi-tou-guang/2.png",
+        "/assets/stories/zao-bi-tou-guang/p3-review-20261010.webp",
+        "/assets/stories/zao-bi-tou-guang/4.png",
+        "/assets/stories/zao-bi-tou-guang/5.png",
+        "/assets/stories/zao-bi-tou-guang/6.png"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "1": "Same poor young Kuang Heng boy at book desk in DIM night room, EMPTY unlit oil lamp, no candle or other functioning light, moon faint outside. He wants to read but cannot afford lamp oil.",
+        "3": "Night scene in poor ancient home, young boy widens SMALL gap in shared plaster wall, warm narrow beam from NEIGHBOR candle through gap falls on book. No daylight window beam, no lit candle in boy own room."
+      },
+      "source_note": "典故见《西京杂记》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 200,
+      "slug": "lan-yu-chong-shu",
+      "title": "滥竽充数",
+      "reason": "冒充吹竽的大人被画成了向国王请教的小孩。",
+      "paragraphs": [
+        "战国时，齐宣王喜欢听人吹竽，而且喜欢很多人一起吹。他组织了一支三百人的大乐队，每天热热闹闹地演奏。",
+        "有个南郭先生，根本不会吹竽，听说乐队待遇很好，就跑来对齐宣王说：\"我吹竽可好听了，大王让我加入吧。\"齐宣王很高兴，收下了他。",
+        "演奏的时候，南郭先生混在队伍里，捧着竽，鼓着腮帮子，装出很卖力的样子。因为人多，谁也没发现他根本没出声。",
+        "齐宣王死后，齐湣王当了国王。他也喜欢听吹竽，可是他喜欢一个一个单独吹给大家听。南郭先生一听，吓得手心冒汗。",
+        "轮到他上场了。他站在大厅中间，捧着竽，半天吹不出一个音。他知道再也混不下去了，赶紧收拾东西，偷偷地溜走了。",
+        "没有真本事，靠装样子混日子，总有一天会被发现。我们学本领，一定要学真本事，不能滥竽充数。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/lan-yu-chong-shu/1.png",
+        "/assets/stories/lan-yu-chong-shu/p2-review-20261010.webp",
+        "/assets/stories/lan-yu-chong-shu/3.png",
+        "/assets/stories/lan-yu-chong-shu/4.png",
+        "/assets/stories/lan-yu-chong-shu/5.png",
+        "/assets/stories/lan-yu-chong-shu/6.png"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "2": "Same portly ADULT Nan Guo with short dark beard and gray robe seen in later panels confidently boasts to king in ancient palace, holding sheng wind instrument. King listens. No child in his place."
+      },
+      "source_note": "寓言见《韩非子·内储说上》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 201,
+      "slug": "han-dan-xue-bu",
+      "title": "邯郸学步",
+      "reason": "古代街道出现自行车；爬回家在文字中早了一页。",
+      "paragraphs": [
+        "古时候，赵国都城邯郸的人走路姿势特别好看，迈着轻盈的步子，显得很有精神。附近有个少年听说了，决定去邯郸学走路。",
+        "他走了很远的路来到邯郸，整天站在大街上，观察当地人怎么走路。他一会儿学这个人迈左脚，一会儿学那个人摆右手。",
+        "可是学来学去，他怎么也学不像新的走法。他越着急越走不好，到最后，连自己原来怎么走路都给忘了。",
+        "他试着按原来的走法迈步，可脚底下完全不知道该怎么动了。少年站在街上，又羞又急，越想模仿别人，越不敢迈出自己的步子。",
+        "最后，他只好趴到地上，爬着往家走。路上的人看见了都很奇怪。少年这才明白，只顾照搬别人的样子，竟把自己原本会的走法也丢了。",
+        "学习别人的长处是对的，但不能生搬硬套，把自己原来的本事也丢了。适合自己的，才是最好的。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/han-dan-xue-bu/1.png",
+        "/assets/stories/han-dan-xue-bu/2.png",
+        "/assets/stories/han-dan-xue-bu/3.png",
+        "/assets/stories/han-dan-xue-bu/p4-review-20261010.webp",
+        "/assets/stories/han-dan-xue-bu/5.png",
+        "/assets/stories/han-dan-xue-bu/6.png"
+      ],
+      "text_pages": [
+        4,
+        5
+      ],
+      "scenes": {
+        "4": "Same anxious young ancient Chinese boy stops confused in traditional cobbled street, unable to decide how to step. People in ancient robes walk normally nearby. NO bicycles, cars, electricity, modern clothes or other modern objects."
+      },
+      "source_note": "寓言见《庄子·秋水》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 202,
+      "slug": "dui-niu-tan-qin",
+      "title": "对牛弹琴",
+      "reason": "古琴画成琵琶，结尾黄牛变成灰牛。",
+      "paragraphs": [
+        "古时候有个大音乐家叫公明仪，琴弹得可好了。有一天，他看见草地上有一头牛在低头吃草，就兴致勃勃地摆好琴，对着牛弹了一支高雅的曲子。",
+        "琴声悠悠扬扬，好听极了。可是那头牛呢，只顾低头吃草，一点反应也没有，好像什么也没听见。",
+        "公明仪没有生气。他想：也许是这支曲子太高深了，牛听不懂。于是他换了个法子。",
+        "他弹起了小牛犊找妈妈的声音，又弹出了蚊子、牛蝇嗡嗡叫的声音。这一下，牛竖起了耳朵，甩着尾巴，慢慢抬起头来听。",
+        "公明仪笑了。原来不是牛听不见，而是刚才的曲子不适合牛听。对牛弹琴，不是琴弹得不好，而是没有看对象。",
+        "这个故事告诉我们，说话做事要看对象。跟不懂的人讲太深的道理，就像对牛弹琴，再好听也没用。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/dui-niu-tan-qin/1.png",
+        "/assets/stories/dui-niu-tan-qin/2.png",
+        "/assets/stories/dui-niu-tan-qin/p3-review-20261010.webp",
+        "/assets/stories/dui-niu-tan-qin/4.png",
+        "/assets/stories/dui-niu-tan-qin/5.png",
+        "/assets/stories/dui-niu-tan-qin/p6-review-20261010.webp"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "3": "Same ancient gray-robed adult musician seated on mat plays a FLAT long seven-string GUQIN laid horizontally on low stand, no upright pipa. Same brown cow calmly grazes close by ignoring melody.",
+        "6": "Same ancient gray-robed musician and same BROWN cow in quiet meadow, horizontal seven-string guqin on low stand. Reflective friendly composition. No gray cow, no pipa, no modern instrument."
+      },
+      "source_note": "寓言见汉代牟融《理惑论》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 203,
+      "slug": "bei-gong-she-ying",
+      "title": "杯弓蛇影",
+      "reason": "病床、酒杯、指弓与再饮的图片顺序错位；探病与回到座位混为一句。",
+      "paragraphs": [
+        "古时候，有个人请朋友到家里喝酒。喝酒的时候，朋友忽然看见自己酒杯里好像有一条小蛇在动，心里一阵恶心，可还是硬着头皮喝了下去。",
+        "回家以后，这个朋友就生病了，觉得肚子里有条蛇，吃不下饭，睡不好觉，请了医生也不见好。",
+        "请客的人听说朋友病了，先去问清事情的经过，再回到自己家。他坐在朋友上次坐的位置上，倒了一杯酒，仔细一看——杯里果然有一条弯弯的小蛇影子！",
+        "他抬头一看，原来墙上挂着一把红色的弓，弓的影子倒映在酒杯里，看起来就像一条弯弯曲曲的小蛇。",
+        "他立刻把朋友接回家里，让他坐在原来的位置上，又倒了一杯酒。朋友一看，杯里还是有\"蛇\"。请客的人指着墙上的弓说：\"你看，这就是弓的影子呀。\"",
+        "朋友明白了真相，病一下子就好了。很多事情都是自己吓自己，弄清楚真相，恐惧就消失了。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/bei-gong-she-ying/1.png",
+        "/assets/stories/bei-gong-she-ying/3.png",
+        "/assets/stories/bei-gong-she-ying/2.png",
+        "/assets/stories/bei-gong-she-ying/5.png",
+        "/assets/stories/bei-gong-she-ying/4.png",
+        "/assets/stories/bei-gong-she-ying/6.png"
+      ],
+      "text_pages": [
+        3
+      ],
+      "scenes": {},
+      "source_note": "典故见《风俗通义·怪神》；本篇为儿童白话改写。"
+    },
+    {
+      "id": 204,
+      "slug": "ye-lang-zi-da",
+      "title": "夜郎自大",
+      "reason": "逐页核对后，主要场景与段落对应，未发现需要改变情节或重画的实质错位。",
+      "text_pages": [],
+      "scenes": {}
+    },
+    {
+      "id": 301,
+      "slug": "chou-xiao-ya",
+      "title": "丑小鸭",
+      "reason": "丑小鸭在冬季变回黄色鸭子；变成天鹅后仍是小黄鸭或灰雏鸟。",
+      "paragraphs": [
+        "夏天的乡下，鸭妈妈坐在窝里孵蛋。一只只小鸭子破壳而出，最后出来的那只又大又灰，和别的小黄鸭很不一样。鸭妈妈看了看，没说什么，带着孩子们到河边去。",
+        "丑小鸭走到哪里都被嘲笑。兄弟姐妹们啄他，农场里的小鸡追着他叫「丑八怪」，连喂鸡的老奶奶也叹气说他不会下蛋。丑小鸭难过极了，偷偷离开了农场。",
+        "他在沼泽地里遇到野鸭，又差点被猎狗抓住。冬天越来越冷，他在冰面上冻得发抖，最后被一位好心的老农捡回了家。可老农家里的猫和母鸡也笑话他。",
+        "丑小鸭再也忍不住了，趁着春天来临时逃了出去。他飞到一个花园的池塘边，看到水里映出一只美丽的白天鹅，羽毛洁白，脖颈修长。他惊讶地低下头——那正是自己。",
+        "几只白天鹅游过来，友好地围着他转圈。孩子们撒面包屑给他，高兴地叫：「新天鹅来啦！」丑小鸭开心地拍着翅膀，心里充满了温暖。",
+        "原来他不是丑小鸭，只是一只还没长大的天鹅。只要你心怀善意、坚持成长，哪怕现在被人小看，总有一天会绽放属于自己的光彩。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/chou-xiao-ya/1.png",
+        "/assets/stories/chou-xiao-ya/2.png",
+        "/assets/stories/chou-xiao-ya/p3-review-20261010.webp",
+        "/assets/stories/chou-xiao-ya/p4-review-20261010.webp",
+        "/assets/stories/chou-xiao-ya/p5-review-20261010.webp",
+        "/assets/stories/chou-xiao-ya/6.png"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "3": "Snowy winter, kind elderly farmer gently lifts a weak GRAY swan juvenile with dark beak from frozen pond edge to rescue it. The ugly duckling is gray, NEVER yellow. Warm compassion, no harm.",
+        "4": "Spring pond, the SAME former gray bird has now grown into a graceful WHITE adult swan with long curved neck, bending to see its own identical WHITE SWAN reflection. No yellow duck, no separate swan in reflection.",
+        "5": "Same grown WHITE long-necked swan joins a welcoming group of WHITE adult swans on spring pond, children quietly watch from bank. Central protagonist also WHITE, no gray chick, no yellow duck."
+      },
+      "source_note": "安徒生童话的儿童改写版。"
+    },
+    {
+      "id": 302,
+      "slug": "xiao-hong-mao",
+      "title": "小红帽",
+      "reason": "小红帽未被吞下却从狼肚中获救；救援图在屋外且有不必要的伤口细节。",
+      "paragraphs": [
+        "从前有个小女孩，总戴一顶外婆送的红丝绒帽子，大家都叫她小红帽。一天妈妈说：“外婆生病了，你把这块蛋糕和一瓶果汁送去，路上要走大路，不要离开小路。”小红帽点点头出发了。",
+        "森林里，一只大灰狼走过来，笑眯眯地问她去哪里。小红帽没多想，说要去看外婆。大灰狼心里有了坏主意，骗她说：「森林里的花开得可美了，不去看看多可惜呀。」",
+        "小红帽被说动了，离开大路边走边摘花，越走越远。大灰狼却直奔外婆家，一口把外婆吞进肚子，又穿上外婆的衣服躺在床上。",
+        "小红帽终于捧着一大束花来到外婆家。她觉得外婆样子好奇怪：「外婆，你的耳朵怎么这么大呀？」「为了更好地听你说话呀。」「你的手怎么这么大呀？」「为了更好地抱你呀。」",
+        "“外婆，你的嘴巴怎么这么大呀？”“为了更好地吃掉你呀！”大灰狼猛地跳起来，把小红帽也吞进了肚子，随后躺下睡着了。经过的猎人发现异常，救出了外婆和小红帽。两个人都平平安安，终于可以拥抱在一起。",
+        "外婆喝了果汁，吃了蛋糕，慢慢恢复了精神。小红帽记住了教训：按约定走安全的路，不随便告诉陌生人自己的去处；感到不对劲时，要赶快向可信的大人求助。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/xiao-hong-mao/1.png",
+        "/assets/stories/xiao-hong-mao/2.png",
+        "/assets/stories/xiao-hong-mao/3.png",
+        "/assets/stories/xiao-hong-mao/4.png",
+        "/assets/stories/xiao-hong-mao/p5-review-20261010.webp",
+        "/assets/stories/xiao-hong-mao/6.png"
+      ],
+      "text_pages": [
+        1,
+        5,
+        6
+      ],
+      "scenes": {
+        "5": "Inside grandmother cottage, AFTER rescue: same girl with red hood and blue dress hugs white-haired grandmother in blue apron; kind clothed hunter stands nearby. Wolf lies asleep far background on bed, fully intact fur, NO wound, blood, incision, scissors, exposed anatomy. Safe relieved reunion, indoors not forest."
+      },
+      "source_note": "格林童话的儿童改写版。"
+    },
+    {
+      "id": 303,
+      "slug": "gui-tu-sai-pao",
+      "title": "龟兔赛跑",
+      "reason": "睡觉与结尾的兔子变成白兔；乌龟到终点提前了一页。",
+      "paragraphs": [
+        "森林里，小兔子跑得飞快，总嘲笑乌龟走路慢腾腾。乌龟不服气，说：「我们赛跑一次吧！」兔子笑得直打滚：「就你？好啊，明天早上见！」消息传遍了森林。",
+        "第二天一早，小鹿当裁判，一声令下「开始」，兔子像箭一样冲出去，乌龟一步步慢慢爬。兔子转眼就跑没影了。",
+        "兔子跑到半山腰，回头一看，乌龟才刚爬了一小段。兔子想：「我先睡一觉也来得及。」他靠在一棵大树下，没多久就呼呼睡着了。",
+        "兔子得意地想：“乌龟走得这么慢，我睡一觉再跑也来得及。”它在树下躺下来，很快睡着了。乌龟经过树旁，没有停下来，仍然一步一步向终点走去。",
+        "乌龟坚持走到终点，大家围过来为它欢呼。兔子醒来后拼命往前跑，可它赶到时，乌龟已经赢了。兔子这才明白，只凭跑得快，却不认真比赛，也会输。",
+        "这个故事告诉我们：跑得快不代表能赢到最后。不骄傲、不停步，每天坚持一点点，普通的孩子也能到达想去的地方。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/gui-tu-sai-pao/1.png",
+        "/assets/stories/gui-tu-sai-pao/2.png",
+        "/assets/stories/gui-tu-sai-pao/3.png",
+        "/assets/stories/gui-tu-sai-pao/p4-review-20261010.webp",
+        "/assets/stories/gui-tu-sai-pao/5.png",
+        "/assets/stories/gui-tu-sai-pao/p6-review-20261010.webp"
+      ],
+      "text_pages": [
+        4,
+        5
+      ],
+      "scenes": {
+        "4": "Same BROWN rabbit in BLUE jacket sleeps naturally beneath tree beside race path. Same green turtle steadily passes heading toward distant finish. No white rabbit, no giant detached head, no finish arrival yet.",
+        "6": "Same BROWN rabbit in BLUE jacket sincerely offers flower wreath to same green turtle after race, friendly woodland animals nearby. Rabbit accepts lesson. No white rabbit, consistent characters."
+      },
+      "source_note": "伊索寓言的儿童改写版。"
+    },
+    {
+      "id": 304,
+      "slug": "huang-di-de-xin-zhuang",
+      "title": "皇帝的新装",
+      "reason": "假织布出现真布；试衣与游行仍穿礼服，破坏“新衣不存在”的核心情节。",
+      "paragraphs": [
+        "从前有个皇帝，特别喜欢新衣服，每个小时都要换一套。一天来了两个骗子，说他们能织出神奇的布——不称职的人或愚蠢的人看不见这种布。",
+        "皇帝派大臣去看。大臣什么也没看到，可他怕别人说自己愚蠢，回来拼命夸奖布料漂亮。皇帝又派了几位官员，大家都说好看。",
+        "皇帝决定穿着「新衣」去参加游行。骗子把空气一件一件穿到他身上，皇帝对着镜子转来转去，觉得自己美极了。",
+        "游行开始了。街道两边的人都看见皇帝光着身子，可谁也不愿被说愚蠢，都大声称赞衣服真漂亮。皇帝硬着头皮往前走。",
+        "突然，人群里一个小孩叫起来：「可是他什么也没穿呀！」孩子的话悄悄传开来，大家都喊：「他真的没穿衣服！」皇帝浑身发抖，却还是把游行走完了。",
+        "这个故事告诉我们：说真话需要勇气。不要因为害怕别人的眼光，就跟着说谎。从小敢于说真话，长大了才会是一个诚实的人。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/huang-di-de-xin-zhuang/1.png",
+        "/assets/stories/huang-di-de-xin-zhuang/p2-review-20261010.webp",
+        "/assets/stories/huang-di-de-xin-zhuang/p3-review-20261010.webp",
+        "/assets/stories/huang-di-de-xin-zhuang/p4-review-20261010.webp",
+        "/assets/stories/huang-di-de-xin-zhuang/p5-review-20261010.webp",
+        "/assets/stories/huang-di-de-xin-zhuang/p6-review-20261010.webp"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "2": "Two adult swindlers mime weaving with EMPTY hands on a completely EMPTY wooden loom with NO THREAD OR FABRIC; elderly purple-robed minister pretends to admire it. Palace. No emperor.",
+        "3": "Same round adult emperor in red crown with blond-white curls and white moustache stands at mirror, bare chest and legs, simple white modest underwear only. Two dressed swindlers pretend to dress him with EMPTY HANDS. Mirror shows the identical undressed body. NO robe, cape, shirt or fabric on king.",
+        "4": "Same emperor walks in outdoor parade in crown and plain white modest shorts ONLY, bare chest and legs. Fully dressed crowds force smiles and applaud the nonexistent new clothes. NO cape, robe, shirt, trousers on king. No child announcement yet.",
+        "5": "Same undressed crowned emperor in parade, bare chest and legs, plain white modest shorts ONLY. Brown-haired child in blue vest, white shirt and purple trousers points at him and speaks truth; crowd begins surprised whispering. NO cape or royal clothes on king.",
+        "6": "After the truth, same undressed crowned king walks embarrassed in middle background, bare chest and legs, plain white modest shorts ONLY. Foreground the same blue-vest child talks honestly with his listening mother, crowd no longer pretends. NO cape or royal clothes on king."
+      },
+      "source_note": "安徒生童话的儿童改写版。"
+    },
+    {
+      "id": 305,
+      "slug": "hui-gu-niang",
+      "title": "灰姑娘",
+      "reason": "继母阻拦图成了宫外三位姑娘；礼服颜色不一致；逃离图误用于试鞋。",
+      "paragraphs": [
+        "从前有个善良的女孩，妈妈去世后，爸爸娶了继母，还带来两个姐姐。继母和姐姐让她干又脏又累的活，晚上她只能睡在灶灰里，大家都叫她「灰姑娘」。",
+        "国王要举办一场盛大的舞会，邀请全国的姑娘参加，好让王子选新娘。两个姐姐高兴地试穿新衣，灰姑娘也想去，却被继母拦住：「你没有裙子，去了也丢人。」",
+        "灰姑娘难过地哭了。一位仙女出现，用魔法把南瓜变成马车，把老鼠变成仆人，把她的破衣裳变成闪着银光的蓝色礼服，还给她一双水晶鞋。仙女提醒她：“十二点前一定要离开，魔法到时就会消失。”",
+        "舞会上，王子只和灰姑娘一个人跳舞。时间很快，十二点的钟声响了，灰姑娘急忙跑出去，掉了一只水晶鞋。王子捡起来，说：「我一定要找到她。」",
+        "王子拿着水晶鞋找遍全国，最后来到灰姑娘家。两个姐姐都穿不下，灰姑娘轻轻一穿正好合脚。王子认出了她，高兴极了。",
+        "灰姑娘原谅了继母和姐姐们，和王子举行了婚礼。善良的人即使暂时受委屈，也终会被世界温柔以待。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/hui-gu-niang/1.png",
+        "/assets/stories/hui-gu-niang/p2-review-20261010.webp",
+        "/assets/stories/hui-gu-niang/3.png",
+        "/assets/stories/hui-gu-niang/5.png",
+        "/assets/stories/hui-gu-niang/p5-review-20261010.webp",
+        "/assets/stories/hui-gu-niang/6.png"
+      ],
+      "text_pages": [
+        3
+      ],
+      "scenes": {
+        "2": "Inside humble cottage kitchen, Cinderella in ragged plain gray work dress asks to attend ball; stern stepmother blocks her. EXACTLY TWO stepsisters in fancy dresses prepare to leave. No third sister, no palace background. Cinderella same brown hair as reference.",
+        "5": "Inside Cinderella humble cottage, prince kneels to fit transparent GLASS slipper on same brown-haired Cinderella in simple ragged gray work dress after magic expired. It fits perfectly. Stepmother and exactly two stepsisters watch surprised. No staircase escape, no blue ball gown on Cinderella."
+      },
+      "source_note": "欧洲《灰姑娘》童话的儿童改写版，本篇采用仙女、南瓜马车和水晶鞋的版本。"
+    },
+    {
+      "id": 306,
+      "slug": "mai-huo-chai-de-xiao-nu-hai",
+      "title": "卖火柴的小女孩",
+      "reason": "幻想画成真实暖屋；女孩衣着变化；烤鹅画成活鸟；结尾不应暗示死去女孩复活。",
+      "paragraphs": [
+        "大年夜，天下着雪。一个小女孩光着脚在街上走着，旧围裙里兜着许多火柴，手里还拿着一把。一整天没人买她的火柴，她不敢回家，因为爸爸会打她。",
+        "她蜷曲在一座房子的墙角里，冻得发抖。她抽出一根火柴，在墙上一划——火柴燃起来了，暖烘烘的，像一个小小的火炉。小女孩把脚伸过去，可火柴灭了，火炉不见了。",
+        "她又划了一根。火光里出现了一只香喷喷的烤鹅，背上插着刀叉，正朝她走来。火柴又灭了，她面前只有一堵又冷又厚的墙。",
+        "她再划一根。这次她看到了慈祥的奶奶，奶奶温柔地笑着。小女孩怕奶奶消失，把整把火柴都划着了。奶奶把她抱起来，越飞越高，飞到没有寒冷、没有饥饿的地方。",
+        "新年的早上，人们发现小女孩坐在墙角，两颊通红，嘴角带着微笑。她手里还握着一把烧过的火柴梗。",
+        "这个故事让我们懂得：我们现在有温暖的家、好吃的饭菜，是多么幸福。看到身边需要帮助的人，要伸出手去，让世界少一点寒冷，多一点温暖。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/mai-huo-chai-de-xiao-nu-hai/1.png",
+        "/assets/stories/mai-huo-chai-de-xiao-nu-hai/p2-review-20261010.webp",
+        "/assets/stories/mai-huo-chai-de-xiao-nu-hai/p3-review-20261010.webp",
+        "/assets/stories/mai-huo-chai-de-xiao-nu-hai/p4-review-20261010.webp",
+        "/assets/stories/mai-huo-chai-de-xiao-nu-hai/p5-review-20261010.webp",
+        "/assets/stories/mai-huo-chai-de-xiao-nu-hai/p6-review-20261010.webp"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "2": "Same poor match girl from first reference panel, shabby blue-gray dress and red head scarf, sits in snowy cold street striking one match. ABOVE her a clearly translucent soft dream vignette of warm iron stove. Girl physically remains OUTSIDE in cold, never inside warm room. No magical new dress.",
+        "3": "Same shabby blue-gray dress red head-scarf match girl OUTSIDE on snowy street, match glow creates clearly imaginary soft dream of a ROASTED cooked goose on festive platter and Christmas tree. Goose clearly cooked food, not live bird or flames burning a bird. Same girl identity.",
+        "4": "Same shabby blue-gray red-head-scarf match girl in snowy street surrounded by fading match glow, gentle translucent VISION of smiling white-haired grandmother offering embrace above her. Dreamlike soft edges, not literal woman standing there. No bonfire or new dress.",
+        "5": "Quiet snowy dawn street: same match girl rests motionless with closed eyes under modest thin shawl, red head scarf and shabby blue-gray dress, spent matches and basket beside her. Passersby notice sadly. Non-graphic, peaceful, no angel, no flying grandmother, no resurrection.",
+        "6": "Reflective illustration in same wintry town: adults open doorway to offer warm blanket and food to a DIFFERENT poor child in brown clothes. Show compassion as lesson, not the dead match girl alive again. No red scarf girl resurrected. Warm watercolor."
+      },
+      "source_note": "安徒生童话的儿童改写版。"
+    },
+    {
+      "id": 307,
+      "slug": "lang-lai-le",
+      "title": "狼来了",
+      "reason": "第四页突然换成现代条纹服；第五页说已下山而图片仍在山上；结尾绝对化“失去所有帮助”。",
+      "paragraphs": [
+        "从前有个放羊的男孩，每天把羊赶到山上吃草。日子久了，他觉得很无聊，想找点乐子。",
+        "他对着山下的村庄大喊：「狼来了！狼来了！救命啊！」村民们赶紧跑上山，结果发现根本没有狼。男孩哈哈大笑：「骗你们的！」村民们摇摇头，下山去了。",
+        "过了几天，男孩又喊：「狼来了！狼来了！」村民们又跑上来，还是被耍了。大家很生气，告诉他以后别再撒谎。",
+        "又过了几天，一只大灰狼真的从树林里钻出来，扑向羊群。男孩吓得拼命大喊：「狼来了！狼真的来了！」可这次村民们以为他又在骗人，谁也没有上山。",
+        "狼叼走了羊，远处只剩它逃走的背影。男孩站在山坡上哭了，后悔极了。他明白了，自己一次次假装遇险，让村民们再也分不清哪次求救是真的。",
+        "男孩向村里的长者承认了错误。长者告诉他：“信任要靠诚实一点点建立，做错了要道歉，也要用行动改正。”男孩决定不再拿求救开玩笑；遇到真的危险，仍要尽力寻找安全的帮助。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/lang-lai-le/1.png",
+        "/assets/stories/lang-lai-le/2.png",
+        "/assets/stories/lang-lai-le/3.png",
+        "/assets/stories/lang-lai-le/p4-review-20261010.webp",
+        "/assets/stories/lang-lai-le/5.png",
+        "/assets/stories/lang-lai-le/6.png"
+      ],
+      "text_pages": [
+        5,
+        6
+      ],
+      "scenes": {
+        "4": "Same shepherd boy as early panels wears WHITE shirt, BLUE vest and BROWN shorts, frightened as gray wolf emerges from forest toward sheep. He shouts toward distant village. No modern striped T-shirt, same boy clothes and face."
+      },
+      "source_note": "伊索寓言的儿童改写版。"
+    },
+    {
+      "id": 308,
+      "slug": "san-zhi-xiao-zhu",
+      "title": "三只小猪",
+      "reason": "第三至第五页文字已讲到后续情节，图片仍在盖房、吹草房、吹木房；按现有画面重新分段。",
+      "paragraphs": [
+        "猪妈妈有三个儿子。一天，孩子们长大了，要自己出去盖房子住。老大最懒，老二图快，老三最认真。",
+        "老大用稻草很快盖了一间草房，就跑出去玩了。老二用木头搭了一间木房，也急着去休息。他们觉得房子能住就够了，只有老三还在准备结实的砖块。",
+        "老三一块一块地搬砖，仔仔细细地砌墙。他忙了很久，终于盖好一间结结实实的砖房，还检查了门窗和烟囱。两个哥哥早已休息了，他却没有省掉任何一步。",
+        "大灰狼来到老大的草房前，鼓起腮帮子使劲吹。呼——稻草飞得满天都是，草房一下子倒了！老大吓得拔腿就跑，赶紧躲进老二的木房。",
+        "大灰狼追到木房前，又吹又撞，木板也散开了。两只小猪这才知道，盖得快不等于盖得牢。他们一起跑向老三的砖房，老三连忙开门，让哥哥们进来。",
+        "大灰狼怎么吹，砖房都纹丝不动。他想从烟囱爬进去，却掉进了炉灶上的热水锅，烫得夹着尾巴逃走了。哥哥们又惭愧又佩服，明白了认真做事、打牢基础，才能经得起考验。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/san-zhi-xiao-zhu/1.png",
+        "/assets/stories/san-zhi-xiao-zhu/2.png",
+        "/assets/stories/san-zhi-xiao-zhu/3.png",
+        "/assets/stories/san-zhi-xiao-zhu/4.png",
+        "/assets/stories/san-zhi-xiao-zhu/5.png",
+        "/assets/stories/san-zhi-xiao-zhu/6.png"
+      ],
+      "text_pages": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "scenes": {},
+      "source_note": "英国经典童话的儿童改写版。"
+    },
+    {
+      "id": 309,
+      "slug": "bai-xue-gong-zhu",
+      "title": "白雪公主",
+      "reason": "收留、伪装、苏醒各提前一页；苹果有毒的半边文字前后矛盾；王后未伪装。",
+      "paragraphs": [
+        "王后生下白雪公主就去世了。新王后有一面魔镜，每天问：「谁是世界上最美的人？」镜子总回答是她。可白雪公主越长越美，镜子说：「王后，白雪公主比你美一千倍。」",
+        "王后命令猎人把白雪公主带到森林里，猎人不忍伤害她，放她离开。公主走了很久，找到一座小屋。七个小矮人听了她的遭遇，愿意让她在这里暂住，她终于遇到了可以帮助自己的朋友。",
+        "白雪公主和七个小矮人一起吃饭，慢慢熟悉了这个温暖的家。大家分工照顾小屋，还提醒她：独自在家时，要谨慎对待陌生人的邀请和礼物。公主很感激这些好心的朋友。",
+        "王后从魔镜里知道公主还活着，便扮成老婆婆，带着毒苹果来到小屋前。她自己咬了无毒的白色一半，再把有毒的红色一半递给公主。公主放松了警惕，咬下一口，立刻倒下了。",
+        "小矮人们伤心极了，把公主安放在透明的水晶棺里，守在旁边。一位王子经过，听说了她的遭遇，想把她带到能得到帮助的地方。大家小心地抬起了棺材。",
+        "搬动时，棺材轻轻一晃，卡在公主喉咙里的苹果块掉了出来。她慢慢睁开眼睛，朋友们又惊又喜。后来，公主开始了平安的新生活。善意值得珍惜，也要学会辨别伪装，不随便接受陌生人的食物。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/bai-xue-gong-zhu/1.png",
+        "/assets/stories/bai-xue-gong-zhu/2.png",
+        "/assets/stories/bai-xue-gong-zhu/3.png",
+        "/assets/stories/bai-xue-gong-zhu/p4-review-20261010.webp",
+        "/assets/stories/bai-xue-gong-zhu/5.png",
+        "/assets/stories/bai-xue-gong-zhu/6.png"
+      ],
+      "text_pages": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "scenes": {
+        "4": "Same black-haired Snow White with red ribbon and blue-yellow dress at cottage doorway. Queen is DISGUISED as a wrinkled OLD fruit vendor in plain hooded brown cloak, absolutely NO crown or royal gown. Old vendor offers RED half of apple, holds safe pale half for herself. Basket nearby, no gore."
+      },
+      "source_note": "格林童话的儿童改写版。"
+    },
+    {
+      "id": 310,
+      "slug": "yu-fu-he-jin-yu",
+      "title": "渔夫和金鱼",
+      "reason": "老渔夫变成壮年男子；失去宫殿的结果页仍是海上风暴。",
+      "paragraphs": [
+        "海边住着一对老夫妻，老渔夫每天出海打鱼，老婆婆在家里纺线。一天，渔夫撒下网，捞上来一条会说话的金鱼。金鱼恳求说：「老爷爷，放我回去吧，我会满足你的愿望。」",
+        "渔夫什么也没要，把金鱼放回了大海。回家后他把事情告诉老婆婆。老婆婆骂他：「你这个傻瓜！至少要个新木盆吧！」渔夫回到海边说了，金鱼答应了。家里果然有了新木盆。",
+        "可老婆婆不满足，要新房子，要当贵妇，要当女皇。金鱼都一一答应了。老婆婆穿上华丽的衣服，对渔夫呼来喝去，甚至把他赶出了家门。",
+        "最后老婆婆说：「我要当海上的女王，让金鱼天天来伺候我！」渔夫战战兢兢来到海边。这一次，大海变黑了，狂风大作，金鱼一句话也没说，转身游进了深海。",
+        "渔夫回到家一看：华丽的宫殿不见了，仆人不见了，老婆婆坐在破茅屋前，手里还是那个破木盆。一切都回到了原来的样子。",
+        "这个故事告诉我们：得到帮助要感恩，做人不能太贪心。靠自己双手挣来的东西，才真正踏实长久。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/yu-fu-he-jin-yu/1.png",
+        "/assets/stories/yu-fu-he-jin-yu/p2-review-20261010.webp",
+        "/assets/stories/yu-fu-he-jin-yu/p3-review-20261010.webp",
+        "/assets/stories/yu-fu-he-jin-yu/p4-review-20261010.webp",
+        "/assets/stories/yu-fu-he-jin-yu/p5-review-20261010.webp",
+        "/assets/stories/yu-fu-he-jin-yu/p6-review-20261010.webp"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "2": "Same ELDERLY fisherman from first panel: white beard, straw hat, white shirt, blue-gray vest, rolled blue trousers, barefoot. He talks with elderly wife beside broken wooden washbasin at poor hut. No young brown-bearded man.",
+        "3": "Same white-bearded ELDERLY fisherman straw hat white shirt blue-gray vest rolled blue trousers stands on shore asking tiny golden fish in water for wife wishes. He remains poor fisherman, no young man, no royal clothes.",
+        "4": "Elderly wife in ornate blue-gold queen dress sits proudly on palace throne, demands more. Same white-bearded ELDERLY fisherman straw hat humble white shirt blue-gray vest stands worried before her. No young king, no matching royal robe on fisherman.",
+        "5": "Magic palace has vanished. Same white-bearded elderly fisherman in straw hat and humble blue-gray vest and elderly wife in simple worn dress stand before their ORIGINAL poor hut and BROKEN wooden washbasin, shocked and regretful. No royal clothes, no ocean storm focal scene.",
+        "6": "Reflective ending: SAME white-bearded elderly fisherman in straw hat white shirt blue-gray vest and elderly wife in simple worn clothes quietly mend fishing net outside modest hut beside broken wooden washbasin, learning contentment. No young man, no crown, no palace."
+      },
+      "source_note": "普希金童话诗的儿童改写版。"
+    },
+    {
+      "id": 311,
+      "slug": "meng-mu-san-qian",
+      "title": "孟母三迁",
+      "reason": "逐页核对后，主要场景与段落对应，未发现需要改变情节或重画的实质错位。",
+      "text_pages": [],
+      "scenes": {}
+    },
+    {
+      "id": 312,
+      "slug": "jing-zhong-bao-guo",
+      "title": "精忠报国",
+      "reason": "正文残留英文；岳母刺字应明确为流传的故事，不能把传说细节当作确证史实。",
+      "paragraphs": [
+        "北宋末年，金兵入侵，百姓流离失所。少年岳飞家乡也遭到战乱，他亲眼看到百姓受苦，心里暗暗立下大志。",
+        "岳飞的母亲是一位深明大义的妇人。她把岳飞叫到跟前，说：“国家有难，你应当去从军，保护百姓。”",
+        "流传的故事里，岳母在岳飞背上刺下“精忠报国”四个字，勉励他牢记责任。岳飞记住了母亲的教诲，决心尽力保卫家国。",
+        "岳飞参军后作战勇猛，带兵严明，他的岳家军打了很多胜仗，金兵闻风丧胆，说「撼山易，撼岳家军难」。",
+        "岳家军纪律严明，不拿百姓一针一线，冬天不拆百姓的房子当柴烧，百姓都亲切地称他们为「岳爷爷的军队」。",
+        "岳飞虽然最后含冤而死，但他「精忠报国」的精神代代流传。这个故事告诉我们：从小要热爱自己的国家和脚下的土地。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/jing-zhong-bao-guo/1.png",
+        "/assets/stories/jing-zhong-bao-guo/2.png",
+        "/assets/stories/jing-zhong-bao-guo/3.png",
+        "/assets/stories/jing-zhong-bao-guo/4.png",
+        "/assets/stories/jing-zhong-bao-guo/5.png",
+        "/assets/stories/jing-zhong-bao-guo/6.png"
+      ],
+      "text_pages": [
+        2,
+        3
+      ],
+      "scenes": {},
+      "source_note": "南宋岳飞生平与岳母刺字传说的儿童改写；刺字细节按民间流传版本讲述。"
+    },
+    {
+      "id": 313,
+      "slug": "wang-xi-chi-chimo",
+      "title": "王羲之吃墨",
+      "reason": "从幼年直接跳到成年，文字没有交代时间。",
+      "paragraphs": [
+        "东晋大书法家王羲之小时候练字非常刻苦。他每天写完字，就到门前的池塘里洗笔洗砚，时间久了，一池水都变黑了，人们叫它「墨池」。",
+        "长大以后，王羲之仍然坚持练字。他每天写呀写，用完许多纸，还在木板上反复练习。用过的笔砚都要清洗，练得越多，他对笔画和字形就越熟悉。",
+        "过了一会儿，仆人进来收拾碗碟，忍不住笑出了声。原来王羲之一边写字，一边拿馍馍蘸着东西往嘴里送，吃得满嘴乌黑。",
+        "原来他眼睛盯着字，手里拿着馍馍，错把砚台里的墨汁当成了蒜泥，一口一口蘸着吃，自己却一点也没尝出来。",
+        "王羲之的妻子看到了，又心疼又好笑。王羲之自己也愣了愣，然后哈哈大笑。正是这样全身心投入，他的字才越写越好。",
+        "王羲之被后人尊为「书圣」。这个故事告诉我们：做事情只要专心致志、刻苦练习，就一定能做出成绩。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/wang-xi-chi-chimo/1.png",
+        "/assets/stories/wang-xi-chi-chimo/2.png",
+        "/assets/stories/wang-xi-chi-chimo/3.png",
+        "/assets/stories/wang-xi-chi-chimo/4.png",
+        "/assets/stories/wang-xi-chi-chimo/5.png",
+        "/assets/stories/wang-xi-chi-chimo/6.png"
+      ],
+      "text_pages": [
+        2
+      ],
+      "scenes": {},
+      "source_note": "东晋王羲之轶事的儿童改写版。"
+    },
+    {
+      "id": 314,
+      "slug": "wen-yan-bo-qu-qiu",
+      "title": "文彦博树洞取球",
+      "reason": "向树洞注水却把球画在树外，浮力取球的动作不成立。",
+      "paragraphs": [
+        "北宋的文彦博小时候和小伙伴们在草地上玩球。大家你争我抢，玩得正高兴。",
+        "一不小心，球滚进了一棵大树下面的深树洞里。洞很深，伸手进去摸不到底，用手掏也够不着球。",
+        "有个小朋友爬进树洞里，可洞又窄又黑，还是拿不到。大家急得围着树洞团团转，有的哭，有的喊。",
+        "小文彦博没有慌。他想了想，跑回家拿来一只水桶，和小伙伴们一起一盆一盆往树洞里灌水。",
+        "水越灌越高，球也跟着水慢慢浮了上来。大家高兴地把球捞了出来，纷纷夸文彦博聪明。",
+        "这个故事告诉我们：遇到困难不要急着哭，多动脑筋想办法。水的浮力能让东西浮起来，就是生活里的小智慧。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/wen-yan-bo-qu-qiu/1.png",
+        "/assets/stories/wen-yan-bo-qu-qiu/2.png",
+        "/assets/stories/wen-yan-bo-qu-qiu/3.png",
+        "/assets/stories/wen-yan-bo-qu-qiu/4.png",
+        "/assets/stories/wen-yan-bo-qu-qiu/p5-review-20261010.webp",
+        "/assets/stories/wen-yan-bo-qu-qiu/6.png"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "5": "Ancient children recover ball by POURING WATER INSIDE hollow upright tree trunk with CLOSED watertight bottom. Small ball floats ON water surface INSIDE opening and rises to reachable rim. One child pours from small bucket directly into hole, another reaches toward floating ball. No ball on ground, no pouring water on outer bark."
+      },
+      "source_note": "北宋文彦博轶事的儿童改写版。"
+    },
+    {
+      "id": 315,
+      "slug": "pan-gu-kai-tian",
+      "title": "盘古开天",
+      "reason": "盘古身躯化天地时仍活着用手举日月。",
+      "paragraphs": [
+        "很久很久以前，宇宙混沌一片，像一个大鸡蛋。巨人盘古就在这黑暗中沉睡了一万八千年。",
+        "有一天盘古醒了，眼前漆黑一片，他憋得难受，抡起大斧用力一劈——「轰隆隆」，轻的东西往上飘变成了天，重的东西往下沉变成了地。",
+        "天每天升高一丈，地每天加厚一丈，盘古的身体也跟着长高一丈。这样又过了一万八千年，天变得很高很高，地变得很厚很厚。",
+        "盘古怕天地再合起来，就头顶天、脚踏地站在中间。最后他实在太累了，「轰隆」一声倒在地上，死去了。",
+        "盘古死后，他的左眼变成了太阳，右眼变成了月亮；呼出的气变成了风和云；声音变成了雷；头发变成了星星；血液变成了江河；肌肉变成了田地；骨头变成了矿藏。",
+        "盘古把自己的一切都献给了这个新世界。这就是中国人最早的创世神话——天地是盘古用身体撑开的。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/pan-gu-kai-tian/1.png",
+        "/assets/stories/pan-gu-kai-tian/2.png",
+        "/assets/stories/pan-gu-kai-tian/3.png",
+        "/assets/stories/pan-gu-kai-tian/4.png",
+        "/assets/stories/pan-gu-kai-tian/p5-review-20261010.webp",
+        "/assets/stories/pan-gu-kai-tian/6.png"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "5": "Mythic poetic transformation AFTER Pangu rests: giant gentle adult silhouette dissolves seamlessly into mountains and rivers, breath becomes cloud, hair becomes forest, sun and moon appear independently in sky. NO living giant holding sun or moon in hands. Landscape is protagonist, no gore."
+      },
+      "source_note": "中国古代神话《三五历纪》的儿童改写版。"
+    },
+    {
+      "id": 316,
+      "slug": "nv-ua-bu-tian",
+      "title": "女娲补天",
+      "reason": "逐页核对后，主要场景与段落对应，未发现需要改变情节或重画的实质错位。",
+      "text_pages": [],
+      "scenes": {}
+    },
+    {
+      "id": 317,
+      "slug": "chang-e-ben-yue",
+      "title": "嫦娥奔月",
+      "reason": "嫦娥已经奔月，后羿祭月时地面却仍有嫦娥。",
+      "paragraphs": [
+        "后羿射下九个太阳之后，西王母送给他一包不死药，说吃了就能成仙升天。后羿舍不得妻子嫦娥，把药交给她收藏。",
+        "后羿有个徒弟叫蓬蒙，心术不正。他趁后羿出门打猎，偷偷闯进嫦娥家里，逼她交出不死药。",
+        "嫦娥危急之中，一口把不死药吞了下去。她立刻觉得身体轻飘飘地飞了起来，飘出窗外，越飞越高。",
+        "嫦娥舍不得离开丈夫，就飞到离人间最近的月亮上住了下来。月亮上有一座广寒宫，还有一棵桂花树和一只玉兔。",
+        "后羿回家不见妻子，仰望夜空，发现月亮上有个熟悉的身影。他摆上嫦娥爱吃的点心，对着月亮思念她。",
+        "从此以后，每年八月十五，人们都会仰望圆月，思念亲人。这就是中秋节的由来，嫦娥也成了月亮上最美丽的传说。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/chang-e-ben-yue/1.png",
+        "/assets/stories/chang-e-ben-yue/2.png",
+        "/assets/stories/chang-e-ben-yue/3.png",
+        "/assets/stories/chang-e-ben-yue/4.png",
+        "/assets/stories/chang-e-ben-yue/p5-review-20261010.webp",
+        "/assets/stories/chang-e-ben-yue/6.png"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "5": "Hou Yi ALONE on Earth outside rustic home at night, offering fruit on small table and looking longingly at full moon. Chang E appears ONLY as delicate silhouette INSIDE distant moon. No woman standing beside Hou Yi on ground. Clear earth-moon separation."
+      },
+      "source_note": "中国古代神话的儿童改写版。"
+    },
+    {
+      "id": 318,
+      "slug": "shen-nong-chang-bai-cao",
+      "title": "神农尝百草",
+      "reason": "神农从牛角形象变普通老人；神话、茶解毒和后世医药著作被混作事实。",
+      "paragraphs": [
+        "上古神话里，人们还不懂得分辨山野中的许多植物，也没有积累起丰富的医药知识。传说神农看到人们生活艰难，便想帮助大家了解草木的用途。",
+        "牛头人身的神农氏看到百姓受苦，心里很着急。他决定亲自去尝遍山野里的草木，看看哪些能吃、哪些能治病、哪些有毒。",
+        "传说神农带着一根神鞭走遍山野，仔细观察不同的草木，把发现一一记下来。这些神奇的情节，表达了古人对探索自然、积累知识的想象。",
+        "有一段传说讲，神农尝过草木后，偶然遇到茶叶，身体又恢复了精神。故事把茶和神农联系在一起；但这是神话里的说法，并不是说现实中的茶能解除各种毒。",
+        "可是有一次，他尝到了一种粉红色的小花，那种草有剧毒。神农来不及吃下茶叶解毒，就倒下了，临终前还把这种草记下来，告诉后人千万别碰。",
+        "神农尝百草的传说，寄托了人们对医药知识先行者的敬意。后世医药著作凝结了许多代人的经验，不能说都是神农亲手留下的。我们可以学习观察与求知的精神，但绝不要模仿故事去尝不认识的野草。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/shen-nong-chang-bai-cao/1.png",
+        "/assets/stories/shen-nong-chang-bai-cao/2.png",
+        "/assets/stories/shen-nong-chang-bai-cao/p3-review-20261010.webp",
+        "/assets/stories/shen-nong-chang-bai-cao/p4-review-20261010.webp",
+        "/assets/stories/shen-nong-chang-bai-cao/p5-review-20261010.webp",
+        "/assets/stories/shen-nong-chang-bai-cao/p6-review-20261010.webp"
+      ],
+      "text_pages": [
+        1,
+        3,
+        4,
+        6
+      ],
+      "scenes": {
+        "3": "Same mythical Shen Nong from second reference panel, gentle robust adult with small OX HORNS and brown primitive leather tunic, examines plants carefully carrying red mythical whip. Same identity, not ordinary gray-bearded robe scholar.",
+        "4": "Same ox-horned Shen Nong brown leather tunic rests under tree studying fresh green tea leaves in mythic mountains, calmer expression. Keep horns and primitive costume, no scholar hat or Chinese later dynasty robe, no cup claiming real poison cure.",
+        "5": "Same ox-horned Shen Nong in brown primitive tunic lies exhausted beside a small pink-flowered plant, symbolic pale sunset, one hand near his notes. Peaceful non-graphic mythic farewell, no wounds. Same horns and costume.",
+        "6": "Symbolic tribute: same ox-horned Shen Nong figure in brown primitive tunic appears as translucent distant MYTH illustration above landscape. Foreground later generations study plants and books carefully without eating them. Clearly memory and knowledge across ages, not resurrected character."
+      },
+      "source_note": "中国上古神话神农尝百草的儿童改写版。"
+    },
+    {
+      "id": 331,
+      "slug": "huang-xiang-wen-xi",
+      "title": "黄香温席",
+      "reason": "成年任官的黄香仍画成小孩子。",
+      "paragraphs": [
+        "东汉有个孩子叫黄香，九岁时妈妈就去世了。他和爸爸相依为命，家里日子虽然清苦，但小黄香特别懂事。",
+        "夏天的晚上，天气很热。小黄香知道爸爸白天干活辛苦，睡前就拿着扇子站在床边，把枕席和扇子扇凉，再请爸爸上床休息。",
+        "到了冬天，屋子里冷冰冰的。小黄香就先钻进爸爸冰冷的被窝里，用自己的身体把被子焐热，再叫爸爸来睡。",
+        "邻居们看了都夸黄香孝顺。黄香说：「爸爸一个人把我养大，我做这些都是应该的。」",
+        "黄香长大后博览群书，当了官，为官清廉，处处为百姓着想。他的故事被写进了《二十四孝》。",
+        "这个故事告诉我们：孝顺父母要从身边小事做起。一句关心的话、一杯热水，都是爱父母的方式。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/huang-xiang-wen-xi/1.png",
+        "/assets/stories/huang-xiang-wen-xi/2.png",
+        "/assets/stories/huang-xiang-wen-xi/3.png",
+        "/assets/stories/huang-xiang-wen-xi/4.png",
+        "/assets/stories/huang-xiang-wen-xi/p5-review-20261010.webp",
+        "/assets/stories/huang-xiang-wen-xi/6.png"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "5": "GROWN ADULT Huang Xiang in restrained traditional official robe and official hat with mature face serves people respectfully in ancient office. Adult proportions, no child official. Subtle familiar black hair from childhood, age progression clear."
+      },
+      "source_note": "《二十四孝》中黄香温席的儿童改写版。"
+    },
+    {
+      "id": 332,
+      "slug": "cheng-men-li-xue",
+      "title": "程门立雪",
+      "reason": "风雪中两个求学者衣服变色，积雪深度与等候情节不符。",
+      "paragraphs": [
+        "北宋有个读书人叫杨时，他非常尊敬老师。一天，他和朋友一起去拜访大学问家程颐先生，请教一个问题。",
+        "他们来到程家门前，门人说先生正在午睡。杨时和朋友不愿意打扰老师休息，就站在门外静静地等。",
+        "天上下起了鹅毛大雪，越下越大。杨时和朋友站在雪地里，雪花落满了他们的肩头和眉毛。",
+        "朋友冻得直跺脚，想敲门进去，杨时拉住他说：「老师正在休息，我们再等一会儿吧。」",
+        "等程颐醒来推门一看，门外的积雪已经没过了膝盖，杨时和朋友像两个雪人一样站在那里。程颐深受感动，把自己的学问全都教给了他们。",
+        "这个故事告诉我们：求学要诚心诚意，对老师要尊敬有礼。真正的好学问，属于懂得尊重和坚持的人。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/cheng-men-li-xue/1.png",
+        "/assets/stories/cheng-men-li-xue/2.png",
+        "/assets/stories/cheng-men-li-xue/3.png",
+        "/assets/stories/cheng-men-li-xue/p4-review-20261010.webp",
+        "/assets/stories/cheng-men-li-xue/p5-review-20261010.webp",
+        "/assets/stories/cheng-men-li-xue/6.png"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "4": "Same TWO adult scholars, one GREEN robe and one BLUE robe, wait respectfully outside teacher closed wooden door in falling snow, discussing quietly. No yellow robe, same identities as first waiting scene.",
+        "5": "Same TWO adult scholars GREEN and BLUE robes have waited as snow accumulated deep around lower legs; elderly teacher opens door surprised, welcomes them. No replacement children, show noticeably deeper snow than earlier page."
+      },
+      "source_note": "《宋史·杨时传》程门立雪的儿童改写版。"
+    },
+    {
+      "id": 333,
+      "slug": "nang-ying-ying-xue",
+      "title": "囊萤映雪",
+      "reason": "无钱点灯却有灯；冬夜屋内亮灯；夏天萤火虫出现在雪地。",
+      "paragraphs": [
+        "晋朝有个叫车胤的孩子，家里很穷，晚上点不起油灯。可他特别爱读书，一到天黑就犯愁。",
+        "一个夏天的夜晚，他看到萤火虫在院子里一闪一闪地飞。他灵机一动，找来一块薄薄的白纱布，缝成一个小口袋，捉了几十只萤火虫装进去。",
+        "小袋子发出幽幽的亮光，虽然不亮，但勉强能看清字。车胤就着这点光，读了一本又一本书。",
+        "还有一个叫孙康的孩子，冬天夜里读书没有灯。他发现下雪的夜晚，白雪反射出亮亮的光，就跑到屋外，蹲在雪地里借着雪光读书。",
+        "车胤借萤火虫的微光读书，是夏夜的故事；孙康借白雪映出的光读书，是冬夜的故事。他们生活在不同的地方，都珍惜学习的机会。这些刻苦求学的往事后来被人们一起传诵。",
+        "这个故事告诉我们：学习的条件可以艰苦，但想学习的心不能被困难挡住。比起他们，我们现在有灯有书，更要珍惜。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/nang-ying-ying-xue/p1-review-20261010.webp",
+        "/assets/stories/nang-ying-ying-xue/2.png",
+        "/assets/stories/nang-ying-ying-xue/3.png",
+        "/assets/stories/nang-ying-ying-xue/p4-review-20261010.webp",
+        "/assets/stories/nang-ying-ying-xue/p5-review-20261010.webp",
+        "/assets/stories/nang-ying-ying-xue/6.png"
+      ],
+      "text_pages": [
+        5
+      ],
+      "scenes": {
+        "1": "Poor ancient boy Che Yin wants to read at night in modest dark room, oil lamp EMPTY AND UNLIT. No candle or fire, faint cool moonlight only, book hard to see.",
+        "4": "Different ancient boy Sun Kang wears warm coat and reads OUTSIDE by snowy ground reflecting moonlight in winter. Behind him house windows completely DARK, no functioning lamps or candles. Calm moonlit snowy setting.",
+        "5": "Single illustration with TWO CLEAR SEPARATE soft-edged vignettes: LEFT summer night Che Yin reads by small translucent firefly cloth bag, green plants NO snow; RIGHT winter night Sun Kang in coat reads beside moonlit snow, NO fireflies. Different children and different seasons, not same physical scene."
+      },
+      "source_note": "《晋书》车胤、孙康苦读故事的儿童改写版。"
+    },
+    {
+      "id": 334,
+      "slug": "fu-jing-qing-zui",
+      "title": "负荆请罪",
+      "reason": "结尾合作的两位成年人变成男女儿童。",
+      "paragraphs": [
+        "战国时候，蔺相如因为完璧归赵有功，被赵王封为上卿，地位比大将军廉颇还高。廉颇很不服气，到处说要给蔺相如难堪。",
+        "蔺相如听说后，处处躲着廉颇。上朝称病，出门遇到廉颇的车子，也赶紧绕道走。",
+        "手下人觉得蔺相如太胆小了。蔺相如说：「廉将军和秦王比，谁厉害？我连秦王都不怕，怎么会怕廉将军？我是怕我们俩闹不和，国家就危险了。」",
+        "这些话传到廉颇耳朵里，廉颇又惭愧又感动。他脱掉上衣，背着一根荆条，亲自来到蔺相如家门口请罪。",
+        "蔺相如慌忙扶起廉颇。两个人从此成了最好的朋友，一起为国家出力。这就是「将相和」的故事。",
+        "这个故事告诉我们：做错了事要勇敢承认、真诚道歉；对别人的过失要宽容大度。这样才能交到真正的朋友。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/fu-jing-qing-zui/1.png",
+        "/assets/stories/fu-jing-qing-zui/2.png",
+        "/assets/stories/fu-jing-qing-zui/3.png",
+        "/assets/stories/fu-jing-qing-zui/4.png",
+        "/assets/stories/fu-jing-qing-zui/5.png",
+        "/assets/stories/fu-jing-qing-zui/p6-review-20261010.webp"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "6": "Same TWO ADULT MEN: older bearded general Lian Po in muted armor and mature scholar Lin Xiangru in traditional robe walk together through ancient city discussing affairs respectfully. Reconciled peers, no young romantic couple, no children."
+      },
+      "source_note": "《史记·廉颇蔺相如列传》的儿童改写版。"
+    },
+    {
+      "id": 335,
+      "slug": "wo-xin-chang-dan",
+      "title": "卧薪尝胆",
+      "reason": "尝胆、耕作和胜利均在文字中先于对应图片。",
+      "paragraphs": [
+        "春秋时候，越王勾践被吴王夫差打败，被迫到吴国做了三年奴仆。他给吴王喂马、拉车，受尽了屈辱。",
+        "吴王以为勾践真的归顺了，就放他回了越国。勾践回到越国后，立志要报仇雪耻。",
+        "回国后，勾践不再睡舒服的褥子，而把硬硬的柴草铺在床上。他希望自己即使休息时，也不会忘记曾经的失败和要重新振作的决心。",
+        "他还把一只苦胆挂在屋里，每次吃饭前先尝一尝那苦涩的滋味。他问自己：“你忘记了在吴国受过的屈辱吗？”这份提醒让他不敢松懈，开始认真谋划怎样让越国恢复力量。",
+        "勾践亲自下田耕种，夫人亲自织布，与百姓一起劳动。他们长期积蓄粮食，改善生活，训练军队。经过多年的努力，越国慢慢从战败后的困境中强大起来。",
+        "后来，勾践率领军队打败了吴国。这个故事让人想到，面对失败，光有决心还不够，也要耐心地落实到每天的行动里。珍惜机会、不断改进，才可能走出困境。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/wo-xin-chang-dan/1.png",
+        "/assets/stories/wo-xin-chang-dan/2.png",
+        "/assets/stories/wo-xin-chang-dan/3.png",
+        "/assets/stories/wo-xin-chang-dan/4.png",
+        "/assets/stories/wo-xin-chang-dan/5.png",
+        "/assets/stories/wo-xin-chang-dan/6.png"
+      ],
+      "text_pages": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "scenes": {},
+      "source_note": "《史记·越王勾践世家》卧薪尝胆的儿童改写版。"
+    },
+    {
+      "id": 336,
+      "slug": "da-yu-zhi-shui",
+      "title": "大禹治水",
+      "reason": "逐页核对后，主要场景与段落对应，未发现需要改变情节或重画的实质错位。",
+      "text_pages": [],
+      "scenes": {}
+    },
+    {
+      "id": 337,
+      "slug": "ne-zha-nao-hai",
+      "title": "哪吒闹海",
+      "reason": "威胁、莲花重生、再次战斗图顺序错误；结尾应对应新的身体和保护百姓。",
+      "paragraphs": [
+        "陈塘关总兵李靖的夫人产下一个肉球，切开后里面是个白白胖胖的小男孩，他就是哪吒。太乙真人收他做徒弟，送他两件宝贝——乾坤圈和混天绫。",
+        "一天夏天，哪吒到东海边洗澡。他的混天绫在水里一搅，东海龙宫就摇晃起来。东海龙王派巡海夜叉上去查看，被哪吒用乾坤圈一下打死了。",
+        "龙王三太子敖丙带兵浮出水面问罪，哪吒正玩得高兴，两人一言不合打了起来。哪吒又用乾坤圈把三太子打死了。",
+        "老龙王大怒，要用海水淹没陈塘关。哪吒不愿百姓和父母受连累，挺身面对龙王。传说中，他付出了沉重的代价，失去了原来的身体。海边的人们都为他难过。",
+        "太乙真人想办法帮助哪吒，用莲花和莲藕重新塑造他的身体。花瓣展开，哪吒又有了新的生命，也得到了风火轮和火尖枪，可以重新站起来面对困难。",
+        "哪吒脚踏风火轮，手持火尖枪，带着新的本领面对龙王，保护陈塘关的人们。故事里的神奇本领属于传说；它让我们想一想，真正的勇敢应当用来保护别人，也要认真面对自己行为的后果。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/ne-zha-nao-hai/1.png",
+        "/assets/stories/ne-zha-nao-hai/2.png",
+        "/assets/stories/ne-zha-nao-hai/3.png",
+        "/assets/stories/ne-zha-nao-hai/5.png",
+        "/assets/stories/ne-zha-nao-hai/6.png",
+        "/assets/stories/ne-zha-nao-hai/4.png"
+      ],
+      "text_pages": [
+        4,
+        5,
+        6
+      ],
+      "scenes": {},
+      "source_note": "《封神演义》哪吒闹海的儿童改写版。"
+    },
+    {
+      "id": 338,
+      "slug": "niu-lang-zhi-nv",
+      "title": "牛郎织女",
+      "reason": "把偷藏衣服迫使成婚写成正向行为，儿童改写改为归还与自愿相识。",
+      "paragraphs": [
+        "古时候有个苦命的放牛娃，父母去世后跟着哥哥嫂子过日子，哥嫂对他很不好，只分给他一头老牛和一辆破车。他就被叫做牛郎。",
+        "一天，老牛突然开口说话了。它告诉牛郎：“明天黄昏，会有仙女来到山那边的湖畔。若你遇见她们，要以礼相待，不打扰别人，也不要拿走别人的东西。”",
+        "牛郎来到湖畔，发现一件被风吹落的粉红纱衣。他捡起纱衣，站在远处出声询问是谁遗失的。织女听见后走来，牛郎把衣服好好还给她，两人才开始交谈。",
+        "织女感谢牛郎尊重和帮助自己。相识后，两人渐渐了解对方，彼此欣赏勤劳和善良。后来，织女自愿留在人间，和牛郎结为夫妻，生了一儿一女，一起照顾他们温暖的小家。",
+        "王母娘娘知道织女私自下凡，大发雷霆，亲自带兵把织女抓回天上。牛郎披着老牛留下的仙衣，挑着两个孩子赶紧追。眼看就要追上了，王母娘娘拔下金簪一划，画出了一条波涛滚滚的银河。",
+        "从此牛郎和织女隔在两岸，只能相对哭泣。他们的真情感动了喜鹊，每年农历七月初七，无数喜鹊飞来搭成一座桥，让一家人在鹊桥上相会。这就是七夕节的由来。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/niu-lang-zhi-nv/1.png",
+        "/assets/stories/niu-lang-zhi-nv/2.png",
+        "/assets/stories/niu-lang-zhi-nv/3.png",
+        "/assets/stories/niu-lang-zhi-nv/4.png",
+        "/assets/stories/niu-lang-zhi-nv/5.png",
+        "/assets/stories/niu-lang-zhi-nv/6.png"
+      ],
+      "text_pages": [
+        2,
+        3,
+        4
+      ],
+      "scenes": {},
+      "source_note": "牛郎织女民间传说的儿童改写；相识部分采用尊重他人、自愿交往的温和版本。"
+    },
+    {
+      "id": 339,
+      "slug": "ba-xian-guo-hai",
+      "title": "八仙过海",
+      "reason": "八仙人数不对；过海提前；纸驴重复；龙王冲突未表现却提前讲完。",
+      "paragraphs": [
+        "铁拐李、汉钟离、张果老、吕洞宾、何仙姑、蓝采和、韩湘子、曹国舅，这八位神仙各有各的本领，被称为「八仙」。",
+        "有一天，八位神仙一起去参加王母娘娘的蟠桃会。回来路上，他们来到了东海边。",
+        "吕洞宾提议：“咱们不驾云，各自用自己的宝贝渡海，怎么样？”大家都觉得有意思。铁拐李先踏上铁拐，汉钟离坐上扇子，吕洞宾踩着宝剑，先向海面出发。",
+        "何仙姑站上莲花，张果老倒骑纸驴，蓝采和踏着花篮，韩湘子乘着横笛，曹国舅借助玉板。其余五位神仙也各展本领，跟了上去。八位神仙用不同的办法，朝同一个方向渡海。",
+        "海上的热闹惊动了东海龙王。龙王的儿子抢走蓝采和的花篮，神仙们不肯让同伴吃亏，纷纷施展法宝。海面翻起浪花，双方争执不下。",
+        "观音菩萨出面劝解，龙王一方归还花篮，八仙也收起法宝，终于平安到达岸边。人们说“八仙过海，各显神通”，就是比喻各自发挥长处；遇到分歧，也应设法化解，齐心把事情办好。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/ba-xian-guo-hai/p1-review-20261010.webp",
+        "/assets/stories/ba-xian-guo-hai/p2-review-20261010.webp",
+        "/assets/stories/ba-xian-guo-hai/3.png",
+        "/assets/stories/ba-xian-guo-hai/p4-review-20261010.webp",
+        "/assets/stories/ba-xian-guo-hai/p5-review-20261010.webp",
+        "/assets/stories/ba-xian-guo-hai/6.png"
+      ],
+      "text_pages": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "scenes": {
+        "1": "Portrait scene of EXACTLY EIGHT Chinese immortals together on seashore, no crowd extras: old lame Li with iron crutch/gourd; portly Zhongli fan; old Zhang ONE paper donkey; adult Lu sword; ONE female He lotus; Lan flower basket; young Han flute; mature Cao jade tablet. Eight heads total, traditional robes, no modern items.",
+        "2": "EXACTLY EIGHT same distinct Chinese immortals arrive at rocky SHORE after peach banquet, all still standing on LAND contemplating crossing, hold their eight identifiable tools. NONE already sailing or floating across sea. One donkey only.",
+        "4": "Exactly FIVE remaining immortals crossing blue sea: female He Xiangu on LOTUS, old Zhang Guolao riding ONE paper donkey BACKWARDS, Lan Caihe on flower BASKET, Han Xiangzi on FLUTE, Cao Guojiu on JADE BOARD. Five figures, no duplicated donkey, do not add first three already shown on previous page.",
+        "5": "Mythical sea prince emerges from waves holding STOLEN flower basket while angry immortals face him with magical tools, swirling waves. No wounds or weapons piercing bodies. The basket theft and confrontation are key, no peaceful ordinary sea crossing."
+      },
+      "source_note": "民间传说八仙过海的儿童改写版。"
+    },
+    {
+      "id": 340,
+      "slug": "sui-ren-shi-zuan-mu",
+      "title": "燧人氏钻木取火",
+      "reason": "发现火之前洞穴已经有篝火；钻木者变成后世服饰的孩子。",
+      "paragraphs": [
+        "很久很久以前，原始人还不会用火。他们生吃东西，又冷又怕，一到天黑就躲在山洞里，怕野兽来袭击。",
+        "天上有个大神看到人类受苦，就想把火种带给人间。可是雷电打在树上会燃起大火，人们害怕不敢靠近。",
+        "有个聪明的年轻人决心找到取火的办法。他走了很远的路，观察了很多动植物和自然现象。",
+        "他发现用两根木头快速摩擦，摩擦的地方会发热冒烟。他不停地钻呀钻，终于「噗」的一声，冒起了火苗！人类第一次学会了自己取火。",
+        "有了火，人们可以烧熟食物，夜里可以取暖，野兽也不敢靠近了。人类的生活大大前进了一步。",
+        "人们尊敬这个发现取火方法的人，称他为「燧人氏」——就是「取火的人」。这个故事告诉我们：人类的每一个进步，都来自观察和思考。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/sui-ren-shi-zuan-mu/p1-review-20261010.webp",
+        "/assets/stories/sui-ren-shi-zuan-mu/2.png",
+        "/assets/stories/sui-ren-shi-zuan-mu/3.png",
+        "/assets/stories/sui-ren-shi-zuan-mu/p4-review-20261010.webp",
+        "/assets/stories/sui-ren-shi-zuan-mu/5.png",
+        "/assets/stories/sui-ren-shi-zuan-mu/6.png"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "1": "Prehistoric people in rough animal hide clothing huddle in DARK cold cave before discovery of fire, raw food and stone tools nearby. NO flames, embers, campfire, torch, stove or functioning light. Faint dawn at entrance.",
+        "4": "Same prehistoric young ADULT in primitive leather hide clothing from earlier discovery scene spins wooden spindle between hands on wooden hearth board, tiny smoking EMBER begins in tinder. Stone age forest, no blue Han dynasty robe, no modern drill, no metal tools."
+      },
+      "source_note": "中国上古神话燧人氏钻木取火的儿童改写版。"
+    },
+    {
+      "id": 341,
+      "slug": "hua-mu-lie-cong-jun",
+      "title": "花木兰",
+      "reason": "逐页核对后，主要场景与段落对应，未发现需要改变情节或重画的实质错位。",
+      "text_pages": [],
+      "scenes": {}
+    },
+    {
+      "id": 342,
+      "slug": "shen-bi-ma-liang",
+      "title": "神笔马良",
+      "reason": "神笔画鸟仍停留在纸面；结尾人物坐风筝飞走，与画风脱身不符。",
+      "paragraphs": [
+        "从前有个孩子叫马良，他喜欢画画，可是家里穷，连一支笔都买不起。他就用树枝在地上画，用炭块在墙上画，从来没停下过。",
+        "一天晚上，马良梦见一位白胡子老爷爷送给他一支金光闪闪的笔，说：「这是一支神笔，你要用它给穷人画画。」",
+        "马良醒来，手里真的握着一支金笔。他高兴极了，拿起笔画了一只鸟，鸟竟然扑棱棱飞走了；画了一条鱼，鱼竟然游进了水里。",
+        "马良天天给村里的穷人画画：没有犁耙的，他画犁耙；没有水车的，他画水车。大家都很感激他。",
+        "贪婪的大官听说了马良的神笔，把他抓起来，要他画金元宝。马良不肯，大官把他关进大牢。",
+        "马良用神笔画了一架大风车，乘着风车飞出了大牢。他用神笔惩治了贪心的大官，继续给穷苦百姓画画。神笔马良的故事一直流传到今天。"
+      ],
+      "paragraph_images": [
+        "/assets/stories/shen-bi-ma-liang/1.png",
+        "/assets/stories/shen-bi-ma-liang/2.png",
+        "/assets/stories/shen-bi-ma-liang/p3-review-20261010.webp",
+        "/assets/stories/shen-bi-ma-liang/4.png",
+        "/assets/stories/shen-bi-ma-liang/5.png",
+        "/assets/stories/shen-bi-ma-liang/p6-review-20261010.webp"
+      ],
+      "text_pages": [],
+      "scenes": {
+        "3": "Same blue-clothed young Ma Liang with GOLD brush draws small bird on paper and bird visibly becomes ALIVE, flying up from page with soft magical glow. Partly finished painted silhouette and real emerging bird show transition. Not merely flat bird picture.",
+        "6": "Same blue-clothed boy Ma Liang RUNS AWAY ON GROUND holding gold brush while freshly drawn magical gust pushes corrupt magistrate and guards backward, fluttering robes and hats. Nobody flies on kite or rides paper vehicle, no giant kite, no airborne dignitary. Lively but plausible cartoon motion."
+      },
+      "source_note": "中国民间童话《神笔马良》的儿童改写版。"
+    },
+    {
+      "id": 404,
+      "slug": "the-bus-that-learned-to-stop",
+      "title": "会停站的沙发巴士",
+      "reason": "逐页核对后，主要场景与段落对应，未发现需要改变情节或重画的实质错位。",
+      "text_pages": [],
+      "scenes": {}
+    }
+  ],
+  "jobs": [
+    {
+      "key": "5-3",
+      "id": 5,
+      "page": 3,
+      "slug": "shou-zhu-dai-tu",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\005-shou-zhu-dai-tu.jpg",
+      "scene": "Ancient Chinese farmer in gray-brown robe eats a simple supper with family in humble home. Use ONE small traditional clay OIL LAMP on table with little flame. Absolutely NO dangling lightbulb, electric lamps, cords, sockets or modern items. Same family as reference, cozy period-appropriate scene.",
+      "target": "/assets/stories/shou-zhu-dai-tu/p3-review-20261010.webp"
+    },
+    {
+      "key": "7-4",
+      "id": 7,
+      "page": 4,
+      "slug": "si-ma-guang-za-gang",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\007-si-ma-guang-za-gang.jpg",
+      "scene": "Same little Sima Guang uses a manageable stone held in two hands, about the size of two fists, to strike low side of large pottery water vat. Small cracked hole releases water onto ground; trapped child visible safe inside. Friends call adults in background. No giant boulder, no flying child, no injuries.",
+      "target": "/assets/stories/si-ma-guang-za-gang/p4-review-20261010.webp"
+    },
+    {
+      "key": "8-4",
+      "id": 8,
+      "page": 4,
+      "slug": "cao-chong-cheng-xiang",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\008-cao-chong-cheng-xiang.jpg",
+      "scene": "Ancient China riverbank weighing experiment. Elephant stands COMPLETELY ASHORE in background. Wooden boat contains ONLY rocks, NO elephant. Workers add stones, young Cao Chong points to clear waterline mark on outside hull at water surface. Emphasize substitution, physically plausible.",
+      "target": "/assets/stories/cao-chong-cheng-xiang/p4-review-20261010.webp"
+    },
+    {
+      "key": "9-3",
+      "id": 9,
+      "page": 3,
+      "slug": "hou-yi-she-ri",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\009-hou-yi-she-ri.jpg",
+      "scene": "Mythic adult archer Hou Yi aims bow upward during the MIDDLE of shooting extra suns. FOUR separated suns remain in sky, arrow heads toward one extra sun on right, other suns untouched. Heat and dry landscape. Clearly not shooting the very last sun.",
+      "target": "/assets/stories/hou-yi-she-ri/p3-review-20261010.webp"
+    },
+    {
+      "key": "185-6",
+      "id": 185,
+      "page": 6,
+      "slug": "hu-jia-hu-wei",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\185-hu-jia-hu-wei.jpg",
+      "scene": "Same natural red fox and same striped tiger in forest at sunset, fox with clever cautious expression, tiger realizes he was tricked. Both normal un clothed woodland animals, NO green jacket or human clothes, same proportions as reference.",
+      "target": "/assets/stories/hu-jia-hu-wei/p6-review-20261010.webp"
+    },
+    {
+      "key": "186-3",
+      "id": 186,
+      "page": 3,
+      "slug": "jing-di-zhi-wa",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\186-jing-di-zhi-wa.jpg",
+      "scene": "Frog stays INSIDE stone well on inner ledge. Sea turtle perches on rim describing vast ocean to frog. Small soft-edged imagined ocean vignette above turtle, clearly a thought/description not a real nearby sea. Frog never leaves well in this scene.",
+      "target": "/assets/stories/jing-di-zhi-wa/p3-review-20261010.webp"
+    },
+    {
+      "key": "189-6",
+      "id": 189,
+      "page": 6,
+      "slug": "ye-gong-hao-long",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\189-ye-gong-hao-long.jpg",
+      "scene": "Same adult Lord Ye in gray ancient robe inside his room looks thoughtfully at a FLAT ink dragon painting mounted on wall. The REAL dragon has already left, no living dragon anywhere. Same adult protagonist, NO replacement child.",
+      "target": "/assets/stories/ye-gong-hao-long/p6-review-20261010.webp"
+    },
+    {
+      "key": "191-3",
+      "id": 191,
+      "page": 3,
+      "slug": "hua-long-dian-jing",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\191-hua-long-dian-jing.jpg",
+      "scene": "Ancient painter Zhang Sengyou talking with curious visitors before temple wall bearing EXACTLY FOUR FLAT painted dragons. ALL have blank eyes with no pupils. No human portrait painting. Painter explains why he has not dotted the pupils yet.",
+      "target": "/assets/stories/hua-long-dian-jing/p3-review-20261010.webp"
+    },
+    {
+      "key": "191-4",
+      "id": 191,
+      "page": 4,
+      "slug": "hua-long-dian-jing",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\191-hua-long-dian-jing.jpg",
+      "scene": "Temple wall has EXACTLY FOUR ink-painted dragons. Painter on stable low ladder carefully dots pupils of TWO dragons with brush. Other TWO dragons have visibly BLANK eyes. Storm clouds begin gathering above. No extra dragon, no portrait.",
+      "target": "/assets/stories/hua-long-dian-jing/p4-review-20261010.webp"
+    },
+    {
+      "key": "191-6",
+      "id": 191,
+      "page": 6,
+      "slug": "hua-long-dian-jing",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\191-hua-long-dian-jing.jpg",
+      "scene": "After two dragons have flown away, temple wall retains exactly TWO FLAT painted dragons with blank pupil-less eyes. Painter and visitors stand thoughtfully below. No living dragon hovering over people; keep mural flat on wall.",
+      "target": "/assets/stories/hua-long-dian-jing/p6-review-20261010.webp"
+    },
+    {
+      "key": "195-6",
+      "id": 195,
+      "page": 6,
+      "slug": "yu-gong-yi-shan",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\195-yu-gong-yi-shan.jpg",
+      "scene": "Elderly Yugong with white beard and family walk through a wide OPEN unobstructed path in ancient green countryside where two mountains used to block passage. Express practical relief and cooperation. No temple, no statues, no worship scene.",
+      "target": "/assets/stories/yu-gong-yi-shan/p6-review-20261010.webp"
+    },
+    {
+      "key": "196-2",
+      "id": 196,
+      "page": 2,
+      "slug": "kong-rong-rang-li",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\196-kong-rong-rang-li.jpg",
+      "scene": "Same little Kong Rong in gray ancient robe chooses the SMALLEST pear in one hand at family table. Several MUCH LARGER pears remain clearly on plate for older siblings. Friendly parents observe. Make size contrast unambiguous; no oversized pear in his hands.",
+      "target": "/assets/stories/kong-rong-rang-li/p2-review-20261010.webp"
+    },
+    {
+      "key": "197-1",
+      "id": 197,
+      "page": 1,
+      "slug": "mo-cheng-cheng-zhen",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\197-mo-cheng-cheng-zhen.jpg",
+      "scene": "Same young Li Bai BOY in plain gray ancient robe and black topknot, no beard, slips away from old schoolroom carrying book, playful distracted expression. Clearly a child, not adult.",
+      "target": "/assets/stories/mo-cheng-cheng-zhen/p1-review-20261010.webp"
+    },
+    {
+      "key": "197-4",
+      "id": 197,
+      "page": 4,
+      "slug": "mo-cheng-cheng-zhen",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\197-mo-cheng-cheng-zhen.jpg",
+      "scene": "Same young gray-robed Li Bai BOY with black topknot and NO beard asks white-haired old woman beside stream why she is rubbing thick iron bar against stone. Old woman explains patiently. Consistent boy identity.",
+      "target": "/assets/stories/mo-cheng-cheng-zhen/p4-review-20261010.webp"
+    },
+    {
+      "key": "198-2",
+      "id": 198,
+      "page": 2,
+      "slug": "wen-ji-qi-wu",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\198-wen-ji-qi-wu.jpg",
+      "scene": "Exactly TWO young ADULT scholar friends in plain gray ancient robes wake at rooster crow before dawn in modest room, looking determined. No third person, no small children. Match two adults in subsequent sword practice.",
+      "target": "/assets/stories/wen-ji-qi-wu/p2-review-20261010.webp"
+    },
+    {
+      "key": "198-4",
+      "id": 198,
+      "page": 4,
+      "slug": "wen-ji-qi-wu",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\198-wen-ji-qi-wu.jpg",
+      "scene": "Exactly TWO same young adult gray-robed friends practice sword movements safely in ancient sheltered courtyard beside winter snow, disciplined focus. No children, no modern objects.",
+      "target": "/assets/stories/wen-ji-qi-wu/p4-review-20261010.webp"
+    },
+    {
+      "key": "198-6",
+      "id": 198,
+      "page": 6,
+      "slug": "wen-ji-qi-wu",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\198-wen-ji-qi-wu.jpg",
+      "scene": "Exactly TWO same young ADULT gray-robed friends practice controlled sword forms in dawn courtyard, mutual encouragement, consistent adult identities. No children or extra characters.",
+      "target": "/assets/stories/wen-ji-qi-wu/p6-review-20261010.webp"
+    },
+    {
+      "key": "199-1",
+      "id": 199,
+      "page": 1,
+      "slug": "zao-bi-tou-guang",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\199-zao-bi-tou-guang.jpg",
+      "scene": "Same poor young Kuang Heng boy at book desk in DIM night room, EMPTY unlit oil lamp, no candle or other functioning light, moon faint outside. He wants to read but cannot afford lamp oil.",
+      "target": "/assets/stories/zao-bi-tou-guang/p1-review-20261010.webp"
+    },
+    {
+      "key": "199-3",
+      "id": 199,
+      "page": 3,
+      "slug": "zao-bi-tou-guang",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\199-zao-bi-tou-guang.jpg",
+      "scene": "Night scene in poor ancient home, young boy widens SMALL gap in shared plaster wall, warm narrow beam from NEIGHBOR candle through gap falls on book. No daylight window beam, no lit candle in boy own room.",
+      "target": "/assets/stories/zao-bi-tou-guang/p3-review-20261010.webp"
+    },
+    {
+      "key": "200-2",
+      "id": 200,
+      "page": 2,
+      "slug": "lan-yu-chong-shu",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\200-lan-yu-chong-shu.jpg",
+      "scene": "Same portly ADULT Nan Guo with short dark beard and gray robe seen in later panels confidently boasts to king in ancient palace, holding sheng wind instrument. King listens. No child in his place.",
+      "target": "/assets/stories/lan-yu-chong-shu/p2-review-20261010.webp"
+    },
+    {
+      "key": "201-4",
+      "id": 201,
+      "page": 4,
+      "slug": "han-dan-xue-bu",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\201-han-dan-xue-bu.jpg",
+      "scene": "Same anxious young ancient Chinese boy stops confused in traditional cobbled street, unable to decide how to step. People in ancient robes walk normally nearby. NO bicycles, cars, electricity, modern clothes or other modern objects.",
+      "target": "/assets/stories/han-dan-xue-bu/p4-review-20261010.webp"
+    },
+    {
+      "key": "202-3",
+      "id": 202,
+      "page": 3,
+      "slug": "dui-niu-tan-qin",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\202-dui-niu-tan-qin.jpg",
+      "scene": "Same ancient gray-robed adult musician seated on mat plays a FLAT long seven-string GUQIN laid horizontally on low stand, no upright pipa. Same brown cow calmly grazes close by ignoring melody.",
+      "target": "/assets/stories/dui-niu-tan-qin/p3-review-20261010.webp"
+    },
+    {
+      "key": "202-6",
+      "id": 202,
+      "page": 6,
+      "slug": "dui-niu-tan-qin",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\202-dui-niu-tan-qin.jpg",
+      "scene": "Same ancient gray-robed musician and same BROWN cow in quiet meadow, horizontal seven-string guqin on low stand. Reflective friendly composition. No gray cow, no pipa, no modern instrument.",
+      "target": "/assets/stories/dui-niu-tan-qin/p6-review-20261010.webp"
+    },
+    {
+      "key": "301-3",
+      "id": 301,
+      "page": 3,
+      "slug": "chou-xiao-ya",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\301-chou-xiao-ya.jpg",
+      "scene": "Snowy winter, kind elderly farmer gently lifts a weak GRAY swan juvenile with dark beak from frozen pond edge to rescue it. The ugly duckling is gray, NEVER yellow. Warm compassion, no harm.",
+      "target": "/assets/stories/chou-xiao-ya/p3-review-20261010.webp"
+    },
+    {
+      "key": "301-4",
+      "id": 301,
+      "page": 4,
+      "slug": "chou-xiao-ya",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\301-chou-xiao-ya.jpg",
+      "scene": "Spring pond, the SAME former gray bird has now grown into a graceful WHITE adult swan with long curved neck, bending to see its own identical WHITE SWAN reflection. No yellow duck, no separate swan in reflection.",
+      "target": "/assets/stories/chou-xiao-ya/p4-review-20261010.webp"
+    },
+    {
+      "key": "301-5",
+      "id": 301,
+      "page": 5,
+      "slug": "chou-xiao-ya",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\301-chou-xiao-ya.jpg",
+      "scene": "Same grown WHITE long-necked swan joins a welcoming group of WHITE adult swans on spring pond, children quietly watch from bank. Central protagonist also WHITE, no gray chick, no yellow duck.",
+      "target": "/assets/stories/chou-xiao-ya/p5-review-20261010.webp"
+    },
+    {
+      "key": "302-5",
+      "id": 302,
+      "page": 5,
+      "slug": "xiao-hong-mao",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\302-xiao-hong-mao.jpg",
+      "scene": "Inside grandmother cottage, AFTER rescue: same girl with red hood and blue dress hugs white-haired grandmother in blue apron; kind clothed hunter stands nearby. Wolf lies asleep far background on bed, fully intact fur, NO wound, blood, incision, scissors, exposed anatomy. Safe relieved reunion, indoors not forest.",
+      "target": "/assets/stories/xiao-hong-mao/p5-review-20261010.webp"
+    },
+    {
+      "key": "303-4",
+      "id": 303,
+      "page": 4,
+      "slug": "gui-tu-sai-pao",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\303-gui-tu-sai-pao.jpg",
+      "scene": "Same BROWN rabbit in BLUE jacket sleeps naturally beneath tree beside race path. Same green turtle steadily passes heading toward distant finish. No white rabbit, no giant detached head, no finish arrival yet.",
+      "target": "/assets/stories/gui-tu-sai-pao/p4-review-20261010.webp"
+    },
+    {
+      "key": "303-6",
+      "id": 303,
+      "page": 6,
+      "slug": "gui-tu-sai-pao",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\303-gui-tu-sai-pao.jpg",
+      "scene": "Same BROWN rabbit in BLUE jacket sincerely offers flower wreath to same green turtle after race, friendly woodland animals nearby. Rabbit accepts lesson. No white rabbit, consistent characters.",
+      "target": "/assets/stories/gui-tu-sai-pao/p6-review-20261010.webp"
+    },
+    {
+      "key": "304-2",
+      "id": 304,
+      "page": 2,
+      "slug": "huang-di-de-xin-zhuang",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\304-huang-di-de-xin-zhuang.jpg",
+      "scene": "Two adult swindlers mime weaving with EMPTY hands on a completely EMPTY wooden loom with NO THREAD OR FABRIC; elderly purple-robed minister pretends to admire it. Palace. No emperor.",
+      "target": "/assets/stories/huang-di-de-xin-zhuang/p2-review-20261010.webp"
+    },
+    {
+      "key": "304-3",
+      "id": 304,
+      "page": 3,
+      "slug": "huang-di-de-xin-zhuang",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\304-huang-di-de-xin-zhuang.jpg",
+      "scene": "Same round adult emperor in red crown with blond-white curls and white moustache stands at mirror, bare chest and legs, simple white modest underwear only. Two dressed swindlers pretend to dress him with EMPTY HANDS. Mirror shows the identical undressed body. NO robe, cape, shirt or fabric on king.",
+      "target": "/assets/stories/huang-di-de-xin-zhuang/p3-review-20261010.webp"
+    },
+    {
+      "key": "304-4",
+      "id": 304,
+      "page": 4,
+      "slug": "huang-di-de-xin-zhuang",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\304-huang-di-de-xin-zhuang.jpg",
+      "scene": "Same emperor walks in outdoor parade in crown and plain white modest shorts ONLY, bare chest and legs. Fully dressed crowds force smiles and applaud the nonexistent new clothes. NO cape, robe, shirt, trousers on king. No child announcement yet.",
+      "target": "/assets/stories/huang-di-de-xin-zhuang/p4-review-20261010.webp"
+    },
+    {
+      "key": "304-5",
+      "id": 304,
+      "page": 5,
+      "slug": "huang-di-de-xin-zhuang",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\304-huang-di-de-xin-zhuang.jpg",
+      "scene": "Same undressed crowned emperor in parade, bare chest and legs, plain white modest shorts ONLY. Brown-haired child in blue vest, white shirt and purple trousers points at him and speaks truth; crowd begins surprised whispering. NO cape or royal clothes on king.",
+      "target": "/assets/stories/huang-di-de-xin-zhuang/p5-review-20261010.webp"
+    },
+    {
+      "key": "304-6",
+      "id": 304,
+      "page": 6,
+      "slug": "huang-di-de-xin-zhuang",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\304-huang-di-de-xin-zhuang.jpg",
+      "scene": "After the truth, same undressed crowned king walks embarrassed in middle background, bare chest and legs, plain white modest shorts ONLY. Foreground the same blue-vest child talks honestly with his listening mother, crowd no longer pretends. NO cape or royal clothes on king.",
+      "target": "/assets/stories/huang-di-de-xin-zhuang/p6-review-20261010.webp"
+    },
+    {
+      "key": "305-2",
+      "id": 305,
+      "page": 2,
+      "slug": "hui-gu-niang",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\305-hui-gu-niang.jpg",
+      "scene": "Inside humble cottage kitchen, Cinderella in ragged plain gray work dress asks to attend ball; stern stepmother blocks her. EXACTLY TWO stepsisters in fancy dresses prepare to leave. No third sister, no palace background. Cinderella same brown hair as reference.",
+      "target": "/assets/stories/hui-gu-niang/p2-review-20261010.webp"
+    },
+    {
+      "key": "305-5",
+      "id": 305,
+      "page": 5,
+      "slug": "hui-gu-niang",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\305-hui-gu-niang.jpg",
+      "scene": "Inside Cinderella humble cottage, prince kneels to fit transparent GLASS slipper on same brown-haired Cinderella in simple ragged gray work dress after magic expired. It fits perfectly. Stepmother and exactly two stepsisters watch surprised. No staircase escape, no blue ball gown on Cinderella.",
+      "target": "/assets/stories/hui-gu-niang/p5-review-20261010.webp"
+    },
+    {
+      "key": "306-2",
+      "id": 306,
+      "page": 2,
+      "slug": "mai-huo-chai-de-xiao-nu-hai",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\306-mai-huo-chai-de-xiao-nu-hai.jpg",
+      "scene": "Same poor match girl from first reference panel, shabby blue-gray dress and red head scarf, sits in snowy cold street striking one match. ABOVE her a clearly translucent soft dream vignette of warm iron stove. Girl physically remains OUTSIDE in cold, never inside warm room. No magical new dress.",
+      "target": "/assets/stories/mai-huo-chai-de-xiao-nu-hai/p2-review-20261010.webp"
+    },
+    {
+      "key": "306-3",
+      "id": 306,
+      "page": 3,
+      "slug": "mai-huo-chai-de-xiao-nu-hai",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\306-mai-huo-chai-de-xiao-nu-hai.jpg",
+      "scene": "Same shabby blue-gray dress red head-scarf match girl OUTSIDE on snowy street, match glow creates clearly imaginary soft dream of a ROASTED cooked goose on festive platter and Christmas tree. Goose clearly cooked food, not live bird or flames burning a bird. Same girl identity.",
+      "target": "/assets/stories/mai-huo-chai-de-xiao-nu-hai/p3-review-20261010.webp"
+    },
+    {
+      "key": "306-4",
+      "id": 306,
+      "page": 4,
+      "slug": "mai-huo-chai-de-xiao-nu-hai",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\306-mai-huo-chai-de-xiao-nu-hai.jpg",
+      "scene": "Same shabby blue-gray red-head-scarf match girl in snowy street surrounded by fading match glow, gentle translucent VISION of smiling white-haired grandmother offering embrace above her. Dreamlike soft edges, not literal woman standing there. No bonfire or new dress.",
+      "target": "/assets/stories/mai-huo-chai-de-xiao-nu-hai/p4-review-20261010.webp"
+    },
+    {
+      "key": "306-5",
+      "id": 306,
+      "page": 5,
+      "slug": "mai-huo-chai-de-xiao-nu-hai",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\306-mai-huo-chai-de-xiao-nu-hai.jpg",
+      "scene": "Quiet snowy dawn street: same match girl rests motionless with closed eyes under modest thin shawl, red head scarf and shabby blue-gray dress, spent matches and basket beside her. Passersby notice sadly. Non-graphic, peaceful, no angel, no flying grandmother, no resurrection.",
+      "target": "/assets/stories/mai-huo-chai-de-xiao-nu-hai/p5-review-20261010.webp"
+    },
+    {
+      "key": "306-6",
+      "id": 306,
+      "page": 6,
+      "slug": "mai-huo-chai-de-xiao-nu-hai",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\306-mai-huo-chai-de-xiao-nu-hai.jpg",
+      "scene": "Reflective illustration in same wintry town: adults open doorway to offer warm blanket and food to a DIFFERENT poor child in brown clothes. Show compassion as lesson, not the dead match girl alive again. No red scarf girl resurrected. Warm watercolor.",
+      "target": "/assets/stories/mai-huo-chai-de-xiao-nu-hai/p6-review-20261010.webp"
+    },
+    {
+      "key": "307-4",
+      "id": 307,
+      "page": 4,
+      "slug": "lang-lai-le",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\307-lang-lai-le.jpg",
+      "scene": "Same shepherd boy as early panels wears WHITE shirt, BLUE vest and BROWN shorts, frightened as gray wolf emerges from forest toward sheep. He shouts toward distant village. No modern striped T-shirt, same boy clothes and face.",
+      "target": "/assets/stories/lang-lai-le/p4-review-20261010.webp"
+    },
+    {
+      "key": "309-4",
+      "id": 309,
+      "page": 4,
+      "slug": "bai-xue-gong-zhu",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\309-bai-xue-gong-zhu.jpg",
+      "scene": "Same black-haired Snow White with red ribbon and blue-yellow dress at cottage doorway. Queen is DISGUISED as a wrinkled OLD fruit vendor in plain hooded brown cloak, absolutely NO crown or royal gown. Old vendor offers RED half of apple, holds safe pale half for herself. Basket nearby, no gore.",
+      "target": "/assets/stories/bai-xue-gong-zhu/p4-review-20261010.webp"
+    },
+    {
+      "key": "310-2",
+      "id": 310,
+      "page": 2,
+      "slug": "yu-fu-he-jin-yu",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\310-yu-fu-he-jin-yu.jpg",
+      "scene": "Same ELDERLY fisherman from first panel: white beard, straw hat, white shirt, blue-gray vest, rolled blue trousers, barefoot. He talks with elderly wife beside broken wooden washbasin at poor hut. No young brown-bearded man.",
+      "target": "/assets/stories/yu-fu-he-jin-yu/p2-review-20261010.webp"
+    },
+    {
+      "key": "310-3",
+      "id": 310,
+      "page": 3,
+      "slug": "yu-fu-he-jin-yu",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\310-yu-fu-he-jin-yu.jpg",
+      "scene": "Same white-bearded ELDERLY fisherman straw hat white shirt blue-gray vest rolled blue trousers stands on shore asking tiny golden fish in water for wife wishes. He remains poor fisherman, no young man, no royal clothes.",
+      "target": "/assets/stories/yu-fu-he-jin-yu/p3-review-20261010.webp"
+    },
+    {
+      "key": "310-4",
+      "id": 310,
+      "page": 4,
+      "slug": "yu-fu-he-jin-yu",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\310-yu-fu-he-jin-yu.jpg",
+      "scene": "Elderly wife in ornate blue-gold queen dress sits proudly on palace throne, demands more. Same white-bearded ELDERLY fisherman straw hat humble white shirt blue-gray vest stands worried before her. No young king, no matching royal robe on fisherman.",
+      "target": "/assets/stories/yu-fu-he-jin-yu/p4-review-20261010.webp"
+    },
+    {
+      "key": "310-5",
+      "id": 310,
+      "page": 5,
+      "slug": "yu-fu-he-jin-yu",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\310-yu-fu-he-jin-yu.jpg",
+      "scene": "Magic palace has vanished. Same white-bearded elderly fisherman in straw hat and humble blue-gray vest and elderly wife in simple worn dress stand before their ORIGINAL poor hut and BROKEN wooden washbasin, shocked and regretful. No royal clothes, no ocean storm focal scene.",
+      "target": "/assets/stories/yu-fu-he-jin-yu/p5-review-20261010.webp"
+    },
+    {
+      "key": "310-6",
+      "id": 310,
+      "page": 6,
+      "slug": "yu-fu-he-jin-yu",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\310-yu-fu-he-jin-yu.jpg",
+      "scene": "Reflective ending: SAME white-bearded elderly fisherman in straw hat white shirt blue-gray vest and elderly wife in simple worn clothes quietly mend fishing net outside modest hut beside broken wooden washbasin, learning contentment. No young man, no crown, no palace.",
+      "target": "/assets/stories/yu-fu-he-jin-yu/p6-review-20261010.webp"
+    },
+    {
+      "key": "314-5",
+      "id": 314,
+      "page": 5,
+      "slug": "wen-yan-bo-qu-qiu",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\314-wen-yan-bo-qu-qiu.jpg",
+      "scene": "Ancient children recover ball by POURING WATER INSIDE hollow upright tree trunk with CLOSED watertight bottom. Small ball floats ON water surface INSIDE opening and rises to reachable rim. One child pours from small bucket directly into hole, another reaches toward floating ball. No ball on ground, no pouring water on outer bark.",
+      "target": "/assets/stories/wen-yan-bo-qu-qiu/p5-review-20261010.webp"
+    },
+    {
+      "key": "315-5",
+      "id": 315,
+      "page": 5,
+      "slug": "pan-gu-kai-tian",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\315-pan-gu-kai-tian.jpg",
+      "scene": "Mythic poetic transformation AFTER Pangu rests: giant gentle adult silhouette dissolves seamlessly into mountains and rivers, breath becomes cloud, hair becomes forest, sun and moon appear independently in sky. NO living giant holding sun or moon in hands. Landscape is protagonist, no gore.",
+      "target": "/assets/stories/pan-gu-kai-tian/p5-review-20261010.webp"
+    },
+    {
+      "key": "317-5",
+      "id": 317,
+      "page": 5,
+      "slug": "chang-e-ben-yue",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\317-chang-e-ben-yue.jpg",
+      "scene": "Hou Yi ALONE on Earth outside rustic home at night, offering fruit on small table and looking longingly at full moon. Chang E appears ONLY as delicate silhouette INSIDE distant moon. No woman standing beside Hou Yi on ground. Clear earth-moon separation.",
+      "target": "/assets/stories/chang-e-ben-yue/p5-review-20261010.webp"
+    },
+    {
+      "key": "318-3",
+      "id": 318,
+      "page": 3,
+      "slug": "shen-nong-chang-bai-cao",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\318-shen-nong-chang-bai-cao.jpg",
+      "scene": "Same mythical Shen Nong from second reference panel, gentle robust adult with small OX HORNS and brown primitive leather tunic, examines plants carefully carrying red mythical whip. Same identity, not ordinary gray-bearded robe scholar.",
+      "target": "/assets/stories/shen-nong-chang-bai-cao/p3-review-20261010.webp"
+    },
+    {
+      "key": "318-4",
+      "id": 318,
+      "page": 4,
+      "slug": "shen-nong-chang-bai-cao",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\318-shen-nong-chang-bai-cao.jpg",
+      "scene": "Same ox-horned Shen Nong brown leather tunic rests under tree studying fresh green tea leaves in mythic mountains, calmer expression. Keep horns and primitive costume, no scholar hat or Chinese later dynasty robe, no cup claiming real poison cure.",
+      "target": "/assets/stories/shen-nong-chang-bai-cao/p4-review-20261010.webp"
+    },
+    {
+      "key": "318-5",
+      "id": 318,
+      "page": 5,
+      "slug": "shen-nong-chang-bai-cao",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\318-shen-nong-chang-bai-cao.jpg",
+      "scene": "Same ox-horned Shen Nong in brown primitive tunic lies exhausted beside a small pink-flowered plant, symbolic pale sunset, one hand near his notes. Peaceful non-graphic mythic farewell, no wounds. Same horns and costume.",
+      "target": "/assets/stories/shen-nong-chang-bai-cao/p5-review-20261010.webp"
+    },
+    {
+      "key": "318-6",
+      "id": 318,
+      "page": 6,
+      "slug": "shen-nong-chang-bai-cao",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\318-shen-nong-chang-bai-cao.jpg",
+      "scene": "Symbolic tribute: same ox-horned Shen Nong figure in brown primitive tunic appears as translucent distant MYTH illustration above landscape. Foreground later generations study plants and books carefully without eating them. Clearly memory and knowledge across ages, not resurrected character.",
+      "target": "/assets/stories/shen-nong-chang-bai-cao/p6-review-20261010.webp"
+    },
+    {
+      "key": "331-5",
+      "id": 331,
+      "page": 5,
+      "slug": "huang-xiang-wen-xi",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\331-huang-xiang-wen-xi.jpg",
+      "scene": "GROWN ADULT Huang Xiang in restrained traditional official robe and official hat with mature face serves people respectfully in ancient office. Adult proportions, no child official. Subtle familiar black hair from childhood, age progression clear.",
+      "target": "/assets/stories/huang-xiang-wen-xi/p5-review-20261010.webp"
+    },
+    {
+      "key": "332-4",
+      "id": 332,
+      "page": 4,
+      "slug": "cheng-men-li-xue",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\332-cheng-men-li-xue.jpg",
+      "scene": "Same TWO adult scholars, one GREEN robe and one BLUE robe, wait respectfully outside teacher closed wooden door in falling snow, discussing quietly. No yellow robe, same identities as first waiting scene.",
+      "target": "/assets/stories/cheng-men-li-xue/p4-review-20261010.webp"
+    },
+    {
+      "key": "332-5",
+      "id": 332,
+      "page": 5,
+      "slug": "cheng-men-li-xue",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\332-cheng-men-li-xue.jpg",
+      "scene": "Same TWO adult scholars GREEN and BLUE robes have waited as snow accumulated deep around lower legs; elderly teacher opens door surprised, welcomes them. No replacement children, show noticeably deeper snow than earlier page.",
+      "target": "/assets/stories/cheng-men-li-xue/p5-review-20261010.webp"
+    },
+    {
+      "key": "333-1",
+      "id": 333,
+      "page": 1,
+      "slug": "nang-ying-ying-xue",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\333-nang-ying-ying-xue.jpg",
+      "scene": "Poor ancient boy Che Yin wants to read at night in modest dark room, oil lamp EMPTY AND UNLIT. No candle or fire, faint cool moonlight only, book hard to see.",
+      "target": "/assets/stories/nang-ying-ying-xue/p1-review-20261010.webp"
+    },
+    {
+      "key": "333-4",
+      "id": 333,
+      "page": 4,
+      "slug": "nang-ying-ying-xue",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\333-nang-ying-ying-xue.jpg",
+      "scene": "Different ancient boy Sun Kang wears warm coat and reads OUTSIDE by snowy ground reflecting moonlight in winter. Behind him house windows completely DARK, no functioning lamps or candles. Calm moonlit snowy setting.",
+      "target": "/assets/stories/nang-ying-ying-xue/p4-review-20261010.webp"
+    },
+    {
+      "key": "333-5",
+      "id": 333,
+      "page": 5,
+      "slug": "nang-ying-ying-xue",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\333-nang-ying-ying-xue.jpg",
+      "scene": "Single illustration with TWO CLEAR SEPARATE soft-edged vignettes: LEFT summer night Che Yin reads by small translucent firefly cloth bag, green plants NO snow; RIGHT winter night Sun Kang in coat reads beside moonlit snow, NO fireflies. Different children and different seasons, not same physical scene.",
+      "target": "/assets/stories/nang-ying-ying-xue/p5-review-20261010.webp"
+    },
+    {
+      "key": "334-6",
+      "id": 334,
+      "page": 6,
+      "slug": "fu-jing-qing-zui",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\334-fu-jing-qing-zui.jpg",
+      "scene": "Same TWO ADULT MEN: older bearded general Lian Po in muted armor and mature scholar Lin Xiangru in traditional robe walk together through ancient city discussing affairs respectfully. Reconciled peers, no young romantic couple, no children.",
+      "target": "/assets/stories/fu-jing-qing-zui/p6-review-20261010.webp"
+    },
+    {
+      "key": "339-1",
+      "id": 339,
+      "page": 1,
+      "slug": "ba-xian-guo-hai",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\339-ba-xian-guo-hai.jpg",
+      "scene": "Portrait scene of EXACTLY EIGHT Chinese immortals together on seashore, no crowd extras: old lame Li with iron crutch/gourd; portly Zhongli fan; old Zhang ONE paper donkey; adult Lu sword; ONE female He lotus; Lan flower basket; young Han flute; mature Cao jade tablet. Eight heads total, traditional robes, no modern items.",
+      "target": "/assets/stories/ba-xian-guo-hai/p1-review-20261010.webp"
+    },
+    {
+      "key": "339-2",
+      "id": 339,
+      "page": 2,
+      "slug": "ba-xian-guo-hai",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\339-ba-xian-guo-hai.jpg",
+      "scene": "EXACTLY EIGHT same distinct Chinese immortals arrive at rocky SHORE after peach banquet, all still standing on LAND contemplating crossing, hold their eight identifiable tools. NONE already sailing or floating across sea. One donkey only.",
+      "target": "/assets/stories/ba-xian-guo-hai/p2-review-20261010.webp"
+    },
+    {
+      "key": "339-4",
+      "id": 339,
+      "page": 4,
+      "slug": "ba-xian-guo-hai",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\339-ba-xian-guo-hai.jpg",
+      "scene": "Exactly FIVE remaining immortals crossing blue sea: female He Xiangu on LOTUS, old Zhang Guolao riding ONE paper donkey BACKWARDS, Lan Caihe on flower BASKET, Han Xiangzi on FLUTE, Cao Guojiu on JADE BOARD. Five figures, no duplicated donkey, do not add first three already shown on previous page.",
+      "target": "/assets/stories/ba-xian-guo-hai/p4-review-20261010.webp"
+    },
+    {
+      "key": "339-5",
+      "id": 339,
+      "page": 5,
+      "slug": "ba-xian-guo-hai",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\339-ba-xian-guo-hai.jpg",
+      "scene": "Mythical sea prince emerges from waves holding STOLEN flower basket while angry immortals face him with magical tools, swirling waves. No wounds or weapons piercing bodies. The basket theft and confrontation are key, no peaceful ordinary sea crossing.",
+      "target": "/assets/stories/ba-xian-guo-hai/p5-review-20261010.webp"
+    },
+    {
+      "key": "340-1",
+      "id": 340,
+      "page": 1,
+      "slug": "sui-ren-shi-zuan-mu",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\340-sui-ren-shi-zuan-mu.jpg",
+      "scene": "Prehistoric people in rough animal hide clothing huddle in DARK cold cave before discovery of fire, raw food and stone tools nearby. NO flames, embers, campfire, torch, stove or functioning light. Faint dawn at entrance.",
+      "target": "/assets/stories/sui-ren-shi-zuan-mu/p1-review-20261010.webp"
+    },
+    {
+      "key": "340-4",
+      "id": 340,
+      "page": 4,
+      "slug": "sui-ren-shi-zuan-mu",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\340-sui-ren-shi-zuan-mu.jpg",
+      "scene": "Same prehistoric young ADULT in primitive leather hide clothing from earlier discovery scene spins wooden spindle between hands on wooden hearth board, tiny smoking EMBER begins in tinder. Stone age forest, no blue Han dynasty robe, no modern drill, no metal tools.",
+      "target": "/assets/stories/sui-ren-shi-zuan-mu/p4-review-20261010.webp"
+    },
+    {
+      "key": "342-3",
+      "id": 342,
+      "page": 3,
+      "slug": "shen-bi-ma-liang",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\342-shen-bi-ma-liang.jpg",
+      "scene": "Same blue-clothed young Ma Liang with GOLD brush draws small bird on paper and bird visibly becomes ALIVE, flying up from page with soft magical glow. Partly finished painted silhouette and real emerging bird show transition. Not merely flat bird picture.",
+      "target": "/assets/stories/shen-bi-ma-liang/p3-review-20261010.webp"
+    },
+    {
+      "key": "342-6",
+      "id": 342,
+      "page": 6,
+      "slug": "shen-bi-ma-liang",
+      "reference": "D:\\fufu\\fufu-full-20260930\\福福学堂\\artifacts\\story-alignment-audit-20261010\\342-shen-bi-ma-liang.jpg",
+      "scene": "Same blue-clothed boy Ma Liang RUNS AWAY ON GROUND holding gold brush while freshly drawn magical gust pushes corrupt magistrate and guards backward, fluttering robes and hats. Nobody flies on kite or rides paper vehicle, no giant kite, no airborne dignitary. Lively but plausible cartoon motion.",
+      "target": "/assets/stories/shen-bi-ma-liang/p6-review-20261010.webp"
+    }
+  ]
+}

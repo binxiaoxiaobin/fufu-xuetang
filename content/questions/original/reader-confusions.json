@@ -1,0 +1,19 @@
+{
+  "characters": ["日目", "土士", "未末", "木本", "人大", "入人", "大小", "上下", "左右", "手毛", "牛午", "白自", "开井", "天夫", "口回", "水永", "月用", "鸟乌", "明朋", "石右", "贝见", "玉王", "米来", "喝渴", "睛晴", "抱饱", "跑泡", "住往", "清晴", "己已", "休体", "问间", "衣农", "兔免"],
+  "words": {
+    "小猫": ["小狗", "小鸟"], "苹果": ["梨子", "橙子"], "杯子": ["勺子", "碗"], "鞋子": ["袜子", "帽子"],
+    "太阳": ["月亮", "星星"], "打开": ["关上", "推"], "向上": ["向下", "大的"], "分享": ["保护", "收集"],
+    "cat": ["cap", "cut"], "dog": ["dig", "dot"], "sun": ["son", "run"], "cup": ["cap", "cut"],
+    "hat": ["hot", "cat"], "bed": ["bad", "red"], "boat": ["coat", "boot"], "tree": ["three", "free"],
+    "hand": ["sand", "head"], "ear": ["eye", "arm"], "rice": ["nice", "ride"], "train": ["rain", "trail"],
+    "milk": ["silk", "mill"], "book": ["look", "cook"], "ball": ["bell", "tall"], "sheep": ["ship", "sleep"],
+    "up": ["us", "on"], "in": ["on", "it"], "big": ["bag", "pig"], "red": ["bed", "read"],
+    "run": ["sun", "fun"], "eat": ["ear", "tea"], "read": ["red", "road"], "rain": ["train", "pain"],
+    "lamp": ["lamb", "limp"], "chair": ["chain", "hair"], "glass": ["grass", "class"], "coat": ["boat", "goat"],
+    "clock": ["block", "sock"], "star": ["stay", "start"], "duck": ["luck", "dock"], "fish": ["dish", "wish"],
+    "pear": ["bear", "pea"], "bread": ["read", "break"], "soap": ["soup", "sock"], "soup": ["soap", "stop"],
+    "jump": ["pump", "bump"], "wash": ["wish", "watch"], "snow": ["show", "slow"], "leaf": ["leap", "loaf"],
+    "小鸟": ["小猫", "小马"], "牛奶": ["奶酪", "果汁"], "土豆": ["豌豆", "南瓜"], "毛巾": ["帽子", "毛衣"],
+    "眼睛": ["耳朵", "鼻子"], "清晨": ["清洁", "安静"], "小马": ["小鸟", "小牛"], "书包": ["书本", "衣服"]
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "source": "Settings",
+    "chinese": "设置",
+    "offset": 24893509,
+    "bytes": 8
+  },
+  {
+    "source": "Select Word Lists",
+    "chinese": "选择练习词",
+    "offset": 24893589,
+    "bytes": 17
+  },
+  {
+    "source": "Start Game",
+    "chinese": "开始",
+    "offset": 24893625,
+    "bytes": 10
+  },
+  {
+    "source": "Back To Main Menu",
+    "chinese": "返回菜单",
+    "offset": 24905318,
+    "bytes": 17
+  },
+  {
+    "source": "Volume ",
+    "chinese": "音量 ",
+    "offset": 24893549,
+    "bytes": 7
+  },
+  {
+    "source": "やってない!",
+    "chinese": "守卫失败",
+    "offset": 24905259,
+    "bytes": 16
+  },
+  {
+    "source": "やった!",
+    "chinese": "胜利！",
+    "offset": 24905227,
+    "bytes": 10
+  },
+  {
+    "source": "円 獲得",
+    "chinese": "币 获得",
+    "offset": 24905290,
+    "bytes": 10
+  },
+  {
+    "source": "data/word_list/kana.jp.txt",
+    "chinese": "data/word_list/english.txt",
+    "offset": 24964611,
+    "bytes": 26
+  }
+]

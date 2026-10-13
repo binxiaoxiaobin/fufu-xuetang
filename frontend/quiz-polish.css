@@ -1,0 +1,70 @@
+.quiz-completion-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.quiz-completion-actions .primary-btn,
+.quiz-completion-actions .secondary-btn {
+  min-height: 46px;
+  padding: 0 18px;
+  border-radius: 10px;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.3;
+  transition: background-color 140ms ease, border-color 140ms ease, transform 140ms ease;
+}
+
+.quiz-completion-actions .primary-btn {
+  box-shadow: 0 7px 16px #537b6230;
+}
+
+.quiz-completion-actions .primary-btn:hover,
+.quiz-completion-actions .secondary-btn:hover {
+  transform: translateY(-1px);
+}
+
+.quiz-completion-actions .secondary-btn {
+  border: 1px solid #dfe8dc;
+  background: #f5f8f2;
+  color: #55745d;
+}
+
+.quiz-completion-actions .secondary-btn:hover {
+  border-color: #c7d7c4;
+  background: #edf4e9;
+}
+
+.quiz-completion-actions button:focus-visible {
+  outline: 3px solid #86a98a66;
+  outline-offset: 2px;
+}
+
+@media (max-width: 560px) {
+  .quiz-completion-actions {
+    flex-direction: column;
+  }
+
+  .quiz-completion-actions button {
+    width: min(100%, 280px);
+  }
+}
+
+.pet-phrase-panel {
+  margin-top: 11px;
+  padding: 12px;
+  border: 1px solid #e8eadf;
+  border-radius: 13px;
+  background: linear-gradient(145deg, #fffdf5, #f4f7ed);
+  box-shadow: 0 7px 20px #4b614112;
+}
+.pet-phrase-head { display:flex; align-items:center; justify-content:space-between; margin-bottom:9px; color:#526c55; font-size:11px; }
+.pet-phrase-close { width:26px; height:26px; border:0; border-radius:50%; background:#fff; color:#879187; font-size:17px; }
+.pet-phrase-options { display:grid; gap:6px; }
+.pet-phrase-option,.pet-phrase-random { min-height:37px; padding:8px 10px; border:1px solid #e4eade; border-radius:9px; background:#fff; color:#536b58; text-align:left; font-size:10px; line-height:1.5; }
+.pet-phrase-option:hover,.pet-phrase-random:hover { background:#edf5e8; border-color:#b9d0af; }
+.pet-phrase-random { display:block; width:100%; margin-top:8px; background:#e9f2e4; font-weight:700; text-align:center; }
+@media(max-width:650px) { .pet-phrase-panel { padding:10px; } .pet-phrase-option,.pet-phrase-random { min-height:40px; font-size:11px; } }

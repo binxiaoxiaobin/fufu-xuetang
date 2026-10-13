@@ -1,0 +1,13 @@
+.wisdom-tile-illustrated{overflow:hidden;padding-top:0}
+.wisdom-tile-image{width:calc(100% + 48px);max-width:none;align-self:center;aspect-ratio:16/9;height:auto;object-fit:cover;margin:0 -24px 20px;background:#263a3b}
+.wisdom-battle-figure{margin:24px 0 0;border:1px solid #d7c7aa;border-radius:18px;overflow:hidden;background:#1e3037}
+.wisdom-battle-figure>img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
+.wisdom-battle-figure figcaption{padding:15px 20px;background:#f4eddd;color:#6e6049;font-size:13px;line-height:1.9}
+.wisdom-battle-figure figcaption span{display:block;font-size:11px;color:#978567;margin-top:4px}
+.wisdom-chapter-nav{display:flex;gap:9px;flex-wrap:wrap;padding:20px 0;border-top:1px solid #ded8c8;border-bottom:1px solid #ded8c8}
+.wisdom-chapter-nav a{border:1px solid #d9d4c1;padding:8px 13px;border-radius:20px;text-decoration:none;background:#fffdf6;color:#6f725b;font-size:13px}
+.wisdom-chapter-nav a:hover{background:#ece8d6;color:#3b594b}
+.wisdom-chapter-nav a:focus-visible{outline:3px solid #b2925e;outline-offset:3px}
+.wisdom-reading>section[id]{scroll-margin-top:95px}
+.wisdom-reading>section>p{white-space:pre-line}
+@media(max-width:550px){.wisdom-tile-image{width:calc(100% + 44px);margin-left:-22px;margin-right:-22px}.wisdom-battle-figure figcaption{padding:13px 16px;font-size:12px}.wisdom-chapter-nav{gap:7px}.wisdom-chapter-nav a{font-size:12px;padding:7px 11px}}
